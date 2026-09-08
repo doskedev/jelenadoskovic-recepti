@@ -17,6 +17,7 @@
 :root{
   --bg:#FCFBF8;--surface:#FFFFFF;--surface-2:#F4F0EA;--ink:#1F1A17;--ink-2:#5E554F;--ink-3:#8E847C;
   --line:#E6DFD6;--line-2:#D6CDC2;--accent:#B5173F;--accent-ink:#8F0F31;--accent-soft:#F9E4EA;--accent-soft-ink:#7A1230;
+  --good:#2F6F4E;--good-soft:#E3F1E8;--star:#C8871B;
   --focus:#B5173F;--shadow:0 18px 50px rgba(60,30,30,.18);
   --display:"Young Serif",Georgia,"Times New Roman",serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
 }
@@ -24,12 +25,14 @@
   :root:not([data-theme="light"]){
     --bg:#17141A;--surface:#211D25;--surface-2:#2A252F;--ink:#F1ECE6;--ink-2:#B9AFA7;--ink-3:#877D76;
     --line:#332D38;--line-2:#453D4B;--accent:#F06C8C;--accent-ink:#F58BA4;--accent-soft:#3A1F2A;--accent-soft-ink:#F6A9BC;
+    --good:#7FC79B;--good-soft:#1E3328;--star:#E7B65A;
     --focus:#F06C8C;--shadow:0 18px 50px rgba(0,0,0,.5);
   }
 }
 :root[data-theme="dark"]{
   --bg:#17141A;--surface:#211D25;--surface-2:#2A252F;--ink:#F1ECE6;--ink-2:#B9AFA7;--ink-3:#877D76;
   --line:#332D38;--line-2:#453D4B;--accent:#F06C8C;--accent-ink:#F58BA4;--accent-soft:#3A1F2A;--accent-soft-ink:#F6A9BC;
+  --good:#7FC79B;--good-soft:#1E3328;--star:#E7B65A;
   --focus:#F06C8C;--shadow:0 18px 50px rgba(0,0,0,.5);
 }
 *{box-sizing:border-box}
@@ -49,6 +52,7 @@ button{font:inherit;color:inherit}
 .stats{display:flex;gap:28px;font-variant-numeric:tabular-nums}
 .stat b{display:block;font-family:var(--display);font-weight:400;font-size:28px;line-height:1;color:var(--ink)}
 .stat span{font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.stat.made b{color:var(--good)}
 
 .toolbar{position:sticky;top:0;z-index:5;background:var(--bg);padding:14px 0 12px;border-bottom:1px solid var(--line)}
 .toolbar-row{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
@@ -58,7 +62,6 @@ button{font:inherit;color:inherit}
 .search input:focus{outline:none}
 .search input::placeholder{color:var(--ink-3)}
 .search .clear{border:0;background:transparent;color:var(--ink-3);cursor:pointer;padding:2px 4px;line-height:1;font-size:18px}
-.search .clear[hidden]{display:none}
 .sort{border:1px solid var(--line-2);background:var(--surface);color:var(--ink);border-radius:999px;padding:9px 14px;font-size:14px}
 .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
 .chip{border:1px solid var(--line-2);background:var(--surface);border-radius:999px;padding:6px 12px;font-size:13px;cursor:pointer;display:inline-flex;align-items:center;gap:7px;color:var(--ink-2)}
@@ -66,25 +69,39 @@ button{font:inherit;color:inherit}
 .chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 .chip[aria-pressed="true"] b{color:var(--bg);opacity:.7}
 .chip.fav[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip.fav[aria-pressed="true"] b{color:#fff}
+.chip.made[aria-pressed="true"]{background:var(--good);border-color:var(--good);color:#fff}
+.chip.made[aria-pressed="true"] b{color:#fff}
 
 .results{display:flex;justify-content:space-between;align-items:baseline;gap:12px;color:var(--ink-3);font-size:13px;padding:18px 0 6px;font-variant-numeric:tabular-nums}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px;padding-bottom:40px}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:0;text-align:left;cursor:pointer;display:flex;flex-direction:column;position:relative;overflow:hidden;transition:border-color .15s,transform .15s;-webkit-tap-highlight-color:transparent;touch-action:manipulation}
-.card .thumb{aspect-ratio:4/3;background:var(--surface-2);overflow:hidden}
+.card:hover{border-color:var(--line-2);transform:translateY(-1px)}
+.card.is-made{border-color:var(--good)}
+.card .thumb{aspect-ratio:4/3;background:var(--surface-2);overflow:hidden;position:relative}
 .card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
 .card .body{padding:14px 16px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
 .card.no-img .body{padding-top:18px;min-height:150px}
-.card:hover{border-color:var(--line-2);transform:translateY(-1px)}
 .eyebrow{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-soft-ink);background:var(--accent-soft);border-radius:4px;padding:2px 7px;align-self:flex-start}
 .card h3{font-family:var(--display);font-weight:400;font-size:19px;line-height:1.2;margin:0;color:var(--ink);text-wrap:balance}
 .card .ings{color:var(--ink-2);font-size:13px;line-height:1.45;margin:0;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 .card .meta{margin-top:auto;display:flex;gap:10px;align-items:center;font-size:12px;color:var(--ink-3);font-variant-numeric:tabular-nums}
 .kind{border:1px solid var(--line-2);border-radius:4px;padding:0 6px;line-height:18px}
-.heart{position:absolute;top:10px;right:10px;border:0;background:rgba(255,255,255,.82);cursor:pointer;color:#6B625C;padding:7px;border-radius:50%;line-height:0;backdrop-filter:blur(3px)}
-.card.no-img .heart{background:transparent;color:var(--ink-3)}
-.heart svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8}
-.heart[aria-pressed="true"]{color:var(--accent)}
-.heart[aria-pressed="true"] svg{fill:currentColor}
+.mine-marks{display:flex;align-items:center;gap:8px;min-height:16px}
+.mine-marks:empty{display:none}
+.stars-static{color:var(--star);font-size:13px;letter-spacing:.06em;line-height:1}
+.stars-static i{color:var(--line-2);font-style:normal}
+.made-mark{display:inline-flex;align-items:center;gap:4px;color:var(--good);background:var(--good-soft);border-radius:4px;padding:1px 6px;font-size:11px;letter-spacing:.03em}
+.made-mark svg{width:11px;height:11px;fill:none;stroke:currentColor;stroke-width:2.6}
+.note-mark{color:var(--ink-3);display:inline-flex}
+.note-mark svg{width:13px;height:13px;fill:none;stroke:currentColor;stroke-width:1.7}
+.acts{position:absolute;top:10px;right:10px;display:flex;gap:6px}
+.act{border:0;background:rgba(255,255,255,.85);cursor:pointer;color:#6B625C;padding:7px;border-radius:50%;line-height:0;backdrop-filter:blur(3px);-webkit-tap-highlight-color:transparent}
+.act svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.8}
+.card.no-img .act{background:var(--surface-2);color:var(--ink-3)}
+.act.h[aria-pressed="true"]{color:var(--accent)}
+.act.h[aria-pressed="true"] svg{fill:currentColor}
+.act.m[aria-pressed="true"]{background:var(--good);color:#fff}
 .more{display:block;margin:0 auto 60px;border:1px solid var(--line-2);background:var(--surface);border-radius:999px;padding:11px 22px;cursor:pointer}
 .empty{text-align:center;color:var(--ink-2);padding:60px 0}
 .empty b{font-family:var(--display);font-weight:400;font-size:22px;display:block;margin-bottom:6px;color:var(--ink)}
@@ -103,8 +120,29 @@ dialog::backdrop{background:rgba(25,15,18,.55);backdrop-filter:blur(2px)}
 .icon-btn[aria-pressed="true"]{color:var(--accent);border-color:var(--accent)}
 .icon-btn[aria-pressed="true"] svg{fill:currentColor}
 .d-body{padding:22px 28px 30px;display:grid;gap:26px}
-.intro{color:var(--ink-2);white-space:pre-line;margin:0;max-width:65ch}
+
+.mine{background:var(--surface-2);border-radius:12px;padding:14px 16px 16px;display:grid;gap:12px}
+.mine-head{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;justify-content:space-between}
+.mine-head h4{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin:0;font-weight:600}
+.saved{font-size:12px;color:var(--good);opacity:0;transition:opacity .2s}
+.saved.on{opacity:1}
+@media (prefers-reduced-motion: reduce){.saved{transition:none}}
+.mine-row{display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+.made-btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--line-2);background:var(--surface);border-radius:999px;padding:8px 15px;cursor:pointer;color:var(--ink-2);min-height:38px}
+.made-btn svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:2.6}
+.made-btn[aria-pressed="true"]{background:var(--good);border-color:var(--good);color:#fff}
+.rate{display:flex;align-items:center;gap:10px}
+.rate-label{font-size:13px;color:var(--ink-3)}
+.stars{display:flex;gap:2px}
+.star{border:0;background:transparent;cursor:pointer;padding:5px 2px;line-height:0;color:var(--line-2)}
+.star svg{width:22px;height:22px;fill:currentColor;stroke:none;display:block}
+.star.on{color:var(--star)}
+.rate-clear{border:0;background:transparent;color:var(--ink-3);font-size:12px;cursor:pointer;text-decoration:underline;padding:4px}
+.note-field{width:100%;border:1px solid var(--line-2);background:var(--surface);color:var(--ink);border-radius:10px;padding:11px 13px;font:inherit;font-size:15px;line-height:1.5;resize:vertical;min-height:70px}
+.note-field::placeholder{color:var(--ink-3)}
+
 .section h4{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-3);margin:0 0 10px;font-weight:600}
+.intro{color:var(--ink-2);white-space:pre-line;margin:0;max-width:65ch}
 .ing-list{list-style:none;margin:0;padding:0;display:grid;gap:2px}
 .ing-list li{display:flex;gap:10px;align-items:flex-start;padding:5px 0;border-bottom:1px dashed var(--line)}
 .ing-list li.h{border:0;font-family:var(--display);font-size:15px;color:var(--ink);padding-top:14px}
@@ -115,7 +153,14 @@ dialog::backdrop{background:rgba(25,15,18,.55);backdrop-filter:blur(2px)}
 .steps{white-space:pre-line;margin:0;max-width:65ch;line-height:1.6}
 details summary{cursor:pointer;color:var(--ink-2);font-size:14px}
 details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(--surface-2);border-radius:10px;padding:14px 16px;margin:10px 0 0;font-size:14px;line-height:1.55}
-.note{font-size:13px;color:var(--ink-3);border-top:1px solid var(--line);padding:22px 0 40px;max-width:70ch}
+
+.foot{border-top:1px solid var(--line);padding:22px 0 44px;display:grid;gap:14px}
+.note{font-size:13px;color:var(--ink-3);margin:0;max-width:70ch}
+.backup{display:flex;flex-wrap:wrap;gap:10px;align-items:center;font-size:13px}
+.backup button,.backup label{border:1px solid var(--line-2);background:var(--surface);border-radius:999px;padding:8px 15px;cursor:pointer;color:var(--ink-2);min-height:38px;display:inline-flex;align-items:center}
+.backup-msg{color:var(--good)}
+.sync{font-size:12px;color:var(--ink-3)}
+
 @media (max-width:640px){
   .wrap{padding:0 14px}
   .masthead{padding:22px 0 14px;gap:10px 20px}
@@ -128,7 +173,7 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   .sort{padding:8px 12px;font-size:14px}
   .chips{flex-wrap:nowrap;overflow-x:auto;margin:10px -14px 0;padding:0 14px 4px;scrollbar-width:none}
   .chips::-webkit-scrollbar{display:none}
-  .chip{white-space:nowrap;flex:none;min-height:34px;-webkit-tap-highlight-color:transparent}
+  .chip{white-space:nowrap;flex:none;min-height:34px}
   .results{padding:12px 0 4px}
   .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding-bottom:28px}
   .card .thumb{aspect-ratio:1}
@@ -139,13 +184,15 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   .card .meta{font-size:11px;gap:6px;flex-wrap:wrap}
   .card .meta span:last-child{display:none}
   .eyebrow{font-size:10px}
-  .heart{top:6px;right:6px;padding:9px}
+  .acts{top:6px;right:6px}
+  .act{padding:9px}
   dialog{width:100vw;max-width:100vw;height:100dvh;max-height:100dvh;border-radius:0;margin:0}
   .d-hero img{max-height:240px}
   .d-head{padding:14px 16px 12px}
   .d-head h2{font-size:22px}
   .d-body{padding:16px 16px 48px;gap:20px}
-  .note{padding-bottom:32px}
+  .note-field{font-size:16px}
+  .foot{padding-bottom:36px}
 }
 @media (prefers-reduced-motion: reduce){.card{transition:none}}
 </style>
@@ -156,12 +203,12 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   <header class="masthead">
     <div>
       <h1>Recepti <em>Jelene Dosković</em></h1>
-      <p>Svi recepti iz opisa postova i reelova sa Instagram profila <a href="https://www.instagram.com/jelenadoskovic/" target="_blank" rel="noopener">@jelenadoskovic</a>, sređeni za pretragu i kuvanje. Sačuvani recepti pamte se u ovom pregledaču.</p>
+      <p>Svi recepti iz opisa postova i reelova sa Instagram profila <a href="https://www.instagram.com/jelenadoskovic/" target="_blank" rel="noopener">@jelenadoskovic</a>, sređeni za pretragu i kuvanje. Označite šta ste napravili, dajte ocenu i dopišite svoju belešku.</p>
     </div>
     <div class="stats" aria-label="Pregled">
       <div class="stat"><b id="statCount">560</b><span>recepata</span></div>
-      <div class="stat"><b id="statYears">–</b><span>godina</span></div>
-      <div class="stat"><b>5. 9. 2026.</b><span>ažurirano</span></div>
+      <div class="stat made"><b id="statMade">0</b><span>napravljeno</span></div>
+      <div class="stat"><b>8. 9. 2026.</b><span>ažurirano</span></div>
     </div>
   </header>
 
@@ -176,9 +223,10 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
         <option value="new">Najnovije prvo</option>
         <option value="old">Najstarije prvo</option>
         <option value="az">Po nazivu A–Š</option>
+        <option value="rating">Najbolje ocenjeni</option>
       </select>
     </div>
-    <div class="chips" id="chips" role="group" aria-label="Kategorije"></div>
+    <div class="chips" id="chips" role="group" aria-label="Filteri"></div>
   </div>
 
   <div class="results"><span id="resultText"></span><span id="hint"></span></div>
@@ -186,7 +234,15 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   <button class="more" id="more" hidden>Prikaži još</button>
   <div class="empty" id="empty" hidden><b>Nema recepata za taj upit</b>Probajte kraću reč, npr. „čokolad“ ili „jabuk“.</div>
 
-  <p class="note">Recepti su automatski izdvojeni iz teksta opisa, pa naslov ili podela na sastojke i postupak mogu ponegde biti nezgrapni. Svaki recept ima link na originalni post; tamo je tekst uvek merodavan. Datumi su datumi objave posta.</p>
+  <footer class="foot">
+    <p class="note">Recepti su automatski izdvojeni iz teksta opisa, pa naslov ili podela na sastojke i postupak mogu ponegde biti nezgrapni. Svaki recept ima link na originalni post; tamo je tekst uvek merodavan. Datumi su datumi objave posta.</p>
+    <div class="backup">
+      <button id="exportBtn" type="button">Sačuvaj moje beleške u fajl</button>
+      <label>Uvezi iz fajla<input type="file" accept="application/json,.json" id="importInput" hidden></label>
+      <span class="backup-msg" id="backupMsg" role="status"></span>
+    </div>
+    <p class="sync" id="syncNote">Oznake, ocene i beleške čuvaju se u ovom pregledaču.</p>
+  </footer>
 </div>
 
 <dialog id="dlg" aria-labelledby="dTitle">
@@ -203,6 +259,21 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   </div>
   <figure class="d-hero" id="dHero" hidden><img id="dImg" alt=""></figure>
   <div class="d-body">
+    <section class="mine">
+      <div class="mine-head">
+        <h4>Moja beleška</h4>
+        <span class="saved" id="dSaved">Sačuvano</span>
+      </div>
+      <div class="mine-row">
+        <button class="made-btn" id="dMade" type="button" aria-pressed="false"><svg viewBox="0 0 24 24"><path d="m5 13 4.5 4.5L19 7"/></svg><span id="dMadeLabel">Označi kao napravljeno</span></button>
+        <div class="rate">
+          <span class="rate-label">Ocena</span>
+          <div class="stars" id="dStars" role="group" aria-label="Ocena recepta od 1 do 5"></div>
+          <button class="rate-clear" id="dRateClear" type="button" hidden>obriši</button>
+        </div>
+      </div>
+      <textarea class="note-field" id="dNote" placeholder="Kako je ispalo, šta bih drugi put promenio, koliko je peklo i na kojoj temperaturi…" aria-label="Moja beleška o receptu"></textarea>
+    </section>
     <p class="intro" id="dIntro"></p>
     <div class="section" id="dIngWrap"><h4>Sastojci</h4><ul class="ing-list" id="dIng"></ul></div>
     <div class="section" id="dStepsWrap"><h4>Priprema</h4><p class="steps" id="dSteps"></p></div>
@@ -222,37 +293,143 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
     r.hay = fold([r.title, r.ingText.join(' '), r.steps, r.intro].join(' '));
     r.titleKey = fold(r.title);
   });
-  const years = new Set(recipes.map(r => r.date.slice(0,4)));
-  document.getElementById('statYears').textContent = years.size;
+  const byCode = Object.fromEntries(recipes.map(r => [r.code, r]));
+  document.getElementById('statCount').textContent = recipes.length;
+
+  const EMPTY = {fav:false, made:false, rating:0, note:''};
+  const KEY = 'recepti-stanje-v1';
+  const OLD_KEY = 'fav-recepti';
+  const isSet = e => !!(e && (e.fav || e.made || e.rating || (e.note && e.note.trim())));
 
   const store = {
-    get(){ try { return new Set(JSON.parse(localStorage.getItem('fav-recepti') || '[]')); } catch(e){ return new Set(); } },
-    set(s){ try { localStorage.setItem('fav-recepti', JSON.stringify([...s])); } catch(e){} }
+    entries: {},
+    db: null,
+    listeners: [],
+    onChange(fn){ this.listeners.push(fn); },
+    emit(code){ this.listeners.forEach(fn => fn(code)); },
+    get(code){ return Object.assign({}, EMPTY, this.entries[code] || {}); },
+    countMade(){ return Object.values(this.entries).filter(e => e.made).length; },
+    countFav(){ return Object.values(this.entries).filter(e => e.fav).length; },
+    countNote(){ return Object.values(this.entries).filter(e => e.note && e.note.trim()).length; },
+    readLocal(){
+      let raw = null;
+      try { raw = localStorage.getItem(KEY); } catch(e){ return; }
+      if (raw) {
+        try {
+          const parsed = JSON.parse(raw);
+          if (parsed && typeof parsed === 'object') this.entries = parsed.entries || parsed || {};
+        } catch(e){}
+      } else {
+        try {
+          const old = JSON.parse(localStorage.getItem(OLD_KEY) || '[]');
+          if (Array.isArray(old)) old.forEach(code => { this.entries[code] = {fav:true, made:false, rating:0, note:'', updatedAt: 1}; });
+        } catch(e){}
+      }
+      Object.keys(this.entries).forEach(code => {
+        const e = this.entries[code];
+        if (!e || typeof e !== 'object') { delete this.entries[code]; return; }
+        this.entries[code] = {fav:!!e.fav, made:!!e.made, rating:Number(e.rating) || 0, note:typeof e.note === 'string' ? e.note : '', updatedAt:Number(e.updatedAt) || 1};
+      });
+    },
+    writeLocal(){
+      try { localStorage.setItem(KEY, JSON.stringify({version:1, entries:this.entries})); } catch(e){}
+    },
+    set(code, patch){
+      const next = Object.assign(this.get(code), patch, {updatedAt: Date.now()});
+      this.entries[code] = next;
+      this.writeLocal();
+      this.push(code, next);
+      this.emit(code);
+      return next;
+    },
+    merge(code, remote){
+      const mine = this.entries[code];
+      const incoming = {fav:!!remote.fav, made:!!remote.made, rating:Number(remote.rating) || 0, note:typeof remote.note === 'string' ? remote.note : '', updatedAt:Number(remote.updatedAt) || 1};
+      if (mine && Number(mine.updatedAt || 0) >= incoming.updatedAt) return false;
+      this.entries[code] = incoming;
+      return true;
+    },
+    push(code, entry){
+      if (!this.db) return;
+      try {
+        this.db.doc('beleske/' + code).set({code, fav:entry.fav, made:entry.made, rating:entry.rating, note:entry.note, updatedAt:entry.updatedAt})
+          .catch(() => {});
+      } catch(e){}
+    },
+    async connect(){
+      if (!(window.claude && typeof window.claude.use === 'function')) return;
+      let db = null;
+      try { db = await window.claude.use('db'); } catch(e){ return; }
+      if (!db) return;
+      this.db = db;
+      const syncNote = document.getElementById('syncNote');
+      try {
+        const snap = await db.collection('beleske').get();
+        let changed = false;
+        const seen = new Set();
+        snap.docs.forEach(d => {
+          const data = d.data() || {};
+          seen.add(d.id);
+          if (this.merge(d.id, data)) changed = true;
+        });
+        Object.keys(this.entries).forEach(code => {
+          const e = this.entries[code];
+          if (!seen.has(code) && isSet(e)) this.push(code, e);
+        });
+        if (changed) { this.writeLocal(); this.emit(); }
+        if (syncNote) syncNote.textContent = 'Oznake, ocene i beleške sinhronizuju se sa vašim Claude nalogom, pa ih vidite na svim uređajima.';
+        db.collection('beleske').onSnapshot(snap2 => {
+          let dirty = false;
+          snap2.docs.forEach(d => { if (this.merge(d.id, d.data() || {})) dirty = true; });
+          if (dirty) { this.writeLocal(); this.emit(); }
+        }, () => {});
+      } catch(e){
+        this.db = null;
+      }
+    }
   };
-  let favs = store.get();
-  let state = { q: '', cat: 'Sve', sort: 'new', favOnly: false, shown: PAGE };
+  store.readLocal();
+
+  let state = { q: '', cat: 'Sve', sort: 'new', favOnly: false, madeOnly: false, shown: PAGE };
 
   const chips = document.getElementById('chips');
-  const counts = {};
-  recipes.forEach(r => counts[r.category] = (counts[r.category]||0) + 1);
-  function renderChips(){
-    chips.innerHTML = '';
-    const mk = (label, val, n, cls) => {
+  const catCounts = {};
+  recipes.forEach(r => catCounts[r.category] = (catCounts[r.category] || 0) + 1);
+  const chipEls = [];
+  function buildChips(){
+    const mk = (label, kind, val) => {
       const b = document.createElement('button');
-      b.className = 'chip' + (cls ? ' ' + cls : '');
+      b.className = 'chip' + (kind === 'fav' ? ' fav' : kind === 'made' ? ' made' : '');
       b.type = 'button';
-      b.dataset.val = val;
-      b.setAttribute('aria-pressed', String(cls ? state.favOnly : state.cat === val));
-      b.innerHTML = `${label}<b>${n}</b>`;
+      b.innerHTML = `<span>${label}</span><b>0</b>`;
       b.addEventListener('click', () => {
-        if (cls) state.favOnly = !state.favOnly; else state.cat = val;
-        state.shown = PAGE; update();
+        if (kind === 'fav') state.favOnly = !state.favOnly;
+        else if (kind === 'made') state.madeOnly = !state.madeOnly;
+        else state.cat = val;
+        state.shown = PAGE;
+        update();
       });
       chips.appendChild(b);
+      chipEls.push({el:b, kind, val, countEl:b.querySelector('b')});
     };
-    mk('Sve', 'Sve', recipes.length);
-    CAT_ORDER.filter(c => counts[c]).forEach(c => mk(c, c, counts[c]));
-    mk('♥ Sačuvani', 'fav', favs.size, 'fav');
+    mk('Sve', 'cat', 'Sve');
+    CAT_ORDER.filter(c => catCounts[c]).forEach(c => mk(c, 'cat', c));
+    mk('♥ Sačuvani', 'fav');
+    mk('✓ Napravljeni', 'made');
+  }
+  function syncChips(){
+    chipEls.forEach(c => {
+      if (c.kind === 'cat') {
+        c.el.setAttribute('aria-pressed', String(state.cat === c.val));
+        c.countEl.textContent = c.val === 'Sve' ? recipes.length : catCounts[c.val];
+      } else if (c.kind === 'fav') {
+        c.el.setAttribute('aria-pressed', String(state.favOnly));
+        c.countEl.textContent = store.countFav();
+      } else {
+        c.el.setAttribute('aria-pressed', String(state.madeOnly));
+        c.countEl.textContent = store.countMade();
+      }
+    });
   }
 
   const grid = document.getElementById('grid');
@@ -261,54 +438,104 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   const resultText = document.getElementById('resultText');
   const hint = document.getElementById('hint');
   const heartSvg = '<svg viewBox="0 0 24 24"><path d="M12 20.5s-7.5-4.6-7.5-10A4.3 4.3 0 0 1 12 8a4.3 4.3 0 0 1 7.5 2.5c0 5.4-7.5 10-7.5 10Z"/></svg>';
+  const checkSvg = '<svg viewBox="0 0 24 24"><path d="m5 13 4.5 4.5L19 7"/></svg>';
+  const noteSvg = '<svg viewBox="0 0 24 24"><path d="M6 3h8l4 4v14H6z"/><path d="M9 12h6M9 16h4"/></svg>';
+  const starPath = 'M12 2.6l2.9 5.9 6.5.9-4.7 4.6 1.1 6.4-5.8-3-5.8 3 1.1-6.4L2.6 9.4l6.5-.9z';
   const fmtDate = d => { const [y,m,day] = d.split('-'); return `${+day}. ${+m}. ${y}.`; };
   const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  const starsText = n => '★'.repeat(n) + `<i>${'★'.repeat(5 - n)}</i>`;
 
   let current = [];
+  const cardEls = new Map();
   function filtered(){
     const q = fold(state.q.trim());
     const terms = q ? q.split(/\s+/) : [];
-    let list = recipes.filter(r =>
-      (state.cat === 'Sve' || r.category === state.cat) &&
-      (!state.favOnly || favs.has(r.code)) &&
-      terms.every(t => r.hay.includes(t)));
+    const list = recipes.filter(r => {
+      const e = store.entries[r.code];
+      if (state.cat !== 'Sve' && r.category !== state.cat) return false;
+      if (state.favOnly && !(e && e.fav)) return false;
+      if (state.madeOnly && !(e && e.made)) return false;
+      return terms.every(t => r.hay.includes(t));
+    });
     if (state.sort === 'new') list.sort((a,b) => b.date.localeCompare(a.date));
     else if (state.sort === 'old') list.sort((a,b) => a.date.localeCompare(b.date));
-    else list.sort((a,b) => a.titleKey.localeCompare(b.titleKey));
+    else if (state.sort === 'az') list.sort((a,b) => a.titleKey.localeCompare(b.titleKey, 'sr'));
+    else list.sort((a,b) => (store.get(b.code).rating - store.get(a.code).rating) || b.date.localeCompare(a.date));
     return list;
   }
+
+  function marksHtml(e){
+    const bits = [];
+    if (e.rating) bits.push(`<span class="stars-static" aria-label="Ocena ${e.rating} od 5">${starsText(e.rating)}</span>`);
+    if (e.made) bits.push(`<span class="made-mark">${checkSvg}Napravljeno</span>`);
+    if (e.note && e.note.trim()) bits.push(`<span class="note-mark" title="Ima belešku" aria-label="Ima belešku">${noteSvg}</span>`);
+    return bits.join('');
+  }
+
   function card(r){
+    const e = store.get(r.code);
     const el = document.createElement('article');
-    el.className = 'card' + (r.img ? '' : ' no-img');
+    el.className = 'card' + (r.img ? '' : ' no-img') + (e.made ? ' is-made' : '');
     el.tabIndex = 0;
     el.setAttribute('role','button');
     el.innerHTML = `${r.img ? `<div class="thumb"><img src="${r.img}" alt="" loading="lazy" decoding="async"></div>` : ''}
       <div class="body"><span class="eyebrow">${esc(r.category)}</span>
       <h3>${esc(r.title)}</h3>
       <p class="ings">${esc(r.ingText.slice(0,6).join(' · ') || r.steps.slice(0,140))}</p>
+      <div class="mine-marks">${marksHtml(e)}</div>
       <div class="meta"><span>${fmtDate(r.date)}</span><span class="kind">${esc(r.kind)}</span><span>${r.ingText.length ? r.ingText.length + ' sastojaka' : ''}</span></div></div>
-      <button class="heart" aria-label="Sačuvaj" aria-pressed="${favs.has(r.code)}">${heartSvg}</button>`;
+      <div class="acts">
+        <button class="act h" aria-label="Sačuvaj recept" aria-pressed="${e.fav}">${heartSvg}</button>
+        <button class="act m" aria-label="Označi kao napravljeno" aria-pressed="${e.made}">${checkSvg}</button>
+      </div>`;
     const open = () => openRecipe(r);
-    el.addEventListener('click', e => { if (!e.target.closest('.heart')) open(); });
-    el.addEventListener('keydown', e => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); open(); } });
-    el.querySelector('.heart').addEventListener('click', e => { e.stopPropagation(); toggleFav(r.code); });
+    el.addEventListener('click', ev => { if (!ev.target.closest('.act')) open(); });
+    el.addEventListener('keydown', ev => { if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); open(); } });
+    el.querySelector('.act.h').addEventListener('click', ev => { ev.stopPropagation(); store.set(r.code, {fav: !store.get(r.code).fav}); });
+    el.querySelector('.act.m').addEventListener('click', ev => { ev.stopPropagation(); store.set(r.code, {made: !store.get(r.code).made}); });
     return el;
   }
-  function update(){
+
+  function refreshCard(code){
+    const el = cardEls.get(code);
+    if (!el) return false;
+    const e = store.get(code);
+    el.classList.toggle('is-made', e.made);
+    el.querySelector('.mine-marks').innerHTML = marksHtml(e);
+    el.querySelector('.act.h').setAttribute('aria-pressed', String(e.fav));
+    el.querySelector('.act.m').setAttribute('aria-pressed', String(e.made));
+    return true;
+  }
+
+  function update(changedCode){
+    const inPlace = changedCode && !state.favOnly && !state.madeOnly && state.sort !== 'rating' && cardEls.has(changedCode);
+    if (inPlace) {
+      refreshCard(changedCode);
+      syncChips();
+      document.getElementById('statMade').textContent = store.countMade();
+      if (openCode) syncDialogMine();
+      return;
+    }
     current = filtered();
-    renderChips();
+    syncChips();
+    document.getElementById('statMade').textContent = store.countMade();
     grid.innerHTML = '';
+    cardEls.clear();
     const slice = current.slice(0, state.shown);
-    slice.forEach(r => grid.appendChild(card(r)));
+    slice.forEach(r => { const el = card(r); cardEls.set(r.code, el); grid.appendChild(el); });
     more.hidden = current.length <= state.shown;
     empty.hidden = current.length > 0;
     const parts = [];
     if (state.q.trim()) parts.push(`„${state.q.trim()}“`);
     if (state.cat !== 'Sve') parts.push(state.cat);
     if (state.favOnly) parts.push('sačuvani');
-    resultText.textContent = current.length === recipes.length ? `${recipes.length} recepata` : `${current.length} od ${recipes.length} recepata` + (parts.length ? ' · ' + parts.join(' · ') : '');
+    if (state.madeOnly) parts.push('napravljeni');
+    resultText.textContent = current.length === recipes.length && !parts.length
+      ? `${recipes.length} recepata`
+      : `${current.length} od ${recipes.length} recepata` + (parts.length ? ' · ' + parts.join(' · ') : '');
     hint.textContent = current.length > state.shown ? `prikazano ${slice.length}` : '';
     document.getElementById('clearQ').hidden = !state.q;
+    if (openCode) syncDialogMine();
   }
   more.addEventListener('click', () => { state.shown += PAGE; update(); });
 
@@ -316,18 +543,69 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   let timer;
   qInput.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(() => { state.q = qInput.value; state.shown = PAGE; update(); }, 120); });
   document.getElementById('clearQ').addEventListener('click', () => { qInput.value = ''; state.q = ''; update(); qInput.focus(); });
-  document.getElementById('sort').addEventListener('change', e => { state.sort = e.target.value; update(); });
-
-  function toggleFav(code){
-    if (favs.has(code)) favs.delete(code); else favs.add(code);
-    store.set(favs);
-    update();
-    if (openCode === code) dFav.setAttribute('aria-pressed', String(favs.has(code)));
-  }
+  document.getElementById('sort').addEventListener('change', ev => { state.sort = ev.target.value; update(); });
 
   const dlg = document.getElementById('dlg');
   const dFav = document.getElementById('dFav');
+  const dMade = document.getElementById('dMade');
+  const dMadeLabel = document.getElementById('dMadeLabel');
+  const dStars = document.getElementById('dStars');
+  const dRateClear = document.getElementById('dRateClear');
+  const dNote = document.getElementById('dNote');
+  const dSaved = document.getElementById('dSaved');
   let openCode = null;
+  let noteTimer = null;
+  let savedTimer = null;
+
+  for (let i = 1; i <= 5; i++) {
+    const b = document.createElement('button');
+    b.className = 'star';
+    b.type = 'button';
+    b.dataset.value = String(i);
+    b.setAttribute('aria-label', `Oceni sa ${i} od 5`);
+    b.innerHTML = `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="${starPath}"/></svg>`;
+    b.addEventListener('click', () => {
+      if (!openCode) return;
+      const cur = store.get(openCode).rating;
+      store.set(openCode, {rating: cur === i ? 0 : i});
+      flashSaved();
+    });
+    dStars.appendChild(b);
+  }
+  dRateClear.addEventListener('click', () => { if (openCode) { store.set(openCode, {rating: 0}); flashSaved(); } });
+
+  function flashSaved(){
+    dSaved.classList.add('on');
+    clearTimeout(savedTimer);
+    savedTimer = setTimeout(() => dSaved.classList.remove('on'), 1400);
+  }
+
+  function syncDialogMine(){
+    if (!openCode) return;
+    const e = store.get(openCode);
+    dFav.setAttribute('aria-pressed', String(e.fav));
+    dMade.setAttribute('aria-pressed', String(e.made));
+    dMadeLabel.textContent = e.made ? 'Napravljeno' : 'Označi kao napravljeno';
+    dStars.querySelectorAll('.star').forEach(s => s.classList.toggle('on', Number(s.dataset.value) <= e.rating));
+    dRateClear.hidden = !e.rating;
+    if (dNote.value !== e.note && document.activeElement !== dNote) dNote.value = e.note;
+  }
+
+  dMade.addEventListener('click', () => { if (openCode) { store.set(openCode, {made: !store.get(openCode).made}); flashSaved(); } });
+  dFav.addEventListener('click', () => { if (openCode) store.set(openCode, {fav: !store.get(openCode).fav}); });
+  dNote.addEventListener('input', () => {
+    if (!openCode) return;
+    const code = openCode;
+    const value = dNote.value;
+    clearTimeout(noteTimer);
+    noteTimer = setTimeout(() => { store.set(code, {note: value}); flashSaved(); }, 500);
+  });
+  dNote.addEventListener('blur', () => {
+    if (!openCode) return;
+    clearTimeout(noteTimer);
+    if (store.get(openCode).note !== dNote.value) { store.set(openCode, {note: dNote.value}); flashSaved(); }
+  });
+
   function openRecipe(r){
     openCode = r.code;
     document.getElementById('dCat').textContent = r.category;
@@ -352,17 +630,87 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
     document.getElementById('dStepsWrap').hidden = !r.steps;
     document.getElementById('dRaw').textContent = r.raw;
     dlg.querySelector('details').open = false;
-    dFav.setAttribute('aria-pressed', String(favs.has(r.code)));
+    dSaved.classList.remove('on');
+    dNote.value = store.get(r.code).note;
+    syncDialogMine();
     dlg.showModal();
-    dlg.querySelector('.d-body').scrollTop = 0;
     dlg.scrollTop = 0;
   }
-  dFav.addEventListener('click', () => toggleFav(openCode));
   document.getElementById('dClose').addEventListener('click', () => dlg.close());
-  dlg.addEventListener('click', e => { if (e.target === dlg) dlg.close(); });
-  dlg.addEventListener('close', () => { openCode = null; });
+  dlg.addEventListener('click', ev => { if (ev.target === dlg) dlg.close(); });
+  dlg.addEventListener('close', () => {
+    if (openCode) {
+      clearTimeout(noteTimer);
+      if (store.get(openCode).note !== dNote.value) store.set(openCode, {note: dNote.value});
+    }
+    openCode = null;
+  });
 
+  const backupMsg = document.getElementById('backupMsg');
+  function showMsg(text){
+    backupMsg.textContent = text;
+    setTimeout(() => { if (backupMsg.textContent === text) backupMsg.textContent = ''; }, 4000);
+  }
+  document.getElementById('exportBtn').addEventListener('click', async () => {
+    const payload = {};
+    Object.keys(store.entries).forEach(code => { if (isSet(store.entries[code])) payload[code] = store.entries[code]; });
+    const codes = Object.keys(payload);
+    if (!codes.length) { showMsg('Još nema označenih recepata.'); return; }
+    const body = JSON.stringify({version:1, izvezeno: new Date().toISOString(), entries: payload}, null, 1);
+    const filename = 'moje-beleske-recepti.json';
+    let saved = false;
+    if (window.claude && typeof window.claude.use === 'function') {
+      try {
+        const downloads = await window.claude.use('downloads');
+        if (downloads) { await downloads.save({filename, data: body}); saved = true; }
+      } catch(e){ saved = false; }
+    }
+    if (!saved) {
+      try {
+        const url = URL.createObjectURL(new Blob([body], {type:'application/json'}));
+        const a = document.createElement('a');
+        a.href = url; a.download = filename;
+        document.body.appendChild(a); a.click(); a.remove();
+        setTimeout(() => URL.revokeObjectURL(url), 2000);
+        saved = true;
+      } catch(e){}
+    }
+    showMsg(saved ? `Sačuvano ${codes.length} zapisa.` : 'Preuzimanje nije moguće u ovom prikazu.');
+  });
+  document.getElementById('importInput').addEventListener('change', ev => {
+    const file = ev.target.files && ev.target.files[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      let incoming = null;
+      try { incoming = JSON.parse(String(reader.result)); } catch(e){ showMsg('Fajl nije ispravan JSON.'); return; }
+      const entries = incoming && (incoming.entries || incoming);
+      if (!entries || typeof entries !== 'object') { showMsg('U fajlu nema beleški.'); return; }
+      let n = 0;
+      Object.keys(entries).forEach(code => {
+        if (!byCode[code]) return;
+        const e = entries[code];
+        if (!e || typeof e !== 'object') return;
+        const merged = {fav:!!e.fav, made:!!e.made, rating:Number(e.rating) || 0, note:typeof e.note === 'string' ? e.note : '', updatedAt:Number(e.updatedAt) || Date.now()};
+        const mine = store.entries[code];
+        if (mine && Number(mine.updatedAt || 0) >= merged.updatedAt) return;
+        store.entries[code] = merged;
+        store.push(code, merged);
+        n++;
+      });
+      store.writeLocal();
+      update();
+      showMsg(n ? `Uvezeno ${n} zapisa.` : 'Nema novijih zapisa za uvoz.');
+    };
+    reader.onerror = () => showMsg('Fajl nije moguće pročitati.');
+    reader.readAsText(file);
+    ev.target.value = '';
+  });
+
+  store.onChange(update);
+  buildChips();
   update();
+  store.connect();
 })();
 </script>
 
