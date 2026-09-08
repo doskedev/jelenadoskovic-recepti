@@ -105,11 +105,10 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;margin:0}
 .rcard.is-made{border-color:var(--sage)}
 .rcard .r-text{padding:14px 16px 12px;display:flex;flex-direction:column;gap:7px;min-width:0}
 .rcard h3{font-size:18px;line-height:1.22;text-wrap:balance}
-.rcard .excerpt{margin:0;color:var(--ink-2);font-size:13px;line-height:1.45;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-.rcard .r-img{background:var(--surface-2);position:relative;min-height:150px}
+.rcard .r-img{background:var(--surface-2);position:relative;min-height:138px}
 .rcard .r-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
 .rcard.no-img{grid-template-columns:minmax(0,1fr)}
-.rcard.no-img .r-text{min-height:150px}
+.rcard.no-img .r-text{min-height:138px}
 
 .mchips{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:9.5px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
 .mchips span{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
@@ -242,8 +241,7 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   .rcard{grid-template-columns:minmax(0,1fr) 134px}
   .rcard .r-text{padding:12px 13px 11px;gap:6px}
   .rcard h3{font-size:17px}
-  .rcard .excerpt{display:none}
-  .rcard .r-img{min-height:138px}
+  .rcard .r-img{min-height:124px}
   .mchips{gap:5px 10px;font-size:9px}
   .r-foot{flex-wrap:wrap;gap:8px}
   .qa{width:34px;height:34px}
@@ -629,7 +627,6 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
         <span class="eyebrow">${esc(r.category)}</span>
         <div class="mchips">${metaHtml(r)}</div>
         <h3>${esc(r.title)}</h3>
-        <p class="excerpt">${esc(r.excerpt.slice(0,190))}</p>
         <div class="r-foot"><div class="mine-marks">${marksHtml(e)}</div>${actsHtml(e)}</div>
       </div>
       ${r.img ? `<div class="r-img"><img src="${r.img}" alt="" loading="lazy" decoding="async"></div>` : ''}`;
