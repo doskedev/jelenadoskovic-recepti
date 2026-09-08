@@ -99,16 +99,16 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;margin:0}
 .tile span{display:block;padding:8px 6px;font-size:9.5px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);border-top:1px solid var(--line-brass)}
 .tile[aria-pressed="true"] span{background:var(--ink);color:#FBF3F0}
 
-.list{display:grid;gap:14px;grid-template-columns:repeat(2,minmax(0,1fr));align-items:start}
-.rcard{display:grid;grid-template-columns:minmax(0,1fr) 168px;background:var(--surface);border:1px solid var(--line-brass);border-radius:6px;overflow:hidden;cursor:pointer;text-align:left}
+.list{display:grid;gap:14px;grid-template-columns:repeat(2,minmax(0,1fr))}
+.rcard{display:grid;grid-template-columns:minmax(0,1fr) 168px;height:158px;background:var(--surface);border:1px solid var(--line-brass);border-radius:6px;overflow:hidden;cursor:pointer;text-align:left}
 .rcard:hover{border-color:var(--brass)}
 .rcard.is-made{border-color:var(--sage)}
 .rcard .r-text{padding:14px 16px 12px;display:flex;flex-direction:column;gap:7px;min-width:0}
-.rcard h3{font-size:18px;line-height:1.22;text-wrap:balance}
-.rcard .r-img{background:var(--surface-2);position:relative;min-height:138px}
+.rcard h3{font-size:18px;line-height:1.22;text-wrap:balance;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.rcard .r-img{background:var(--surface-2);position:relative}
+.rcard .mchips{flex-wrap:nowrap;overflow:hidden}
 .rcard .r-img img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
 .rcard.no-img{grid-template-columns:minmax(0,1fr)}
-.rcard.no-img .r-text{min-height:138px}
 
 .mchips{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:9.5px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--ink-3)}
 .mchips span{display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
@@ -238,10 +238,9 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   .tiles{padding:12px}
   .tiles-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
   .list{grid-template-columns:minmax(0,1fr)}
-  .rcard{grid-template-columns:minmax(0,1fr) 134px}
+  .rcard{grid-template-columns:minmax(0,1fr) 134px;height:148px}
   .rcard .r-text{padding:12px 13px 11px;gap:6px}
-  .rcard h3{font-size:17px}
-  .rcard .r-img{min-height:124px}
+  .rcard h3{font-size:17px;line-height:1.2}
   .mchips{gap:5px 10px;font-size:9px}
   .r-foot{flex-wrap:wrap;gap:8px}
   .qa{width:34px;height:34px}
