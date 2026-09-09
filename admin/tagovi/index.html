@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="sr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="robots" content="noindex, nofollow">
+<title>Uređivanje tagova</title>
+<meta name="theme-color" content="#F4EBE8">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127859;</text></svg>">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Parisienne&family=Playfair+Display:wght@400;500&family=Public+Sans:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="../../admin.css">
+</head>
+<body>
+<header class="a-head">
+  <div class="a-head-inner">
+    <a class="a-brand" href="../../"><span class="script">Recepti</span><span class="tag">Uređivanje</span></a>
+    <nav class="a-tabs" id="tabs" hidden><a class="a-tab" href="../../admin/">Recepti</a><a class="a-tab on" href="../../admin/tagovi/">Tagovi</a></nav>
+    <span class="a-spacer"></span>
+    <div class="a-user">
+      <span id="whoami"></span>
+      <button class="a-btn ghost" id="signOutBtn" type="button" hidden>Odjava</button>
+    </div>
+  </div>
+</header>
+
+<main class="a-shell a-main">
+  <section class="a-gate" id="gate">
+    <h1>Uređivanje tagova</h1>
+    <p>Stranica je zaključana. Prijavite se nalogom koji ima pristup.</p>
+    <button class="a-google" id="signInBtn" type="button"><svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9 3.6l6.7-6.7C35.6 2.6 30.2.5 24 .5 14.6.5 6.5 5.9 2.6 13.7l7.8 6.1C12.3 14 17.6 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.2-.4-4.7H24v9h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4 6.9-10 6.9-17.3z"/><path fill="#FBBC05" d="M10.4 28.2c-.5-1.5-.8-3-.8-4.7s.3-3.2.8-4.7l-7.8-6.1C1 15.9 0 19.8 0 23.5s1 7.6 2.6 10.8l7.8-6.1z"/><path fill="#34A853" d="M24 47c6.2 0 11.5-2 15.3-5.6l-7.5-5.8c-2.1 1.4-4.8 2.2-7.8 2.2-6.4 0-11.7-4.5-13.6-10.5l-7.8 6.1C6.5 41.1 14.6 47 24 47z"/></svg>Prijava Google nalogom</button>
+    <p class="a-msg" id="gateMsg"></p>
+  </section>
+  <div id="adminApp" hidden>
+    <section class="a-card a-tags-wrap">
+      <div class="a-card-head">
+        <h2>Tagovi</h2>
+        <p>Recept može imati više tagova. Naziv se može promeniti kasnije, adresa taga se pravi iz prvog naziva i ostaje ista.</p>
+      </div>
+      <div class="a-add">
+        <input class="a-input" id="newTagName" type="text" placeholder="Naziv novog taga, na primer Posno" maxlength="60">
+        <button class="a-btn primary" id="addTagBtn" type="button">Dodaj tag</button>
+      </div>
+      <div class="a-table" id="tagList"></div>
+      <p class="a-tnote">Tag se briše samo kada nije ni na jednom receptu. Broj pored naziva pokazuje koliko recepata ga koristi.</p>
+      <div class="a-actions">
+        <a class="a-btn" href="../">Nazad na recepte</a>
+        <span class="a-spacer"></span>
+        <span class="a-status" id="status" role="status"></span>
+      </div>
+    </section>
+  </div>
+</main>
+<script>window.ADMIN = {page:"tags", base:"../../"}</script>
+<script src="../../admin.js" type="module"></script>
+</body>
+</html>

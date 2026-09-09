@@ -9,6 +9,9 @@
     appId: "1:1094516599117:web:decde32807130dc1e02f04"
   };
   const OWNER_EMAIL = "doske1992@gmail.com";
+  const ADMIN = window.ADMIN || {};
+  const PAGE = ADMIN.page || 'recipes';
+  const BASE = ADMIN.base || '../';
 
   const $ = id => document.getElementById(id);
   const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
@@ -20,12 +23,14 @@
       .normalize('NFD').replace(/[̀-ͯ]/g,'')
       .replace(/[^a-z0-9]+/g,'-').replace(/-{2,}/g,'-').replace(/^-|-$/g,'');
   }
+  const imgSrc = path => !path ? '' : (/^https?:/i.test(path) ? path : BASE + path);
 
-  let fb = null, user = null, isAdmin = false;
+  let fb = null, user = null;
   let tags = [], catalog = [], chunkCache = {}, current = null, dirty = false;
 
   function status(text, kind){
     const el = $('status');
+    if (!el) return;
     el.textContent = text || '';
     el.className = 'a-status' + (kind ? ' ' + kind : '');
     if (text) { clearTimeout(status._t); status._t = setTimeout(() => { if (el.textContent === text) el.textContent = ''; }, 5000); }
@@ -69,9 +74,8 @@
     catalog = [];
     for (let i = 0; i < chunks; i++) {
       const snap = await dbMod.getDoc(dbMod.doc(fs, 'catalog', `chunk-${i}`));
-      const data = snap.data() || {};
       let items = [];
-      try { items = JSON.parse(data.json || '[]'); } catch(e){}
+      try { items = JSON.parse((snap.data() || {}).json || '[]'); } catch(e){}
       chunkCache[i] = items;
       items.forEach(x => catalog.push(Object.assign({chunk: i}, x)));
     }
@@ -101,28 +105,45 @@
     await loadTags();
   }
 
-  /* ---------------- spisak recepata ---------------- */
-  function renderList(){
+  const tagName = slug => (tags.find(t => t.slug === slug) || {}).name || slug;
+
+  /* ================= stranica recepata ================= */
+  function visibleRows(){
     const q = fold($('adminSearch').value.trim());
     const tagFilter = $('adminTagFilter').value;
-    const rows = catalog.filter(r => {
+    return catalog.filter(r => {
       if (tagFilter && !(r.tags || []).includes(tagFilter)) return false;
       if (!q) return true;
       return fold(r.title).includes(q) || (r.hay || '').includes(q);
     });
-    $('listCount').textContent = `${rows.length} od ${catalog.length}`;
-    $('adminList').innerHTML = rows.slice(0, 200).map(r => `
-      <button class="a-row${current && current.slug === r.slug ? ' on' : ''}" type="button" data-slug="${esc(r.slug)}">
-        <span class="a-row-title">${esc(r.title)}</span>
-        <span class="a-row-meta">${fmtDate(r.date)} · ${(r.tags || []).map(t => esc(tagName(t))).join(', ') || 'bez taga'}</span>
-      </button>`).join('') || '<p class="a-empty">Nema recepata za taj upit.</p>';
+  }
+
+  function renderList(){
+    const rows = visibleRows();
+    const shown = rows.slice(0, 120);
+    $('listCount').textContent = rows.length === catalog.length
+      ? `${catalog.length} recepata`
+      : `${rows.length} od ${catalog.length}`;
+    $('adminList').innerHTML = shown.map(r => {
+      const src = imgSrc(r.img);
+      const on = current && current.slug === r.slug;
+      return `<button class="a-row${on ? ' on' : ''}" type="button" data-slug="${esc(r.slug)}">
+        ${src ? `<img class="a-row-img" src="${esc(src)}" alt="" loading="lazy" decoding="async">` : '<span class="a-row-img ph"></span>'}
+        <span class="a-row-text">
+          <span class="a-row-title">${esc(r.title)}</span>
+          <span class="a-row-meta">${fmtDate(r.date)} · ${(r.tags || []).map(t => esc(tagName(t))).join(', ') || 'bez taga'}</span>
+        </span>
+      </button>`;
+    }).join('') || '<p class="a-empty"><strong>Nema rezultata</strong>Probajte kraću reč.</p>';
+    if (rows.length > shown.length) {
+      $('adminList').insertAdjacentHTML('beforeend',
+        `<p class="a-more-note">Prikazano prvih ${shown.length}. Suzite pretragu da vidite ostale.</p>`);
+    }
     $('adminList').querySelectorAll('.a-row').forEach(b => {
       b.addEventListener('click', () => openRecipe(b.dataset.slug));
     });
   }
-  const tagName = slug => (tags.find(t => t.slug === slug) || {}).name || slug;
 
-  /* ---------------- uređivanje recepta ---------------- */
   function ingredientsToText(list){
     return (list || []).map(i => i.t === 'h' ? '# ' + i.x : i.x).join('\n');
   }
@@ -142,6 +163,24 @@
     status('');
     renderEditor();
     renderList();
+    if (window.matchMedia('(max-width:1000px)').matches) {
+      const box = document.querySelector('.a-editor');
+      if (box) box.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+  }
+
+  function renderTagPicks(){
+    const picked = (current && current.tags) || [];
+    $('fTags').innerHTML = tags.map(t => {
+      const on = picked.includes(t.slug);
+      return `<label class="a-pick${on ? ' on' : ''}"><input type="checkbox" value="${esc(t.slug)}"${on ? ' checked' : ''}><span>${esc(t.name)}</span></label>`;
+    }).join('') || '<p class="a-hint">Još nema tagova.</p>';
+    $('fTags').querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('change', () => {
+        inp.closest('.a-pick').classList.toggle('on', inp.checked);
+        dirty = true;
+      });
+    });
   }
 
   function renderEditor(){
@@ -155,27 +194,17 @@
     $('fSteps').value = r.steps || '';
     $('fImg').value = r.imgUrl || '';
     $('editorSlug').textContent = r.slug;
-    $('editorLink').href = `../recept/${r.slug}/`;
+    $('editorLink').href = `${BASE}recept/${r.slug}/`;
     $('editorPost').href = r.url || '#';
-    $('fTags').innerHTML = tags.map(t => {
-      const on = (r.tags || []).includes(t.slug);
-      return `<label class="a-pick${on ? ' on' : ''}"><input type="checkbox" value="${esc(t.slug)}"${on ? ' checked' : ''}> ${esc(t.name)}</label>`;
-    }).join('');
-    $('fTags').querySelectorAll('input').forEach(inp => {
-      inp.addEventListener('change', () => {
-        inp.closest('.a-pick').classList.toggle('on', inp.checked);
-        dirty = true;
-      });
-    });
+    renderTagPicks();
     updatePreview();
   }
 
   function updatePreview(){
     const url = $('fImg').value.trim();
-    const fallback = current && current.hasImg ? `../img/${current.code}.jpg` : '';
+    const fallback = current && current.hasImg ? `${BASE}img/${current.code}.jpg` : '';
     const src = url || fallback;
-    const box = $('imgPreview');
-    box.innerHTML = src ? `<img src="${esc(src)}" alt="">` : '<span>Nema slike</span>';
+    $('imgPreview').innerHTML = src ? `<img src="${esc(src)}" alt="">` : '<span>Nema slike</span>';
     $('imgSource').textContent = url ? 'Pregled, sopstvena adresa' : (fallback ? 'Pregled, slika sa Instagrama' : 'Pregled');
   }
 
@@ -188,15 +217,16 @@
     const added = picked.filter(t => !before.includes(t));
     const removed = before.filter(t => !picked.includes(t));
     const imgUrl = $('fImg').value.trim();
+    const ingredients = textToIngredients($('fIngredients').value);
 
     const patch = {
       title,
       intro: $('fIntro').value,
       steps: $('fSteps').value,
-      ingredients: textToIngredients($('fIngredients').value),
+      ingredients,
       tags: picked,
-      imgUrl: imgUrl,
-      n: textToIngredients($('fIngredients').value).filter(i => i.t === 'i').length,
+      imgUrl,
+      n: ingredients.filter(i => i.t === 'i').length,
       editedAt: new Date().toISOString()
     };
 
@@ -225,10 +255,10 @@
 
       Object.assign(current, patch);
       const inList = catalog.find(x => x.slug === current.slug);
-      if (inList) { inList.title = title; inList.tags = picked; }
+      if (inList) { inList.title = title; inList.tags = picked; if (imgUrl) inList.img = imgUrl; }
       dirty = false;
+      fillTagFilter();
       renderList();
-      renderTagsView();
       status('Sačuvano.', 'ok');
     } catch(err){
       status('Čuvanje nije uspelo: ' + (err && err.code ? err.code : 'greška'), 'err');
@@ -256,8 +286,8 @@
       current = null;
       dirty = false;
       renderEditor();
+      fillTagFilter();
       renderList();
-      renderTagsView();
       status('Recept obrisan.', 'ok');
     } catch(err){
       status('Brisanje nije uspelo: ' + (err && err.code ? err.code : 'greška'), 'err');
@@ -265,22 +295,79 @@
     $('deleteBtn').disabled = false;
   }
 
-  /* ---------------- tagovi ---------------- */
-  function renderTagsView(){
-    $('tagList').innerHTML = tags.map(t => `
-      <div class="a-trow">
-        <span class="a-tname">${esc(t.name)}</span>
-        <span class="a-tslug">${esc(t.slug)}</span>
-        <span class="a-tcount">${t.count || 0}</span>
-        <button class="a-btn ghost" type="button" data-del="${esc(t.slug)}"${(t.count || 0) > 0 ? ' disabled title="Tag se koristi, prvo ga sklonite sa recepata"' : ''}>Obriši</button>
-      </div>`).join('');
-    $('tagList').querySelectorAll('[data-del]').forEach(b => {
-      b.addEventListener('click', () => deleteTag(b.dataset.del));
-    });
+  function fillTagFilter(){
     const sel = $('adminTagFilter');
+    if (!sel) return;
     const keep = sel.value;
-    sel.innerHTML = '<option value="">Svi tagovi</option>' + tags.map(t => `<option value="${esc(t.slug)}">${esc(t.name)} (${t.count || 0})</option>`).join('');
+    sel.innerHTML = '<option value="">Svi tagovi</option>' +
+      tags.map(t => `<option value="${esc(t.slug)}">${esc(t.name)} (${t.count || 0})</option>`).join('');
     sel.value = keep;
+  }
+
+  function initRecipesPage(){
+    ['fTitle', 'fIntro', 'fIngredients', 'fSteps', 'fImg'].forEach(id => {
+      $(id).addEventListener('input', () => {
+        dirty = true;
+        if (id === 'fImg') updatePreview();
+      });
+    });
+    let t;
+    $('adminSearch').addEventListener('input', () => { clearTimeout(t); t = setTimeout(renderList, 120); });
+    $('adminSearch').addEventListener('keydown', ev => {
+      if (ev.key === 'Enter') {
+        const first = visibleRows()[0];
+        if (first) openRecipe(first.slug);
+      }
+    });
+    $('adminTagFilter').addEventListener('change', renderList);
+    $('saveBtn').addEventListener('click', saveRecipe);
+    $('deleteBtn').addEventListener('click', deleteRecipe);
+  }
+
+  /* ================= stranica tagova ================= */
+  function renderTagsView(){
+    const box = $('tagList');
+    if (!box) return;
+    box.innerHTML = tags.map(t => `
+      <div class="a-trow" data-slug="${esc(t.slug)}">
+        <input class="a-input a-tname" type="text" value="${esc(t.name)}" maxlength="60" aria-label="Naziv taga">
+        <span class="a-tslug">${esc(t.slug)}</span>
+        <span class="a-tcount" title="Broj recepata sa ovim tagom">${t.count || 0}</span>
+        <span class="a-trow-actions">
+          <button class="a-btn small" type="button" data-rename hidden>Sačuvaj</button>
+          <button class="a-btn ghost" type="button" data-del${(t.count || 0) > 0 ? ' disabled title="Tag se koristi na receptima"' : ''}>Obriši</button>
+        </span>
+      </div>`).join('') || '<p class="a-empty"><strong>Još nema tagova</strong>Dodajte prvi tag iznad.</p>';
+
+    box.querySelectorAll('.a-trow').forEach(row => {
+      const slug = row.dataset.slug;
+      const input = row.querySelector('.a-tname');
+      const saveBtn = row.querySelector('[data-rename]');
+      const original = (tags.find(x => x.slug === slug) || {}).name || '';
+      input.addEventListener('input', () => {
+        saveBtn.hidden = input.value.trim() === original || !input.value.trim();
+      });
+      input.addEventListener('keydown', ev => {
+        if (ev.key === 'Enter' && !saveBtn.hidden) renameTag(slug, input.value.trim());
+      });
+      saveBtn.addEventListener('click', () => renameTag(slug, input.value.trim()));
+      row.querySelector('[data-del]').addEventListener('click', () => deleteTag(slug));
+    });
+  }
+
+  async function renameTag(slug, name){
+    if (!name) return;
+    status('Čuvam…');
+    try {
+      const {dbMod, fs} = fb;
+      await dbMod.updateDoc(dbMod.doc(fs, 'tags', slug), {name});
+      await loadTags();
+      await bumpVersion();
+      renderTagsView();
+      status('Naziv promenjen.', 'ok');
+    } catch(err){
+      status('Promena nije uspela: ' + (err && err.code ? err.code : 'greška'), 'err');
+    }
   }
 
   async function addTag(){
@@ -297,8 +384,8 @@
       await loadTags();
       await bumpVersion();
       renderTagsView();
-      if (current) renderEditor();
       $('newTagName').value = '';
+      $('newTagName').focus();
       status(`Tag „${name}“ dodat.`, 'ok');
     } catch(err){
       status('Dodavanje nije uspelo: ' + (err && err.code ? err.code : 'greška'), 'err');
@@ -317,24 +404,35 @@
       await loadTags();
       await bumpVersion();
       renderTagsView();
-      if (current) renderEditor();
       status('Tag obrisan.', 'ok');
     } catch(err){
       status('Brisanje nije uspelo: ' + (err && err.code ? err.code : 'greška'), 'err');
     }
   }
 
-  /* ---------------- prijava i pokretanje ---------------- */
+  function initTagsPage(){
+    $('addTagBtn').addEventListener('click', addTag);
+    $('newTagName').addEventListener('keydown', ev => { if (ev.key === 'Enter') addTag(); });
+  }
+
+  /* ================= prijava ================= */
   async function start(){
-    status('Učitavam podatke…');
-    await Promise.all([loadTags(), loadCatalog()]);
-    renderTagsView();
-    renderList();
-    renderEditor();
+    status('Učitavam…');
+    if (PAGE === 'tags') {
+      await loadTags();
+      renderTagsView();
+    } else {
+      await Promise.all([loadTags(), loadCatalog()]);
+      fillTagFilter();
+      renderList();
+      renderEditor();
+    }
     status('');
-    $('adminApp').hidden = false;
     $('gate').hidden = true;
+    $('adminApp').hidden = false;
     $('tabs').hidden = false;
+    const search = $('adminSearch');
+    if (search) search.focus();
   }
 
   function showGate(message){
@@ -360,36 +458,14 @@
       }
       $('signInBtn').disabled = false;
     });
-    $('signOutBtn').addEventListener('click', async () => {
-      if (fb) await fb.authMod.signOut(fb.auth);
-    });
-    ['fTitle', 'fIntro', 'fIngredients', 'fSteps', 'fImg'].forEach(id => {
-      $(id).addEventListener('input', () => {
-        dirty = true;
-        if (id === 'fImg') updatePreview();
-      });
-    });
-    $('adminSearch').addEventListener('input', renderList);
-    $('adminTagFilter').addEventListener('change', renderList);
-    $('saveBtn').addEventListener('click', saveRecipe);
-    $('deleteBtn').addEventListener('click', deleteRecipe);
-    $('addTagBtn').addEventListener('click', addTag);
-    $('newTagName').addEventListener('keydown', ev => { if (ev.key === 'Enter') addTag(); });
-    document.querySelectorAll('.a-tab').forEach(b => {
-      b.addEventListener('click', () => {
-        document.querySelectorAll('.a-tab').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
-        document.querySelectorAll('.a-view').forEach(v => { v.hidden = v.dataset.view !== b.dataset.tab; });
-      });
-    });
-    window.addEventListener('beforeunload', ev => {
-      if (dirty) { ev.preventDefault(); ev.returnValue = ''; }
-    });
+    $('signOutBtn').addEventListener('click', async () => { if (fb) await fb.authMod.signOut(fb.auth); });
+    if (PAGE === 'tags') initTagsPage(); else initRecipesPage();
+    window.addEventListener('beforeunload', ev => { if (dirty) { ev.preventDefault(); ev.returnValue = ''; } });
 
     const {authMod, auth} = await loadSdk();
     authMod.onAuthStateChanged(auth, async u => {
       user = u || null;
       if (!user) {
-        isAdmin = false;
         $('whoami').textContent = '';
         $('signOutBtn').hidden = true;
         showGate('');
@@ -397,8 +473,7 @@
       }
       $('whoami').textContent = user.email || '';
       $('signOutBtn').hidden = false;
-      isAdmin = await checkAdmin(user);
-      if (!isAdmin) {
+      if (!(await checkAdmin(user))) {
         showGate(`Nalog ${user.email} nema pristup ovoj stranici.`);
         return;
       }
