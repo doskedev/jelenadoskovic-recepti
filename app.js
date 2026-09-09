@@ -53,6 +53,64 @@
     appId: "1:1094516599117:web:decde32807130dc1e02f04"
   };
 
+
+  /* ---------------- javno citanje iz baze (REST, bez SDK-a) ---------------- */
+  const FS_URL = `https://firestore.googleapis.com/v1/projects/${FIREBASE_CONFIG.projectId}/databases/(default)/documents`;
+  const BUILT_VERSION = CONFIG.version || '';
+  const META_CACHE = 'recepti-meta';
+  const CATALOG_CACHE = 'recepti-katalog';
+
+  function fsValue(v){
+    if (v == null) return null;
+    if ('stringValue' in v) return v.stringValue;
+    if ('integerValue' in v) return Number(v.integerValue);
+    if ('doubleValue' in v) return v.doubleValue;
+    if ('booleanValue' in v) return v.booleanValue;
+    if ('nullValue' in v) return null;
+    if ('timestampValue' in v) return v.timestampValue;
+    if ('arrayValue' in v) return (v.arrayValue.values || []).map(fsValue);
+    if ('mapValue' in v) return fsFields(v.mapValue.fields || {});
+    return null;
+  }
+  function fsFields(fields){
+    const out = {};
+    Object.keys(fields).forEach(k => { out[k] = fsValue(fields[k]); });
+    return out;
+  }
+  async function fsGet(path){
+    const res = await fetch(`${FS_URL}/${path}?key=${FIREBASE_CONFIG.apiKey}`, {cache:'no-store'});
+    if (!res.ok) throw new Error('firestore ' + res.status);
+    const json = await res.json();
+    return fsFields(json.fields || {});
+  }
+  async function catalogVersion(){
+    if (!BUILT_VERSION) return '';
+    try {
+      const c = JSON.parse(sessionStorage.getItem(META_CACHE) || 'null');
+      if (c && Date.now() - c.at < 600000) return c.version;
+    } catch(e){}
+    const meta = await fsGet('catalog/meta');
+    try { sessionStorage.setItem(META_CACHE, JSON.stringify({version: meta.version, chunks: meta.chunks, at: Date.now()})); } catch(e){}
+    return meta.version;
+  }
+  function cachedCatalog(){
+    try {
+      const c = JSON.parse(lsGet(CATALOG_CACHE) || 'null');
+      if (c && c.version && Array.isArray(c.items)) return c;
+    } catch(e){}
+    return null;
+  }
+  async function fetchCatalog(){
+    const meta = await fsGet('catalog/meta');
+    const parts = await Promise.all(
+      Array.from({length: Number(meta.chunks) || 1}, (_, i) => fsGet(`catalog/chunk-${i}`)));
+    const items = [];
+    parts.forEach(p => { try { JSON.parse(p.json).forEach(x => items.push(x)); } catch(e){} });
+    if (!items.length) throw new Error('prazan katalog');
+    lsSet(CATALOG_CACHE, JSON.stringify({version: meta.version, items}));
+    return {version: meta.version, items};
+  }
+
   const EMPTY = {fav:false, made:false, rating:0, note:''};
   const LEGACY_KEY = 'recepti-stanje-v1';
   const SIGNED_FLAG = 'recepti-prijavljen';
@@ -440,6 +498,35 @@
   }
 
   /* ---------------- stranica jednog recepta ---------------- */
+  function applyRecipe(article, r){
+    const h1 = article.querySelector('h1');
+    if (h1 && r.title) {
+      h1.textContent = r.title;
+      document.title = `${r.title} · Recepti Jelene Dosković`;
+    }
+    const intro = article.querySelector('.intro');
+    if (intro) { intro.textContent = r.intro || ''; intro.hidden = !r.intro; }
+    const steps = article.querySelector('.steps');
+    if (steps) steps.textContent = r.steps || '';
+    const raw = article.querySelector('details pre');
+    if (raw) raw.textContent = r.raw || '';
+    const ul = article.querySelector('.ing-list');
+    if (ul && Array.isArray(r.ingredients)) {
+      ul.innerHTML = r.ingredients.map((i, idx) => i.t === 'h'
+        ? `<li class="h">${esc(i.x)}</li>`
+        : `<li><input type="checkbox" id="ing-${idx}"><label for="ing-${idx}">${esc(i.x)}</label></li>`).join('');
+    }
+  }
+  async function refreshRecipe(article){
+    const slug = article.dataset.slug;
+    if (!slug) return;
+    try {
+      const version = await catalogVersion();
+      if (!version || version === BUILT_VERSION) return;
+      const r = await fsGet(`recipes/${encodeURIComponent(slug)}`);
+      if (r && r.title) applyRecipe(article, r);
+    } catch(e){}
+  }
   function initRecipePage(){
     const article = document.querySelector('.recipe');
     if (!article) return;
@@ -449,6 +536,7 @@
     store.onChange(() => { if (sync) sync(); });
     auth.onChange(() => { if (sync) sync(); });
     initAuth();
+    refreshRecipe(article);
   }
 
   /* ---------------- spisak recepata ---------------- */
@@ -480,7 +568,7 @@
 
     const catCounts = {};
     recipes.forEach(r => catCounts[r.category] = (catCounts[r.category] || 0) + 1);
-    const featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
+    let featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
 
     const navEls = [];
     ['Sve'].concat(CAT_ORDER.filter(c => catCounts[c])).forEach(cat => {
@@ -727,8 +815,37 @@
       ev.target.value = '';
     });
 
+    function applyCatalog(items){
+      recipes.length = 0;
+      items.forEach(r => recipes.push(r));
+      Object.keys(catCounts).forEach(k => delete catCounts[k]);
+      recipes.forEach(r => catCounts[r.category] = (catCounts[r.category] || 0) + 1);
+      navEls.forEach(n => {
+        const c = n.cat === 'Sve' ? recipes.length : (catCounts[n.cat] || 0);
+        const i = n.el.querySelector('i');
+        if (i) i.textContent = c;
+      });
+      featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
+      document.getElementById('sAll').textContent = recipes.length;
+      const hc = document.getElementById('headCount');
+      if (hc) hc.textContent = recipes.length;
+      state.shown = PAGE_SIZE;
+      update();
+    }
+    async function refreshCatalog(){
+      try {
+        const cached = cachedCatalog();
+        const version = await catalogVersion();
+        if (!version || version === BUILT_VERSION) return;
+        if (cached && cached.version === version) { applyCatalog(cached.items); return; }
+        const fresh = await fetchCatalog();
+        applyCatalog(fresh.items);
+      } catch(e){}
+    }
+
     store.onChange(code => update(code));
     update();
+    refreshCatalog();
     auth.onChange(() => { syncAccountPanel(); update(); });
     initAuth();
     syncAccountPanel();
