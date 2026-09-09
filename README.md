@@ -2,6 +2,10 @@
 
 Pretraživa zbirka recepata iz opisa postova i reelova na Instagram profilu [@jelenadoskovic](https://www.instagram.com/jelenadoskovic/).
 
-- Stranica: https://doskedev.github.io/jelenadoskovic-recepti/
+- Sajt: https://doskedev.github.io/jelenadoskovic-recepti/
+- Svaki recept ima zasebnu stranicu: `https://doskedev.github.io/jelenadoskovic-recepti/recept/<naziv-recepta>/`
 - `recepti.md` – svi recepti kao tekst
-- `recepti.json` – strukturirani podaci (naslov, datum, sastojci, postupak, link na post)
+- `recepti.json` – strukturirani podaci (naslov, slug, datum, sastojci, postupak, link na post)
+- `sitemap.xml` – spisak svih 560 adresa
+
+Recepti i fotografije su rad Jelene Dosković.

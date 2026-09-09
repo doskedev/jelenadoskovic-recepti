@@ -1,588 +1,587 @@
 # Recepti sa Instagram profila @jelenadoskovic
 
-Izvučeno 2026-09-05. Ukupno recepata: 560 (od 1616 postova).
+Izvučeno 2026-09-09. Ukupno recepata: 559 (od 1616 postova).
 
 
 ## Torte (47)
-- [Lukina rodjendnska torta](#davnpbsqtqv) — 2026-07-13
-- [Jagodica tortica](#dysli-uq6th) — 2026-05-13
-- [Grčka torta sa lešnicima](#dvoefgfgupp) — 2026-03-08
-- [Plazma torta Zimska čarolija](#dtimtwlgtyi) — 2026-01-05
-- [Slane tortice](#dsuc4ssggq0) — 2025-12-26
-- [Kad padne veče i krenem da prelistavam mreže — inspiracij…](#dm8i0n4i5ih) — 2025-08-04
-- [Jagodica tortica](#dkz-dklmjxv) — 2025-06-12
-- [Pistać tiramisu tortica](#dimp-jusz7z) — 2025-04-18
-- [Ferrero Rocher torta – recept koji svi obožavaju](#dhb0ehumf_t) — 2025-03-10
-- [Jagoda tiramisu torta](#dgitcftmqzl) — 2025-02-26
-- [Zimska jaffa tortica](#ddkrn-crwg6) — 2024-12-14
-- [Čoko malina tortica](#dbizkxbsjjy) — 2024-10-25
-- [Grčka torta](#c-n8uazmcun) — 2024-08-03
-- [Cheesecake rolat bueno malinica](#c9jzgekmm36) — 2024-07-18
-- [Lukina rodjendanska plazma tortica 7 ⃣](#c9x7nawmv4e) — 2024-07-13
-- [Čoko malina straćatela](#c8r9jiknsr0) — 2024-06-26
-- [Malina vanila tortica](#c715u8nstky) — 2024-06-05
-- [Jagodica tortica](#c7jdbmbmbul) — 2024-05-29
-- [Bajadera torta](#c58k35hmypd) — 2024-04-19
-- [Banana-lotus sladoled tortica](#c5od4d_s_7j) — 2024-04-11
-- [Lekina rodjendanska](#c4q6xp3m_bk) — 2024-03-08
-- [Moja rodjendanska](#c34u8b4stla) — 2024-02-28
-- [Kinder bueno keks tortica](#c1sylodmhv0) — 2023-12-25
-- [Zimska jaffa tortica](#c0yymyms6-d) — 2023-12-13
-- [Kremasta OREO tortica](#cw0zykyi4fo) — 2023-09-05
-- [Reforma torta](#cvx5vusgdwd) — 2023-07-31
-- [Čizkejk od borovnica i bele čokolade](#ctyftzwgvnt) — 2023-06-22
-- [Jagodica tortica](#csespv3anbw) — 2023-05-10
-- [Lenina rođendanska](#cplc-dygnua) — 2023-03-09
-- [Trostruko čokoladni cheesecake](#cplqveugo1w) — 2023-02-27
-- [Baileys tortica](#cmo6cpzjwqc) — 2022-12-26
-- [Ferrero cheesecake](#cjs9rgiqxmj) — 2022-10-04
-- [Lagana tortica sa jagodama i oreo keksom](#ce6vxjsq3ss) — 2022-06-17
-- [Slana palačinka tortica](#cen6pzkanui) — 2022-06-10
-- [Čoko karamelizovana fantazija](#cc0by3gauhe) — 2022-04-26
-- [Torta sa jagodama gotova za 10 minuta](#cb4oxd6gmig) — 2022-04-03
-- [Bela jagodica](#ca1kq_dsbdy) — 2022-03-08
-- [Ferrero rocher cake](#cxvcyees2lp) — 2021-12-21
-- [Čoko malina fantazija](#cxbi2fcmojt) — 2021-12-13
-- [Kinder bueno tortica](#cuuy1e7shu6) — 2021-10-07
-- [Cheesecake palačinke](#cqa9hy7jjnx) — 2021-06-12
-- [Sladoled sendvič tortica](#cpqmve9pbqs) — 2021-05-24
-- [Oreo jagodica](#co2zng8j_qv) — 2021-05-14
-- [Prolećna kremasta tortica](#cmznrm_jybn) — 2021-03-24
-- [Caramel cheesecake](#clorlxypksr) — 2021-02-13
-- [SAHER TORTA](#cjgtlmpp_tr) — 2021-01-01
-- [Zapečeni cheesecake sa plazmom i belom čokoladom](#cdjp_tbp37w) — 2020-08-06
+- [Lukina rodjendnska torta](#lukina-rodjendnska-torta) — 2026-07-13
+- [Jagodica tortica](#jagodica-tortica-4) — 2026-05-13
+- [Grčka torta sa lešnicima](#grcka-torta-sa-lesnicima) — 2026-03-08
+- [Plazma torta Zimska čarolija](#plazma-torta-zimska-carolija) — 2026-01-05
+- [Slane tortice](#slane-tortice) — 2025-12-26
+- [Kad padne veče i krenem da prelistavam mreže — inspiracij…](#kad-padne-vece-i-krenem-da-prelistavam-mreze-inspiracij) — 2025-08-04
+- [Jagodica tortica](#jagodica-tortica-3) — 2025-06-12
+- [Pistać tiramisu tortica](#pistac-tiramisu-tortica) — 2025-04-18
+- [Ferrero Rocher torta – recept koji svi obožavaju](#ferrero-rocher-torta-recept-koji-svi-obozavaju) — 2025-03-10
+- [Jagoda tiramisu torta](#jagoda-tiramisu-torta) — 2025-02-26
+- [Zimska jaffa tortica](#zimska-jaffa-tortica-2) — 2024-12-14
+- [Čoko malina tortica](#coko-malina-tortica) — 2024-10-25
+- [Grčka torta](#grcka-torta) — 2024-08-03
+- [Cheesecake rolat bueno malinica](#cheesecake-rolat-bueno-malinica) — 2024-07-18
+- [Lukina rodjendanska plazma tortica 7 ⃣](#lukina-rodjendanska-plazma-tortica-7) — 2024-07-13
+- [Čoko malina straćatela](#coko-malina-stracatela) — 2024-06-26
+- [Malina vanila tortica](#malina-vanila-tortica) — 2024-06-05
+- [Jagodica tortica](#jagodica-tortica-2) — 2024-05-29
+- [Bajadera torta](#bajadera-torta) — 2024-04-19
+- [Banana-lotus sladoled tortica](#banana-lotus-sladoled-tortica) — 2024-04-11
+- [Lekina rodjendanska](#lekina-rodjendanska) — 2024-03-08
+- [Moja rodjendanska](#moja-rodjendanska) — 2024-02-28
+- [Kinder bueno keks tortica](#kinder-bueno-keks-tortica) — 2023-12-25
+- [Zimska jaffa tortica](#zimska-jaffa-tortica) — 2023-12-13
+- [Kremasta OREO tortica](#kremasta-oreo-tortica) — 2023-09-05
+- [Reforma torta](#reforma-torta) — 2023-07-31
+- [Čizkejk od borovnica i bele čokolade](#cizkejk-od-borovnica-i-bele-cokolade) — 2023-06-22
+- [Jagodica tortica](#jagodica-tortica) — 2023-05-10
+- [Lenina rođendanska](#lenina-rodjendanska) — 2023-03-09
+- [Trostruko čokoladni cheesecake](#trostruko-cokoladni-cheesecake) — 2023-02-27
+- [Baileys tortica](#baileys-tortica) — 2022-12-26
+- [Ferrero cheesecake](#ferrero-cheesecake) — 2022-10-04
+- [Lagana tortica sa jagodama i oreo keksom](#lagana-tortica-sa-jagodama-i-oreo-keksom) — 2022-06-17
+- [Slana palačinka tortica](#slana-palacinka-tortica) — 2022-06-10
+- [Čoko karamelizovana fantazija](#coko-karamelizovana-fantazija) — 2022-04-26
+- [Torta sa jagodama gotova za 10 minuta](#torta-sa-jagodama-gotova-za-10-minuta) — 2022-04-03
+- [Bela jagodica](#bela-jagodica) — 2022-03-08
+- [Ferrero rocher cake](#ferrero-rocher-cake) — 2021-12-21
+- [Čoko malina fantazija](#coko-malina-fantazija) — 2021-12-13
+- [Kinder bueno tortica](#kinder-bueno-tortica) — 2021-10-07
+- [Cheesecake palačinke](#cheesecake-palacinke) — 2021-06-12
+- [Sladoled sendvič tortica](#sladoled-sendvic-tortica) — 2021-05-24
+- [Oreo jagodica](#oreo-jagodica) — 2021-05-14
+- [Prolećna kremasta tortica](#prolecna-kremasta-tortica) — 2021-03-24
+- [Caramel cheesecake](#caramel-cheesecake) — 2021-02-13
+- [SAHER TORTA](#saher-torta) — 2021-01-01
+- [Zapečeni cheesecake sa plazmom i belom čokoladom](#zapeceni-cheesecake-sa-plazmom-i-belom-cokoladom) — 2020-08-06
 
 ## Slano (118)
-- [Štapići sa lukom](#dc6hwewqnbc) — 2026-09-05
-- [Ćuftice u paradajz sosu sa pirinčem](#dabpjvtiyc2) — 2026-07-05
-- [Zalivena pita s mesom](#dz15pg-qamf) — 2026-06-21
-- [Doručak](#dzmr47yqezu) — 2026-06-15
-- [Nedeljom](#dza4ewuqum5) — 2026-05-31
-- [Jedna smesa - dva potpuno različita obroka koje klinci ob…](#dycllpokgbo) — 2026-05-07
-- [Savršeni brusketi](#dxegdpfgski) — 2026-04-13
-- [Posebno su lepa jaja farbana prirodnim bojama](#dw3gdimai3u) — 2026-04-08
-- [Punjene paprike iz rerne - ručak koji uvek miriše na dom](#dwn_2r-grnp) — 2026-04-02
-- [Uskrs nam se bliži i ako prvi put ove godine farbate jaja…](#dwrrz0jgkgy) — 2026-03-24
-- [Ovo je tehnika farbanja jaja koja me uvek podseti na deti…](#dwphxz9areh) — 2026-03-23
-- [Musaka](#dv6mqmyaon7) — 2026-03-15
-- [Prvi put sam spremala špansku tortilju i moram da priznam…](#dvylsixgk_1) — 2026-03-12
-- [Pancerote iz rerne](#dul7gwzatto) — 2026-01-31
-- [Teleća čorbica](#dtxuxyzah_7) — 2026-01-21
-- [Mimoza](#dsqetgkgpzd) — 2025-12-24
-- [Pileće ćuftice](#dphemcje6xl) — 2025-10-07
-- [Mac & Cheese](#dpt_yuzk4xe) — 2025-10-02
-- [Pancerote iz rerne – mekane](#dosxzmrgp5c) — 2025-09-07
-- [Krem čorbica sa piletinom i povrćem](#dn6hkksgjbf) — 2025-08-28
-- [Zalivena pita s mesom](#dnv9rymxcq7) — 2025-08-24
-- [Znate one recepte koji uvek „spasu dan“](#dnbqgyumgbb) — 2025-08-16
-- [Teletina i krompirići - prste da poližeš](#dm3unh7ms2k) — 2025-08-02
-- [Ako vam treba ideja za ručak](#dmin9krolkp) — 2025-07-15
-- [Ovo je tehnika farbanja jaja koja me uvek podseti na deti…](#dijjqs5s-tl) — 2025-04-17
-- [Ove godine posebno su viralna jaja farbana prirodnim bojama](#dia8mlsmc5v) — 2025-04-14
-- [Uskrs nam se bliži i ako prvi put ove godine farbate jaja…](#dihwgjmspuf) — 2025-04-06
-- [Domaća supa sa knedlama](#dhtq0v1m-jn) — 2025-03-27
-- [Ručak koji svi obožavamo – sočni svinjski file sa krompir…](#dhroq_nm_0j) — 2025-03-26
-- [Lepinjice punjene piletinom](#dhhc4j_mmd5) — 2025-03-12
-- [Cannelloni sa junećim mesom](#dglbf81sbfl) — 2025-02-17
-- [Susam feta pancerote iz rerne](#de7smbcsipr) — 2025-01-17
-- [Cene idu dole](#dcbe91qmcq6) — 2024-11-16
-- [Preukusan juneći gulaš kao ideja za ručak za celu porodicu!](#dbldq3ssbgf) — 2024-10-26
-- [Recept za ovu jednostavnu](#dboxcqvm5ks) — 2024-10-17
-- [Štapići sa lukom](#dajba_qsrvb) — 2024-09-20
-- [Nije li ovo jedan od onih ukusa koji vraća u detinjstvo?](#c_sgfqvm4pm) — 2024-09-09
-- [Tražite zdrave ideje za školsku užinu?](#c_kuvhbszyb) — 2024-09-06
-- [Pripremam vegan burger koji izgleda](#c8se2olokfs) — 2024-06-16
-- [Ideja za ručak](#c7os1ngmebc) — 2024-05-31
-- [Danas sam spremala ukusnu i zdravu salatu sa @gardengourm…](#c7przufoi15) — 2024-05-21
-- [Ostavljam vam snimak za postupak i način na koji ja najvi…](#c5sbvxrmeeh) — 2024-04-13
-- [Kiš sa piletinom](#c5c9whssfir) — 2024-04-07
-- [Posni krekeri](#c5vyqtrstgr) — 2024-04-04
-- [Otvorene punjene paprike](#c5quevdmjrm) — 2024-04-02
-- [Štapići sa susamom i sirom od samo 4 sastojka](#c43cuk4sqer) — 2024-03-23
-- [Savršeni brusketi](#c2nywn8mb7e) — 2024-01-17
-- [Piletina i krompirići iz rerne](#c1rmdvgm5wa) — 2024-01-04
-- [Poseban je užitak biti okružen dragim ljudima za vreme pr…](#c01w51bs1hz) — 2023-12-14
-- [Piletina sa mlincima](#c0gn7zhm-nz) — 2023-12-06
-- [Paradajz potaž](#cyx266tmro7) — 2023-10-24
-- [Pasta sa piletinom u lešniku](#cygkfskspog) — 2023-10-17
-- [Mini topli sendviči zapečeni u rerni](#cwwxcthsclk) — 2023-09-04
-- [Pileće ćuftice u sosu od pečuraka poslužene na pireu](#cwc0qshm5aa) — 2023-08-17
-- [Rolovane tikvice u prezlama i parmezanu punjene pršutom i…](#cv7t3dxa2rj) — 2023-08-14
-- [Domaći sendvič sladoled](#cvui3flgcb0) — 2023-08-09
-- [Puter kajzerice sa belim lukom](#cvkkrk1gokz) — 2023-08-05
-- [Pileći štapici u mrvljenom lešniku](#cupen8oaapj) — 2023-07-13
-- [Kremasta salata sa ćuretinom u lisnatim korpicama](#ctgabs1ay8i) — 2023-06-15
-- [Ostavljam vam prošlogodišnji snimak za postupak i način n…](#cq8z2dvg_9f) — 2023-04-12
-- [Cannelloni sa junećim mesom](#cqgy4hma5cy) — 2023-04-01
-- [Krem čorbica sa piletinom i povrćem](#coxo2lpgngs) — 2023-02-17
-- [Uživanje u doručku je duplo veće onda kada je neko drugi…](#coucigfa7m7) — 2023-02-06
-- [Zapečene ćuftice na pireu u paradajz sosu](#coqc3wyanba) — 2023-02-04
-- [Zapečene tagliatelle sa pršutom](#cnxj6c7p3xs) — 2023-01-23
-- [Ideja za ručak](#cnxzbs2j0h-) — 2023-01-13
-- [Teletina sa povrćem](#cnckia6pcws) — 2023-01-05
-- [Mimoza](#cnanzsoj-8u) — 2023-01-04
-- [Evo jedne lagane](#cm9gsbcpwpz) — 2023-01-03
-- [Pita sa piletinom](#cmtej2ejqcn) — 2022-12-28
-- [Domaći ukusni žu-žu](#clzpiw_gu-e) — 2022-11-25
-- [Aromatični hlebčići sa umakom od sira](#cki-i2gkmp3) — 2022-11-04
-- [Musaka sa tikvicama](#ckwuvcdgq4m) — 2022-10-30
-- [Pancerote iz rerne](#ckdjxtna8t8) — 2022-10-23
-- [Piletina u kremastom sosu](#cj_c4vyar3d) — 2022-10-21
-- [Savršeni brusketi](#cjvou1dapmn) — 2022-10-15
-- [Štapići sa lukom](#cio9unfaisk) — 2022-09-18
-- [Istina je da ćete isprljati nešto više sudova](#cihc6magli8) — 2022-09-15
-- [Parmezan piletina u paradajz sosu sa njokama](#ciszzxxgqui) — 2022-09-09
-- [Danas smo rešili da tremu umirimo kupovinom u @lidlsrbija…](#ch-bf1tgm6z) — 2022-09-01
-- [Punjene prženice](#cht88t4gdzf) — 2022-08-26
-- [Ćuftice u paradajz sosu sa pirinčem](#cfl4pdggd48) — 2022-06-24
-- [Pasta sa piletinom u lešniku](#ce0tdszahpt) — 2022-06-15
-- [Ovog jutra idemo na jedan ekstremno brz](#ceiorg7asdi) — 2022-05-29
-- [Rolovana punjena piletina i mladi krompirići](#cdp_5ngab0c) — 2022-05-17
-- [Hlebčići punjeni piletinom u belom sosu](#cdfwyekgrkt) — 2022-05-13
-- [Pasta carbonara](#cdx_h6jgg95) — 2022-05-10
-- [Krompir ćuftice u bešamel sosu](#cdogvdxazew) — 2022-05-06
-- [Slatka pasta od](#cbrwwqia8w3) — 2022-03-29
-- [Nedelja](#cbmkjm7sumg) — 2022-03-27
-- [Aromatični hlebčići sa umakom od sira](#canfg4bg88o) — 2022-03-02
-- [Feta srculenca](#cz6t8rusvta) — 2022-02-13
-- [Homemade burgers](#cyzgnaqpyew) — 2022-01-16
-- [Pancerote iz rerne](#cyozpmnj-lk) — 2022-01-12
-- [Pita sa piletinom i kačkavaljem](#cwx0f05syym) — 2021-11-27
-- [Potaž sa brokolijem i čedar sirom](#cwd9lgbsntd) — 2021-11-09
-- [Pasta sa piletinom u lešniku](#cvu09-9ms-i) — 2021-11-01
-- [Puter pužići sa pršutom i sirom](#cupih35sw0l) — 2021-09-25
-- [Da uozbiljimo malo stvar](#cp0q2hdpleb) — 2021-06-07
-- [Puter kajzerice sa belim lukom](#coadlw_pokw) — 2021-05-03
-- [Savršeni brusketi](#cnupyiepi06) — 2021-04-06
-- [Štapići sa sirom](#cnp3fvejxxx) — 2021-04-04
-- [Pileći štapici u mrvljenom lešniku](#cmz1o1yp22o) — 2021-03-14
-- [Homemade burgers](#ck4icsmp57g) — 2021-02-04
-- [Puter kajzerice sa belim lukom](#ckojudbpfiw) — 2021-01-29
-- [Teleća čorbica](#ckoc4otjyiu) — 2021-01-19
-- [Odgovorno tvrdim](#chu7nj9jygm) — 2020-11-08
-- [Pileću čorbicu ste spremali u tolikom broju i sa oduše…](#chnesjkpago) — 2020-11-05
-- [Piletina na njokama u krem sosu sa pršutom i parmezanom](#cg5sjhepcnt) — 2020-10-28
-- [Krem čorbica sa piletinom i povrćem](#cgfs5wipqvb) — 2020-10-08
-- [Grisini sa parmezanom i belim lukom](#cfw7mlrjpr2) — 2020-09-30
-- [Štapići sa sirom](#cejilcej42a) — 2020-08-21
-- [Pileći file punjen spanaćem i sirom](#cd6whh5pryo) — 2020-08-15
-- [Tagliatelle u krem sosu sa piletinom](#cdykeevp5xs) — 2020-08-12
-- [Pita sa piletinom i kačkavaljem](#cda4w4cjokw) — 2020-08-03
-- [U našoj kući se često nađje na stolu](#ccsedvwpww-) — 2020-07-16
-- [Homemade burgers](#cbterqkpegb) — 2020-06-11
-- [Istina je da ćete za pripremu ovog jela isprljati nešto v…](#cbodcbnp9lx) — 2020-06-09
+- [Štapići sa lukom](#stapici-sa-lukom-3) — 2026-09-05
+- [Ćuftice u paradajz sosu sa pirinčem](#cuftice-u-paradajz-sosu-sa-pirincem-2) — 2026-07-05
+- [Zalivena pita s mesom](#zalivena-pita-s-mesom-2) — 2026-06-21
+- [Doručak](#dorucak) — 2026-06-15
+- [Nedeljom](#nedeljom) — 2026-05-31
+- [Jedna smesa - dva potpuno različita obroka koje klinci ob…](#jedna-smesa-dva-potpuno-razlicita-obroka-koje-klinci-ob) — 2026-05-07
+- [Savršeni brusketi](#savrseni-brusketi-4) — 2026-04-13
+- [Posebno su lepa jaja farbana prirodnim bojama](#posebno-su-lepa-jaja-farbana-prirodnim-bojama) — 2026-04-08
+- [Punjene paprike iz rerne - ručak koji uvek miriše na dom](#punjene-paprike-iz-rerne-rucak-koji-uvek-mirise-na-dom) — 2026-04-02
+- [Uskrs nam se bliži i ako prvi put ove godine farbate jaja…](#uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja-2) — 2026-03-24
+- [Ovo je tehnika farbanja jaja koja me uvek podseti na deti…](#ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti-2) — 2026-03-23
+- [Musaka](#musaka) — 2026-03-15
+- [Prvi put sam spremala špansku tortilju i moram da priznam…](#prvi-put-sam-spremala-spansku-tortilju-i-moram-da-priznam) — 2026-03-12
+- [Pancerote iz rerne](#pancerote-iz-rerne-3) — 2026-01-31
+- [Teleća čorbica](#teleca-corbica-2) — 2026-01-21
+- [Mimoza](#mimoza-2) — 2025-12-24
+- [Pileće ćuftice](#pilece-cuftice) — 2025-10-07
+- [Mac & Cheese](#mac-cheese) — 2025-10-02
+- [Pancerote iz rerne – mekane](#pancerote-iz-rerne-mekane) — 2025-09-07
+- [Krem čorbica sa piletinom i povrćem](#krem-corbica-sa-piletinom-i-povrcem-3) — 2025-08-28
+- [Zalivena pita s mesom](#zalivena-pita-s-mesom) — 2025-08-24
+- [Znate one recepte koji uvek „spasu dan“](#znate-one-recepte-koji-uvek-spasu-dan) — 2025-08-16
+- [Teletina i krompirići - prste da poližeš](#teletina-i-krompirici-prste-da-polizes) — 2025-08-02
+- [Ako vam treba ideja za ručak](#ako-vam-treba-ideja-za-rucak) — 2025-07-15
+- [Ovo je tehnika farbanja jaja koja me uvek podseti na deti…](#ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti) — 2025-04-17
+- [Ove godine posebno su viralna jaja farbana prirodnim bojama](#ove-godine-posebno-su-viralna-jaja-farbana-prirodnim-bojama) — 2025-04-14
+- [Uskrs nam se bliži i ako prvi put ove godine farbate jaja…](#uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja) — 2025-04-06
+- [Domaća supa sa knedlama](#domaca-supa-sa-knedlama) — 2025-03-27
+- [Ručak koji svi obožavamo – sočni svinjski file sa krompir…](#rucak-koji-svi-obozavamo-socni-svinjski-file-sa-krompir) — 2025-03-26
+- [Lepinjice punjene piletinom](#lepinjice-punjene-piletinom) — 2025-03-12
+- [Cannelloni sa junećim mesom](#cannelloni-sa-junecim-mesom-2) — 2025-02-17
+- [Susam feta pancerote iz rerne](#susam-feta-pancerote-iz-rerne) — 2025-01-17
+- [Cene idu dole](#cene-idu-dole) — 2024-11-16
+- [Preukusan juneći gulaš kao ideja za ručak za celu porodicu!](#preukusan-juneci-gulas-kao-ideja-za-rucak-za-celu-porodicu) — 2024-10-26
+- [Recept za ovu jednostavnu](#recept-za-ovu-jednostavnu) — 2024-10-17
+- [Štapići sa lukom](#stapici-sa-lukom-2) — 2024-09-20
+- [Nije li ovo jedan od onih ukusa koji vraća u detinjstvo?](#nije-li-ovo-jedan-od-onih-ukusa-koji-vraca-u-detinjstvo) — 2024-09-09
+- [Tražite zdrave ideje za školsku užinu?](#trazite-zdrave-ideje-za-skolsku-uzinu) — 2024-09-06
+- [Pripremam vegan burger koji izgleda](#pripremam-vegan-burger-koji-izgleda) — 2024-06-16
+- [Ideja za ručak](#ideja-za-rucak-2) — 2024-05-31
+- [Danas sam spremala ukusnu i zdravu salatu sa @gardengourm…](#danas-sam-spremala-ukusnu-i-zdravu-salatu-sa-gardengourm) — 2024-05-21
+- [Ostavljam vam snimak za postupak i način na koji ja najvi…](#ostavljam-vam-snimak-za-postupak-i-nacin-na-koji-ja-najvi) — 2024-04-13
+- [Kiš sa piletinom](#kis-sa-piletinom) — 2024-04-07
+- [Posni krekeri](#posni-krekeri) — 2024-04-04
+- [Otvorene punjene paprike](#otvorene-punjene-paprike) — 2024-04-02
+- [Štapići sa susamom i sirom od samo 4 sastojka](#stapici-sa-susamom-i-sirom-od-samo-4-sastojka) — 2024-03-23
+- [Savršeni brusketi](#savrseni-brusketi-3) — 2024-01-17
+- [Piletina i krompirići iz rerne](#piletina-i-krompirici-iz-rerne) — 2024-01-04
+- [Poseban je užitak biti okružen dragim ljudima za vreme pr…](#poseban-je-uzitak-biti-okruzen-dragim-ljudima-za-vreme-pr) — 2023-12-14
+- [Piletina sa mlincima](#piletina-sa-mlincima) — 2023-12-06
+- [Paradajz potaž](#paradajz-potaz) — 2023-10-24
+- [Pasta sa piletinom u lešniku](#pasta-sa-piletinom-u-lesniku-3) — 2023-10-17
+- [Mini topli sendviči zapečeni u rerni](#mini-topli-sendvici-zapeceni-u-rerni) — 2023-09-04
+- [Pileće ćuftice u sosu od pečuraka poslužene na pireu](#pilece-cuftice-u-sosu-od-pecuraka-posluzene-na-pireu) — 2023-08-17
+- [Rolovane tikvice u prezlama i parmezanu punjene pršutom i…](#rolovane-tikvice-u-prezlama-i-parmezanu-punjene-prsutom-i) — 2023-08-14
+- [Domaći sendvič sladoled](#domaci-sendvic-sladoled) — 2023-08-09
+- [Puter kajzerice sa belim lukom](#puter-kajzerice-sa-belim-lukom-3) — 2023-08-05
+- [Pileći štapici u mrvljenom lešniku](#pileci-stapici-u-mrvljenom-lesniku-2) — 2023-07-13
+- [Kremasta salata sa ćuretinom u lisnatim korpicama](#kremasta-salata-sa-curetinom-u-lisnatim-korpicama) — 2023-06-15
+- [Ostavljam vam prošlogodišnji snimak za postupak i način n…](#ostavljam-vam-proslogodisnji-snimak-za-postupak-i-nacin-n) — 2023-04-12
+- [Cannelloni sa junećim mesom](#cannelloni-sa-junecim-mesom) — 2023-04-01
+- [Krem čorbica sa piletinom i povrćem](#krem-corbica-sa-piletinom-i-povrcem-2) — 2023-02-17
+- [Uživanje u doručku je duplo veće onda kada je neko drugi…](#uzivanje-u-dorucku-je-duplo-vece-onda-kada-je-neko-drugi) — 2023-02-06
+- [Zapečene ćuftice na pireu u paradajz sosu](#zapecene-cuftice-na-pireu-u-paradajz-sosu) — 2023-02-04
+- [Zapečene tagliatelle sa pršutom](#zapecene-tagliatelle-sa-prsutom) — 2023-01-23
+- [Ideja za ručak](#ideja-za-rucak) — 2023-01-13
+- [Teletina sa povrćem](#teletina-sa-povrcem) — 2023-01-05
+- [Mimoza](#mimoza) — 2023-01-04
+- [Evo jedne lagane](#evo-jedne-lagane) — 2023-01-03
+- [Pita sa piletinom](#pita-sa-piletinom) — 2022-12-28
+- [Domaći ukusni žu-žu](#domaci-ukusni-zu-zu) — 2022-11-25
+- [Aromatični hlebčići sa umakom od sira](#aromaticni-hlebcici-sa-umakom-od-sira-2) — 2022-11-04
+- [Musaka sa tikvicama](#musaka-sa-tikvicama) — 2022-10-30
+- [Pancerote iz rerne](#pancerote-iz-rerne-2) — 2022-10-23
+- [Piletina u kremastom sosu](#piletina-u-kremastom-sosu) — 2022-10-21
+- [Savršeni brusketi](#savrseni-brusketi-2) — 2022-10-15
+- [Štapići sa lukom](#stapici-sa-lukom) — 2022-09-18
+- [Istina je da ćete isprljati nešto više sudova](#istina-je-da-cete-isprljati-nesto-vise-sudova) — 2022-09-15
+- [Parmezan piletina u paradajz sosu sa njokama](#parmezan-piletina-u-paradajz-sosu-sa-njokama) — 2022-09-09
+- [Danas smo rešili da tremu umirimo kupovinom u @lidlsrbija…](#danas-smo-resili-da-tremu-umirimo-kupovinom-u-lidlsrbija) — 2022-09-01
+- [Punjene prženice](#punjene-przenice) — 2022-08-26
+- [Ćuftice u paradajz sosu sa pirinčem](#cuftice-u-paradajz-sosu-sa-pirincem) — 2022-06-24
+- [Pasta sa piletinom u lešniku](#pasta-sa-piletinom-u-lesniku-2) — 2022-06-15
+- [Ovog jutra idemo na jedan ekstremno brz](#ovog-jutra-idemo-na-jedan-ekstremno-brz) — 2022-05-29
+- [Rolovana punjena piletina i mladi krompirići](#rolovana-punjena-piletina-i-mladi-krompirici) — 2022-05-17
+- [Hlebčići punjeni piletinom u belom sosu](#hlebcici-punjeni-piletinom-u-belom-sosu) — 2022-05-13
+- [Pasta carbonara](#pasta-carbonara) — 2022-05-10
+- [Krompir ćuftice u bešamel sosu](#krompir-cuftice-u-besamel-sosu) — 2022-05-06
+- [Slatka pasta od](#slatka-pasta-od) — 2022-03-29
+- [Nedelja](#nedelja) — 2022-03-27
+- [Aromatični hlebčići sa umakom od sira](#aromaticni-hlebcici-sa-umakom-od-sira) — 2022-03-02
+- [Feta srculenca](#feta-srculenca) — 2022-02-13
+- [Homemade burgers](#homemade-burgers-3) — 2022-01-16
+- [Pancerote iz rerne](#pancerote-iz-rerne) — 2022-01-12
+- [Pita sa piletinom i kačkavaljem](#pita-sa-piletinom-i-kackavaljem-2) — 2021-11-27
+- [Potaž sa brokolijem i čedar sirom](#potaz-sa-brokolijem-i-cedar-sirom) — 2021-11-09
+- [Pasta sa piletinom u lešniku](#pasta-sa-piletinom-u-lesniku) — 2021-11-01
+- [Puter pužići sa pršutom i sirom](#puter-puzici-sa-prsutom-i-sirom) — 2021-09-25
+- [Da uozbiljimo malo stvar](#da-uozbiljimo-malo-stvar) — 2021-06-07
+- [Puter kajzerice sa belim lukom](#puter-kajzerice-sa-belim-lukom-2) — 2021-05-03
+- [Savršeni brusketi](#savrseni-brusketi) — 2021-04-06
+- [Štapići sa sirom](#stapici-sa-sirom-2) — 2021-04-04
+- [Pileći štapici u mrvljenom lešniku](#pileci-stapici-u-mrvljenom-lesniku) — 2021-03-14
+- [Homemade burgers](#homemade-burgers-2) — 2021-02-04
+- [Puter kajzerice sa belim lukom](#puter-kajzerice-sa-belim-lukom) — 2021-01-29
+- [Teleća čorbica](#teleca-corbica) — 2021-01-19
+- [Odgovorno tvrdim](#odgovorno-tvrdim) — 2020-11-08
+- [Pileću čorbicu ste spremali u tolikom broju i sa oduše…](#pilecu-corbicu-ste-spremali-u-tolikom-broju-i-sa-oduse) — 2020-11-05
+- [Piletina na njokama u krem sosu sa pršutom i parmezanom](#piletina-na-njokama-u-krem-sosu-sa-prsutom-i-parmezanom) — 2020-10-28
+- [Krem čorbica sa piletinom i povrćem](#krem-corbica-sa-piletinom-i-povrcem) — 2020-10-08
+- [Grisini sa parmezanom i belim lukom](#grisini-sa-parmezanom-i-belim-lukom) — 2020-09-30
+- [Štapići sa sirom](#stapici-sa-sirom) — 2020-08-21
+- [Pileći file punjen spanaćem i sirom](#pileci-file-punjen-spanacem-i-sirom) — 2020-08-15
+- [Tagliatelle u krem sosu sa piletinom](#tagliatelle-u-krem-sosu-sa-piletinom) — 2020-08-12
+- [Pita sa piletinom i kačkavaljem](#pita-sa-piletinom-i-kackavaljem) — 2020-08-03
+- [U našoj kući se često nađje na stolu](#u-nasoj-kuci-se-cesto-nadjje-na-stolu) — 2020-07-16
+- [Homemade burgers](#homemade-burgers) — 2020-06-11
+- [Istina je da ćete za pripremu ovog jela isprljati nešto v…](#istina-je-da-cete-za-pripremu-ovog-jela-isprljati-nesto-v) — 2020-06-09
 
 ## Doručak (43)
-- [Mini američke palačinke u čaši](#dbombdoqzw4) — 2026-07-25
-- [Čokoladne američke palačinke](#dxskijralmb) — 2026-04-18
-- [Domaća granola pripremljena kod kuće je za mene pravo otk…](#dualzlfglwv) — 2026-02-06
-- [Najkremastija čokoladna ovsena kaša](#dt-nbvkjhp0) — 2026-01-26
-- [No bake granola bars](#dpvryzlag5q) — 2025-10-13
-- [Waffle krekeri (slane galete)](#doisozfaotn) — 2025-09-03
-- [Provereno najbolji recept za domaće palačinke](#dkczyzxtofp) — 2025-06-03
-- [Ukusan](#djwybwlmplv) — 2025-05-07
-- [Ako nešto zaslužuje počasno mesto na uskršnjoj trpezi](#digrfrdsrij) — 2025-04-16
-- [Američke palačinke](#dhjsxzgs8t_) — 2025-03-23
-- [Brzinske slane palačinke – savršen doručak ili večera](#dgihjramtjj) — 2025-02-16
-- [French toast](#danoj9kowbi) — 2024-09-22
-- [Waffle](#c475z77m698) — 2024-03-25
-- [S r e d a](#cxz6sfvs0rt) — 2023-09-20
-- [Klasični waffle](#csn1_ivaivc) — 2023-05-14
-- [Zapečeni palačinka paketići](#croa4tygddi) — 2023-04-19
-- [Čokoladna ovsena kaša](#cqukbbagpig) — 2023-04-07
-- [Omiljeni jutarnji ritual u našoj kući je upravo pravljenj…](#cow6vcgaqaj) — 2023-02-07
-- [Čoko lešnik waffle](#cn9kjajaj_k) — 2023-01-28
-- [Čokoladna ovsena kaša](#cjafprzg3jn) — 2022-09-27
-- [Američke palačinke](#cie7ze3gwdh) — 2022-09-04
-- [Waffle krekeri ( slane galete )](#ch4pej1g2ja) — 2022-08-30
-- [French toast](#cht-aflgyp8) — 2022-08-16
-- [Waffle](#cd-hbecs2rn) — 2022-05-25
-- [Sladoled kaša](#cdxkdvdgmbb) — 2022-05-20
-- [Američke palačinke](#cabwfnwsaje) — 2022-02-26
-- [Američke palačinke](#csyt6fqm0oo) — 2021-08-20
-- [Ledena kaša](#cslr6_nmki5) — 2021-08-15
-- [Jer je vredna svakog isprobavanja](#crvzsizpc1o) — 2021-07-15
-- [Ovog jutra smo svi zajedno na doručku](#cqx52cejsr4) — 2021-07-01
-- [ČOKOLADNI WAFFLE](#cpns2xjjzx8) — 2021-05-23
-- [Waffle](#cm6_twcp-h0) — 2021-03-27
-- [Nedelja veče i dom koji miriše na palačinke](#cmshio3pavq) — 2021-03-21
-- [Ko se kod vas najviše obraduje doručku..?](#clyi4boppdf) — 2021-02-27
-- [Ponedeljkom volimo da krenemo sa nekim zdravijim](#cll9ljxp44e) — 2021-02-22
-- [Waffle](#cj_oisbpb9v) — 2021-01-13
-- [Kako smo ovih dana uživali svi zajedno kod kuće](#cjx7ltqjn5r) — 2021-01-08
-- [Sočne američke palačinke punjene nutellom](#cjqzyzvj-l1) — 2020-12-26
-- [Nama je subota zamirisala na puter](#chspxvmplpd) — 2020-11-07
-- [Bubble waffle](#cgcnuzzjg37) — 2020-10-07
-- [Iskreno](#cfwm_x1pdgj) — 2020-09-20
-- [Imate li i vi predrasude prema odredjenoj vrsti hrane..?](#ceq4vbgjy5c) — 2020-09-03
-- [#yummy RECEPT 2 jaja](#capvbycpfjj) — 2020-05-16
+- [Mini američke palačinke u čaši](#mini-americke-palacinke-u-casi) — 2026-07-25
+- [Čokoladne američke palačinke](#cokoladne-americke-palacinke) — 2026-04-18
+- [Domaća granola pripremljena kod kuće je za mene pravo otk…](#domaca-granola-pripremljena-kod-kuce-je-za-mene-pravo-otk) — 2026-02-06
+- [Najkremastija čokoladna ovsena kaša](#najkremastija-cokoladna-ovsena-kasa) — 2026-01-26
+- [No bake granola bars](#no-bake-granola-bars) — 2025-10-13
+- [Waffle krekeri (slane galete)](#waffle-krekeri-slane-galete-2) — 2025-09-03
+- [Provereno najbolji recept za domaće palačinke](#provereno-najbolji-recept-za-domace-palacinke) — 2025-06-03
+- [Ukusan](#ukusan) — 2025-05-07
+- [Ako nešto zaslužuje počasno mesto na uskršnjoj trpezi](#ako-nesto-zasluzuje-pocasno-mesto-na-uskrsnjoj-trpezi) — 2025-04-16
+- [Američke palačinke](#americke-palacinke-5) — 2025-03-23
+- [Brzinske slane palačinke – savršen doručak ili večera](#brzinske-slane-palacinke-savrsen-dorucak-ili-vecera) — 2025-02-16
+- [French toast](#french-toast-2) — 2024-09-22
+- [Waffle](#waffle-4) — 2024-03-25
+- [S r e d a](#s-r-e-d-a) — 2023-09-20
+- [Klasični waffle](#klasicni-waffle) — 2023-05-14
+- [Zapečeni palačinka paketići](#zapeceni-palacinka-paketici) — 2023-04-19
+- [Čokoladna ovsena kaša](#cokoladna-ovsena-kasa-2) — 2023-04-07
+- [Omiljeni jutarnji ritual u našoj kući je upravo pravljenj…](#omiljeni-jutarnji-ritual-u-nasoj-kuci-je-upravo-pravljenj) — 2023-02-07
+- [Čoko lešnik waffle](#coko-lesnik-waffle) — 2023-01-28
+- [Čokoladna ovsena kaša](#cokoladna-ovsena-kasa) — 2022-09-27
+- [Američke palačinke](#americke-palacinke-4) — 2022-09-04
+- [Waffle krekeri ( slane galete )](#waffle-krekeri-slane-galete) — 2022-08-30
+- [French toast](#french-toast) — 2022-08-16
+- [Waffle](#waffle-3) — 2022-05-25
+- [Sladoled kaša](#sladoled-kasa) — 2022-05-20
+- [Američke palačinke](#americke-palacinke-3) — 2022-02-26
+- [Američke palačinke](#americke-palacinke-2) — 2021-08-20
+- [Ledena kaša](#ledena-kasa) — 2021-08-15
+- [Jer je vredna svakog isprobavanja](#jer-je-vredna-svakog-isprobavanja) — 2021-07-15
+- [Ovog jutra smo svi zajedno na doručku](#ovog-jutra-smo-svi-zajedno-na-dorucku) — 2021-07-01
+- [ČOKOLADNI WAFFLE](#cokoladni-waffle) — 2021-05-23
+- [Waffle](#waffle-2) — 2021-03-27
+- [Nedelja veče i dom koji miriše na palačinke](#nedelja-vece-i-dom-koji-mirise-na-palacinke) — 2021-03-21
+- [Ko se kod vas najviše obraduje doručku..?](#ko-se-kod-vas-najvise-obraduje-dorucku) — 2021-02-27
+- [Ponedeljkom volimo da krenemo sa nekim zdravijim](#ponedeljkom-volimo-da-krenemo-sa-nekim-zdravijim) — 2021-02-22
+- [Waffle](#waffle) — 2021-01-13
+- [Kako smo ovih dana uživali svi zajedno kod kuće](#kako-smo-ovih-dana-uzivali-svi-zajedno-kod-kuce) — 2021-01-08
+- [Sočne američke palačinke punjene nutellom](#socne-americke-palacinke-punjene-nutellom) — 2020-12-26
+- [Nama je subota zamirisala na puter](#nama-je-subota-zamirisala-na-puter) — 2020-11-07
+- [Bubble waffle](#bubble-waffle) — 2020-10-07
+- [Iskreno](#iskreno) — 2020-09-20
+- [Imate li i vi predrasude prema odredjenoj vrsti hrane..?](#imate-li-i-vi-predrasude-prema-odredjenoj-vrsti-hrane) — 2020-09-03
+- [#yummy RECEPT 2 jaja](#yummy-recept-2-jaja) — 2020-05-16
 
-## Kolači i keks (215)
-- [Nutella mafini](#dc0mvxkqjng) — 2026-09-03
-- [Kolač sa šljivama](#dcolxndkgrf) — 2026-08-29
-- [Domaći cake popsi koji su meni uvek lepši od bilo koje ku…](#dbqxorwiyjd) — 2026-08-05
-- [Sočni kolač sa breskvama](#dalnlujq7ov) — 2026-07-09
-- [Vanila pita sa višnjama](#dajbruokarw) — 2026-06-28
-- [Pleh: 24 x 31 cm](#dzzwbs5kgei) — 2026-06-10
-- [Krofnice iz rerne](#dziygl-kou0) — 2026-06-03
-- [Bounty čokoladice](#dwwvszagveo) — 2026-03-26
-- [Brownie lava muffins](#dv_0yn_apai) — 2026-03-17
-- [Tart bela čokolada & crveno voće](#dvd6zsqalk9) — 2026-02-22
-- [DOMAĆE ŠUPLJIKAVE KROFNE](#du1aakgggsq) — 2026-02-16
-- [Plazma kocke sa belom čokoladom](#dutlbwgdfxa) — 2026-02-03
-- [Banana rolat sa džemom od kajsije](#dt8ygyvjmbt) — 2026-01-25
-- [Rolat sa jabukama](#dtaotd4gqns) — 2026-01-12
-- [Nutella M&M’s COOKIES](#ds-6dbugrta) — 2026-01-01
-- [Slane krofnice](#dsx1g5sal1r) — 2025-12-27
-- [Posna plazma srca sa pomorandžom](#dss23hmakhh) — 2025-12-15
-- [Bakin kolač](#drsb4mwjehn) — 2025-11-30
-- [Posne Ferrero Rocher kuglice](#droqbv5amnh) — 2025-11-29
-- [Korpice bela čokolada – malina](#drc1tmegm_h) — 2025-11-24
-- [Kinder Bueno štanglice – recept koji ćete obožavati](#dq7hiafdtqc) — 2025-11-11
-- [I imamo li ovde ljubitelja kafeeee…?](#dqq9kr7amau) — 2025-11-05
-- [Lešnik gnezda](#dqbii64gnxi) — 2025-10-30
-- [Badem praline](#dqu0eeeapb0) — 2025-10-27
-- [Sočni kolač sa voćem](#dpbbilqk5hq) — 2025-10-05
-- [Nutella mafini](#dpd_dybgkgm) — 2025-09-26
-- [Kolač sa šljivama](#do84g5xauj7) — 2025-09-23
-- [Zdrave čoko kuglice od samo 4 sastojka](#doaihp-andw) — 2025-09-10
-- [Brownie chocolate cookie](#dn_odu-glur) — 2025-08-30
-- [Mafini sa malinama i crnom čokoladom](#dn3g2qyxj2o) — 2025-08-27
-- [Sočni kolač sa breskvama](#dnllrxumf3e) — 2025-08-20
-- [Recept savršen za leto](#dmvopvxibcn) — 2025-07-30
-- [Sladoled kolač sa kokosom i malinama](#dmkkoljmzup) — 2025-07-16
-- [Tako da – kod nas sve miriše na domaće krofne](#dlakak_ob6y) — 2025-06-17
-- [Brzi jogurt uštipci](#di8vk2rmdmk) — 2025-04-27
-- [Slani rolat](#dimbwlzsjbs) — 2025-04-08
-- [Muffin Čupavci punjeni višnjama](#didweissk63) — 2025-04-05
-- [Brza i sočna pita sa sirom](#df2jmgsmy9x) — 2025-02-09
-- [Rolat sa jabukama](#dfyxbrwxdqv) — 2025-01-28
-- [Posna plazma srca sa pomorandžom – slatka](#dec9r5tskbm) — 2025-01-05
-- [Slani rolat s orasima](#dex7kwxsv6c) — 2025-01-03
-- [Decembar mi je totalno haotičan i užurban](#dee8qcimt5g) — 2024-12-27
-- [Posne Ferrero Rocher kuglice](#ddr8x2zmvy9) — 2024-12-17
-- [Puteraste mašnice](#ddhpto4mrkc) — 2024-12-13
-- [Korpice bela čokolada-malina](#ddnaqors8-u) — 2024-12-05
-- [Kinder Bueno štanglice – recept koji ćete obožavati](#dcj6kzhmlm3) — 2024-11-19
-- [Zebra mafini – desert koji spaja savršen ukus i zabavan i…](#dchhxtcon-j) — 2024-11-08
-- [Kesten kolačići](#dbt51los5mu) — 2024-10-29
-- [Mamina štrudla crna čokolada & višnje](#daokvlxmzuq) — 2024-10-02
-- [Evo recepta za popularnu Dubai čokoladu](#daro816sz6g) — 2024-09-23
-- [Jabuka mafini](#c_2xc6vmz5v) — 2024-09-13
-- [Stigao mi je i drugi Temu paket](#c_yui_jmexg) — 2024-09-11
-- [Miris krofni vraća me u ne tako daleku prošlost](#c_pdc06s0-w) — 2024-09-08
-- [Voćni kolač](#c-5sb3imne_) — 2024-08-20
-- [Uskršnji plazma jagoda kolačići](#c6iaojgs4xf) — 2024-05-04
-- [Musaka rolat](#c6jlmjpm-84) — 2024-04-24
-- [Slani rolat](#c6a-n4vsudd) — 2024-04-21
-- [Savršeno čokoladne kuglice](#c508yoemibb) — 2024-04-16
-- [Krofnice iz aparata](#c5vkv8amf_i) — 2024-04-14
-- [Piškota kolač bela čokolada & jagode](#c3urosus8-y) — 2024-02-24
-- [Milka srculenca](#c3civaqsrka) — 2024-02-07
-- [Čoko lešnik tart](#c2huihksysc) — 2024-01-25
-- [Čoko višnja kolač](#c2f2uvosamg) — 2024-01-14
-- [Posne plazma pomorandza bombonjerice](#c1u64dpm8mp) — 2024-01-05
-- [Medenjaci](#c0dqf94m5jz) — 2023-12-05
-- [Badem puter keksići](#c0rnin9s50_) — 2023-11-30
-- [Zrna kafe](#czwb3hxsdpx) — 2023-11-17
-- [Brza pita sa jabukama](#czqo_hwmulg) — 2023-11-15
-- [Lešnik gnezda](#czidi4es6xt) — 2023-11-12
-- [Badem praline](#cy3kf4vmvir) — 2023-10-26
-- [Kolač koji miriše na jesen](#cywqj02sudr) — 2023-10-13
-- [Brzi jogurt uštipci](#cx50olysr6e) — 2023-10-02
-- [Nutella & banana mafini](#cxn1pwrm-ux) — 2023-09-25
-- [Sočni breskva kolač](#cxiln11mwm4) — 2023-09-13
-- [Tart bela čokolada & crveno voće](#cwnbcznslxf) — 2023-08-31
-- [Sladoled kolač sa malinama i belom čokoladom](#cu7fruyand3) — 2023-07-20
-- [Nutella M&M’s COOKIES](#ctunwjegket) — 2023-06-20
-- [Danas sam dečicu iz škole i vrtića dočekala sa onim najje…](#ctzwjcdadky) — 2023-06-12
-- [Piškota kolač sa jagodama & belom čokoladom](#csvuuwkgpdt) — 2023-05-27
-- [Krofnice iz rerne](#csehjdlakyo) — 2023-05-20
-- [Jagoda mafini](#cqlpmqbaeqg) — 2023-03-24
-- [Da li ste čuli da je u toku veeeeliko @plazma_zvanicna Pl…](#cpf3ssagxo2) — 2023-03-07
-- [Mamina štrudla crna čokolada & višnje](#coc8bhrgvpy) — 2023-02-09
-- [Ljubavni puter keksići](#colae_zgomg) — 2023-02-02
-- [Praline od bele & mlečne čokolade](#cm7lanujl3-) — 2023-01-02
-- [Karamel plazma popsići & kolačići](#cmewhwxj1nj) — 2022-12-22
-- [Čoko lešnik praline](#cmmpcnguubi) — 2022-12-15
-- [Medenjaci](#clyzqx7ae_i) — 2022-12-05
-- [Lešnik puter keksići](#clmvvofa_lg) — 2022-11-20
-- [Plazma & malina tart](#ck6zl5lahon) — 2022-11-13
-- [Plazma kocke sa belom čokoladom](#ckq3hxaggig) — 2022-11-07
-- [Heej hej! Društvo](#ckdgjk4qnqi) — 2022-11-02
-- [Snickers cookies](#cjkdg66aars) — 2022-10-11
-- [Brzi jogurt uštipci](#cjni7gdafxd) — 2022-10-02
-- [Domaća pita sa jabukama i vanilom](#cjdhatmaq1y) — 2022-09-28
-- [Kolač sa makom, jabukama & čokoladom](#ci7ya2ogdjq) — 2022-09-25
-- [Banana pralinice](#cizcllzgyha) — 2022-09-22
-- [Mafini](#ciuwrc_gier) — 2022-09-20
-- [Grčke krofnice sa feta sirom i parmezanom](#chhccwkayoj) — 2022-08-21
-- [Milka srculenca](#chkcmxygvo5) — 2022-08-12
-- [Puterasti voćni kolač sa kajsijama](#chesxtdgrt8) — 2022-08-10
-- [Za dekorisanje cupcake kolačica biće vam potreban recept…](#cgkgqzialcc) — 2022-07-28
-- [Pralinice od bele čokolade i jagoda](#cgeewa_ajka) — 2022-07-16
-- [Brownie](#cf_ylickylg) — 2022-07-14
-- [Voćni kolač](#cfbvzt3ankx) — 2022-06-30
-- [Sočni mlečni kolač sa jagodama](#cedqxh-g_xs) — 2022-05-27
-- [Čoko jagoda mafini](#cddp5cygzwd) — 2022-05-12
-- [Nutella M&M’s COOKIES](#ccswxa5acmm) — 2022-04-23
-- [Čokoladna punjena jaja](#cckwlzpgd1z) — 2022-04-20
-- [Prvi u nizu kolačića koji su obožavani za prazničnom trpe…](#ccp1yots0wp) — 2022-04-12
-- [Mafini sa komadićima čokolade](#cbhzyhcamww) — 2022-03-15
-- [Brzi jogurt uštipci](#camcjdmas1x) — 2022-02-20
-- [Vanil krofnice u beloj čokoladi](#cafhvjdabzt) — 2022-02-17
-- [Servirajte ljubav svaki dan](#cz9ewz5sxv_) — 2022-02-14
-- [Ljubavni puter keksići](#czwmaaygavt) — 2022-02-09
-- [Srculenca](#czrgfyaas6n) — 2022-02-07
-- [Kinder cookies](#czbpkngsw8o) — 2022-02-01
-- [Rekla bih da će ovaj vikend u mnogim domovima biti rezerv…](#cyvsruqppts) — 2022-01-15
-- [Pistacchiotti](#cyglxe8mfhe) — 2022-01-09
-- [Raspukli čokoladni keksići](#cyzjaajmaxy) — 2022-01-06
-- [Čajni keksići snežne zvezdice](#cywuf-spand) — 2022-01-05
-- [Rudolf sendvič keksići](#cx1pwmumaxs) — 2021-12-23
-- [Čoko lešnik praline](#cxyap0xsmgb) — 2021-12-22
-- [Posna bajadera](#cxoamtrmog_) — 2021-12-18
-- [Puter keksići](#cxiselymr42) — 2021-12-16
-- [Oraščići](#cxqtn-rmwpr) — 2021-12-09
-- [Čokoladni cupcakes](#cxizkmkmcae) — 2021-12-06
-- [Čokoladni medenjaci](#cw8ujsisdp5) — 2021-12-01
-- [Kokos gnezda](#cw2-tzis2sq) — 2021-11-29
-- [Slani rolat](#cwvhkkjsrgc) — 2021-11-26
-- [Slane kuglice](#cwskur6m0ef) — 2021-11-25
-- [Baklava sa pistaćima](#cwnbm9ksqbq) — 2021-11-23
-- [Jutros me je baš iznenadio i obradovao jedan podatak](#cwaapptsrau) — 2021-11-18
-- [Zrna kafe](#cwx3atwsvez) — 2021-11-17
-- [Novembar je mesec slava](#cwvcpohmoii) — 2021-11-16
-- [Čarobni lešnik keksići](#cwa0rjem3lb) — 2021-11-08
-- [Kolač sa makom i jabukama](#cvqfbcpmwnu) — 2021-10-20
-- [Oreo čokoladni cookies](#cvc1sexs5hx) — 2021-10-15
-- [Coko karamel keksići](#cuzktdmadni) — 2021-09-29
-- [Američka pita sa jabukama](#cuhhnoos8_p) — 2021-09-22
-- [Cookies sa dve vrste čokolade i lešnicima](#cuchx1rmvey) — 2021-09-20
-- [Lagani kolač sa breskvama i malinama](#ct6q-aim7t9) — 2021-09-17
-- [Sočni kolač sa borovnicama](#cthds-wa1ew) — 2021-09-07
-- [Grčke krofnice sa feta sirom i parmezanom](#ctzfnnfmst9) — 2021-09-04
-- [Kuglof od bele i crne čokolade](#ctm79h4szcz) — 2021-08-30
-- [Čokoladni mafini](#cs6f9iosfaj) — 2021-08-23
-- [Kolač sa nektarinama i belom kokos čokoladom](#csw6dz5mde1) — 2021-08-09
-- [Borovnica shake](#cstlkwssyts) — 2021-08-08
-- [Brownie kup](#cr6mz9tp6kt) — 2021-07-29
-- [Breskva mafini](#crrqny9pkfs) — 2021-07-23
-- [Jabuka mafini](#crglfv6jgnu) — 2021-07-09
-- [Keksići sa džemom od kajsija](#crbzducphmx) — 2021-07-07
-- [Čoko lešnik tart](#cqqumlsphox) — 2021-06-28
-- [Osvežavajuć i neodoljivo mekan limun kolač](#cqzf_dbpa_v) — 2021-06-21
-- [Kinder cookies](#cp77v8ljxeg) — 2021-06-10
-- [Kinder plazma shake](#cpyd0sdp9a6) — 2021-06-06
-- [Čokoladne krofnice](#cpsg-ompqen) — 2021-06-04
-- [Sasvim obične čoko jagoda kockice](#cpn2bnajenr) — 2021-06-02
-- [Sočni kolač sa jagodama](#cpaehnwjytr) — 2021-05-28
-- [Uskršnji čoko kolač](#cop-kphpx7t) — 2021-04-29
-- [Ovog puta sam se potrudila da im oblik bude](#cokpzkcpq0i) — 2021-04-27
-- [Krofnice iz aparata](#cofseoepmlu) — 2021-04-25
-- [Nekoliko saveta za savršene](#cn2bxsrj9ks) — 2021-04-19
-- [Susam uštipci](#cnzwfn-pycm) — 2021-04-08
-- [Leptirići](#cnhjpdzjdnq) — 2021-04-01
-- [Jagoda rolat](#cncfaw9pz7n) — 2021-03-30
-- [Nutella lava cookies](#cmjsnpyjzen) — 2021-03-18
-- [Mini krofnice iz rerne](#cmxm7gcpfh_) — 2021-03-13
-- [Jagoda mafini](#cmuyzqnjtr_) — 2021-03-12
-- [Badem višnja bombice](#cmcptqtjicc) — 2021-03-05
-- [Ok, do sada ste verovatno primetili da su cookies moj omi…](#ckwfsksplzs) — 2021-02-01
-- [Samo naizgled, suvi , a zapravo od suvog ni S](#cki4e5ujsax) — 2021-01-27
-- [Ruby srculenca](#ckd-e3fjbty) — 2021-01-25
-- [Čoko pistać fantazija](#cj8eaatj8d1) — 2021-01-12
-- [Ferrero rocher rolat](#cjs9rixjwxo) — 2021-01-06
-- [Medeni cookies](#cjoaiarpdnn) — 2021-01-04
-- [Danas je jedan od praznika kojem smo se brat i ja kao mal…](#cjtdcurj24p) — 2020-12-27
-- [Ovi prstići](#cjolieujuhw) — 2020-12-25
-- [Kod mene nedelja najlepših cookies kolacica](#cji8s0tpcxa) — 2020-12-23
-- [Marshmallow chocolate cookies](#cjgq0o7ply2) — 2020-12-22
-- [Sveti Nikola](#ci-b2g5jklx) — 2020-12-19
-- [Snežni keksići](#ci272qcppfv) — 2020-12-16
-- [Novogodišnji cake pops](#cisz3jmp3-s) — 2020-12-12
-- [Rudolf sendvič keksići](#ciltfi3pq-t) — 2020-12-09
-- [Čoko karamel tart](#ciitnorpknq) — 2020-12-08
-- [A evo i ideje kako da jedan dan u toku nedelje obradujete…](#cifxryyj0_m) — 2020-12-07
-- [Saaaaavršeno kremkast](#civgwl_jik3) — 2020-12-03
-- [Homemade toblerone](#cis54ecptdq) — 2020-12-02
-- [Raspuknuti keksići](#cionsh-jg7y) — 2020-11-30
-- [Chocolate chip cookies](#ciguzzsjln6) — 2020-11-27
-- [Homemade ferrero kuglice](#chybankp2a8) — 2020-11-19
-- [PRAZNIČNI ČAJNI KEKSIĆI](#chs2v68p73o) — 2020-11-17
-- [U ovim hladnim](#chfefk8jmcy) — 2020-11-12
-- [M E D E NJ A C I](#chyk5s-ps2n) — 2020-11-09
-- [Krokant keksići](#chqbdykjqwl) — 2020-11-06
-- [Prvi u nizu kolačića koji najavljuju ono doba kada kuća n…](#chis6ikpr40) — 2020-11-03
-- [Čuveni macaronsi](#cgu2n3sjtgr) — 2020-10-14
-- [Brownie chocolate cookie](#cf9fd41p-ey) — 2020-10-05
-- [Osmislila sam ga tako da zadovolji sve sladokusce](#cfzgwwcjmtp) — 2020-10-01
-- [Ljubitelji milka noisette čokolade i celih pečenih leš…](#cft1zyij4c2) — 2020-09-29
-- [Krofnice gotove za 15 minuta](#cfjtxcfpqtg) — 2020-09-25
-- [Znam da ste bar jednom pomislili koliko je simpaticno kad…](#cfmqdusjkxr) — 2020-09-16
-- [Dobro jutro](#cfbptgnjifq) — 2020-09-12
-- [Tart od bele čokolade i malina](#ce_lod3jawn) — 2020-09-11
-- [Lava cake](#ce2funrp-9z) — 2020-09-07
-- [Kinder plazma šejk](#cejw1_ojx5q) — 2020-08-31
-- [Nutella M&M’s COOKIES](#cecem_fj0xv) — 2020-08-28
-- [Najsočniji mafini sa borovnicama](#cd8hgqdpcwu) — 2020-08-16
-- [Kako da ponedeljak učinite sladjim..?](#cdt1t9yjbxc) — 2020-08-10
-- [Tart sa mlečnom cokoladom i plazma keksom](#cdtvpmtjiq7) — 2020-07-31
-- [Domaći prhki keksici, idealni uz kafu](#ccvaifrptrs) — 2020-07-17
-- [𝗣𝘂𝘁𝗲𝗿 𝗸𝗲𝗸𝘀𝗶𝗰𝗶 𝘀𝗮 𝗰𝗼𝗸𝗼𝗹𝗮𝗱𝗼𝗺 𝗶 𝗹𝗲𝘀𝗻𝗶𝗰𝗶𝗺𝗮](#cbifcykpfg9) — 2020-06-17
-- [𝑂𝑣𝑜 𝑠𝑖𝑣𝑖𝑙𝑜 𝑛𝑎𝑝𝑜𝑙𝑗𝑢](#caaph_oju2a) — 2020-05-20
-- [Krofne](#b_o32vlpt5e) — 2020-05-01
-- [Brownie](#b-7phvypo0b) — 2020-04-13
+## Kolači i keks (214)
+- [Nutella mafini](#nutella-mafini-2) — 2026-09-03
+- [Kolač sa šljivama](#kolac-sa-sljivama-2) — 2026-08-29
+- [Domaći cake popsi koji su meni uvek lepši od bilo koje ku…](#domaci-cake-popsi-koji-su-meni-uvek-lepsi-od-bilo-koje-ku) — 2026-08-05
+- [Sočni kolač sa breskvama](#socni-kolac-sa-breskvama-2) — 2026-07-09
+- [Vanila pita sa višnjama](#vanila-pita-sa-visnjama) — 2026-06-28
+- [Pleh: 24 x 31 cm](#pleh-24-x-31-cm) — 2026-06-10
+- [Krofnice iz rerne](#krofnice-iz-rerne-2) — 2026-06-03
+- [Bounty čokoladice](#bounty-cokoladice-5) — 2026-03-26
+- [Brownie lava muffins](#brownie-lava-muffins) — 2026-03-17
+- [Tart bela čokolada & crveno voće](#tart-bela-cokolada-crveno-voce-3) — 2026-02-22
+- [DOMAĆE ŠUPLJIKAVE KROFNE](#domace-supljikave-krofne) — 2026-02-16
+- [Plazma kocke sa belom čokoladom](#plazma-kocke-sa-belom-cokoladom-2) — 2026-02-03
+- [Banana rolat sa džemom od kajsije](#banana-rolat-sa-dzemom-od-kajsije) — 2026-01-25
+- [Rolat sa jabukama](#rolat-sa-jabukama-2) — 2026-01-12
+- [Nutella M&M’s COOKIES](#nutella-m-m-s-cookies-4) — 2026-01-01
+- [Slane krofnice](#slane-krofnice) — 2025-12-27
+- [Posna plazma srca sa pomorandžom](#posna-plazma-srca-sa-pomorandzom) — 2025-12-15
+- [Bakin kolač](#bakin-kolac) — 2025-11-30
+- [Posne Ferrero Rocher kuglice](#posne-ferrero-rocher-kuglice-2) — 2025-11-29
+- [Korpice bela čokolada – malina](#korpice-bela-cokolada-malina-2) — 2025-11-24
+- [Kinder Bueno štanglice – recept koji ćete obožavati](#kinder-bueno-stanglice-recept-koji-cete-obozavati-2) — 2025-11-11
+- [I imamo li ovde ljubitelja kafeeee…?](#i-imamo-li-ovde-ljubitelja-kafeeee) — 2025-11-05
+- [Lešnik gnezda](#lesnik-gnezda-2) — 2025-10-30
+- [Badem praline](#badem-praline-2) — 2025-10-27
+- [Sočni kolač sa voćem](#socni-kolac-sa-vocem) — 2025-10-05
+- [Nutella mafini](#nutella-mafini) — 2025-09-26
+- [Kolač sa šljivama](#kolac-sa-sljivama) — 2025-09-23
+- [Zdrave čoko kuglice od samo 4 sastojka](#zdrave-coko-kuglice-od-samo-4-sastojka) — 2025-09-10
+- [Brownie chocolate cookie](#brownie-chocolate-cookie-2) — 2025-08-30
+- [Mafini sa malinama i crnom čokoladom](#mafini-sa-malinama-i-crnom-cokoladom) — 2025-08-27
+- [Sočni kolač sa breskvama](#socni-kolac-sa-breskvama) — 2025-08-20
+- [Recept savršen za leto](#recept-savrsen-za-leto) — 2025-07-30
+- [Sladoled kolač sa kokosom i malinama](#sladoled-kolac-sa-kokosom-i-malinama) — 2025-07-16
+- [Tako da – kod nas sve miriše na domaće krofne](#tako-da-kod-nas-sve-mirise-na-domace-krofne) — 2025-06-17
+- [Brzi jogurt uštipci](#brzi-jogurt-ustipci-4) — 2025-04-27
+- [Slani rolat](#slani-rolat-3) — 2025-04-08
+- [Muffin Čupavci punjeni višnjama](#muffin-cupavci-punjeni-visnjama) — 2025-04-05
+- [Brza i sočna pita sa sirom](#brza-i-socna-pita-sa-sirom) — 2025-02-09
+- [Rolat sa jabukama](#rolat-sa-jabukama) — 2025-01-28
+- [Posna plazma srca sa pomorandžom – slatka](#posna-plazma-srca-sa-pomorandzom-slatka) — 2025-01-05
+- [Slani rolat s orasima](#slani-rolat-s-orasima) — 2025-01-03
+- [Decembar mi je totalno haotičan i užurban](#decembar-mi-je-totalno-haotican-i-uzurban) — 2024-12-27
+- [Posne Ferrero Rocher kuglice](#posne-ferrero-rocher-kuglice) — 2024-12-17
+- [Puteraste mašnice](#puteraste-masnice) — 2024-12-13
+- [Korpice bela čokolada-malina](#korpice-bela-cokolada-malina) — 2024-12-05
+- [Kinder Bueno štanglice – recept koji ćete obožavati](#kinder-bueno-stanglice-recept-koji-cete-obozavati) — 2024-11-19
+- [Zebra mafini – desert koji spaja savršen ukus i zabavan i…](#zebra-mafini-desert-koji-spaja-savrsen-ukus-i-zabavan-i) — 2024-11-08
+- [Kesten kolačići](#kesten-kolacici) — 2024-10-29
+- [Mamina štrudla crna čokolada & višnje](#mamina-strudla-crna-cokolada-visnje-2) — 2024-10-02
+- [Evo recepta za popularnu Dubai čokoladu](#evo-recepta-za-popularnu-dubai-cokoladu) — 2024-09-23
+- [Jabuka mafini](#jabuka-mafini-2) — 2024-09-13
+- [Stigao mi je i drugi Temu paket](#stigao-mi-je-i-drugi-temu-paket) — 2024-09-11
+- [Miris krofni vraća me u ne tako daleku prošlost](#miris-krofni-vraca-me-u-ne-tako-daleku-proslost) — 2024-09-08
+- [Voćni kolač](#vocni-kolac-2) — 2024-08-20
+- [Uskršnji plazma jagoda kolačići](#uskrsnji-plazma-jagoda-kolacici) — 2024-05-04
+- [Musaka rolat](#musaka-rolat) — 2024-04-24
+- [Slani rolat](#slani-rolat-2) — 2024-04-21
+- [Savršeno čokoladne kuglice](#savrseno-cokoladne-kuglice) — 2024-04-16
+- [Krofnice iz aparata](#krofnice-iz-aparata-2) — 2024-04-14
+- [Piškota kolač bela čokolada & jagode](#piskota-kolac-bela-cokolada-jagode) — 2024-02-24
+- [Milka srculenca](#milka-srculenca-2) — 2024-02-07
+- [Čoko lešnik tart](#coko-lesnik-tart-2) — 2024-01-25
+- [Čoko višnja kolač](#coko-visnja-kolac) — 2024-01-14
+- [Posne plazma pomorandza bombonjerice](#posne-plazma-pomorandza-bombonjerice) — 2024-01-05
+- [Medenjaci](#medenjaci-2) — 2023-12-05
+- [Badem puter keksići](#badem-puter-keksici) — 2023-11-30
+- [Zrna kafe](#zrna-kafe-2) — 2023-11-17
+- [Brza pita sa jabukama](#brza-pita-sa-jabukama) — 2023-11-15
+- [Lešnik gnezda](#lesnik-gnezda) — 2023-11-12
+- [Badem praline](#badem-praline) — 2023-10-26
+- [Kolač koji miriše na jesen](#kolac-koji-mirise-na-jesen) — 2023-10-13
+- [Brzi jogurt uštipci](#brzi-jogurt-ustipci-3) — 2023-10-02
+- [Nutella & banana mafini](#nutella-banana-mafini) — 2023-09-25
+- [Sočni breskva kolač](#socni-breskva-kolac) — 2023-09-13
+- [Tart bela čokolada & crveno voće](#tart-bela-cokolada-crveno-voce) — 2023-08-31
+- [Sladoled kolač sa malinama i belom čokoladom](#sladoled-kolac-sa-malinama-i-belom-cokoladom) — 2023-07-20
+- [Nutella M&M’s COOKIES](#nutella-m-m-s-cookies-3) — 2023-06-20
+- [Danas sam dečicu iz škole i vrtića dočekala sa onim najje…](#danas-sam-decicu-iz-skole-i-vrtica-docekala-sa-onim-najje) — 2023-06-12
+- [Piškota kolač sa jagodama & belom čokoladom](#piskota-kolac-sa-jagodama-belom-cokoladom) — 2023-05-27
+- [Krofnice iz rerne](#krofnice-iz-rerne) — 2023-05-20
+- [Jagoda mafini](#jagoda-mafini-2) — 2023-03-24
+- [Da li ste čuli da je u toku veeeeliko @plazma_zvanicna Pl…](#da-li-ste-culi-da-je-u-toku-veeeeliko-plazma-zvanicna-pl) — 2023-03-07
+- [Mamina štrudla crna čokolada & višnje](#mamina-strudla-crna-cokolada-visnje) — 2023-02-09
+- [Ljubavni puter keksići](#ljubavni-puter-keksici-2) — 2023-02-02
+- [Praline od bele & mlečne čokolade](#praline-od-bele-mlecne-cokolade) — 2023-01-02
+- [Karamel plazma popsići & kolačići](#karamel-plazma-popsici-kolacici) — 2022-12-22
+- [Čoko lešnik praline](#coko-lesnik-praline-2) — 2022-12-15
+- [Medenjaci](#medenjaci) — 2022-12-05
+- [Lešnik puter keksići](#lesnik-puter-keksici) — 2022-11-20
+- [Plazma & malina tart](#plazma-malina-tart) — 2022-11-13
+- [Plazma kocke sa belom čokoladom](#plazma-kocke-sa-belom-cokoladom) — 2022-11-07
+- [Snickers cookies](#snickers-cookies) — 2022-10-11
+- [Brzi jogurt uštipci](#brzi-jogurt-ustipci-2) — 2022-10-02
+- [Domaća pita sa jabukama i vanilom](#domaca-pita-sa-jabukama-i-vanilom) — 2022-09-28
+- [Kolač sa makom, jabukama & čokoladom](#kolac-sa-makom-jabukama-cokoladom) — 2022-09-25
+- [Banana pralinice](#banana-pralinice) — 2022-09-22
+- [Mafini](#mafini) — 2022-09-20
+- [Grčke krofnice sa feta sirom i parmezanom](#grcke-krofnice-sa-feta-sirom-i-parmezanom-2) — 2022-08-21
+- [Milka srculenca](#milka-srculenca) — 2022-08-12
+- [Puterasti voćni kolač sa kajsijama](#puterasti-vocni-kolac-sa-kajsijama) — 2022-08-10
+- [Za dekorisanje cupcake kolačica biće vam potreban recept…](#za-dekorisanje-cupcake-kolacica-bice-vam-potreban-recept) — 2022-07-28
+- [Pralinice od bele čokolade i jagoda](#pralinice-od-bele-cokolade-i-jagoda) — 2022-07-16
+- [Brownie](#brownie-2) — 2022-07-14
+- [Voćni kolač](#vocni-kolac) — 2022-06-30
+- [Sočni mlečni kolač sa jagodama](#socni-mlecni-kolac-sa-jagodama) — 2022-05-27
+- [Čoko jagoda mafini](#coko-jagoda-mafini) — 2022-05-12
+- [Nutella M&M’s COOKIES](#nutella-m-m-s-cookies-2) — 2022-04-23
+- [Čokoladna punjena jaja](#cokoladna-punjena-jaja) — 2022-04-20
+- [Prvi u nizu kolačića koji su obožavani za prazničnom trpe…](#prvi-u-nizu-kolacica-koji-su-obozavani-za-praznicnom-trpe) — 2022-04-12
+- [Mafini sa komadićima čokolade](#mafini-sa-komadicima-cokolade) — 2022-03-15
+- [Brzi jogurt uštipci](#brzi-jogurt-ustipci) — 2022-02-20
+- [Vanil krofnice u beloj čokoladi](#vanil-krofnice-u-beloj-cokoladi) — 2022-02-17
+- [Servirajte ljubav svaki dan](#servirajte-ljubav-svaki-dan) — 2022-02-14
+- [Ljubavni puter keksići](#ljubavni-puter-keksici) — 2022-02-09
+- [Srculenca](#srculenca) — 2022-02-07
+- [Kinder cookies](#kinder-cookies-2) — 2022-02-01
+- [Rekla bih da će ovaj vikend u mnogim domovima biti rezerv…](#rekla-bih-da-ce-ovaj-vikend-u-mnogim-domovima-biti-rezerv) — 2022-01-15
+- [Pistacchiotti](#pistacchiotti) — 2022-01-09
+- [Raspukli čokoladni keksići](#raspukli-cokoladni-keksici) — 2022-01-06
+- [Čajni keksići snežne zvezdice](#cajni-keksici-snezne-zvezdice) — 2022-01-05
+- [Rudolf sendvič keksići](#rudolf-sendvic-keksici-2) — 2021-12-23
+- [Čoko lešnik praline](#coko-lesnik-praline) — 2021-12-22
+- [Posna bajadera](#posna-bajadera) — 2021-12-18
+- [Puter keksići](#puter-keksici) — 2021-12-16
+- [Oraščići](#orascici) — 2021-12-09
+- [Čokoladni cupcakes](#cokoladni-cupcakes) — 2021-12-06
+- [Čokoladni medenjaci](#cokoladni-medenjaci) — 2021-12-01
+- [Kokos gnezda](#kokos-gnezda) — 2021-11-29
+- [Slani rolat](#slani-rolat) — 2021-11-26
+- [Slane kuglice](#slane-kuglice) — 2021-11-25
+- [Baklava sa pistaćima](#baklava-sa-pistacima) — 2021-11-23
+- [Jutros me je baš iznenadio i obradovao jedan podatak](#jutros-me-je-bas-iznenadio-i-obradovao-jedan-podatak) — 2021-11-18
+- [Zrna kafe](#zrna-kafe) — 2021-11-17
+- [1. Lesnik gnezda](#1-lesnik-gnezda) — 2021-11-16
+- [Čarobni lešnik keksići](#carobni-lesnik-keksici) — 2021-11-08
+- [Kolač sa makom i jabukama](#kolac-sa-makom-i-jabukama) — 2021-10-20
+- [Oreo čokoladni cookies](#oreo-cokoladni-cookies) — 2021-10-15
+- [Coko karamel keksići](#coko-karamel-keksici) — 2021-09-29
+- [Američka pita sa jabukama](#americka-pita-sa-jabukama) — 2021-09-22
+- [Cookies sa dve vrste čokolade i lešnicima](#cookies-sa-dve-vrste-cokolade-i-lesnicima) — 2021-09-20
+- [Lagani kolač sa breskvama i malinama](#lagani-kolac-sa-breskvama-i-malinama) — 2021-09-17
+- [Sočni kolač sa borovnicama](#socni-kolac-sa-borovnicama) — 2021-09-07
+- [Grčke krofnice sa feta sirom i parmezanom](#grcke-krofnice-sa-feta-sirom-i-parmezanom) — 2021-09-04
+- [Kuglof od bele i crne čokolade](#kuglof-od-bele-i-crne-cokolade) — 2021-08-30
+- [Čokoladni mafini](#cokoladni-mafini) — 2021-08-23
+- [Kolač sa nektarinama i belom kokos čokoladom](#kolac-sa-nektarinama-i-belom-kokos-cokoladom) — 2021-08-09
+- [Borovnica shake](#borovnica-shake) — 2021-08-08
+- [Brownie kup](#brownie-kup) — 2021-07-29
+- [Breskva mafini](#breskva-mafini) — 2021-07-23
+- [Jabuka mafini](#jabuka-mafini) — 2021-07-09
+- [Keksići sa džemom od kajsija](#keksici-sa-dzemom-od-kajsija) — 2021-07-07
+- [Čoko lešnik tart](#coko-lesnik-tart) — 2021-06-28
+- [Osvežavajuć i neodoljivo mekan limun kolač](#osvezavajuc-i-neodoljivo-mekan-limun-kolac) — 2021-06-21
+- [Kinder cookies](#kinder-cookies) — 2021-06-10
+- [Kinder plazma shake](#kinder-plazma-shake) — 2021-06-06
+- [Čokoladne krofnice](#cokoladne-krofnice) — 2021-06-04
+- [Sasvim obične čoko jagoda kockice](#sasvim-obicne-coko-jagoda-kockice) — 2021-06-02
+- [Sočni kolač sa jagodama](#socni-kolac-sa-jagodama) — 2021-05-28
+- [Uskršnji čoko kolač](#uskrsnji-coko-kolac) — 2021-04-29
+- [Ovog puta sam se potrudila da im oblik bude](#ovog-puta-sam-se-potrudila-da-im-oblik-bude) — 2021-04-27
+- [Krofnice iz aparata](#krofnice-iz-aparata) — 2021-04-25
+- [Nekoliko saveta za savršene](#nekoliko-saveta-za-savrsene) — 2021-04-19
+- [Susam uštipci](#susam-ustipci) — 2021-04-08
+- [Leptirići](#leptirici) — 2021-04-01
+- [Jagoda rolat](#jagoda-rolat) — 2021-03-30
+- [Nutella lava cookies](#nutella-lava-cookies) — 2021-03-18
+- [Mini krofnice iz rerne](#mini-krofnice-iz-rerne) — 2021-03-13
+- [Jagoda mafini](#jagoda-mafini) — 2021-03-12
+- [Badem višnja bombice](#badem-visnja-bombice) — 2021-03-05
+- [Ok, do sada ste verovatno primetili da su cookies moj omi…](#ok-do-sada-ste-verovatno-primetili-da-su-cookies-moj-omi) — 2021-02-01
+- [Samo naizgled, suvi , a zapravo od suvog ni S](#samo-naizgled-suvi-a-zapravo-od-suvog-ni-s) — 2021-01-27
+- [Ruby srculenca](#ruby-srculenca) — 2021-01-25
+- [Čoko pistać fantazija](#coko-pistac-fantazija) — 2021-01-12
+- [Ferrero rocher rolat](#ferrero-rocher-rolat) — 2021-01-06
+- [Medeni cookies](#medeni-cookies) — 2021-01-04
+- [Danas je jedan od praznika kojem smo se brat i ja kao mal…](#danas-je-jedan-od-praznika-kojem-smo-se-brat-i-ja-kao-mal) — 2020-12-27
+- [Ovi prstići](#ovi-prstici) — 2020-12-25
+- [Kod mene nedelja najlepših cookies kolacica](#kod-mene-nedelja-najlepsih-cookies-kolacica) — 2020-12-23
+- [Marshmallow chocolate cookies](#marshmallow-chocolate-cookies) — 2020-12-22
+- [Sveti Nikola](#sveti-nikola) — 2020-12-19
+- [Snežni keksići](#snezni-keksici) — 2020-12-16
+- [Novogodišnji cake pops](#novogodisnji-cake-pops) — 2020-12-12
+- [Rudolf sendvič keksići](#rudolf-sendvic-keksici) — 2020-12-09
+- [Čoko karamel tart](#coko-karamel-tart) — 2020-12-08
+- [A evo i ideje kako da jedan dan u toku nedelje obradujete…](#a-evo-i-ideje-kako-da-jedan-dan-u-toku-nedelje-obradujete) — 2020-12-07
+- [Saaaaavršeno kremkast](#saaaaavrseno-kremkast) — 2020-12-03
+- [Homemade toblerone](#homemade-toblerone) — 2020-12-02
+- [Raspuknuti keksići](#raspuknuti-keksici) — 2020-11-30
+- [Chocolate chip cookies](#chocolate-chip-cookies) — 2020-11-27
+- [Homemade ferrero kuglice](#homemade-ferrero-kuglice) — 2020-11-19
+- [PRAZNIČNI ČAJNI KEKSIĆI](#praznicni-cajni-keksici) — 2020-11-17
+- [U ovim hladnim](#u-ovim-hladnim) — 2020-11-12
+- [M E D E NJ A C I](#m-e-d-e-nj-a-c-i) — 2020-11-09
+- [Krokant keksići](#krokant-keksici) — 2020-11-06
+- [Prvi u nizu kolačića koji najavljuju ono doba kada kuća n…](#prvi-u-nizu-kolacica-koji-najavljuju-ono-doba-kada-kuca-n) — 2020-11-03
+- [Čuveni macaronsi](#cuveni-macaronsi) — 2020-10-14
+- [Brownie chocolate cookie](#brownie-chocolate-cookie) — 2020-10-05
+- [Osmislila sam ga tako da zadovolji sve sladokusce](#osmislila-sam-ga-tako-da-zadovolji-sve-sladokusce) — 2020-10-01
+- [Ljubitelji milka noisette čokolade i celih pečenih leš…](#ljubitelji-milka-noisette-cokolade-i-celih-pecenih-les) — 2020-09-29
+- [Krofnice gotove za 15 minuta](#krofnice-gotove-za-15-minuta) — 2020-09-25
+- [Znam da ste bar jednom pomislili koliko je simpaticno kad…](#znam-da-ste-bar-jednom-pomislili-koliko-je-simpaticno-kad) — 2020-09-16
+- [Dobro jutro](#dobro-jutro) — 2020-09-12
+- [Tart od bele čokolade i malina](#tart-od-bele-cokolade-i-malina) — 2020-09-11
+- [Lava cake](#lava-cake) — 2020-09-07
+- [Kinder plazma šejk](#kinder-plazma-sejk) — 2020-08-31
+- [Nutella M&M’s COOKIES](#nutella-m-m-s-cookies) — 2020-08-28
+- [Najsočniji mafini sa borovnicama](#najsocniji-mafini-sa-borovnicama) — 2020-08-16
+- [Kako da ponedeljak učinite sladjim..?](#kako-da-ponedeljak-ucinite-sladjim) — 2020-08-10
+- [Tart sa mlečnom cokoladom i plazma keksom](#tart-sa-mlecnom-cokoladom-i-plazma-keksom) — 2020-07-31
+- [Domaći prhki keksici, idealni uz kafu](#domaci-prhki-keksici-idealni-uz-kafu) — 2020-07-17
+- [𝗣𝘂𝘁𝗲𝗿 𝗸𝗲𝗸𝘀𝗶𝗰𝗶 𝘀𝗮 𝗰𝗼𝗸𝗼𝗹𝗮𝗱𝗼𝗺 𝗶 𝗹𝗲𝘀𝗻𝗶𝗰𝗶𝗺𝗮](#uter-keksici-sa-cokoladom-i-lesnicima) — 2020-06-17
+- [𝑂𝑣𝑜 𝑠𝑖𝑣𝑖𝑙𝑜 𝑛𝑎𝑝𝑜𝑙𝑗𝑢](#vo-sivilo-napolju) — 2020-05-20
+- [Krofne](#krofne) — 2020-05-01
+- [Brownie](#brownie) — 2020-04-13
 
 ## Deserti i kremovi (81)
-- [Topla galeta s borovnicama](#dcdcmorir4u) — 2026-08-15
-- [Ako tražite savršen desert za praznike](#dwyw4xdgoxa) — 2026-04-06
-- [Tart crveno voće & pistać](#dwebxfxgoiq) — 2026-03-29
-- [Ali zato sam ja napravila svoje malo sunce u kuhinji](#dwhxuslajkq) — 2026-03-20
-- [Uskrs + deca + slatkiši = moja omiljena kombinacija](#dvrj1jrajvo) — 2026-02-27
-- [LOTUS BISCOFF TIRAMISU](#dutmtigarmc) — 2026-02-13
-- [U @lidlsrbija aktuelna je Nedelja brendova – savršen tren…](#dsz9tehgtde) — 2025-12-18
-- [Kokos gnezda](#drewwjbgror) — 2025-11-15
-- [Ako volite spoj bele čokolade](#dntu2zlml_j) — 2025-08-13
-- [Sveže maline su stigle u @lidlsrbija](#dkkhqgvokvo) — 2025-06-06
-- [Tart bela čokolada & crveno voće](#dj81erqsjki) — 2025-05-22
-- [Kinder Bueno tiramisu – recept za ozbiljno dobar užitak](#djuvppwmavj) — 2025-05-06
-- [GIVEAWAY ALERT](#dhnlukzmywg) — 2025-03-25
-- [Pistać tiramisu](#df-b1nwm4zh) — 2025-02-12
-- [Ćurosi na štapiću - slatka priprema bez prženja u ulju ko…](#dcmmuhwswho) — 2024-11-10
-- [Fairy Max Power – pranje sudova nikad nije bilo lakše](#daqkhcmsxc5) — 2024-10-03
-- [Stigao je i moj Temu paket](#c_czx_cmexs) — 2024-09-03
-- [Hrskavi parfe](#c8uhvaysafx) — 2024-06-27
-- [Lotus malinica dezert u čaši](#c8owh4tsbqh) — 2024-06-15
-- [Oreo shake](#c787rdoswrb) — 2024-06-08
-- [Sutlijaš sa belom čokoladom](#c7tnzubs1y1) — 2024-05-23
-- [Bounty čokoladice](#c6wzfd6irwh) — 2024-04-29
-- [Crunchy korpice kikiriki puter & mlečna čokolada](#c5b34wumkwh) — 2024-03-27
-- [Topla čokolada](#c12jpgnmvek) — 2024-01-08
-- [Božanstvene kinder kockice koje se tope u ustima](#c1jvx0lmnrw) — 2023-12-22
-- [Zajedno rastemo](#c05932cmqqb) — 2023-12-16
-- [Kokos malinica](#czbngqbi7dj) — 2023-11-09
-- [Malina korpice u mlečnoj čokoladi](#czbsub0sfo9) — 2023-10-30
-- [Pistać dezert u čaši](#cytbmmks57q) — 2023-10-22
-- [Čokoladni sufle](#cxnvjqoskvt) — 2023-09-15
-- [Kinder bueno tart](#crjpv9bgjfg) — 2023-04-27
-- [Bounty čokoladice](#cq_jsmtaky7) — 2023-04-13
-- [Kalup je prečnika 24 cm](#cq3cugta5pj) — 2023-04-10
-- [Dezert u čaši](#cqygks1gc5y) — 2023-03-29
-- [Pistać tiramisu](#cpbctbjalq9) — 2023-02-23
-- [Božićna radost](#cnh5xi6jcys) — 2023-01-07
-- [Božanstvene kinder kockice koje se tope u ustima](#cmci-frgn1n) — 2022-12-11
-- [Najlepši period godine donosi i najlepše slatkiše u @lidl…](#ckyfttnq7na) — 2022-11-10
-- [Tiramisu bombice sa nutelom](#cj0zti3a6jb) — 2022-10-17
-- [Kokolina](#cik6p2sgc8t) — 2022-09-06
-- [Raffaello shake](#cgre6srg_c_) — 2022-07-31
-- [Najkremastiji domaći sladoled](#cgy4fwfgjwj) — 2022-07-24
-- [Ono kad shvatiš da možeš da živiš “godinu na Quattro raču…](#cevkcgigajn) — 2022-06-13
-- [Prošlog leta baš u periodu dok su još uvek bile aktuelne…](#cevvod7g363) — 2022-06-03
-- [Dijamant sladoled](#cdsqu6ngeh5) — 2022-05-08
-- [Pistać malina čašica](#cdidl7maaf_) — 2022-05-04
-- [Giotto čašica](#ccfk73ladub) — 2022-04-08
-- [Tiramisu](#ccc78cksp7o) — 2022-04-07
-- [Nugat malina dezert u čaši](#cbzcupcafxc) — 2022-04-01
-- [Srcoliki popsi](#cz1di-xa8md) — 2022-02-11
-- [Bela čokolada malina tart](#cy6zilnmp2m) — 2022-01-19
-- [Rudolf sladoledići](#cyjd7m1mwd1) — 2021-12-31
-- [Kad je dan siv](#cxbfndtar0n) — 2021-12-03
-- [Kinder bueno krem](#cumkdhispik) — 2021-10-04
-- [Bounty čokoladice](#ctwejp7sn-q) — 2021-09-13
-- [Homemade icecream](#csw2pjssztv) — 2021-08-19
-- [Letnji tart od bele čokolade i](#cryol6npwk9) — 2021-07-16
-- [Oreo truffles](#cqlf1cgp-mp) — 2021-06-26
-- [Hvala vam drugari](#cqdzdchpgfs) — 2021-06-23
-- [Jagoda shake](#cqqiefopwkq) — 2021-06-18
-- [Višnja nadev](#cqjyyrypukx) — 2021-06-15
-- [Raffaello malinica u čaši](#cpihfnhjfcj) — 2021-05-21
-- [Homemade](#cpdu--2jd2a) — 2021-05-19
-- [Oreo truffles](#cpasad-pukp) — 2021-05-18
-- [Jagoda sladoled tart](#cokrd1spjr1) — 2021-05-07
-- [Uskršnji mini kuglofi](#conomb3p06p) — 2021-04-28
-- [Najjednostavnije je često i najlepše](#cochm0upe0j) — 2021-04-24
-- [Strawberry milkshake](#cnfqfntpmfm) — 2021-03-31
-- [Sezona hladne nes kafe zvanično otvorena](#cnazedapuw4) — 2021-03-29
-- [Drage moje srećan Osmi mart](#cmj4javjems) — 2021-03-08
-- [Tri leche](#cljodcujzzj) — 2021-02-11
-- [Posto sam vam recept za klasičnu toplu čokoladu već pi…](#ci5hvrdplts) — 2020-12-17
-- [Topla čokolada pre zime..?](#cg-glxipko5) — 2020-10-30
-- [Nutella shake](#cghdifdj-dz) — 2020-10-19
-- [Kad smo već kod čaja i pošto se juče odmaralo](#cgz0nrujrjm) — 2020-10-16
-- [Hoćemo li da ovaj kišni ponedeljak bojimo u neke lepe t…](#cgp-l7dpkfx) — 2020-10-12
-- [Tiramisu](#cfb93ugpts3) — 2020-09-22
-- [Bounty čokoladice](#cemdasbpu5c) — 2020-08-22
-- [Toooliko je dobro, da vredi svake kalorije](#cdpazltjyr8) — 2020-08-08
-- [Tiramisu](#cddybk2pgl-) — 2020-07-25
-- [Da li je kasno za dezert u casi?](#b_xp7wppn8g) — 2020-05-04
+- [Topla galeta s borovnicama](#topla-galeta-s-borovnicama) — 2026-08-15
+- [Ako tražite savršen desert za praznike](#ako-trazite-savrsen-desert-za-praznike) — 2026-04-06
+- [Tart crveno voće & pistać](#tart-crveno-voce-pistac) — 2026-03-29
+- [Ali zato sam ja napravila svoje malo sunce u kuhinji](#ali-zato-sam-ja-napravila-svoje-malo-sunce-u-kuhinji) — 2026-03-20
+- [Uskrs + deca + slatkiši = moja omiljena kombinacija](#uskrs-deca-slatkisi-moja-omiljena-kombinacija) — 2026-02-27
+- [LOTUS BISCOFF TIRAMISU](#lotus-biscoff-tiramisu) — 2026-02-13
+- [U @lidlsrbija aktuelna je Nedelja brendova – savršen tren…](#u-lidlsrbija-aktuelna-je-nedelja-brendova-savrsen-tren) — 2025-12-18
+- [Kokos gnezda](#kokos-gnezda-2) — 2025-11-15
+- [Ako volite spoj bele čokolade](#ako-volite-spoj-bele-cokolade) — 2025-08-13
+- [Sveže maline su stigle u @lidlsrbija](#sveze-maline-su-stigle-u-lidlsrbija) — 2025-06-06
+- [Tart bela čokolada & crveno voće](#tart-bela-cokolada-crveno-voce-2) — 2025-05-22
+- [Kinder Bueno tiramisu – recept za ozbiljno dobar užitak](#kinder-bueno-tiramisu-recept-za-ozbiljno-dobar-uzitak) — 2025-05-06
+- [GIVEAWAY ALERT](#giveaway-alert) — 2025-03-25
+- [Pistać tiramisu](#pistac-tiramisu-2) — 2025-02-12
+- [Ćurosi na štapiću - slatka priprema bez prženja u ulju ko…](#curosi-na-stapicu-slatka-priprema-bez-przenja-u-ulju-ko) — 2024-11-10
+- [Fairy Max Power – pranje sudova nikad nije bilo lakše](#fairy-max-power-pranje-sudova-nikad-nije-bilo-lakse) — 2024-10-03
+- [Stigao je i moj Temu paket](#stigao-je-i-moj-temu-paket) — 2024-09-03
+- [Hrskavi parfe](#hrskavi-parfe) — 2024-06-27
+- [Lotus malinica dezert u čaši](#lotus-malinica-dezert-u-casi) — 2024-06-15
+- [Oreo shake](#oreo-shake) — 2024-06-08
+- [Sutlijaš sa belom čokoladom](#sutlijas-sa-belom-cokoladom) — 2024-05-23
+- [Bounty čokoladice](#bounty-cokoladice-4) — 2024-04-29
+- [Crunchy korpice kikiriki puter & mlečna čokolada](#crunchy-korpice-kikiriki-puter-mlecna-cokolada) — 2024-03-27
+- [Topla čokolada](#topla-cokolada) — 2024-01-08
+- [Božanstvene kinder kockice koje se tope u ustima](#bozanstvene-kinder-kockice-koje-se-tope-u-ustima-2) — 2023-12-22
+- [Zajedno rastemo](#zajedno-rastemo) — 2023-12-16
+- [Kokos malinica](#kokos-malinica) — 2023-11-09
+- [Malina korpice u mlečnoj čokoladi](#malina-korpice-u-mlecnoj-cokoladi) — 2023-10-30
+- [Pistać dezert u čaši](#pistac-dezert-u-casi) — 2023-10-22
+- [Čokoladni sufle](#cokoladni-sufle) — 2023-09-15
+- [Kinder bueno tart](#kinder-bueno-tart) — 2023-04-27
+- [Bounty čokoladice](#bounty-cokoladice-3) — 2023-04-13
+- [Kalup je prečnika 24 cm](#kalup-je-precnika-24-cm) — 2023-04-10
+- [Dezert u čaši](#dezert-u-casi) — 2023-03-29
+- [Pistać tiramisu](#pistac-tiramisu) — 2023-02-23
+- [Božićna radost](#bozicna-radost) — 2023-01-07
+- [Božanstvene kinder kockice koje se tope u ustima](#bozanstvene-kinder-kockice-koje-se-tope-u-ustima) — 2022-12-11
+- [Najlepši period godine donosi i najlepše slatkiše u @lidl…](#najlepsi-period-godine-donosi-i-najlepse-slatkise-u-lidl) — 2022-11-10
+- [Tiramisu bombice sa nutelom](#tiramisu-bombice-sa-nutelom) — 2022-10-17
+- [Kokolina](#kokolina) — 2022-09-06
+- [Raffaello shake](#raffaello-shake) — 2022-07-31
+- [Najkremastiji domaći sladoled](#najkremastiji-domaci-sladoled) — 2022-07-24
+- [Ono kad shvatiš da možeš da živiš “godinu na Quattro raču…](#ono-kad-shvatis-da-mozes-da-zivis-godinu-na-quattro-racu) — 2022-06-13
+- [Prošlog leta baš u periodu dok su još uvek bile aktuelne…](#proslog-leta-bas-u-periodu-dok-su-jos-uvek-bile-aktuelne) — 2022-06-03
+- [Dijamant sladoled](#dijamant-sladoled) — 2022-05-08
+- [Pistać malina čašica](#pistac-malina-casica) — 2022-05-04
+- [Giotto čašica](#giotto-casica) — 2022-04-08
+- [Tiramisu](#tiramisu-3) — 2022-04-07
+- [Nugat malina dezert u čaši](#nugat-malina-dezert-u-casi) — 2022-04-01
+- [Srcoliki popsi](#srcoliki-popsi) — 2022-02-11
+- [Bela čokolada malina tart](#bela-cokolada-malina-tart) — 2022-01-19
+- [Rudolf sladoledići](#rudolf-sladoledici) — 2021-12-31
+- [Kad je dan siv](#kad-je-dan-siv) — 2021-12-03
+- [Kinder bueno krem](#kinder-bueno-krem) — 2021-10-04
+- [Bounty čokoladice](#bounty-cokoladice-2) — 2021-09-13
+- [Homemade icecream](#homemade-icecream) — 2021-08-19
+- [Letnji tart od bele čokolade i](#letnji-tart-od-bele-cokolade-i) — 2021-07-16
+- [Oreo truffles](#oreo-truffles-2) — 2021-06-26
+- [Hvala vam drugari](#hvala-vam-drugari) — 2021-06-23
+- [Jagoda shake](#jagoda-shake) — 2021-06-18
+- [Višnja nadev](#visnja-nadev) — 2021-06-15
+- [Raffaello malinica u čaši](#raffaello-malinica-u-casi) — 2021-05-21
+- [Homemade](#homemade) — 2021-05-19
+- [Oreo truffles](#oreo-truffles) — 2021-05-18
+- [Jagoda sladoled tart](#jagoda-sladoled-tart) — 2021-05-07
+- [Uskršnji mini kuglofi](#uskrsnji-mini-kuglofi) — 2021-04-28
+- [Najjednostavnije je često i najlepše](#najjednostavnije-je-cesto-i-najlepse) — 2021-04-24
+- [Strawberry milkshake](#strawberry-milkshake) — 2021-03-31
+- [Sezona hladne nes kafe zvanično otvorena](#sezona-hladne-nes-kafe-zvanicno-otvorena) — 2021-03-29
+- [Drage moje srećan Osmi mart](#drage-moje-srecan-osmi-mart) — 2021-03-08
+- [Tri leche](#tri-leche) — 2021-02-11
+- [Posto sam vam recept za klasičnu toplu čokoladu već pi…](#posto-sam-vam-recept-za-klasicnu-toplu-cokoladu-vec-pi) — 2020-12-17
+- [Topla čokolada pre zime..?](#topla-cokolada-pre-zime) — 2020-10-30
+- [Nutella shake](#nutella-shake) — 2020-10-19
+- [Kad smo već kod čaja i pošto se juče odmaralo](#kad-smo-vec-kod-caja-i-posto-se-juce-odmaralo) — 2020-10-16
+- [Hoćemo li da ovaj kišni ponedeljak bojimo u neke lepe t…](#hocemo-li-da-ovaj-kisni-ponedeljak-bojimo-u-neke-lepe-t) — 2020-10-12
+- [Tiramisu](#tiramisu-2) — 2020-09-22
+- [Bounty čokoladice](#bounty-cokoladice) — 2020-08-22
+- [Toooliko je dobro, da vredi svake kalorije](#toooliko-je-dobro-da-vredi-svake-kalorije) — 2020-08-08
+- [Tiramisu](#tiramisu) — 2020-07-25
+- [Da li je kasno za dezert u casi?](#da-li-je-kasno-za-dezert-u-casi) — 2020-05-04
 
 ## Peciva i hleb (53)
-- [Uskršnja cvet pogača](#dwvnohvakz6) — 2026-04-05
-- [Brzinske pogačice](#du3m-7rgqml) — 2026-02-17
-- [Cimet rolnice – gotove za sat vremena](#dttbj5narxq) — 2026-01-09
-- [Božićna česnica](#dtfcvaagky0) — 2026-01-04
-- [Medenjaci](#dsisku6aldw) — 2025-12-11
-- [HLEB KOJI SE NE MESI](#dq1sqziankr) — 2025-11-09
-- [Hrskava pita u štapićima](#doolny0atec) — 2025-09-15
-- [Gibanica sa sirom](#dnh7jmwsehw) — 2025-08-09
-- [U moru recepata za kiflice](#dmclpkgs-cp) — 2025-07-13
-- [Dan za mame i uspomene koje ostaju](#djbinkjmmic) — 2025-05-09
-- [Uskršnja cvet pogača](#dioxirqsx9-) — 2025-04-19
-- [Nutella kiflice koje nestaju dok su još tople](#dfqvqirshql) — 2025-02-04
-- [Cimet rolnice](#desese0shtp) — 2025-01-11
-- [Predstavljam vam savršen recept za hleb koji se ne mesi](#dezsyfjmvuv) — 2025-01-04
-- [Božićna česnica](#devdnzpmki0) — 2025-01-02
-- [Banana hleb](#dczckrgs_w3) — 2024-11-25
-- [Pitice sa jabukama](#c_u3easmnrk) — 2024-08-31
-- [Kad mama udovoljava](#c8gqhz7melt) — 2024-06-22
-- [3 poklon vaučera](#c8y94yaspof) — 2024-06-19
-- [Pita sa dve vrste sira](#c61f9_ksloj) — 2024-05-11
-- [Pizza pita iz tiganja](#c4ngjalsols) — 2024-03-17
-- [Lisnata srculenca](#c3klgfwm0mf) — 2024-02-10
-- [Ćurosi](#c20nnmrm823) — 2024-02-01
-- [Domaći hleb](#cxdqqgsopje) — 2023-09-11
-- [Heljdopita](#ct7gacaa8yl) — 2023-06-25
-- [Pizza štapići spremni za čas](#ctpg9_ognti) — 2023-06-18
-- [Strawberry mohito](#csizggagtpt) — 2023-05-22
-- [DARIVANJE](#cp9w0uxanh_) — 2023-03-19
-- [Nutella buhtlice](#cmckrqxj-5q) — 2022-12-21
-- [Pizza hleb zalogaji](#chxbjj_ghjx) — 2022-08-17
-- [Proja sa sirom](#ces5yedaoec) — 2022-06-12
-- [Američka pita sa jagodama](#cedgxgaajys) — 2022-06-06
-- [Mamine piroške](#cd0adpyamdm) — 2022-05-21
-- [Slatke malina lepinjice](#ca_9r2rsu4n) — 2022-03-12
-- [Mirisna subotna jutra](#czt2zyvmp0r) — 2022-01-29
-- [Apple crumble pie](#czozkyljowc) — 2022-01-27
-- [Cimet rolnice](#cx_le4rm8dv) — 2021-12-27
-- [Kuglof od lešnika i čokolade](#cv3fasdmqsi) — 2021-11-04
-- [Domaći kroasani](#cvcj-brsf-t) — 2021-10-25
-- [Slatke kiflice](#cs_wc1imhsq) — 2021-08-25
-- [Malina pistać venčići](#csocj2bsbl4) — 2021-08-16
-- [Pita sa i crnom čokoladom](#cqlamhhp-d_) — 2021-06-16
-- [Nutella lešnik pletenica](#cmpe7hbpjvu) — 2021-03-10
-- [Puter kiflice](#clozswojzka) — 2021-02-23
-- [Palačinke](#clbunaoj_y5) — 2021-02-18
-- [Domaći kroasani](#clef-qpje8d) — 2021-02-09
-- [Cinnamon rolls](#ckeleonpien) — 2021-01-15
-- [Treba vam recept za savršeno čokoladno mekano testo??](#cid78kfpspi) — 2020-11-26
-- [Otkriću vam jednu tajnu](#ch2vokrpop1) — 2020-11-21
-- [Mekane puter bombice punjene sosom od jabuka i karamela](#cgng5yoj_q0) — 2020-10-21
-- [Ova pita je san!!!](#cgh4fjrpyde) — 2020-10-09
-- [Američke palačinke](#cegykq_jeqb) — 2020-08-20
-- [Puter kiflice](#cbpkmlfj-ih) — 2020-06-20
+- [Uskršnja cvet pogača](#uskrsnja-cvet-pogaca-2) — 2026-04-05
+- [Brzinske pogačice](#brzinske-pogacice) — 2026-02-17
+- [Cimet rolnice – gotove za sat vremena](#cimet-rolnice-gotove-za-sat-vremena) — 2026-01-09
+- [Božićna česnica](#bozicna-cesnica-2) — 2026-01-04
+- [Medenjaci](#medenjaci-3) — 2025-12-11
+- [HLEB KOJI SE NE MESI](#hleb-koji-se-ne-mesi) — 2025-11-09
+- [Hrskava pita u štapićima](#hrskava-pita-u-stapicima) — 2025-09-15
+- [Gibanica sa sirom](#gibanica-sa-sirom) — 2025-08-09
+- [U moru recepata za kiflice](#u-moru-recepata-za-kiflice) — 2025-07-13
+- [Dan za mame i uspomene koje ostaju](#dan-za-mame-i-uspomene-koje-ostaju) — 2025-05-09
+- [Uskršnja cvet pogača](#uskrsnja-cvet-pogaca) — 2025-04-19
+- [Nutella kiflice koje nestaju dok su još tople](#nutella-kiflice-koje-nestaju-dok-su-jos-tople) — 2025-02-04
+- [Cimet rolnice](#cimet-rolnice-2) — 2025-01-11
+- [Predstavljam vam savršen recept za hleb koji se ne mesi](#predstavljam-vam-savrsen-recept-za-hleb-koji-se-ne-mesi) — 2025-01-04
+- [Božićna česnica](#bozicna-cesnica) — 2025-01-02
+- [Banana hleb](#banana-hleb) — 2024-11-25
+- [Pitice sa jabukama](#pitice-sa-jabukama) — 2024-08-31
+- [Kad mama udovoljava](#kad-mama-udovoljava) — 2024-06-22
+- [3 poklon vaučera](#3-poklon-vaucera) — 2024-06-19
+- [Pita sa dve vrste sira](#pita-sa-dve-vrste-sira) — 2024-05-11
+- [Pizza pita iz tiganja](#pizza-pita-iz-tiganja) — 2024-03-17
+- [Lisnata srculenca](#lisnata-srculenca) — 2024-02-10
+- [Ćurosi](#curosi) — 2024-02-01
+- [Domaći hleb](#domaci-hleb) — 2023-09-11
+- [Heljdopita](#heljdopita) — 2023-06-25
+- [Pizza štapići spremni za čas](#pizza-stapici-spremni-za-cas) — 2023-06-18
+- [Strawberry mohito](#strawberry-mohito) — 2023-05-22
+- [DARIVANJE](#darivanje) — 2023-03-19
+- [Nutella buhtlice](#nutella-buhtlice) — 2022-12-21
+- [Pizza hleb zalogaji](#pizza-hleb-zalogaji) — 2022-08-17
+- [Proja sa sirom](#proja-sa-sirom) — 2022-06-12
+- [Američka pita sa jagodama](#americka-pita-sa-jagodama) — 2022-06-06
+- [Mamine piroške](#mamine-piroske) — 2022-05-21
+- [Slatke malina lepinjice](#slatke-malina-lepinjice) — 2022-03-12
+- [Mirisna subotna jutra](#mirisna-subotna-jutra) — 2022-01-29
+- [Apple crumble pie](#apple-crumble-pie) — 2022-01-27
+- [Cimet rolnice](#cimet-rolnice) — 2021-12-27
+- [Kuglof od lešnika i čokolade](#kuglof-od-lesnika-i-cokolade) — 2021-11-04
+- [Domaći kroasani](#domaci-kroasani-2) — 2021-10-25
+- [Slatke kiflice](#slatke-kiflice) — 2021-08-25
+- [Malina pistać venčići](#malina-pistac-vencici) — 2021-08-16
+- [Pita sa i crnom čokoladom](#pita-sa-i-crnom-cokoladom) — 2021-06-16
+- [Nutella lešnik pletenica](#nutella-lesnik-pletenica) — 2021-03-10
+- [Puter kiflice](#puter-kiflice-2) — 2021-02-23
+- [Palačinke](#palacinke) — 2021-02-18
+- [Domaći kroasani](#domaci-kroasani) — 2021-02-09
+- [Cinnamon rolls](#cinnamon-rolls) — 2021-01-15
+- [Treba vam recept za savršeno čokoladno mekano testo??](#treba-vam-recept-za-savrseno-cokoladno-mekano-testo) — 2020-11-26
+- [3. Pravim zdravije alternative nekih od omiljenih jela](#3-pravim-zdravije-alternative-nekih-od-omiljenih-jela) — 2020-11-21
+- [Mekane puter bombice punjene sosom od jabuka i karamela](#mekane-puter-bombice-punjene-sosom-od-jabuka-i-karamela) — 2020-10-21
+- [Ova pita je san!!!](#ova-pita-je-san) — 2020-10-09
+- [Američke palačinke](#americke-palacinke) — 2020-08-20
+- [Puter kiflice](#puter-kiflice) — 2020-06-20
 
 ## Ostalo (3)
-- [Sve što mi je danas trebalo](#c9kzsmbis95) — 2024-07-08
-- [Nova Dizni avantura je tu](#cwp7mz5mns8) — 2023-09-01
-- [Ledeni letnji malina latte](#cuaekxlazo0) — 2023-06-27
+- [Sve što mi je danas trebalo](#sve-sto-mi-je-danas-trebalo) — 2024-07-08
+- [Nova Dizni avantura je tu](#nova-dizni-avantura-je-tu) — 2023-09-01
+- [Ledeni letnji malina latte](#ledeni-letnji-malina-latte) — 2023-06-27
 
 ---
 
-<a id="dc6hwewqnbc"></a>
+<a id="stapici-sa-lukom-3"></a>
 ### Štapići sa lukom
 
-*2026-09-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/Dc6hweWqnBC/)*
+*2026-09-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/Dc6hweWqnBC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-lukom-3/*
 
 **Sastojci**
 
@@ -610,10 +609,10 @@ Prijatno 🤍
 
 ---
 
-<a id="dc0mvxkqjng"></a>
+<a id="nutella-mafini-2"></a>
 ### Nutella mafini
 
-*2026-09-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Dc0mvxkqJnG/)*
+*2026-09-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Dc0mvxkqJnG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-mafini-2/*
 
 Ako volite sočne, čokoladne poslastice koje mirišu na dom, onda su ovi mafini pravi izbor za vas. 🤎
 
@@ -635,27 +634,24 @@ Ako volite sočne, čokoladne poslastice koje mirišu na dom, onda su ovi mafini
 - 200 g čokoladnih kapljica (seckane čokolade)
 - Nutella + lešnici za punjenje i dekoraciju po ukusu
 
-*Priprema*
-
-- 1.	Otopljeni puter umutiti sa šećerom, jajima i aromom vanile.
-- 2.	Dodati ulje, zatim grčki jogurt i mleko.
-- 3.	Prosejati brašno, prašak za pecivo i mrvicom soli, pa sjediniti sa smesom.
-- 4.	Na kraju dodati čokoladne kapljice i lagano umešati.
-- 6.	Posuti čokoladom, lešnicima i peći na 190°C oko 35 minuta, gotove izdubiti i puniti Nutelom ❤️
-
 **Priprema**
 
-5.	Sipati smesu u kalupe (meni je ispalo 12 većih mafina).
+1.	Otopljeni puter umutiti sa šećerom, jajima i aromom vanile.
+	2.	Dodati ulje, zatim grčki jogurt i mleko.
+	3.	Prosejati brašno, prašak za pecivo i mrvicom soli, pa sjediniti sa smesom.
+	4.	Na kraju dodati čokoladne kapljice i lagano umešati.
+	5.	Sipati smesu u kalupe (meni je ispalo 12 većih mafina).
+	6.	Posuti čokoladom, lešnicima i peći na 190°C oko 35 minuta, gotove izdubiti i puniti Nutelom ❤️
 
 Mekani, sočni i neodoljivo čokoladni – mafini koje ćete praviti iznova. 🧁
 Jedva čekam vaše utiske kada probate! ✨
 
 ---
 
-<a id="dcolxndkgrf"></a>
+<a id="kolac-sa-sljivama-2"></a>
 ### Kolač sa šljivama
 
-*2026-08-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DcoLXndKgRf/)*
+*2026-08-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DcoLXndKgRf/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-sa-sljivama-2/*
 
 Kalup 22-24 cm
 
@@ -688,26 +684,25 @@ Kalup 22-24 cm
 - 1 kašičica vanilin šećera
 - 50 g hladnog putera
 - prstohvat soli
-- 5.	Mrvičasti posip: zamesiti brašno, šećer, vanilin šećer, puter i so rukama dok se ne formiraju mrvice. Ravnomerno posuti preko šljiva.
-- 7.	Ostaviti da se kolač ohladi, po želji posuti prah šećerom i poslužiti.
 
 **Priprema**
 
-Priprema:
-	1.	Rernu zagrejati na 175 °C. Kalup podmazati ili obložiti papirom za pečenje.
+1.	Rernu zagrejati na 175 °C. Kalup podmazati ili obložiti papirom za pečenje.
 	2.	Pripremiti šljive
 	3.	Za testo: umutiti puter, šećer, vanilu i so dok ne postane kremasto. Dodavati jaja jedno po jedno. Pomešati brašno sa praškom za pecivo, pa naizmenično sa mlekom dodavati u smesu, dok se ne dobije glatko testo. Rasporediti u pripremljen kalup.
 	4.	Na testo poređati šljive
+	5.	Mrvičasti posip: zamesiti brašno, šećer, vanilin šećer, puter i so rukama dok se ne formiraju mrvice. Ravnomerno posuti preko šljiva.
 	6.	Peći 45–50 minuta. Ako su šljive vrlo sočne, može biti potrebno dodatnih 5 minuta.
+	7.	Ostaviti da se kolač ohladi, po želji posuti prah šećerom i poslužiti.
 
 Uživajte ❤️
 
 ---
 
-<a id="dcdcmorir4u"></a>
+<a id="topla-galeta-s-borovnicama"></a>
 ### Topla galeta s borovnicama
 
-*2026-08-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DcDcMorir4u/)*
+*2026-08-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DcDcMorir4u/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/topla-galeta-s-borovnicama/*
 
 Topla galeta s borovnicama, hrskavim testom, kremastim filom i voćem… bukvalno sam je odmah zamislila na svom stolu i isprobala recept. 🫐🤤
 I sad želim da ga podelim s vama.
@@ -745,15 +740,13 @@ Sočna, taman slatka, osvežavajuća, hrskava… sve u jednom zalogaju.
 - belance
 - listići badema ili seckani blanširani badem (po ukusu)
 
-*Priprema*
-
-- 2.	Sjedini sve sastojke za cheesecake fil dok ne postane glatka i kremasta smesa.
-- 3.	Borovnice pomešaj sa kristal šećerom i ostavi sa strane.
-- 4.	Testo razvuci u krug, u sredinu stavi fil, pa borovnice. Savij ivice ka unutra, premaži belancetom i pospi bademima.
-
 **Priprema**
 
-1.	Hladan puter izrendaj u brašno, dodaj šećer i prstohvat soli. Umešaj vodu dok ne dobiješ glatko testo. Oblikuj loptu, uvij u foliju i ostavi u frižider da odmori.
+📝 Priprema:
+	1.	Hladan puter izrendaj u brašno, dodaj šećer i prstohvat soli. Umešaj vodu dok ne dobiješ glatko testo. Oblikuj loptu, uvij u foliju i ostavi u frižider da odmori.
+	2.	Sjedini sve sastojke za cheesecake fil dok ne postane glatka i kremasta smesa.
+	3.	Borovnice pomešaj sa kristal šećerom i ostavi sa strane.
+	4.	Testo razvuci u krug, u sredinu stavi fil, pa borovnice. Savij ivice ka unutra, premaži belancetom i pospi bademima.
 	5.	Peci u unapred zagrejanoj rerni na 180°C oko 35–40 minuta, dok ne porumeni.
 
 🫐 Posluži dok je još topla, uz kuglu sladoleda i uživaj.
@@ -762,10 +755,10 @@ Sočna, taman slatka, osvežavajuća, hrskava… sve u jednom zalogaju.
 
 ---
 
-<a id="dbqxorwiyjd"></a>
+<a id="domaci-cake-popsi-koji-su-meni-uvek-lepsi-od-bilo-koje-ku"></a>
 ### Domaći cake popsi koji su meni uvek lepši od bilo koje ku…
 
-*2026-08-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DbqxORWiyJD/)*
+*2026-08-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DbqxORWiyJD/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-cake-popsi-koji-su-meni-uvek-lepsi-od-bilo-koje-ku/*
 
 Domaći cake popsi koji su meni uvek lepši od bilo koje kupovne varijante. 🤍
 Sočni iznutra, prelepog ukusa i obloženi belom čokoladom. Od ove mere dobićete oko 30 popsića, težine oko  25 g.
@@ -793,8 +786,6 @@ boja namenjena za čokoladu
 papirne slamčice ili štapići za cake popse
 dekoracija po želji
 
-Priprema:
-
 Sve sastojke za smesu sjedinite i dobro umesite dok ne dobijete kompaktnu masu. Ostavite je u frižideru da se lepo ohladi i stegne, kako bi bila lakša za oblikovanje.
 
 Odvajajte po 25 g smese i oblikujte pravilne kuglice. Najbolje je da svaku izmerite na kuhinjskoj vagi kako bi svi popsići bili jednake veličine. Ređajte ih na poslužavnik obložen papirom za pečenje, pa ih stavite u zamrzivač na oko 20 minuta da se dobro stegnu.
@@ -811,10 +802,10 @@ Sačuvajte recept za neki naredni rođendan. ✨
 
 ---
 
-<a id="dbombdoqzw4"></a>
+<a id="mini-americke-palacinke-u-casi"></a>
 ### Mini američke palačinke u čaši
 
-*2026-07-25 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DbOmbDOqzW4/)*
+*2026-07-25 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DbOmbDOqzW4/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mini-americke-palacinke-u-casi/*
 
 **Sastojci**
 
@@ -830,16 +821,14 @@ Sačuvajte recept za neki naredni rođendan. ✨
 - 360 ml mleka
 - 60 g istopljenog putera (ili 60 ml ulja)
 - 1 prašak za pecivo
-- 2. Žumanca umutite sa šećerom i vanilin šećerom, pa dodajte aromu vanile.
-- 3. Dodajte istopljen puter, mleko, a zatim postepeno umešajte brašno pomešano sa praškom za pecivo.
 
 **Priprema**
 
 Ako ovog leta želite da od običnih američkih palačinki napravite desert koji će oduševiti sve za stolom, sačuvajte ovaj recept. 🤍
 
-Priprema:
-
 1. Belanca umutite u čvrst sneg i ostavite sa strane.
+2. Žumanca umutite sa šećerom i vanilin šećerom, pa dodajte aromu vanile.
+3. Dodajte istopljen puter, mleko, a zatim postepeno umešajte brašno pomešano sa praškom za pecivo.
 4. Na kraju lagano, kružnim pokretima, umešajte umućena belanca.
 5. Pecite na umerenoj temperaturi koju ćete prilagoditi svom šporetu. Kada se na površini pojave mehurići, okrenite palačinke i kratko ih dopesite sa druge strane.
 
@@ -853,10 +842,10 @@ Blanco kuhinjski sistem @blanco_srbija
 
 ---
 
-<a id="davnpbsqtqv"></a>
+<a id="lukina-rodjendnska-torta"></a>
 ### Lukina rodjendnska torta
 
-*2026-07-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/DavnpbSqTqV/)*
+*2026-07-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/DavnpbSqTqV/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lukina-rodjendnska-torta/*
 
 Ako volite one prave domaće, kremaste torte koje svi pamte po ukusu, ovaj recept obavezno sačuvajte. 🤍
 
@@ -880,8 +869,6 @@ Luka je za rođendan poželeo tortu sa bananama, a mene je to odmah vratilo na r
 - oko 300 g banana
 - oko 200 g jagoda
 - 30–40 g listića badema
-- 7. Tortu završite vanil kremom i ostavite preko noći u frižideru.
-- 8. Sutradan je premažite ostatkom vanil krema, ukrasite listićima badema i uživajte.
 
 **Priprema**
 
@@ -896,23 +883,23 @@ Voće
 
 Dekoracija
 
-Priprema
-
 1. Umutite jaja sa šećerom i vanilin šećerom, dodajte brašno i deo mleka. Ostatak mleka zagrejte, sjedinite sa pripremljenom smesom i kuvajte uz stalno mešanje dok se krem ne zgusne. Odmah prekrijte providnom folijom preko same površine i ostavite da se potpuno ohladi.
 2. Za rolat umutite belanca u čvrst sneg, dodajte šećer, zatim jedno po jedno žumance, a na kraju lagano umešajte brašno špatulom. Smesu rasporedite u pleh obložen papirom za pečenje i pecite na 180°C oko 13 minuta, odnosno dok ne dobije lepu zlatnu boju.
 3. Čim se ispeče, rolat odmah urolajte dok je još vruć. Kada se prohladi, odmotajte ga, odvojite od papira za pečenje, okrenite na drugu stranu, premažite tankim slojem džema od kajsija i ponovo urolajte. Ostavite nekoliko minuta da se stegne.
 4. Umutite omekšali puter, pa ga kašiku po kašiku dodajte u potpuno ohlađen vanil krem uz neprekidno mućenje. Posebno umutite šlag sa kiselom vodom.
 5. Rolat isecite na tanke šnite debljine oko 6 mm.
 6. Kalup prečnika 20 cm obložite šnitama rolata, pa slažite redom: vanil krem, banane i jagode, tanak sloj šlaga. Ponovite postupak još dva puta.
+7. Tortu završite vanil kremom i ostavite preko noći u frižideru.
+8. Sutradan je premažite ostatkom vanil krema, ukrasite listićima badema i uživajte.
 
 Ako budete pravili ovu tortu, obavezno mi javite utiske. Mislim da će vam postati jedan od omiljenih dom
 
 ---
 
-<a id="dalnlujq7ov"></a>
+<a id="socni-kolac-sa-breskvama-2"></a>
 ### Sočni kolač sa breskvama
 
-*2026-07-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DalNlujq7ov/)*
+*2026-07-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DalNlujq7ov/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-kolac-sa-breskvama-2/*
 
 **Sastojci**
 
@@ -935,17 +922,14 @@ Ako budete pravili ovu tortu, obavezno mi javite utiske. Mislim da će vam posta
 - 1 vanilin šećer
 - ¼ kašičice cimeta (po ukusu)
 
-*Priprema*
-
-- 1.	U činiji pomešati brašno, prašak za pecivo i prstohvat soli.
-- 2.	U drugoj činiji umutiti jaja sa šećerom dok ne postanu penasta.
-- 3.	Dodati ulje, jogurt, aromu vanile i rendanu koricu limuna, pa sve sjediniti mikserom.
-- 4.	Postepeno dodati suve sastojke i kratko umutiti da se dobije glatka smesa.
-- 5.	Breskve oljuštiti i iseći na kriške, pa ih pomešati sa vanilin šećerom i cimetom.
-
 **Priprema**
 
-6.	Polovinu smese sipati u kalup prečnika 23–24 cm obložen papirom za pečenje.
+1.	U činiji pomešati brašno, prašak za pecivo i prstohvat soli.
+	2.	U drugoj činiji umutiti jaja sa šećerom dok ne postanu penasta.
+	3.	Dodati ulje, jogurt, aromu vanile i rendanu koricu limuna, pa sve sjediniti mikserom.
+	4.	Postepeno dodati suve sastojke i kratko umutiti da se dobije glatka smesa.
+	5.	Breskve oljuštiti i iseći na kriške, pa ih pomešati sa vanilin šećerom i cimetom.
+	6.	Polovinu smese sipati u kalup prečnika 23–24 cm obložen papirom za pečenje.
 	7.	Preko poređati deo breskvi, zatim sipati ostatak smese i rasporediti preostale breskve po vrhu.
 	8.	Peći u zagrejanoj rerni na 180°C oko 50 minuta, dok lepo ne porumeni i ne bude pečen iznutra (probati čačkalicom).
 	9.	Ostaviti da se malo prohladi, zatim izvaditi iz kalupa.
@@ -957,10 +941,10 @@ Pospite ga šećerom u prahu, poslužite uz kuglu sladoleda od vanile dok je jo�
 
 ---
 
-<a id="dabpjvtiyc2"></a>
+<a id="cuftice-u-paradajz-sosu-sa-pirincem-2"></a>
 ### Ćuftice u paradajz sosu sa pirinčem
 
-*2026-07-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/DabPjVtiYc2/)*
+*2026-07-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/DabPjVtiYc2/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cuftice-u-paradajz-sosu-sa-pirincem-2/*
 
 Jedan od onih ručkova koji se uvek rado jede i koji je idealan kada ostanete bez ideje šta da pripremite. ❤️
 
@@ -1001,10 +985,10 @@ Prijatno! ❤️
 
 ---
 
-<a id="dajbruokarw"></a>
+<a id="vanila-pita-sa-visnjama"></a>
 ### Vanila pita sa višnjama
 
-*2026-06-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DaJBruoKaRw/)*
+*2026-06-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DaJBruoKaRw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/vanila-pita-sa-visnjama/*
 
 Jedna od onih pita koja nestane dok se još hladi. Mekani krem od vanile, sočne višnje i hrskave kore - jednostavan recept koji ćete sigurno praviti više puta. 🤍
 
@@ -1032,8 +1016,6 @@ Jedna od onih pita koja nestane dok se još hladi. Mekani krem od vanile, sočne
 
 **Priprema**
 
-Priprema:
-
 Najpre pripremite fil. Prašak za puding i 100 g šećera razmutite u malo hladnog mleka. Ostatak mleka zagrejte do ključanja, dodajte razmućeni puding i kuvajte uz neprestano mešanje dok se ne zgusne. Gotov fil prekrijte providnom folijom (tako da dodiruje površinu) i ostavite da se prohladi.
 
 Za premaz umutite jaja, šećer, vanilin šećer, jogurt, ulje, griz i prašak za pecivo dok ne dobijete ujednačenu smesu.
@@ -1050,10 +1032,10 @@ Ako budete isprobali recept, obavezno mi javite utiske. Baš me zanima da li će
 
 ---
 
-<a id="dz15pg-qamf"></a>
+<a id="zalivena-pita-s-mesom-2"></a>
 ### Zalivena pita s mesom
 
-*2026-06-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZ15Pg-qaMF/)*
+*2026-06-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZ15Pg-qaMF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zalivena-pita-s-mesom-2/*
 
 Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme koji me nikad nije izneverio.
 
@@ -1072,16 +1054,13 @@ Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme ko
 - 50 ml ulja + prstohvat soli (za preliv)
 - dodatno 50 ml ulja (za premazivanje kora)
 
-*Priprema*
-
-- 1.	Sitno iseckajte luk i prodinstajte na 3 kašike ulja. Dodajte mleveno meso, posolite i pobiberite.
-- 2.	Pržite meso zajedno s lukom samo 7-8 minuta, tako ostaje sočno i nema potrebe za više jer se svakako pita peče dodatno u rerni.
-- 3.	Umutite jaja, jogurt, kiselu vodu i 50 ml ulja - to je preliv za kore i pitu.
-- 5.	Ređajte redom: prva kora se premaže uljem, druga sa 3 kašike preliva i 3-4 kašike mesa, i tako dok ne potrošite sve.
-
 **Priprema**
 
-4.	Kore podelite: dve stavite na dno pleha, jednu ostavite za kraj, a ostale koristite za slaganje.
+1.	Sitno iseckajte luk i prodinstajte na 3 kašike ulja. Dodajte mleveno meso, posolite i pobiberite.
+	2.	Pržite meso zajedno s lukom samo 7-8 minuta, tako ostaje sočno i nema potrebe za više jer se svakako pita peče dodatno u rerni.
+	3.	Umutite jaja, jogurt, kiselu vodu i 50 ml ulja - to je preliv za kore i pitu.
+	4.	Kore podelite: dve stavite na dno pleha, jednu ostavite za kraj, a ostale koristite za slaganje.
+	5.	Ređajte redom: prva kora se premaže uljem, druga sa 3 kašike preliva i 3-4 kašike mesa, i tako dok ne potrošite sve.
 	6.	Na kraju, pitu zatvorite poslednjom korom, ušuškajte ivice i isečete pre pečenja.
 	7.	Prelijte ostatkom preliva, ostavite 5 minuta da upije, pa pecite na 200°C oko 45 minuta,dok ne dobije lepu zlatnu koricu.
 
@@ -1091,10 +1070,10 @@ Prijatno ❤️
 
 ---
 
-<a id="dzmr47yqezu"></a>
+<a id="dorucak"></a>
 ### Doručak
 
-*2026-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZmr47YqEzu/)*
+*2026-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZmr47YqEzu/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/dorucak/*
 
 Danas delim jedan primer jednostavnih, ukusnih i zasitnih obroka koje lako možete da uklopite u svakodnevicu, a uz koje sam uklopila @deuscrispbreads hlebčiće.
 
@@ -1168,10 +1147,10 @@ Koji od ovih obroka biste vi prvo probali?
 
 ---
 
-<a id="dzzwbs5kgei"></a>
+<a id="pleh-24-x-31-cm"></a>
 ### Pleh: 24 x 31 cm
 
-*2026-06-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DZZwBs5KGei/)*
+*2026-06-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DZZwBs5KGei/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pleh-24-x-31-cm/*
 
 Postoje kolači koji nisu samo recept, već uspomena. ❤️
 
@@ -1221,10 +1200,10 @@ Ako volite one stare, proverene recepte koji mirišu na detinjstvo, ovaj sačuva
 
 ---
 
-<a id="dziygl-kou0"></a>
+<a id="krofnice-iz-rerne-2"></a>
 ### Krofnice iz rerne
 
-*2026-06-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DZIyGL-Kou0/)*
+*2026-06-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DZIyGL-Kou0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofnice-iz-rerne-2/*
 
 Ovog puta vam ostavljam jedan sjajan recept za krofnice onda kada nemate vremena za čekanje da testo naraste. Sjajna stvar je što se ne prže u ulju već možete da ih pripremate u rerni u kalupu za krofne ili u aparatu za krofnice, šta god da vam je zgodnije ☺️☺️☺️
 
@@ -1259,10 +1238,10 @@ Uživajte u slatkim zalogajima 💓
 
 ---
 
-<a id="dza4ewuqum5"></a>
+<a id="nedeljom"></a>
 ### Nedeljom
 
-*2026-05-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZA4eWUquM5/)*
+*2026-05-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/DZA4eWUquM5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nedeljom/*
 
 Svinjski file u kremastom sosu
 
@@ -1288,11 +1267,6 @@ Svinjski file u kremastom sosu
 - 1 kašičica šećera
 - 2 kašičice soli
 
-*Priprema*
-
-- 1. U 200 ml tople vode dodati kašičicu brašna, šećer i suvi kvasac. Promešati i ostaviti da se aktivira.
-- 5. Na pobrašnjen pek papir izručiti testo i pažljivo ga prebaciti u vrelu posudu. Poklopiti i peći 30 minuta na 230°C.
-
 **Priprema**
 
 Priprema:Veče pre pripreme meso marinirati u senfu, maslinovom ulju, soli i začinu za svinjetinu.
@@ -1309,19 +1283,21 @@ Poslužiti uz domaći pire krompir.
 
 Sa hrskavom koricom i mekanom sredinom. Moja mama je gotovo svakodnevno pripremala ovakav hleb i svaki put me njegov miris vrati pravo u detinjstvo.
 
+1. U 200 ml tople vode dodati kašičicu brašna, šećer i suvi kvasac. Promešati i ostaviti da se aktivira.
 2. U većoj činiji pomešati prosejano brašno i so. Dodati preostalu vodu i aktivirani kvasac. Mešati varjačom oko 5 minuta dok smesa ne postane ujednačena i lepljiva.
 3. Pokriti činiju i ostaviti testo na toplom mestu da naraste oko sat vremena.
 4. Zagrejati rernu na 230°C zajedno sa posudom za pečenje i poklopcem.
+5. Na pobrašnjen pek papir izručiti testo i pažljivo ga prebaciti u vrelu posudu. Poklopiti i peći 30 minuta na 230°C.
 6. Skinuti poklopac i peći još 5–10 minuta, dok hleb ne dobije lepu zlatnu koricu.
 
 Ako imate dovoljno strpljenja, ostavite ga da se malo prohladi. Mi mu uglavnom ne damo tu priliku.
 
 ---
 
-<a id="dysli-uq6th"></a>
+<a id="jagodica-tortica-4"></a>
 ### Jagodica tortica
 
-*2026-05-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/DYSlI-uq6tH/)*
+*2026-05-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/DYSlI-uq6tH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagodica-tortica-4/*
 
 **Sastojci**
 
@@ -1358,10 +1334,10 @@ Tortica se brzo spremi, još brže smaže, ovog puta sam poželela da podloga bu
 
 ---
 
-<a id="dycllpokgbo"></a>
+<a id="jedna-smesa-dva-potpuno-razlicita-obroka-koje-klinci-ob"></a>
 ### Jedna smesa - dva potpuno različita obroka koje klinci ob…
 
-*2026-05-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DYClLPOKgbo/)*
+*2026-05-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DYClLPOKgbo/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jedna-smesa-dva-potpuno-razlicita-obroka-koje-klinci-ob/*
 
 **Sastojci**
 
@@ -1387,7 +1363,6 @@ Tortica se brzo spremi, još brže smaže, ovog puta sam poželela da podloga bu
 
 Danas sam kupovinu obavila u @lidlsrbija i uz Pilos proizvode domaćih dobavljača od iste baze napravila hrskave trougliće sa sirom i kajmakom i mini mafine sa šunkom i gaudom. Idealno za doručak, večeru ili užinu kad želite nešto brzo, ukusno i drugačije. 🤍
 
-Priprema:
 Umutiti jaja, sir, kajmak, jogurt, malo soli i prašak za pecivo. U posebnoj činiji pomešati mleko i ulje.
 
 Za trougliće:
@@ -1401,10 +1376,10 @@ Koju biste vi prvo probali - trougliće ili mafine? 😍
 
 ---
 
-<a id="dxskijralmb"></a>
+<a id="cokoladne-americke-palacinke"></a>
 ### Čokoladne američke palačinke
 
-*2026-04-18 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DXSKiJrAlMB/)*
+*2026-04-18 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DXSKiJrAlMB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladne-americke-palacinke/*
 
 Mekane, bogate i toliko ukusne da više podsećaju na malu čokoladnu torticu nego na palačinke. Kada ih servirate uz jagode ili maline, bukvalno se tope u ustima i svaki zalogaj je pravo uživanje. Vikendom posebno volim da ugađam, a ovo je jedan od onih deserta koji svima izmami osmeh.
 
@@ -1422,18 +1397,16 @@ Mekane, bogate i toliko ukusne da više podsećaju na malu čokoladnu torticu ne
 - 20 g nezaslađenog kakaa
 - 1 prašak za pecivo
 - 100 g istopljene crne čokolade
-- 2. Žumanca umutiti sa šećerom i aromom vanile, pa dodati prohlađen istopljen puter.
-- 3. Sipati mleko i kratko umutiti mikserom.
-- 4. Dodati brašno, kakao i prašak za pecivo, pa sjediniti smesu.
-- 5. Na kraju dodati istopljenu i prohlađenu crnu čokoladu i promešati.
-- 7. Tiganj premazati tankim slojem ulja, zagrejati ga, pa smanjiti temperaturu.
 
 **Priprema**
 
-Priprema:
-
 1. Belanca umutiti u čvrst sneg i ostaviti sa strane.
+2. Žumanca umutiti sa šećerom i aromom vanile, pa dodati prohlađen istopljen puter.
+3. Sipati mleko i kratko umutiti mikserom.
+4. Dodati brašno, kakao i prašak za pecivo, pa sjediniti smesu.
+5. Na kraju dodati istopljenu i prohlađenu crnu čokoladu i promešati.
 6. U smesu lagano spatulom umešati umućena belanca.
+7. Tiganj premazati tankim slojem ulja, zagrejati ga, pa smanjiti temperaturu.
 8. Sipati smesu i peći dok se na površini ne pojave mehurići, zatim pažljivo okrenuti i peći još kratko sa druge strane.
 
 Poslužiti uz maline, jagode, kuglu sladoleda od vanile, malo putera ili javorov sirup. 💓
@@ -1441,10 +1414,10 @@ Najsladji trenuci uz mog vernog saveznika u kuhinji @boschhomesrb 🥞🫠
 
 ---
 
-<a id="dxegdpfgski"></a>
+<a id="savrseni-brusketi-4"></a>
 ### Savršeni brusketi
 
-*2026-04-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/DXEgdpfgsKi/)*
+*2026-04-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/DXEgdpfgsKi/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/savrseni-brusketi-4/*
 
 Uh.. 🤤
 Ovo je jedan od onih recepata koji sam preuzela od sestre, više i ne pamtim pre koliko godina, znam samo da su večno bili glavni na svim mogućim okupljanjima sa prijateljima, da su ih sve drugarice prepisivale u svesku i da se još nije pojavio neko ko ih ne voli 🥰
@@ -1473,10 +1446,10 @@ Jedva čekam  vaše utiske onih koji će ih tek isprobati, a vi koji već jeste,
 
 ---
 
-<a id="dw3gdimai3u"></a>
+<a id="posebno-su-lepa-jaja-farbana-prirodnim-bojama"></a>
 ### Posebno su lepa jaja farbana prirodnim bojama
 
-*2026-04-08 · Slano · reel · [Instagram post](https://www.instagram.com/p/DW3gDIMAi3U/)*
+*2026-04-08 · Slano · reel · [Instagram post](https://www.instagram.com/p/DW3gDIMAi3U/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posebno-su-lepa-jaja-farbana-prirodnim-bojama/*
 
 Posebno su lepa jaja farbana prirodnim bojama, i moram priznati, potpuno razumem zašto! 🪺
 Prošle godine sam prvi put isprobala kombinaciju čaja od hibiskusa i kurkume i dobila predivnu, zelenu nijansu na koju sam dodala malo zlatnih detalja.
@@ -1507,10 +1480,10 @@ Kako se vama čine? Koju tehniku biste voleli da isprobate ove godine?
 
 ---
 
-<a id="dwyw4xdgoxa"></a>
+<a id="ako-trazite-savrsen-desert-za-praznike"></a>
 ### Ako tražite savršen desert za praznike
 
-*2026-04-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWyw4xDgoXA/)*
+*2026-04-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWyw4xDgoXA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ako-trazite-savrsen-desert-za-praznike/*
 
 Ako tražite savršen desert za praznike, Kokolina je jedna od onih tortica koje se brzo spremaju, ne peku se i osvajaju na prvi zalogaj.
 U @lidlsrbija je trenutno dostupna sjajna ponuda SilverCrest posuđa i dodataka za pripremu hrane, pa tamo možete pronaći svašta korisno za uskršnje i praznične pripreme.
@@ -1559,10 +1532,10 @@ Brza, bez pečenja, nežna i puna ukusa - savršena poslastica za prolećne dane
 
 ---
 
-<a id="dwvnohvakz6"></a>
+<a id="uskrsnja-cvet-pogaca-2"></a>
 ### Uskršnja cvet pogača
 
-*2026-04-05 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DWvnohvAkZ6/)*
+*2026-04-05 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DWvnohvAkZ6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrsnja-cvet-pogaca-2/*
 
 Mekana, mirisna i dekorativna - ova pogača će sigurno ulepšati vaš praznični sto. Priprema nije komplikovana, a rezultat je i lep i ukusan, baš onako kako volimo za Uskrs.
 U nastavku vas čeka recept korak po korak.
@@ -1584,20 +1557,12 @@ U nastavku vas čeka recept korak po korak.
 - 1 kašika mleka
 - susam i lan za posipanje
 
-*Priprema*
-
-- 1.	Pomešajte kvasac, šećer i mleko. Ostavite 10 minuta da se aktivira.
-- 2.	U brašno dodajte so, promešajte, pa dodajte aktivirani kvasac, vodu i 50ml ulja. Mešajte i umesite glatko testo.
-- 3.	Pred kraj dodajte još 20ml ulja i njime premažite testo da se ne lepi.
-
-*Pečenje*
-
-- 11.	Premažite ostatkom umućenog jaja sa mlekom.
-- 14.	Kad se ispeče, premažite maslacem i ostavite da se hladi.
-
 **Priprema**
 
-4.	Oblikujte u loptu, pokrijte krpom i ostavite da naraste 30–60 minuta.
+1.	Pomešajte kvasac, šećer i mleko. Ostavite 10 minuta da se aktivira.
+	2.	U brašno dodajte so, promešajte, pa dodajte aktivirani kvasac, vodu i 50ml ulja. Mešajte i umesite glatko testo.
+	3.	Pred kraj dodajte još 20ml ulja i njime premažite testo da se ne lepi.
+	4.	Oblikujte u loptu, pokrijte krpom i ostavite da naraste 30–60 minuta.
 
 Formiranje pogače:
 	5.	Odvojite manji deo testa za kuglicu koja ide u sredinu.
@@ -1606,9 +1571,12 @@ Formiranje pogače:
 	8.	Isecite na osam trouglova i svaki po sredini pritisnite štapićem da dobijete oblik latica. Poređajte ih između kuglica.
 	9.	U sredinu stavite malu kuglicu od testa, takođe premazanu i posutu po želji.
 
+Pečenje:
 10.	Pogaču pokrijte krpom i ostavite još 30 minuta da naraste.
+11.	Premažite ostatkom umućenog jaja sa mlekom.
 12.	Pecite u prethodno zagrejanoj rerni na 200°C oko 25 minuta.
 13.	Po želji, pred kraj stavite papir za pečenje odozgo da ne prepeče.
+14.	Kad se ispeče, premažite maslacem i ostavite da se hladi.
 
 @domaci_recepti i hvala za ovako jednostavnu, prelepu i preukusnu pogaču 🥰
 
@@ -1617,10 +1585,10 @@ Srećni praznici! ❤️
 
 ---
 
-<a id="dwn_2r-grnp"></a>
+<a id="punjene-paprike-iz-rerne-rucak-koji-uvek-mirise-na-dom"></a>
 ### Punjene paprike iz rerne - ručak koji uvek miriše na dom
 
-*2026-04-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWn_2R-grnp/)*
+*2026-04-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWn_2R-grnp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/punjene-paprike-iz-rerne-rucak-koji-uvek-mirise-na-dom/*
 
 Jedno od onih jela koje se ne pravi samo zbog ukusa, već zbog osećaja koji donosi za sto. Sočne, mekane, u bogatom paradajz sosu,baš onako kako ih najviše volimo.
 
@@ -1648,8 +1616,6 @@ Jedno od onih jela koje se ne pravi samo zbog ukusa, već zbog osećaja koji don
 
 **Priprema**
 
-Priprema:
-
 Paprikama uklonite peteljke i semenke, pa svaku blago zasecite da kasnije lepo upije sos.
 
 Crni luk sitno iseckajte (ili izblendajte), pa ga lagano dinstajte na malo ulja oko 10 minuta. Dodajte sitno rendanu šargarepu, kratko promešajte, pa dodajte mleveno meso. Začinite solju, biberom i slatkom paprikom, dodajte opran pirinač i sve lepo sjedinite.
@@ -1672,10 +1638,10 @@ Sačuvajte recept za prvi sledeći ručak ✨
 
 ---
 
-<a id="dwebxfxgoiq"></a>
+<a id="tart-crveno-voce-pistac"></a>
 ### Tart crveno voće & pistać
 
-*2026-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWebxFXgoIq/)*
+*2026-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWebxFXgoIq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-crveno-voce-pistac/*
 
 **Sastojci**
 
@@ -1717,10 +1683,10 @@ Jedva čekam vaše utiske! 💓
 
 ---
 
-<a id="dwwvszagveo"></a>
+<a id="bounty-cokoladice-5"></a>
 ### Bounty čokoladice
 
-*2026-03-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DWWvSZAgvEO/)*
+*2026-03-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DWWvSZAgvEO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bounty-cokoladice-5/*
 
 Ove čokoladice sam prvi put pravila da obradujem tatu , ali se ispostavilo da ih sada krijemo po kući kako bi ostale i za njega, jer ih svi obozavamo 🤗
 Posle hladjenja u frižideru, smesa se lepo stegne i dobra je za oblikovanje, tako da možete praviti bounty kuglice, čokoladice, a možete ih obući i u uskršnje odelo 🥚🤍
@@ -1748,10 +1714,10 @@ Uživajte 🌸
 
 ---
 
-<a id="dwrrz0jgkgy"></a>
+<a id="uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja-2"></a>
 ### Uskrs nam se bliži i ako prvi put ove godine farbate jaja…
 
-*2026-03-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWRrz0JgkGy/)*
+*2026-03-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWRrz0JgkGy/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja-2/*
 
 Uskrs nam se bliži i ako prvi put ove godine farbate jaja - tu sam da podelim jednu od meni najdražih tehnika! Ovaj put koristim prehrambene boje, gel boje za jaja, zlatni sedef i zlatne listiće - za jednostavne, nežne i prelepe rezultate.
 
@@ -1789,22 +1755,20 @@ Pišite mi ako vam je nešto od ovoga bilo korisno - i naravno, koja je vaša om
 
 ---
 
-<a id="dwphxz9areh"></a>
+<a id="ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti-2"></a>
 ### Ovo je tehnika farbanja jaja koja me uvek podseti na deti…
 
-*2026-03-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWPHXz9ArEh/)*
+*2026-03-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/DWPHXz9ArEh/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti-2/*
 
 Ovo je tehnika farbanja jaja koja me uvek podseti na detinjstvo - jednostavna, mirisna i topla, baš kao praznici nekad. 🤎
 
+Isprobala sam dva načina:
+	1.	Sitno seckana lukovina + papir + par kapi crvene ili roze boje
+
 **Sastojci**
 
-
-*Isprobala sam dva načina*
-
-- 1.	Sitno seckana lukovina + papir + par kapi crvene ili roze boje
 - Svako jaje se uvalja u ovu kombinaciju
 - Umota se u gazu i pažljivo zategne koncem
-- 2.	Travčice i cvetići + lukovina na dno šerpe
 - Jaje se obavije biljkama i umota u tanku najlon čarapu
 - Poređa se preko sloja lukovine
 - Po želji, doda se i kašika-dve hibiskus čaja za intenzivniju boju
@@ -1817,15 +1781,17 @@ Ovo je tehnika farbanja jaja koja me uvek podseti na detinjstvo - jednostavna, m
 
 **Priprema**
 
+2.	Travčice i cvetići + lukovina na dno šerpe
+
 Sačuvaj ovaj video ako voliš tradicionalno, ali želiš da uneseš i malo detinjstva u svoj praznik. ❤️
 Na koga vas ovako farbana jaja podsećaju?
 
 ---
 
-<a id="dwhxuslajkq"></a>
+<a id="ali-zato-sam-ja-napravila-svoje-malo-sunce-u-kuhinji"></a>
 ### Ali zato sam ja napravila svoje malo sunce u kuhinji
 
-*2026-03-20 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWHXUsLAjkQ/)*
+*2026-03-20 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DWHXUsLAjkQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ali-zato-sam-ja-napravila-svoje-malo-sunce-u-kuhinji/*
 
 Prvi dan proleća, iako nam se sunce danas stidljivo krije ☁️
 Ali zato sam ja napravila svoje malo sunce u kuhinji 🌸🍓
@@ -1867,19 +1833,16 @@ Sastojci (kalup 20-22cm):
 - seckani pistaći
 - bela čokolada
 
-*Priprema*
-
-- Pomešati mlevenu plazmu, otopljeni puter, sok od pomorandže i Nutellu. Smesu utisnuti u kalup i formirati podlogu.
-- 400 g jagoda skuvati sa limunovim sokom, vanilin šećerom i šećerom, zatim izblendati. U to dodati sitno seckanih 200 g jagoda.
-- Prohlađeni jagoda fil preliti preko podloge i ostaviti u frižideru da se stegne dok pripremate fil.
-- Umutiti mascarpone i slatku pavlaku, pa fil podeliti na dva dela. U jedan dodati pistać krem, a u drugi lešnik krem (Kinder Bueno ukus).
-- Nanositi filove preko stegnutog jagoda sloja po želji.
-- Dekorisati svežim jagodama, pistaćima i belom čokoladom.
-- Ostaviti u frižideru da se dobro stegne, najbolje preko noći.
-
 **Priprema**
 
-•	Želatin pripremiti tako što sadržaj kesice preliti sa 30 ml hladne vode, ostaviti da nabubri, pa umešati u topli jagoda fil. Ostaviti da se prohladi.
+•	Pomešati mlevenu plazmu, otopljeni puter, sok od pomorandže i Nutellu. Smesu utisnuti u kalup i formirati podlogu.
+	•	400 g jagoda skuvati sa limunovim sokom, vanilin šećerom i šećerom, zatim izblendati. U to dodati sitno seckanih 200 g jagoda.
+	•	Želatin pripremiti tako što sadržaj kesice preliti sa 30 ml hladne vode, ostaviti da nabubri, pa umešati u topli jagoda fil. Ostaviti da se prohladi.
+	•	Prohlađeni jagoda fil preliti preko podloge i ostaviti u frižideru da se stegne dok pripremate fil.
+	•	Umutiti mascarpone i slatku pavlaku, pa fil podeliti na dva dela. U jedan dodati pistać krem, a u drugi lešnik krem (Kinder Bueno ukus).
+	•	Nanositi filove preko stegnutog jagoda sloja po želji.
+	•	Dekorisati svežim jagodama, pistaćima i belom čokoladom.
+	•	Ostaviti u frižideru da se dobro stegne, najbolje preko noći.
 
 Ako volite ovakve lagane, kremaste i voćne torte - ovo je vaš znak da je napravite 🍓✨
 
@@ -1887,10 +1850,10 @@ Pišite mi - da li ste tim pistać ili Kinder Bueno? 😍
 
 ---
 
-<a id="dv_0yn_apai"></a>
+<a id="brownie-lava-muffins"></a>
 ### Brownie lava muffins
 
-*2026-03-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DV_0YN_ApaI/)*
+*2026-03-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DV_0YN_ApaI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie-lava-muffins/*
 
 Ako voliš onu baš čokoladnu varijantu, ovo je to.
 Spolja mekani, a unutra onaj savršeni, blago topljeni centar 🤤
@@ -1916,7 +1879,6 @@ Spolja mekani, a unutra onaj savršeni, blago topljeni centar 🤤
 
 **Priprema**
 
-Priprema:
 Jaja i šećer sjediniti ručno, bez miksera, pa dodati jogurt, vanilu, ulje i otopljenu čokoladu.
 Umešati suve sastojke (brašno, kakao, prašak za pecivo i so), a na kraju dodati komadiće čokolade.
 
@@ -1928,10 +1890,10 @@ Sačuvaj recept za sledeći put kad ti se jede nešto baš čokoladno 🤍
 
 ---
 
-<a id="dv6mqmyaon7"></a>
+<a id="musaka"></a>
 ### Musaka
 
-*2026-03-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DV6mqmyAon7/)*
+*2026-03-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DV6mqmyAon7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/musaka/*
 
 Nedelja kakvu volim. 🤍
 Dan kada se kuća ispuni mirisima iz rerne, a spremanje hrane za porodicu i prijatelje postane moj mali love language. Danas su na meniju bile domaća musaka i aromatični hlepčići sa lukom i camembertom.
@@ -1953,26 +1915,11 @@ Musaka
 - 250–300 ml mleka
 - 2 pune kašike pavlake
 
-*Sastojci za testo*
-
-- 200 ml mlakog mleka
-- 20 g šećera
-- 1 suvi kvasac
-- 1 jaje + 1 žumance
-- 380 g belog brašna
-- 8 g soli
-- 65 g putera
-
-*Za premaz*
-
-- 60 g istopljenog putera
-
 **Priprema**
 
 malo ulja
 so, slatka mlevena paprika, biber, suvi začin
 
-Priprema:
 Crni luk prodinstati na malo ulja, dodati mleveno meso i začine i kratko propržiti.
 Krompir iseći na tanke šnite i začiniti uljem, solju i paprikom.
 U posudu ređati red krompira, red mesa i završiti krompirom.
@@ -1981,15 +1928,25 @@ Peći pokriveno folijom na 220°C, zatim otkriti i zapeći dok ne dobije lepu zl
 
 Aromatični hlepčići sa lukom 🥯
 
+Sastojci za testo:
+200 ml mlakog mleka
+20 g šećera
+1 suvi kvasac
+1 jaje + 1 žumance
+380 g belog brašna
+8 g soli
+65 g putera
+
 Za umak:
 camembert sir
 malo maslinovog ulja
 začini po ukusu
 
+Za premaz:
+60 g istopljenog putera
 sitno seckani luk ili luk u prahu
 krupna morska so
 
-Priprema:
 Zamesiti testo od svih sastojaka osim putera, zatim postepeno umešati puter i mutiti dok testo ne postane glatko i elastično. Ostaviti da naraste oko sat vremena.
 Formirati male loptice, poređati ih u krug oko camemberta, premazati belancetom i preko sira dodati malo maslinovog ulja i začina.
 Peći na 180°C oko 18–20 minuta dok ne porumene.
@@ -2000,10 +1957,10 @@ Nedelja je još lepša kad kuhinja radi bez greške. 🤍
 
 ---
 
-<a id="dvylsixgk_1"></a>
+<a id="prvi-put-sam-spremala-spansku-tortilju-i-moram-da-priznam"></a>
 ### Prvi put sam spremala špansku tortilju i moram da priznam…
 
-*2026-03-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/DVylsIXgk_1/)*
+*2026-03-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/DVylsIXgk_1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/prvi-put-sam-spremala-spansku-tortilju-i-moram-da-priznam/*
 
 Prvi put sam spremala špansku tortilju i moram da priznam - potpuno me je osvojila! 🇪🇸
 
@@ -2024,7 +1981,6 @@ Toliko jednostavno jelo, a ukus zaista fantastičan.
 so i biber
 malo putera i maslinovog ulja
 
-Priprema:
 Crni luk iseći na kolutove, blago posoliti i dinstati na vrlo tihoj vatri oko 20 minuta dok ne omekša i karamelizuje se. Pred kraj dodati sitno seckan beli luk i kratko propržiti.
 
 Skloniti sa tiganja, pa u isti tiganj dodati malo maslinovog ulja i na tanke šnite isečen krompir. Kratko ga propržiti dok ne omekša.
@@ -2041,10 +1997,10 @@ Sačuvajte ideju za jedan mali španski ručak kod kuće. 🇪🇸
 
 ---
 
-<a id="dvoefgfgupp"></a>
+<a id="grcka-torta-sa-lesnicima"></a>
 ### Grčka torta sa lešnicima
 
-*2026-03-08 · Torte · reel · [Instagram post](https://www.instagram.com/p/DVoefGFgupp/)*
+*2026-03-08 · Torte · reel · [Instagram post](https://www.instagram.com/p/DVoefGFgupp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/grcka-torta-sa-lesnicima/*
 
 Bogata, mirisna i izdašna torta sa mekanim korama i kremastim filom od žumanaca i čokolade. Pravila sam je za Lenin rođendan i zaista je jedna od onih pravih domaćih torti koje se pamte.
 Kalup: 26 cm
@@ -2096,10 +2052,10 @@ Pretražujući ideje i inspiraciju za rođendansku tortu naišla sam na profil @
 
 ---
 
-<a id="dvrj1jrajvo"></a>
+<a id="uskrs-deca-slatkisi-moja-omiljena-kombinacija"></a>
 ### Uskrs + deca + slatkiši = moja omiljena kombinacija
 
-*2026-02-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DVRJ1JrAjvo/)*
+*2026-02-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DVRJ1JrAjvo/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrs-deca-slatkisi-moja-omiljena-kombinacija/*
 
 Uvek ga  provodimo uz puno dece, smeha, prijatelja i porodične trpeze prepune slatkih zalogaja.
 Inspiraciju za ovu veselu poslasticu pronašla sam u @lidlsrbija , jer su stigli naši omiljeni proizvodi i slatkiši koje obožavaju mali i veliki.
@@ -2145,10 +2101,10 @@ Sačuvajte ideju za pripremu 🌸
 
 ---
 
-<a id="dvd6zsqalk9"></a>
+<a id="tart-bela-cokolada-crveno-voce-3"></a>
 ### Tart bela čokolada & crveno voće
 
-*2026-02-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DVD6zSqAlk9/)*
+*2026-02-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DVD6zSqAlk9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-bela-cokolada-crveno-voce-3/*
 
 Sjajna kombinacija crvenog voća i bele čokolade na podlozi od plazme i putera 😍
 
@@ -2197,10 +2153,10 @@ Toliko se brzo priprema, a zaista je i ova kombinacija opravdala moja očekivanj
 
 ---
 
-<a id="du3m-7rgqml"></a>
+<a id="brzinske-pogacice"></a>
 ### Brzinske pogačice
 
-*2026-02-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DU3m-7RgqML/)*
+*2026-02-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DU3m-7RgqML/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzinske-pogacice/*
 
 Odlična ideja kada želite nešto ukusno za doručak ili večeru, bez puno truda, a sveže, toplo, puno nadeva i hrskavo 😍
 
@@ -2230,10 +2186,10 @@ Ceo postupak možete ispratiti na videu, a pogačice se peku u zagrejanoj rerni 
 
 ---
 
-<a id="du1aakgggsq"></a>
+<a id="domace-supljikave-krofne"></a>
 ### DOMAĆE ŠUPLJIKAVE KROFNE
 
-*2026-02-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DU1AaKgggSQ/)*
+*2026-02-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DU1AaKgggSQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domace-supljikave-krofne/*
 
 **Sastojci**
 
@@ -2247,12 +2203,8 @@ Ceo postupak možete ispratiti na videu, a pogačice se peku u zagrejanoj rerni 
 - 1 kašičica soli
 - 550 g brašna
 - 100 g putera
-- Poklopac se koristi samo na početku prženja – kada okrenete krofne, više se ne vraća.
-- Temperatura ulja je ključna – srednja jačina daje savršeno pečene, šupljikave krofne.
 
 **Priprema**
-
-Priprema:
 
 Umešajte sve sastojke osim putera i mesite testo duže. Ako koristite robot mikser – oko 10 minuta na srednjoj jačini.
 Zatim dodajte potpuno omekšao puter i nastavite da mesite dok testo ne počne da se odvaja od ivica posude.
@@ -2269,14 +2221,18 @@ Punite po želji – džemom, kremom ili ih ostavite ovako, klasične.
 
 • Za brže narastanje testa – zagrejte rernu na 60°C, isključite je i u tako toplu rernu stavite pokriveno testo da narasta (biće spremno za oko 30–40 minuta).
 
+• Poklopac se koristi samo na početku prženja – kada okrenete krofne, više se ne vraća.
+
+• Temperatura ulja je ključna – srednja jačina daje savršeno pečene, šupljikave krofne.
+
 🤍 Kako ih vi najviše volite – sa punjenjem ili samo posute šećerom u prahu? ❤️
 
 ---
 
-<a id="dutmtigarmc"></a>
+<a id="lotus-biscoff-tiramisu"></a>
 ### LOTUS BISCOFF TIRAMISU
 
-*2026-02-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DUtMtiGArmc/)*
+*2026-02-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DUtMtiGArmc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lotus-biscoff-tiramisu/*
 
 Svaka čast viralnom japanskom cheesecake-u sa jogurtom i keksom…
 ali ja ovo ne bih menjala ni za šta 🤭
@@ -2300,14 +2256,13 @@ Ako volite moderne verzije klasika - ovo morate da probate.
 - 500 g mascarpone sira
 - 200 ml slatke pavlake
 - 200 g Lotus Biscoff krema
-- 3.	U dobijenu kremu umešati ohlađenu smesu od jaja i sve lagano sjediniti mikserom u bogat, svilenkast fil.
-- 4.	U toplo mleko dodati espresso i po želji malo Baileysa.
 
 **Priprema**
 
-PRIPREMA:
-	1.	Umutiti žumanca i šećer, pa kuvati na pari uz neprestano mešanje dok se ne dobije gusta, svetlo-žuta i kremasta smesa. Ostaviti da se potpuno ohladi.
+1.	Umutiti žumanca i šećer, pa kuvati na pari uz neprestano mešanje dok se ne dobije gusta, svetlo-žuta i kremasta smesa. Ostaviti da se potpuno ohladi.
 	2.	Mascarpone kratko umutiti mikserom, dodati Biscoff krem i sjediniti. Zatim dodati slatku pavlaku i mutiti dok se ne dobije čvrst, gladak fil.
+	3.	U dobijenu kremu umešati ohlađenu smesu od jaja i sve lagano sjediniti mikserom u bogat, svilenkast fil.
+	4.	U toplo mleko dodati espresso i po želji malo Baileysa.
 	5.	Keks kratko umakati sa obe strane i ređati u posudu.
 	6.	Fil i keks ređati u slojevima - ja sam pravila 3 reda keksa i 3 reda fila. Po želji možete dodavati i tanak sloj Biscoff krema između slojeva za još intenzivniji ukus.
 	7.	Završiti slojem fila, dekorisati po želji.
@@ -2319,10 +2274,10 @@ Sačuvajte recept da vam ne pobegne i javite utiske kad ga napravite ❤️
 
 ---
 
-<a id="dualzlfglwv"></a>
+<a id="domaca-granola-pripremljena-kod-kuce-je-za-mene-pravo-otk"></a>
 ### Domaća granola pripremljena kod kuće je za mene pravo otk…
 
-*2026-02-06 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DUalzLfglWv/)*
+*2026-02-06 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DUalzLfglWv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaca-granola-pripremljena-kod-kuce-je-za-mene-pravo-otk/*
 
 Domaća granola pripremljena kod kuće je za mene pravo otkriće.
 Rapsodija ukusa, miris koji ispuni celu kuću i doručak u kom tačno znam šta sam stavila.
@@ -2349,29 +2304,26 @@ Osnova
 - 60 g semenki bundeve
 - 80 g čokoladnih kapljica (dodaju se na kraju)
 
-*Priprema*
-
-- 1.	U manjoj činiji sjedini kikiriki puter, javorov sirup, kakao, vanilu, cimet i so dok ne dobiješ glatku, ujednačenu smesu.
-- 2.	U velikoj činiji pomešaj ovsene pahuljice, orašaste plodove i semenke bundeve.
-- 6.	Izvadi iz rerne i ostavi da se potpuno ohladi, pa tek onda umešaj čokoladne kapljice.
-
 **Priprema**
 
 Orašasti plodovi i dodaci
 
+	1.	U manjoj činiji sjedini kikiriki puter, javorov sirup, kakao, vanilu, cimet i so dok ne dobiješ glatku, ujednačenu smesu.
+	2.	U velikoj činiji pomešaj ovsene pahuljice, orašaste plodove i semenke bundeve.
 	3.	Dodaj tečnu smesu i dobro promešaj kako bi se svi sastojci ravnomerno obložili.
 	4.	Rasporedi granolu na pleh obložen papirom za pečenje.
 	5.	Peci na 160°C oko 25–30 minuta, uz blago mešanje na polovini pečenja.
+	6.	Izvadi iz rerne i ostavi da se potpuno ohladi, pa tek onda umešaj čokoladne kapljice.
 	7.	Čuvaj u dobro zatvorenoj tegli ili posudi na sobnoj temperaturi.
 
 Ovo je samo jedna od varijacija na temu-granola je jednako prelepa i u kombinaciji sa kokosom, suvim voćem, belom čokoladom i drugim dodacima. Savršena ideja za neku sledeću pripremu. Šta kažete?
 
 ---
 
-<a id="dutlbwgdfxa"></a>
+<a id="plazma-kocke-sa-belom-cokoladom-2"></a>
 ### Plazma kocke sa belom čokoladom
 
-*2026-02-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DUTlbWGDFXA/)*
+*2026-02-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DUTlbWGDFXA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/plazma-kocke-sa-belom-cokoladom-2/*
 
 **Sastojci**
 
@@ -2412,10 +2364,10 @@ Da li volite ove brze i jednostavne, a preukusne poslastice..?
 
 ---
 
-<a id="dul7gwzatto"></a>
+<a id="pancerote-iz-rerne-3"></a>
 ### Pancerote iz rerne
 
-*2026-01-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/DUL7gwZAtTO/)*
+*2026-01-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/DUL7gwZAtTO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pancerote-iz-rerne-3/*
 
 Kad napolju zazimi ništa lepše nego da se kroz kuću razmiriše neko lepo pecivo. Ovog puta donosim vam recept za slaniš koji često spremam i koji svi vole 🤗😋
 Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
@@ -2445,11 +2397,11 @@ Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
 
 - 1 jaje
 - susam
-- 1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadođe
-- 2. Promešati pa postepeno dodati brašno sa soli i umesiti glatko testo, potom ga prekriti providnom folijom i ostaviti 20ak minuta
 
 **Priprema**
 
+1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadođe
+2. Promešati pa postepeno dodati brašno sa soli i umesiti glatko testo, potom ga prekriti providnom folijom i ostaviti 20ak minuta
 3. Pripremiti sastojke za nadev
 4. Oklagijom razvuci testo i vaditi krugove veličine po želji. Na sredinu svakog staviti nadev i preklopiti pa se pobrinuti da ivice predjete viljuskom kako nadev prilikom pečenja ne bi cureo. Ja sam sasvim slučajno naišla na ovu plastičnu spravicu i resila da je isprobam - odlično se pokazala ☺️
 5. Pancerote ostaviti 20 ak minuta u plehu, pa premazati umućenim jajetom i posuti susamom. Peći  u zagrejanoj rerni na 220C 18-20 minuta, tj dok ne porumene ☺️
@@ -2458,10 +2410,10 @@ Hoće li se na vašoj trpezi pre naći za doručak ili večeru ..? 😋
 
 ---
 
-<a id="dt-nbvkjhp0"></a>
+<a id="najkremastija-cokoladna-ovsena-kasa"></a>
 ### Najkremastija čokoladna ovsena kaša
 
-*2026-01-26 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DT-NBVKjHp0/)*
+*2026-01-26 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DT-NBVKjHp0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/najkremastija-cokoladna-ovsena-kasa/*
 
 **Sastojci**
 
@@ -2494,10 +2446,10 @@ Prijatno 💓
 
 ---
 
-<a id="dt8ygyvjmbt"></a>
+<a id="banana-rolat-sa-dzemom-od-kajsije"></a>
 ### Banana rolat sa džemom od kajsije
 
-*2026-01-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DT8YGYvjMBT/)*
+*2026-01-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DT8YGYvjMBT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/banana-rolat-sa-dzemom-od-kajsije/*
 
 Postoje kolači koji jednim zalogajem vrate u detinjstvo. Ovaj banana rolat je baš takav – jednostavan, mekan i sočan, sa onim poznatim spojem džema od kajsije, banane i vanile.
 
@@ -2550,10 +2502,10 @@ Uživajte ❤️
 
 ---
 
-<a id="dtxuxyzah_7"></a>
+<a id="teleca-corbica-2"></a>
 ### Teleća čorbica
 
-*2026-01-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/DTxUXYZAh_7/)*
+*2026-01-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/DTxUXYZAh_7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/teleca-corbica-2/*
 
 Danas da malo zagrejemo stomačiće i pojedemo nešto na kašiku. Zapravo, moja dečica zaista vole supice i čorbice, pa ih ja vrlo često i rado pripremam.
 Teleću po ovakvom postupku pravim već nekoliko godina i ne menjamo recept.
@@ -2599,10 +2551,10 @@ Nadam se da ćete uživati ❤️
 
 ---
 
-<a id="dtaotd4gqns"></a>
+<a id="rolat-sa-jabukama-2"></a>
 ### Rolat sa jabukama
 
-*2026-01-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DTaotD4gqNs/)*
+*2026-01-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DTaotD4gqNs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rolat-sa-jabukama-2/*
 
 Savršeno mirisan i mekan, ovaj rolat sa jabukama će osvojiti vaše srce već na prvi zalogaj! Evo recepta koji možete lako pripremiti:
 
@@ -2628,18 +2580,15 @@ Sastojci:
 - 3 kašičice mešavine začina za pitu od jabuka (ili 2 kašičice cimeta)
 - 1 -2 kašike šećera
 
-*Priprema*
-
-- 1️⃣ Ogulite jabuke i narendajte ih na krupno rende.
-- 2️⃣ Dodajte začin za pitu od jabuka(cimet, vanilin šećer, muskatni oraščić, šta volite) i šećer, pa pržite na tiganju oko 10 minuta.
-- 3️⃣ Umutite jaja, so i šećer mikserom dok smesa ne postane svetla i penasta (oko 4 minuta).
-- 4️⃣ U šerpi zagrejte mleko, maslac i vanilin šećer dok se maslac ne otopi.
-- 5️⃣ U brašno dodajte prašak za pecivo i polovinu prosejte u smesu od jaja. Pažljivo izmešajte.
-- 6️⃣ Dodajte mlečnu mešavinu i preostalo brašno, lagano mešajući dok se sve sjedini.
-- 7️⃣ Tepsiju obložite papirom za pečenje. Rasporedite pržene jabuke ravnomerno po dnu, a preko njih sipajte smesu za testo.
-
 **Priprema**
 
+1️⃣ Ogulite jabuke i narendajte ih na krupno rende.
+2️⃣ Dodajte začin za pitu od jabuka(cimet, vanilin šećer, muskatni oraščić, šta volite) i šećer, pa pržite na tiganju oko 10 minuta.
+3️⃣ Umutite jaja, so i šećer mikserom dok smesa ne postane svetla i penasta (oko 4 minuta).
+4️⃣ U šerpi zagrejte mleko, maslac i vanilin šećer dok se maslac ne otopi.
+5️⃣ U brašno dodajte prašak za pecivo i polovinu prosejte u smesu od jaja. Pažljivo izmešajte.
+6️⃣ Dodajte mlečnu mešavinu i preostalo brašno, lagano mešajući dok se sve sjedini.
+7️⃣ Tepsiju obložite papirom za pečenje. Rasporedite pržene jabuke ravnomerno po dnu, a preko njih sipajte smesu za testo.
 8️⃣ Pecite na 180°C oko 20 minuta, dok ne dobije zlatnu boju.
 9️⃣ Još topao rolat urolajte zajedno s papirom i ostavite da se ohladi.
 🔟 Pospite šećerom u prahu po želji.
@@ -2651,10 +2600,10 @@ Prijatno! 😋
 
 ---
 
-<a id="dttbj5narxq"></a>
+<a id="cimet-rolnice-gotove-za-sat-vremena"></a>
 ### Cimet rolnice – gotove za sat vremena
 
-*2026-01-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DTTBJ5NArXQ/)*
+*2026-01-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DTTBJ5NArXQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cimet-rolnice-gotove-za-sat-vremena/*
 
 Mekane, sočne, tope se u ustima i savršene za hladne, snežne dane.
 Realno teško im je odoleti i zato vam ostavljam recept ❤️
@@ -2689,18 +2638,17 @@ Realno teško im je odoleti i zato vam ostavljam recept ❤️
 - 80 g šećera u prahu
 - 1 kašičica ekstrakta vanile
 - 20 ml slatke pavlake
-- 2.	Pomešati toplo mleko, kvasac i smeđi šećer i ostaviti 7–8 minuta da se kvasac aktivira.
-- 3.	Dodati omekšali puter, jaje, so i brašno i umesiti mekano, glatko testo.
-- 5.	U posebnoj posudi sjediniti omekšali puter, smeđi šećer i cimet, pa tom smesom premazati razvučeno testo.
-- 8.	Skinuti foliju i odmah preliti sa 160 ml slatke pavlake.
 
 **Priprema**
 
-PRIPREMA
-	1.	Rernu ugrejati na 95°C, zatim je ugasiti.
+1.	Rernu ugrejati na 95°C, zatim je ugasiti.
+	2.	Pomešati toplo mleko, kvasac i smeđi šećer i ostaviti 7–8 minuta da se kvasac aktivira.
+	3.	Dodati omekšali puter, jaje, so i brašno i umesiti mekano, glatko testo.
 	4.	Testo pokriti i ostaviti u toploj rerni 20 minuta da naraste.
+	5.	U posebnoj posudi sjediniti omekšali puter, smeđi šećer i cimet, pa tom smesom premazati razvučeno testo.
 	6.	Testo razviti u pravougaonik, čvrsto urolati i seći koncem u rolnice.
 	7.	Poređati u pleh, prekriti providnom folijom i ostaviti u toploj rerni još 10 minuta.
+	8.	Skinuti foliju i odmah preliti sa 160 ml slatke pavlake.
 	9.	Uključiti rernu na 190°C i peći 20 minuta.
 	10.	Umutiti sve sastojke za preliv i premazati rolnice dok su još vrele.
 
@@ -2709,10 +2657,10 @@ Jedva čekam da mi javite vaše utiske 🤎
 
 ---
 
-<a id="dtimtwlgtyi"></a>
+<a id="plazma-torta-zimska-carolija"></a>
 ### Plazma torta Zimska čarolija
 
-*2026-01-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/DTIMtWLgtYI/)*
+*2026-01-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/DTIMtWLgtYI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/plazma-torta-zimska-carolija/*
 
 Kad zima zamiriše na pomorandžu, čokoladu i Plazmu, nastaje ova torta - bogata, kremasta i savršena za praznične trenutke.
 Desert koji greje i okuplja oko stola 🤍
@@ -2784,10 +2732,10 @@ Savršena božićna torta - bogata, ali lagana, jednostavna za pripremu i puna u
 
 ---
 
-<a id="dtfcvaagky0"></a>
+<a id="bozicna-cesnica-2"></a>
 ### Božićna česnica
 
-*2026-01-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DTFcvAagky0/)*
+*2026-01-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DTFcvAagky0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bozicna-cesnica-2/*
 
 Ovo je recept koji najviše volim i koji sam pre nekoliko godina pronašla na YouTube-u. Jeste da postupak pripreme traje, ali je rezultat uvek čaroban, ovo je deo tradicije koja unosi toplinu i radost u dom.
 
@@ -2808,7 +2756,6 @@ Ovo je recept koji najviše volim i koji sam pre nekoliko godina pronašla na Yo
 
 **Priprema**
 
-Priprema:
 1.U posudu zagrejati 250 ml mleka, dodati suvi kvasac, kašiku šećera i 2 kašike brašna. Promešati, poklopiti i ostaviti 10 minuta da kvasac nadođe.
 2.Umutiti jedno celo jaje i jedno belance, a žumance ostaviti za premazivanje.U polovinu brašna dodati aktivirani kvasac, 100 ml ulja, kašiku soli i umućena jaja. Dobro promešati i postepeno dodati ostatak brašna. Zamesiti glatko testo, prekriti krpom i ostaviti na toplom mestu da naraste oko 40 minuta.
 3.Kada testo naraste, premesiti ga na pobrašnjenoj površini i podeliti na 9 jednakih delova. Oblikovati kuglice i prekriti ih krpom da se ne suše.
@@ -2825,10 +2772,10 @@ Javite mi utiske ❤️
 
 ---
 
-<a id="ds-6dbugrta"></a>
+<a id="nutella-m-m-s-cookies-4"></a>
 ### Nutella M&M’s COOKIES
 
-*2026-01-01 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DS-6dbugrtA/)*
+*2026-01-01 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DS-6dbugrtA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-m-m-s-cookies-4/*
 
 Da li ste spremni za najobožavanije kukize u našoj porodici..? 🥰🥰
 Kod nas se sprema maltene za svaki rodjendan, praznik, dogadjaj. Ma za bilo koji povod za radost. Ili onda kada samo želimo da prizovemo radost 🥰
@@ -2863,10 +2810,10 @@ Prijatno
 
 ---
 
-<a id="dsx1g5sal1r"></a>
+<a id="slane-krofnice"></a>
 ### Slane krofnice
 
-*2025-12-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DSx1g5sAl1r/)*
+*2025-12-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DSx1g5sAl1r/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slane-krofnice/*
 
 Smesa se smućka za bukvalno 3 minuta, možete da birate da li biste ih pripremali u kalupu za krofnice koje ćete peći u rerni ili biste radije u aparatu, isprobane su obe varijante i smesa je pogodna za obe, malu prednost dajem ovima iz rerne, veće su krofnice, više narastu i nekako je puniji ukus ☺️
 Ja sam moje silikonske kalupe pronašla kod Kineza i cena im je bila simbolična, tako da sam odmah uzela dva da nema čekanja izmedju pečenja ☺️
@@ -2896,10 +2843,10 @@ Prijatan i lep vikend vam želim ❤️
 
 ---
 
-<a id="dsuc4ssggq0"></a>
+<a id="slane-tortice"></a>
 ### Slane tortice
 
-*2025-12-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/DSuc4sSggQ0/)*
+*2025-12-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/DSuc4sSggQ0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slane-tortice/*
 
 **Sastojci**
 
@@ -2943,10 +2890,10 @@ Sačuvajte recept za praznično okupljanje ✨
 
 ---
 
-<a id="dsqetgkgpzd"></a>
+<a id="mimoza-2"></a>
 ### Mimoza
 
-*2025-12-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DSqETGKgpzd/)*
+*2025-12-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DSqETGKgpzd/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mimoza-2/*
 
 Pre par godina sam je probala kod kume, baš po ovim merama… i od tada je pravim samo tako.
 Znam da nije originalna verzija – ide feta, ne završava se žumancima, nema krastavčića ni šargarepe…
@@ -2969,21 +2916,19 @@ Kuvanje je igra, uživanje, prilika da dodate nešto svoje u svaki recept. 🤍
 - 300 g majoneza
 - so po ukusu
 
-*U veću pravougaonu posudu redjajte*
-
-- ️ krompir – sos
-- ️ šunka – sos
-- ️ jaja – sos
-- ️ kačkavalj – sos
-- ️ na kraju sitno rendana feta
-
 **Priprema**
 
-Priprema:
 Skuvajte krompir i jaja.
 Krompir sitno izrendajte, jaja sitno iseckajte.
 Šunku iseckajte (ili izrendajte, ako vam je lakše).
 Pavlaku pomešajte sa majonezom i posolite po ukusu.
+
+U veću pravougaonu posudu redjajte:
+➡️ krompir – sos
+➡️ šunka – sos
+➡️ jaja – sos
+➡️ kačkavalj – sos
+➡️ na kraju sitno rendana feta
 
 Možete dodati i kisele krastavčiće, šargarepu ili nešto svoje –
 ali probajte baš ovako bar jednom. ✨
@@ -2995,10 +2940,10 @@ Ako je napravite – javite utiske! 🥣😍
 
 ---
 
-<a id="dsz9tehgtde"></a>
+<a id="u-lidlsrbija-aktuelna-je-nedelja-brendova-savrsen-tren"></a>
 ### U @lidlsrbija aktuelna je Nedelja brendova – savršen tren…
 
-*2025-12-18 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DSZ9TEhgtdE/)*
+*2025-12-18 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DSZ9TEhgtdE/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/u-lidlsrbija-aktuelna-je-nedelja-brendova-savrsen-tren/*
 
 U @lidlsrbija aktuelna je Nedelja brendova – savršen trenutak da se pripremite za desert koji osvaja već na prvi zalogaj ✨
 Ako volite bogate, čokoladne i savršeno kremaste torte, ova Ferrero Rocher cheesecake verzija može lako postati zvezda vaše praznične trpeze.
@@ -3039,10 +2984,10 @@ Ostaviti da se dobro stegne u frižideru, a onda – uživati ❤️
 
 ---
 
-<a id="dss23hmakhh"></a>
+<a id="posna-plazma-srca-sa-pomorandzom"></a>
 ### Posna plazma srca sa pomorandžom
 
-*2025-12-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DSS23HmAkhh/)*
+*2025-12-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DSS23HmAkhh/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posna-plazma-srca-sa-pomorandzom/*
 
 Slatka, jednostavna i prelepa ideja za svaku priliku.
 Savršena za dane posta ili kada poželite brz i ukusan desert.
@@ -3059,24 +3004,21 @@ Savršena za dane posta ili kada poželite brz i ukusan desert.
 - 300 g crne čokolade
 - po želji: seckani lešnici ili pistaći
 
-*Priprema*
-
-- 1.	U posudi pomešajte mlevenu plazmu, otopljeni margarin, šećer u prahu i rendanu zaleđenu pomorandžu, dok ne dobijete kompaktnu smesu.
-- 3.	Kada se srca stegnu, umočite ih u otopljenu crnu čokoladu (po želji možete dodati malo ulja u čokoladu radi lakšeg nanošenja).
-- 4.	Po želji pospite seckanim lešnicima ili pistaćima i ostavite da se čokolada stegne.
-
 **Priprema**
 
-2.	Smesu utisnite u silikonske kalupe u obliku srca i stavite u zamrzivač da se stegne.
+1.	U posudi pomešajte mlevenu plazmu, otopljeni margarin, šećer u prahu i rendanu zaleđenu pomorandžu, dok ne dobijete kompaktnu smesu.
+	2.	Smesu utisnite u silikonske kalupe u obliku srca i stavite u zamrzivač da se stegne.
+	3.	Kada se srca stegnu, umočite ih u otopljenu crnu čokoladu (po želji možete dodati malo ulja u čokoladu radi lakšeg nanošenja).
+	4.	Po želji pospite seckanim lešnicima ili pistaćima i ostavite da se čokolada stegne.
 
 Brzo, lako i neodoljivo ❤️🍫
 
 ---
 
-<a id="dsisku6aldw"></a>
+<a id="medenjaci-3"></a>
 ### Medenjaci
 
-*2025-12-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DSISku6Aldw/)*
+*2025-12-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DSISku6Aldw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/medenjaci-3/*
 
 Medenjaci kao neizostavni slatkiš hladnih zimskih dana ❄️🍯
 Ovo je recept koji godinama ne menjam — najlepši, najmekši, najmirisniji… i jedini koje pravim svake zime.
@@ -3102,7 +3044,6 @@ Ako želite medenjake koje svi obožavaju, ovo je taj recept. Sačuvajte ga, zim
 
 **Priprema**
 
-Priprema:
 Umutiti puter i braon šećer dok ne posvetle. Dodati jaje, zatim med i sjediniti. Ubaciti suve sastojke postepeno i zamesiti testo. Umotati u foliju i ostaviti u frižideru oko sat vremena.
 Razvući testo, vaditi oblike i peći u rerni zagrejanoj na 170°C oko 7–8 minuta. Nemojte predugo peći da ne bi bili suvi.
 
@@ -3110,10 +3051,10 @@ Nadam se da ćete uživati u ovim najmirisnijim medenjacima ove sezone. ❤️
 
 ---
 
-<a id="drsb4mwjehn"></a>
+<a id="bakin-kolac"></a>
 ### Bakin kolač
 
-*2025-11-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRsB4mWjEHN/)*
+*2025-11-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRsB4mWjEHN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bakin-kolac/*
 
 Pre nekoliko dana setila sam se maminog aparata za bakin kolač. Ja ga nikad nisam imala u kući, ali ga je tata odmah pronašao i doneo mi — i čim sam ga videla, kao da me je udario talas detinjstva. Onaj miris, ono šuštanje, ona jednostavna, a savršena ukusna uspomena. 🥹
 
@@ -3143,10 +3084,10 @@ Ako vas i ovo vraća u detinjstvo — javite mi. 🥹✨
 
 ---
 
-<a id="droqbv5amnh"></a>
+<a id="posne-ferrero-rocher-kuglice-2"></a>
 ### Posne Ferrero Rocher kuglice
 
-*2025-11-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRoqBv5AmNH/)*
+*2025-11-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRoqBv5AmNH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posne-ferrero-rocher-kuglice-2/*
 
 Jednostavan i ukusan recept koji će oduševiti sve!
 
@@ -3163,18 +3104,15 @@ Ako želite slatkiš koji se brzo sprema, prelepog je ukusa i izgleda, ove posne
 - 200 g crne čokolade
 - 2-3 kašike ulja
 
-*Priprema*
-
-- 1.	U secku sameljite pečene lešnike i posne napolitanke dok ne dobijete sitnu smesu.
-- 2.	U posudi sjedinite mlevene lešnike i napolitanke sa posnim kremom. Dobro izmešajte dok ne dobijete kompaktnu smesu.
-- 4.	Formirajte kuglice željene veličine (oko 20 g po kuglici) i ređajte ih na tacnu. Ponovo ih ohladite u frižideru nekoliko minuta.
-- 5.	Za dodatno bogat i hrskav ukus – svaku kuglicu pre umakanja u čokoladu provucite kroz sitno seckani pečeni lešnik (opciono).
-- 6.	Rastopite crnu čokoladu i dodajte 2-3 kašike ulja kako bi glazura bila glatka.
-- 7.	Umakati ohlađene kuglice u čokoladu, ređati ih na papir za pečenje, pa ih vratiti u frižider da se čokolada stegne.
-
 **Priprema**
 
+1.	U secku sameljite pečene lešnike i posne napolitanke dok ne dobijete sitnu smesu.
+2.	U posudi sjedinite mlevene lešnike i napolitanke sa posnim kremom. Dobro izmešajte dok ne dobijete kompaktnu smesu.
 3.	Smesu stavite u frižider na nekoliko minuta da se stegne.
+4.	Formirajte kuglice željene veličine (oko 20 g po kuglici) i ređajte ih na tacnu. Ponovo ih ohladite u frižideru nekoliko minuta.
+5.	Za dodatno bogat i hrskav ukus – svaku kuglicu pre umakanja u čokoladu provucite kroz sitno seckani pečeni lešnik (opciono).
+6.	Rastopite crnu čokoladu i dodajte 2-3 kašike ulja kako bi glazura bila glatka.
+7.	Umakati ohlađene kuglice u čokoladu, ređati ih na papir za pečenje, pa ih vratiti u frižider da se čokolada stegne.
 
 Dodatni savet: Kako bi se kuglice lakše oblikovale, nakvasite ruke prilikom formiranja.
 
@@ -3182,10 +3120,10 @@ Kada se čokolada stegne, kuglice su spremne za uživanje! Divno izgledaju, a jo
 
 ---
 
-<a id="drc1tmegm_h"></a>
+<a id="korpice-bela-cokolada-malina-2"></a>
 ### Korpice bela čokolada – malina
 
-*2025-11-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRc1tMEgm_h/)*
+*2025-11-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DRc1tMEgm_h/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/korpice-bela-cokolada-malina-2/*
 
 **Sastojci**
 
@@ -3200,22 +3138,18 @@ Kada se čokolada stegne, kuglice su spremne za uživanje! Divno izgledaju, a jo
 - 100 g džema od malina
 - 100 g bele čokolade (za dekoraciju)
 
-*Priprema*
-
-- 1.	U većoj posudi pomešajte mlevenu plazmu i bademovo brašno.
-- 2.	Otopite 250 g bele čokolade sa 100 ml slatke pavlake na tihoj vatri ili u mikrotalasnoj (u kratkim intervalima, uz mešanje).
-- 3.	Sipajte otopljenu čokoladu u suvu smesu i sjedinite dok ne dobijete homogenu masu.
-- 4.	Od smese formirajte kuglice težine oko 25 g (veličine oraha).
-- 5.	Kuglice uvaljajte u kokos i ostavite u frižideru 15 minuta da se stegnu.
-
-*Filovanje*
-
-- 2.	U udubljenje stavite kašičicu džema od malina, a preko kašičicu otopljene bele čokolade (100 g čokolade otopiti na tihoj vatri).
-- 3.	Po želji koristite dresir kesu za urednije dodavanje džema i čokolade.
-
 **Priprema**
 
-1.	Kada se kuglice ohlade, štapićem ili prstom blago izdubite sredinu svake.
+1.	U većoj posudi pomešajte mlevenu plazmu i bademovo brašno.
+	2.	Otopite 250 g bele čokolade sa 100 ml slatke pavlake na tihoj vatri ili u mikrotalasnoj (u kratkim intervalima, uz mešanje).
+	3.	Sipajte otopljenu čokoladu u suvu smesu i sjedinite dok ne dobijete homogenu masu.
+	4.	Od smese formirajte kuglice težine oko 25 g (veličine oraha).
+	5.	Kuglice uvaljajte u kokos i ostavite u frižideru 15 minuta da se stegnu.
+
+Filovanje:
+	1.	Kada se kuglice ohlade, štapićem ili prstom blago izdubite sredinu svake.
+	2.	U udubljenje stavite kašičicu džema od malina, a preko kašičicu otopljene bele čokolade (100 g čokolade otopiti na tihoj vatri).
+	3.	Po želji koristite dresir kesu za urednije dodavanje džema i čokolade.
 
 Finalni korak:
 Ostavite korpice u frižideru još 10 minuta da se stegnu, pa poslužite!
@@ -3226,10 +3160,10 @@ Uživajte! ❤️✨
 
 ---
 
-<a id="drewwjbgror"></a>
+<a id="kokos-gnezda-2"></a>
 ### Kokos gnezda
 
-*2025-11-15 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/DREwwjBgroR/)*
+*2025-11-15 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/DREwwjBgroR/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kokos-gnezda-2/*
 
 Čini mi se da sam najkreativnija onda kada mi najviše fali vazduha.. Moja kuhinja je moja oaza i tamo se potrudim da zbrišem i onda kada ne znam gde ću pre, od nagomilanog posla, obaveza, lošeg osećaja u stomaku.. Tu sam svoja, kreativna, stvaram lepo, ukusno.. i isključim se.
 Šta vas drži na zemlji..?
@@ -3264,10 +3198,10 @@ Predivnog su i punog ukusa, mislim da su krivci za to mleveni blansirani badem i
 
 ---
 
-<a id="dq7hiafdtqc"></a>
+<a id="kinder-bueno-stanglice-recept-koji-cete-obozavati-2"></a>
 ### Kinder Bueno štanglice – recept koji ćete obožavati
 
-*2025-11-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQ7hiAfDTqc/)*
+*2025-11-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQ7hiAfDTqc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-stanglice-recept-koji-cete-obozavati-2/*
 
 Pripremite savršeno sočne i kremaste kolačiće uz ovaj jednostavan recept:
 
@@ -3295,8 +3229,6 @@ Sastojci:
 - 300 g mlečne čokolade
 - 5 kašika ulja
 - (za dekoraciju) 30 g crne čokolade + 1 kašičica ulja
-- 5.	Preliv: Otopite mlečnu čokoladu sa uljem. Svaku štanglicu pažljivo umačite u otopljenu čokoladu, pa ih vratite na papir za pečenje.
-- 6.	Za dekoraciju, otopite crnu čokoladu sa kašičicom ulja i napravite šare po glazuri.
 
 **Priprema**
 
@@ -3305,15 +3237,17 @@ Postupak pripreme:
 2.	Drugi sloj: Umutite slatku pavlaku, zatim dodajte maskarpone sir, mlevenu plazmu i lešnik krem. Dobro promešajte dok ne dobijete glatku smesu, pa je nanesite preko prvog sloja.
 3.	Ostavite kolač u frižideru nekoliko sati (najbolje preko noći) kako bi se stegao. To je vrlo bitno da bi štanglice bile dovoljno čvrste za sledeći korak.
 4.	Kada se kolač potpuno stegne, isecite ga na štanglice.
+5.	Preliv: Otopite mlečnu čokoladu sa uljem. Svaku štanglicu pažljivo umačite u otopljenu čokoladu, pa ih vratite na papir za pečenje.
+6.	Za dekoraciju, otopite crnu čokoladu sa kašičicom ulja i napravite šare po glazuri.
 7.	Ostavite kolače u frižideru da se preliv stegne.
 Sačuvajte recept i podelite ga sa prijateljima. 🤎
 
 ---
 
-<a id="dq1sqziankr"></a>
+<a id="hleb-koji-se-ne-mesi"></a>
 ### HLEB KOJI SE NE MESI
 
-*2025-11-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DQ1SqzIAnkR/)*
+*2025-11-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DQ1SqzIAnkR/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hleb-koji-se-ne-mesi/*
 
 sa hrskavom koricom i mekanom sredinom. Moja mama je gotovo svakodnevno pripremala ovakav hleb, i obožavam ga! Vole ga svi u kući i zato hajde da se podsetimo pripreme 🥰
 
@@ -3328,16 +3262,13 @@ sa hrskavom koricom i mekanom sredinom. Moja mama je gotovo svakodnevno priprema
 - 1 kašičica šećera
 - 2 kašičice soli
 
-*Priprema*
-
-- 1.	U 200 ml tople vode dodajte kašičicu brašna, šećer i suvi kvasac. Promešajte i ostavite da se aktivira.
-- 5.	Na pobrašnjenom pek papiru izlijte testo i pažljivo ga prebacite u vrelu posudu. Poklopite i pecite 30 minuta na 230C poklopljeno.
-
 **Priprema**
 
+1.	U 200 ml tople vode dodajte kašičicu brašna, šećer i suvi kvasac. Promešajte i ostavite da se aktivira.
 2.	U činiji pomešajte prosejano brašno i so. Dodajte preostalu vodu i aktivirani kvasac. Mešajte varjačom oko 5 minuta dok smesa ne postane ujednačena i lepljiva.
 3.	Pokrijte činiju i ostavite testo na toplom mestu da naraste oko sat vremena.
 4.	Zagrejte rernu na 230°C sa posudom za pečenje i poklopcem unutra.
+5.	Na pobrašnjenom pek papiru izlijte testo i pažljivo ga prebacite u vrelu posudu. Poklopite i pecite 30 minuta na 230C poklopljeno.
 6.	Uklonite poklopac i pecite još 5-10 minuta dok hleb ne dobije zlatnu boju.
 Ako imate dovoljno strpljenja, ostavite hleb da se prohladi. Mi teško odolevamo. Ne zna se da li je lepši vruć sa mladim kajmakom ili puterom i domaćim dzemom.
 Nikada nisam zapisala tačne mere za hleb koji je pripremala moja mama, jer je ona to radila odokativno. Zato sam ovaj recept pronašla kod @prokuvaj, i zaista je savršen.
@@ -3346,10 +3277,10 @@ Prijatno!!!
 
 ---
 
-<a id="dqq9kr7amau"></a>
+<a id="i-imamo-li-ovde-ljubitelja-kafeeee"></a>
 ### I imamo li ovde ljubitelja kafeeee…?
 
-*2025-11-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQq9kR7Amau/)*
+*2025-11-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQq9kR7Amau/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/i-imamo-li-ovde-ljubitelja-kafeeee/*
 
 Mogu samo da vam kažem da su zrna kafe iznenadjujuće moćni kolačići, bukvalno se tope u ustima 🤤
 Imaju tu neku aromu kafe, protkanu čokoladom i mislim da ne znam da se neko posle degustacije zaustavio na jednom 🙈
@@ -3380,10 +3311,10 @@ Ukoliko spremate posne koristite margarin i crnu čokoladu 🤎
 
 ---
 
-<a id="dqbii64gnxi"></a>
+<a id="lesnik-gnezda-2"></a>
 ### Lešnik gnezda
 
-*2025-10-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQbiI64gnXI/)*
+*2025-10-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQbiI64gnXI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lesnik-gnezda-2/*
 
 Sezona slava nam dolazi, a odmah iza toga i najlepši praznici koji zaslužuju sitne preukusne domaće kolače. Nama jedan od omiljenih su lešnik gnezda i današ vam ostavljam postupak pripreme 🥰
 Zgodno je što sastojke možete prilagoditi ako su vam potrebni u posnoj varijantu, pa tako puter zamenite margarinom i vodite računa da koristite crnu čokoladu i posni keks. Sve mere ostaju iste 🤎
@@ -3414,10 +3345,10 @@ Od ove smese dobila sam 35 kolačica, pa ako je za veća slavlja, odmah dupla me
 
 ---
 
-<a id="dqu0eeeapb0"></a>
+<a id="badem-praline-2"></a>
 ### Badem praline
 
-*2025-10-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQU0eeEApB0/)*
+*2025-10-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DQU0eeEApB0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/badem-praline-2/*
 
 Sezona slava je pred nama, a onda nam stižu i najlepši praznici, obavezno neka vam se i ovaj kolačić nadje na spisku za pripremu 🫶🏼
 
@@ -3449,10 +3380,10 @@ Kako vam se čini..?
 
 ---
 
-<a id="dpvryzlag5q"></a>
+<a id="no-bake-granola-bars"></a>
 ### No bake granola bars
 
-*2025-10-13 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DPvryZLAg5q/)*
+*2025-10-13 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DPvryZLAg5q/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/no-bake-granola-bars/*
 
 Dva ukusa od jedne mere 😍
 
@@ -3479,28 +3410,26 @@ Dva ukusa od jedne mere 😍
 - u drugu polovinu dodaj 50 g čokoladnih kapljica
 - nakon hlađenja barove umočiti u 100 g otopljene crne čokolade
 
-*Postupak*
-
-- 1.	U činiji sjedini bademov puter, javorov sirup i kokosovo ulje.
-- 2.	Dodaj ovsene pahuljice, orašaste plodove (sitnije seckane ) semenke i cimet, pa sve dobro promešaj.
-- 3.	Podeli smesu na dva dela: u jedan umešaj brusnice, u drugi čokoladne kapljice.
-- 5.	Ohladi u frižideru oko sat vremena, iseci na barove i umočite ili prelijte otopljenom čokoladom.
-
 **Priprema**
 
 👉 Ovo je osnovna smesa koju delimo na dve jednake polovine
 
+📌 Postupak:
+	1.	U činiji sjedini bademov puter, javorov sirup i kokosovo ulje.
+	2.	Dodaj ovsene pahuljice, orašaste plodove (sitnije seckane ) semenke i cimet, pa sve dobro promešaj.
+	3.	Podeli smesu na dva dela: u jedan umešaj brusnice, u drugi čokoladne kapljice.
 	4.	Svaku smesu prebaci u manji pleh (10x20 cm) ili oblikuj u okviru većeg pleha (20x20 cm, ali pola-pola). Dobro utisni.
+	5.	Ohladi u frižideru oko sat vremena, iseci na barove i umočite ili prelijte otopljenom čokoladom.
 	6.	Čuvaj u frižideru do nedelju dana.
 
 Savršena kombinacija, prelepog ukusa, oduševiće vas 😍
 
 ---
 
-<a id="dphemcje6xl"></a>
+<a id="pilece-cuftice"></a>
 ### Pileće ćuftice
 
-*2025-10-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DPhEMCJE6XL/)*
+*2025-10-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DPhEMCJE6XL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pilece-cuftice/*
 
 Znate one trenutke kad poželite da nekome olakšate dan — bilo sebi, bilo nekome dragom? 😍
 Ovog puta ja sam htela da iznenadim svoju snajku, koja je u devetom mesecu trudnoće. Dok je bila na pregledima (i dok je kod mene u kući haos zbog renoviranja kuhinje 🙈), iskoristila sam vreme da joj pripremim nešto što će joj, sigurna sam, baš značiti kada se vrati iz porodilišta.
@@ -3542,10 +3471,10 @@ Ali želim da čujem i vaše – koji su vaši provereni recepti koje pripremate
 
 ---
 
-<a id="dpbbilqk5hq"></a>
+<a id="socni-kolac-sa-vocem"></a>
 ### Sočni kolač sa voćem
 
-*2025-10-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DPbBiLqk5Hq/)*
+*2025-10-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DPbBiLqk5Hq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-kolac-sa-vocem/*
 
 Divan, mirisni kolač — a nedelja kao stvorena za ovakve zalogaje. ☕💛
 
@@ -3572,7 +3501,6 @@ Divan, mirisni kolač — a nedelja kao stvorena za ovakve zalogaje. ☕💛
 
 **Priprema**
 
-Priprema:
 Umutite jaja sa šećerom dok smesa ne pobeli, pa dodajte tečne sastojke – mleko i ulje. Promešajte, zatim dodajte brašno pomešano sa gustinom i praškom za pecivo.
 Sve umutite mikserom i izlijte u pleh dimenzija 25x35 cm.
 
@@ -3590,10 +3518,10 @@ Nadam se da ćete ga isprobati — jedva čekam vaše utiske! 💛
 
 ---
 
-<a id="dpt_yuzk4xe"></a>
+<a id="mac-cheese"></a>
 ### Mac & Cheese
 
-*2025-10-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DPT_Yuzk4Xe/)*
+*2025-10-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DPT_Yuzk4Xe/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mac-cheese/*
 
 Kremasta, sočna i preukusna pasta za sve ljubitelje sira! Idealna kada želite brz, a ukusan ručak bez puno komplikacija. 👌
 
@@ -3616,16 +3544,13 @@ Kremasta, sočna i preukusna pasta za sve ljubitelje sira! Idealna kada želite 
 - 50 g gaude
 - 350 g sitnije makarone
 
-*Priprema*
-
-- 1.	U šerpi otopite puter, dodajte brašno i kratko propržite da se sjedini.
-- 2.	Dodajte mleko i neutralnu pavlaku, uz stalno mešanje da se ne stvore grudvice.
-- 3.	Začinite solju, biberom, lukom u prahu i mlevenom paprikom.
-- 4.	Dodajte 1/2 kutlače vode u kojoj se kuvala pasta – sos će biti još kremastiji.
-
 **Priprema**
 
-5.	Potom umešajte rendane sireve (cheddar, mozzarellu i gaudu) dok se potpuno ne otope.
+1.	U šerpi otopite puter, dodajte brašno i kratko propržite da se sjedini.
+	2.	Dodajte mleko i neutralnu pavlaku, uz stalno mešanje da se ne stvore grudvice.
+	3.	Začinite solju, biberom, lukom u prahu i mlevenom paprikom.
+	4.	Dodajte 1/2 kutlače vode u kojoj se kuvala pasta – sos će biti još kremastiji.
+	5.	Potom umešajte rendane sireve (cheddar, mozzarellu i gaudu) dok se potpuno ne otope.
 	6.	Ubacite skuvane makarone u sos i dobro sjedinite.
 	7.	Sve prebacite u pleh, po vrhu pospite još malo sira po ukusu i zapecite u rerni samo toliko da se sir lepo istopi i dobije zlatnu koricu. 😍
 
@@ -3633,10 +3558,10 @@ Poslužite odmah i uživajte u najlepšem comfort food-u! 🧀✨
 
 ---
 
-<a id="dpd_dybgkgm"></a>
+<a id="nutella-mafini"></a>
 ### Nutella mafini
 
-*2025-09-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DPD_DYbgkGm/)*
+*2025-09-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DPD_DYbgkGm/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-mafini/*
 
 Ako volite sočne, čokoladne poslastice koje mirišu na dom, onda su ovi mafini pravi izbor za vas. 🤎
 
@@ -3658,27 +3583,24 @@ Ako volite sočne, čokoladne poslastice koje mirišu na dom, onda su ovi mafini
 - 200 g čokoladnih kapljica
 - Nutella + lešnici za punjenje i dekoraciju po ukusu
 
-*Priprema*
-
-- 1.	Otopljeni puter umutiti sa šećerom, jajima i aromom vanile.
-- 2.	Dodati ulje, zatim grčki jogurt i mleko.
-- 3.	Prosejati brašno, prašak za pecivo i mrvicom soli, pa sjediniti sa smesom.
-- 4.	Na kraju dodati čokoladne kapljice i lagano umešati.
-- 6.	Posuti čokoladom, lešnicima i peći na 190°C oko 35 minuta, gotove izdubiti i puniti Nutelom ❤️
-
 **Priprema**
 
-5.	Sipati smesu u kalupe (meni je ispalo 12 većih mafina).
+1.	Otopljeni puter umutiti sa šećerom, jajima i aromom vanile.
+	2.	Dodati ulje, zatim grčki jogurt i mleko.
+	3.	Prosejati brašno, prašak za pecivo i mrvicom soli, pa sjediniti sa smesom.
+	4.	Na kraju dodati čokoladne kapljice i lagano umešati.
+	5.	Sipati smesu u kalupe (meni je ispalo 12 većih mafina).
+	6.	Posuti čokoladom, lešnicima i peći na 190°C oko 35 minuta, gotove izdubiti i puniti Nutelom ❤️
 
 Mekani, sočni i neodoljivo čokoladni – mafini koje ćete praviti iznova. 🧁
 Jedva čekam vaše utiske kada probate! ✨
 
 ---
 
-<a id="do84g5xauj7"></a>
+<a id="kolac-sa-sljivama"></a>
 ### Kolač sa šljivama
 
-*2025-09-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DO84g5xAuJ7/)*
+*2025-09-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DO84g5xAuJ7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-sa-sljivama/*
 
 Kalup 22-24 cm
 
@@ -3711,26 +3633,25 @@ Kalup 22-24 cm
 - 1 kašičica vanilin šećera
 - 50 g hladnog putera
 - prstohvat soli
-- 5.	Mrvičasti posip: zamesiti brašno, šećer, vanilin šećer, puter i so rukama dok se ne formiraju mrvice. Ravnomerno posuti preko šljiva.
-- 7.	Ostaviti da se kolač ohladi, po želji posuti prah šećerom i poslužiti.
 
 **Priprema**
 
-Priprema:
-	1.	Rernu zagrejati na 175 °C. Kalup podmazati ili obložiti papirom za pečenje.
+1.	Rernu zagrejati na 175 °C. Kalup podmazati ili obložiti papirom za pečenje.
 	2.	Pripremiti šljive
 	3.	Za testo: umutiti puter, šećer, vanilu i so dok ne postane kremasto. Dodavati jaja jedno po jedno. Pomešati brašno sa praškom za pecivo, pa naizmenično sa mlekom dodavati u smesu, dok se ne dobije glatko testo. Rasporediti u pripremljen kalup.
 	4.	Na testo poređati šljive
+	5.	Mrvičasti posip: zamesiti brašno, šećer, vanilin šećer, puter i so rukama dok se ne formiraju mrvice. Ravnomerno posuti preko šljiva.
 	6.	Peći 45–50 minuta. Ako su šljive vrlo sočne, može biti potrebno dodatnih 5 minuta.
+	7.	Ostaviti da se kolač ohladi, po želji posuti prah šećerom i poslužiti.
 
 Uživajte ❤️
 
 ---
 
-<a id="doolny0atec"></a>
+<a id="hrskava-pita-u-stapicima"></a>
 ### Hrskava pita u štapićima
 
-*2025-09-15 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DOoLnY0Atec/)*
+*2025-09-15 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DOoLnY0Atec/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hrskava-pita-u-stapicima/*
 
 Za ovu savršeno hrskavu i sočnu pitu trebaće vam:
 
@@ -3747,26 +3668,24 @@ Za ovu savršeno hrskavu i sočnu pitu trebaće vam:
 - malo soli po ukusu
 - susam + nekoliko kockica putera za kraj
 
-*Priprema*
-
-- 1.	Umutite jaja, sir, krem sir, jogurt, malčice soli i prašak za pecivo.
-- 2.	U posebnoj činiji pomešajte mleko i ulje.
-- 5.	Sve rolne premažite ostatkom mleka i ulja, pospite susamom i dodajte nekoliko kockica putera.
-
 **Priprema**
 
-3.	Prvu koru premažite mešavinom mleka i ulja. Ponovite isto i sa drugom korom, pa preko nje rasporedite fil od sira. Urolajte i slažite u pleh.
+👉 Priprema:
+	1.	Umutite jaja, sir, krem sir, jogurt, malčice soli i prašak za pecivo.
+	2.	U posebnoj činiji pomešajte mleko i ulje.
+	3.	Prvu koru premažite mešavinom mleka i ulja. Ponovite isto i sa drugom korom, pa preko nje rasporedite fil od sira. Urolajte i slažite u pleh.
 	4.	Postupak ponavljajte dok ne potrošite kore i fil. Ukoliko su vam kore tanje možete rolati prutiće i sa tri kore, tada na treću dodjete smesu od sira.
+	5.	Sve rolne premažite ostatkom mleka i ulja, pospite susamom i dodajte nekoliko kockica putera.
 	6.	Pecite na 180°C oko 40 minuta, dok ne dobije zlatnu boju.
 
 Rezultat? Hrskava, rastresita pita koja ostaje sočna i sutradan. ❤️
 
 ---
 
-<a id="doaihp-andw"></a>
+<a id="zdrave-coko-kuglice-od-samo-4-sastojka"></a>
 ### Zdrave čoko kuglice od samo 4 sastojka
 
-*2025-09-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DOaiHp-AnDw/)*
+*2025-09-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DOaiHp-AnDw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zdrave-coko-kuglice-od-samo-4-sastojka/*
 
 **Sastojci**
 
@@ -3795,10 +3714,10 @@ Savršene su uz kafu ☕, klinci ih obožavaju ❤️, a jedina “opasnost” �
 
 ---
 
-<a id="dosxzmrgp5c"></a>
+<a id="pancerote-iz-rerne-mekane"></a>
 ### Pancerote iz rerne – mekane
 
-*2025-09-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DOSxzmRgp5c/)*
+*2025-09-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/DOSxzmRgp5c/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pancerote-iz-rerne-mekane/*
 
 Pancerote iz rerne – mekane, sočne i neodoljive!
 Zaboravite na prženje u ulju – ove pancerote su pečene u rerni, a testo je nikad lepše i mekše 😍
@@ -3830,25 +3749,22 @@ Od istog testa možete praviti i picu i kiflice – i svaki put uspe bez greške
 - 1 jaje
 - susam
 
-*Priprema*
-
-- 1.	Pomešajte mleko, vodu, šećer, kvasac i kašičicu brašna, pa ostavite da nadođe.
-- 2.	Dodajte ulje, brašno i so, pa umesite glatko testo. Pokrijte providnom folijom i ostavite oko 20 minuta.
-- 3.	Pripremite nadev od pavlake, šunke, kačkavalja, kečapa i origana.
-- 5.	Ostavite još 20 minuta u plehu, premažite jajetom, pospite susamom i pecite na 220°C oko 18–20 minuta, dok ne porumene.
-
 **Priprema**
 
-4.	Na pobrašnjenoj podlozi razvucite testo. Testo je mekše – i tako treba da bude. Vadite krugove, dodajte nadev i preklopite. Ja koristim kalup i spas mi je – sve pancerote budu iste i lepo zatvorene.
+1.	Pomešajte mleko, vodu, šećer, kvasac i kašičicu brašna, pa ostavite da nadođe.
+	2.	Dodajte ulje, brašno i so, pa umesite glatko testo. Pokrijte providnom folijom i ostavite oko 20 minuta.
+	3.	Pripremite nadev od pavlake, šunke, kačkavalja, kečapa i origana.
+	4.	Na pobrašnjenoj podlozi razvucite testo. Testo je mekše – i tako treba da bude. Vadite krugove, dodajte nadev i preklopite. Ja koristim kalup i spas mi je – sve pancerote budu iste i lepo zatvorene.
+	5.	Ostavite još 20 minuta u plehu, premažite jajetom, pospite susamom i pecite na 220°C oko 18–20 minuta, dok ne porumene.
 
 Prijatno!
 
 ---
 
-<a id="doisozfaotn"></a>
+<a id="waffle-krekeri-slane-galete-2"></a>
 ### Waffle krekeri (slane galete)
 
-*2025-09-03 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DOIsOZfAotn/)*
+*2025-09-03 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DOIsOZfAotn/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle-krekeri-slane-galete-2/*
 
 **Sastojci**
 
@@ -3879,10 +3795,10 @@ Hrskavo savršeni! 💓
 
 ---
 
-<a id="dn_odu-glur"></a>
+<a id="brownie-chocolate-cookie-2"></a>
 ### Brownie chocolate cookie
 
-*2025-08-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DN_Odu-gluR/)*
+*2025-08-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DN_Odu-gluR/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie-chocolate-cookie-2/*
 
 Tražila sam savršen kolačić – hrskav spolja, mekan unutra i toliko sočan da se topi u ustima. Posle nekoliko pokušaja i kombinacija – uspela sam! I naravno, recept delim sa vama. 🤎
 
@@ -3902,15 +3818,12 @@ Tražila sam savršen kolačić – hrskav spolja, mekan unutra i toliko sočan 
 - 40 g kvalitetnog kakaa
 - ½ kašičice sode bikarbone
 
-*Priprema*
-
-- 1.	Iseckajte crnu i belu čokoladu na sitne kockice i ostavite sa strane.
-- 2.	Umutite puter i šećere, dodajte jaja i aromu vanile, pa dobro sjedinite.
-- 3.	Dodajte prosejano brašno, kakao i sodu bikarbonu, pa sve lagano promešajte.
-
 **Priprema**
 
-4.	Smesa je gušća – moj savet je da je rasporedite na poslužavnik, kratko ostavite u frižideru (oko 30 minuta), a zatim formirate loptice željene veličine.
+1.	Iseckajte crnu i belu čokoladu na sitne kockice i ostavite sa strane.
+	2.	Umutite puter i šećere, dodajte jaja i aromu vanile, pa dobro sjedinite.
+	3.	Dodajte prosejano brašno, kakao i sodu bikarbonu, pa sve lagano promešajte.
+	4.	Smesa je gušća – moj savet je da je rasporedite na poslužavnik, kratko ostavite u frižideru (oko 30 minuta), a zatim formirate loptice željene veličine.
 	5.	Tokom pečenja kuglice će se topiti poput kugli sladoleda i formiraće se savršeni cookies. Pecite 12 minuta na 180°C.
 	6.	Sačekajte da se malo prohlade i uživajte u savršenom zalogaju!
 
@@ -3918,10 +3831,10 @@ Ako mene pitate, idealni su uz šoljicu kafe. ☕️🍪 Jači su i intenzivni, 
 
 ---
 
-<a id="dn6hkksgjbf"></a>
+<a id="krem-corbica-sa-piletinom-i-povrcem-3"></a>
 ### Krem čorbica sa piletinom i povrćem
 
-*2025-08-28 · Slano · reel · [Instagram post](https://www.instagram.com/p/DN6HkkSgjbf/)*
+*2025-08-28 · Slano · reel · [Instagram post](https://www.instagram.com/p/DN6HkkSgjbf/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krem-corbica-sa-piletinom-i-povrcem-3/*
 
 Idealna čorbica za sve klince probirljivce – uvek se traži tanjir više! Savršeno kremasta i ukusna, a uz dodatak hrskavih krutona pravi je pun pogodak. 🌸
 
@@ -3941,13 +3854,13 @@ Idealna čorbica za sve klince probirljivce – uvek se traži tanjir više! Sav
 - 30–40 g maslaca
 - krutoni
 - Priprema:
-- 1.	Piletinu sa povrćem stavite u veću šerpu i kuvajte oko jedan sat.
-- 3.	Vratite u šerpu, ostavite na tihoj vatri, dodajte neutralnu pavlaku i maslac. Lagano mešajte da se poveže.
 - Krutoni:
 
 **Priprema**
 
-2.	Zajedno sa tečnošću u kojoj se kuvala, sve izblendajte i ispasirajte u blenderu.
+1.	Piletinu sa povrćem stavite u veću šerpu i kuvajte oko jedan sat.
+	2.	Zajedno sa tečnošću u kojoj se kuvala, sve izblendajte i ispasirajte u blenderu.
+	3.	Vratite u šerpu, ostavite na tihoj vatri, dodajte neutralnu pavlaku i maslac. Lagano mešajte da se poveže.
 	4.	Začinite po ukusu i obavezno probajte pre serviranja.
 
 Tost hleb iseckajte na kockice, stavite na pleh obložen papirom, poprskajte maslinovim uljem, pospite morskom soli i malo luka u prahu. Pecite oko 10 minuta na 180°C dok ne postanu zlatni i hrskavi.
@@ -3956,10 +3869,10 @@ Uživajte i javite mi utiske ❤️
 
 ---
 
-<a id="dn3g2qyxj2o"></a>
+<a id="mafini-sa-malinama-i-crnom-cokoladom"></a>
 ### Mafini sa malinama i crnom čokoladom
 
-*2025-08-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DN3g2qYxJ2O/)*
+*2025-08-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DN3g2qYxJ2O/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mafini-sa-malinama-i-crnom-cokoladom/*
 
 (mera je dovoljna za 12 mafina)
 
@@ -3985,27 +3898,24 @@ Uživajte i javite mi utiske ❤️
 - 1 kašika šećera
 - 50 g brašna
 
-*Priprema*
-
-- 1.	Umutiti puter i šećer, dodati jaja i sjediniti.
-- 2.	Sipati mleko i dobro umutiti.
-- 3.	Dodati brašno, prašak za pecivo, vanilin šećer i prstohvat soli.
-- 4.	Na kraju umešati maline i crnu čokoladu.
-- 6.	Za mrvičasti preliv – hladan puter, šećer i brašno sjediniti prstima dok ne postane mrvičasta smesa, pa posuti po mafinima.
-
 **Priprema**
 
-5.	Rasporediti smesu u kalup za mafine.
+1.	Umutiti puter i šećer, dodati jaja i sjediniti.
+	2.	Sipati mleko i dobro umutiti.
+	3.	Dodati brašno, prašak za pecivo, vanilin šećer i prstohvat soli.
+	4.	Na kraju umešati maline i crnu čokoladu.
+	5.	Rasporediti smesu u kalup za mafine.
+	6.	Za mrvičasti preliv – hladan puter, šećer i brašno sjediniti prstima dok ne postane mrvičasta smesa, pa posuti po mafinima.
 	7.	Peći u prethodno zagrejanoj rerni na 180°C oko 25 minuta.
 
 Uživaćete 🥰 Bonus savet, nemojte biti nestrpljivi koliko i ja, sačekajte da se malo prohlade kako bi ih lagano vadili iz papirnih korpica 🤗
 
 ---
 
-<a id="dnv9rymxcq7"></a>
+<a id="zalivena-pita-s-mesom"></a>
 ### Zalivena pita s mesom
 
-*2025-08-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DNv9RYmxCQ7/)*
+*2025-08-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/DNv9RYmxCQ7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zalivena-pita-s-mesom/*
 
 Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme koji me nikad nije izneverio.
 
@@ -4024,16 +3934,13 @@ Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme ko
 - 50 ml ulja + prstohvat soli (za preliv)
 - dodatno 50 ml ulja (za premazivanje kora)
 
-*Priprema*
-
-- 1.	Sitno iseckajte luk i prodinstajte na 3 kašike ulja. Dodajte mleveno meso, posolite i pobiberite.
-- 2.	Pržite meso zajedno s lukom samo 7–8 minuta – tako ostaje sočno i nema potrebe za više jer se svakako pita peče dodatno u rerni.
-- 3.	Umutite jaja, jogurt, kiselu vodu i 50 ml ulja – to je preliv za kore i pitu.
-- 5.	Ređajte redom: prva kora se premaže uljem, druga sa 3 kašike preliva i 3–4 kašike mesa, i tako dok ne potrošite sve.
-
 **Priprema**
 
-4.	Kore podelite: dve stavite na dno pleha, jednu ostavite za kraj, a ostale koristite za slaganje.
+1.	Sitno iseckajte luk i prodinstajte na 3 kašike ulja. Dodajte mleveno meso, posolite i pobiberite.
+	2.	Pržite meso zajedno s lukom samo 7–8 minuta – tako ostaje sočno i nema potrebe za više jer se svakako pita peče dodatno u rerni.
+	3.	Umutite jaja, jogurt, kiselu vodu i 50 ml ulja – to je preliv za kore i pitu.
+	4.	Kore podelite: dve stavite na dno pleha, jednu ostavite za kraj, a ostale koristite za slaganje.
+	5.	Ređajte redom: prva kora se premaže uljem, druga sa 3 kašike preliva i 3–4 kašike mesa, i tako dok ne potrošite sve.
 	6.	Na kraju, pitu zatvorite poslednjom korom, ušuškajte ivice i isečete pre pečenja.
 	7.	Prelijte ostatkom preliva, ostavite 5 minuta da upije, pa pecite na 200°C oko 45 minuta – dok ne dobije lepu zlatnu koricu.
 
@@ -4041,10 +3948,10 @@ Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme ko
 
 ---
 
-<a id="dnllrxumf3e"></a>
+<a id="socni-kolac-sa-breskvama"></a>
 ### Sočni kolač sa breskvama
 
-*2025-08-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DNllrXuMf3E/)*
+*2025-08-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DNllrXuMf3E/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-kolac-sa-breskvama/*
 
 **Sastojci**
 
@@ -4067,17 +3974,14 @@ Sočna, rastresita i preukusna, a ovog puta vam ostavljam moj način pripreme ko
 - 1 vanilin šećer
 - ¼ kašičice cimeta (po ukusu)
 
-*Priprema*
-
-- 1.	U činiji pomešati brašno, prašak za pecivo i prstohvat soli.
-- 2.	U drugoj činiji umutiti jaja sa šećerom dok ne postanu penasta.
-- 3.	Dodati ulje, jogurt, aromu vanile i rendanu koricu limuna, pa sve sjediniti mikserom.
-- 4.	Postepeno dodati suve sastojke i kratko umutiti da se dobije glatka smesa.
-- 5.	Breskve oljuštiti i iseći na kriške, pa ih pomešati sa vanilin šećerom i cimetom.
-
 **Priprema**
 
-6.	Polovinu smese sipati u kalup prečnika 23–24 cm obložen papirom za pečenje.
+1.	U činiji pomešati brašno, prašak za pecivo i prstohvat soli.
+	2.	U drugoj činiji umutiti jaja sa šećerom dok ne postanu penasta.
+	3.	Dodati ulje, jogurt, aromu vanile i rendanu koricu limuna, pa sve sjediniti mikserom.
+	4.	Postepeno dodati suve sastojke i kratko umutiti da se dobije glatka smesa.
+	5.	Breskve oljuštiti i iseći na kriške, pa ih pomešati sa vanilin šećerom i cimetom.
+	6.	Polovinu smese sipati u kalup prečnika 23–24 cm obložen papirom za pečenje.
 	7.	Preko poređati deo breskvi, zatim sipati ostatak smese i rasporediti preostale breskve po vrhu.
 	8.	Peći u zagrejanoj rerni na 180°C oko 50 minuta, dok lepo ne porumeni i ne bude pečen iznutra (probati čačkalicom).
 	9.	Ostaviti da se malo prohladi, zatim izvaditi iz kalupa.
@@ -4089,10 +3993,10 @@ Pospite ga šećerom u prahu, poslužite uz kuglu sladoleda od vanile dok je jo�
 
 ---
 
-<a id="dnbqgyumgbb"></a>
+<a id="znate-one-recepte-koji-uvek-spasu-dan"></a>
 ### Znate one recepte koji uvek „spasu dan“
 
-*2025-08-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/DNbQGyUMGbB/)*
+*2025-08-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/DNbQGyUMGbB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/znate-one-recepte-koji-uvek-spasu-dan/*
 
 Znate one recepte koji uvek „spasu dan“, kad ne znaš šta da spremaš, a želiš da svi budu siti i zadovoljni? 🥰 E pa, kod nas su to baš ove pileće čuftice na pireu - mekane, sočne i uvek odobrene od strane klinaca. 💛
 
@@ -4109,26 +4013,24 @@ Znate one recepte koji uvek „spasu dan“, kad ne znaš šta da spremaš, a ž
 - 1 kašika putera (ili ulja)
 - so, biber po ukusu
 
-*Priprema*
-
-- 1.	Luk sitno iseckati i kratko prodinstati da pusti sok i bude sočniji.
-- 2.	Tost hleb usitniti i potopiti u mleko.
-- 3.	Sve sastojke pomešati - piletinu, luk, hleb sa mlekom, sir, so i biber - i dobro sjediniti.
-- 5.	Pržiti na ulju ili peći u rerni (blago poprskati uljem da ne budu suve).
-- Ja ih poslužim na pire krompiru i to bude pun pogodak.
-
 **Priprema**
 
-4.	Oblikovati kuglice.
+1.	Luk sitno iseckati i kratko prodinstati da pusti sok i bude sočniji.
+	2.	Tost hleb usitniti i potopiti u mleko.
+	3.	Sve sastojke pomešati - piletinu, luk, hleb sa mlekom, sir, so i biber - i dobro sjediniti.
+	4.	Oblikovati kuglice.
+	5.	Pržiti na ulju ili peći u rerni (blago poprskati uljem da ne budu suve).
+
+✨ Ja ih poslužim na pire krompiru i to bude pun pogodak.
 
 Javite mi u komentarima 👇 koje su to ideje za ručak koje vaši klinci najviše vole i uvek pojedu bez birkanja? 🍽️
 
 ---
 
-<a id="dntu2zlml_j"></a>
+<a id="ako-volite-spoj-bele-cokolade"></a>
 ### Ako volite spoj bele čokolade
 
-*2025-08-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DNTU2ZlML_J/)*
+*2025-08-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DNTU2ZlML_J/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ako-volite-spoj-bele-cokolade/*
 
 Ako volite spoj bele čokolade, malina i pistaća, ova tortica će vas oboriti s nogu! 🍰💛
 Ne peče se, izgleda preslatko, a ukus je pravi mali raj. Savršena je kada želite da nekoga iznenadite ili obradujete, kao što sam ja uradila ovaj put.
@@ -4161,25 +4063,25 @@ Ne peče se, izgleda preslatko, a ukus je pravi mali raj. Savršena je kada žel
 - 50 ml slatke pavlake
 - par kapi crvene boje za  dekoraciju(opciono)
 - sveže maline za ukras
-- 1.	Pomešajte mlevenu Plazmu, puter, sok od pomorandže i pistać krem. Utisnite smesu u kalup prečnika 20 cm i ostavite sa strane.
-- 2.	Umutite krem sir i mascarpone, dodajte slatku pavlaku (i kremfix ako želite čvršću strukturu).
-- 3.	Podelite fil na dva dela — u prvi dodajte pistać krem, a u drugi otopljenu belu čokoladu i maline.
-- 4.	Na podlogu stavite pistać fil, pa fil od bele čokolade i malina. Ostavite da se stegne.
-- 6.	Ukrasite svežim malinama.
 
 **Priprema**
 
 📝 Priprema
+	1.	Pomešajte mlevenu Plazmu, puter, sok od pomorandže i pistać krem. Utisnite smesu u kalup prečnika 20 cm i ostavite sa strane.
+	2.	Umutite krem sir i mascarpone, dodajte slatku pavlaku (i kremfix ako želite čvršću strukturu).
+	3.	Podelite fil na dva dela — u prvi dodajte pistać krem, a u drugi otopljenu belu čokoladu i maline.
+	4.	Na podlogu stavite pistać fil, pa fil od bele čokolade i malina. Ostavite da se stegne.
 	5.	Za ganaš: zagrejte pavlaku do vrenja, prelijte iseckanu belu čokoladu i mešajte dok ne postane glatka. Prelijte tortu, a mali deo ganaša obojite crvenom bojom ukoliko želite ovakve šare kao sa snimka.
+	6.	Ukrasite svežim malinama.
 
 Ova tortica je bila poklon, pa nemam presek, ali verujte — bila je prava mala slatka senzacija. 💕
 
 ---
 
-<a id="dnh7jmwsehw"></a>
+<a id="gibanica-sa-sirom"></a>
 ### Gibanica sa sirom
 
-*2025-08-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DNH7jmWseHW/)*
+*2025-08-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DNH7jmWseHW/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/gibanica-sa-sirom/*
 
 Ne pamtim kada sam je poslednji put spremala, a toliko je izdašna i svi u kući je vole. Kako za doručak, tako i za večeru. Lagana je, mekana i sočna iznutra, a hrskava spolja, a miris dok se peče neodoljiv.
 
@@ -4195,7 +4097,6 @@ Ne pamtim kada sam je poslednji put spremala, a toliko je izdašna i svi u kući
 - 100 ml ulja
 - 1 velika čaša kisele pavlake (400gr)
 - 2-3 kašičice soli (po ukusu)
-- 4.	Premažite mešavinom ulja i kisele vode.
 
 **Priprema**
 
@@ -4205,6 +4106,7 @@ Ne pamtim kada sam je poslednji put spremala, a toliko je izdašna i svi u kući
 	1.	Podmažite pleh i stavite 2 kore tako da vire sa strane. Jednu koru ostavite sa strane za kraj.
 	2.	Ostatak kora iscepajte i umačite u umućenu smesu.
 	3.	Preklopite korama koje vire, pa preko stavite preostalu koru, uvucite ivice.
+	4.	Premažite mešavinom ulja i kisele vode.
 	5.	Pecite na 200°C oko 40 minuta, dok ne dobije zlatnu boju.
 
 Napomena:
@@ -4214,10 +4116,10 @@ Uživajte ! 💛
 
 ---
 
-<a id="dm8i0n4i5ih"></a>
+<a id="kad-padne-vece-i-krenem-da-prelistavam-mreze-inspiracij"></a>
 ### Kad padne veče i krenem da prelistavam mreže — inspiracij…
 
-*2025-08-04 · Torte · reel · [Instagram post](https://www.instagram.com/p/DM8I0n4I5IH/)*
+*2025-08-04 · Torte · reel · [Instagram post](https://www.instagram.com/p/DM8I0n4I5IH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kad-padne-vece-i-krenem-da-prelistavam-mreze-inspiracij/*
 
 **Sastojci**
 
@@ -4249,12 +4151,6 @@ Uživajte ! 💛
 - belance
 - listići badema ili seckani blanširani badem (po ukusu)
 
-*Priprema*
-
-- 2.	Sjedini sve sastojke za cheesecake fil dok ne postane glatka i kremasta smesa.
-- 3.	Borovnice pomešaj sa kristal šećerom i ostavi sa strane.
-- 4.	Testo razvuci u krug, u sredinu stavi fil, pa borovnice. Savij ivice ka unutra, premaži belancetom i pospi bademima.
-
 **Priprema**
 
 Topla galeta s borovnicama, hrskavim testom, kremastim filom i voćem… bukvalno sam je odmah zamislila na svom stolu i isprobala recept. 🫐🤤
@@ -4264,7 +4160,11 @@ Sočna, taman slatka, osvežavajuća, hrskava… sve u jednom zalogaju.
 
 📌 Recept za cheesecake galetu sa borovnicama:
 
+📝 Priprema:
 	1.	Hladan puter izrendaj u brašno, dodaj šećer i prstohvat soli. Umešaj vodu dok ne dobiješ glatko testo. Oblikuj loptu, uvij u foliju i ostavi u frižider da odmori.
+	2.	Sjedini sve sastojke za cheesecake fil dok ne postane glatka i kremasta smesa.
+	3.	Borovnice pomešaj sa kristal šećerom i ostavi sa strane.
+	4.	Testo razvuci u krug, u sredinu stavi fil, pa borovnice. Savij ivice ka unutra, premaži belancetom i pospi bademima.
 	5.	Peci u unapred zagrejanoj rerni na 180°C oko 35–40 minuta, dok ne porumeni.
 
 🫐 Posluži dok je još topla, uz kuglu sladoleda i uživaj.
@@ -4273,10 +4173,10 @@ Sočna, taman slatka, osvežavajuća, hrskava… sve u jednom zalogaju.
 
 ---
 
-<a id="dm3unh7ms2k"></a>
+<a id="teletina-i-krompirici-prste-da-polizes"></a>
 ### Teletina i krompirići - prste da poližeš
 
-*2025-08-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DM3UNh7Ms2K/)*
+*2025-08-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/DM3UNh7Ms2K/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/teletina-i-krompirici-prste-da-polizes/*
 
 Savršen ručak za vikend ili svaki dan kada želiš da porodica uživa u domaćem ukusu. Sočna teletina & mirisni krompirići ❤️
 
@@ -4305,18 +4205,16 @@ Savršen ručak za vikend ili svaki dan kada želiš da porodica uživa u domać
 - Malo soli
 - Začin za krompir
 - Maslinovo ulje
-
-*Priprema*
-
-- 1.	Teletinu začiniti i uvaljati s obe strane u brašno.
-- 3.	U isti tiganj dodati krupno rendan crni luk i šargarepu, pa vratiti meso.
 - 4.	Sipati 500 ml vrele vode sa 2 kockice za supu. Poklopiti i krčkati 45 min.
-- 5.	U međuvremenu pripremiti krompire - iseći, začiniti svim sastojcima i izmešati.
-- 6.	Teletinu i krompire složiti u posudu za rernu (idealno sa poklopcem), preliti sosom, poklopiti i peći 40-45 min na 230°C.
 
 **Priprema**
 
-2.	Kratko propržiti na ulju sa obe strane, tek da porumeni.
+👩‍🍳 Priprema:
+	1.	Teletinu začiniti i uvaljati s obe strane u brašno.
+	2.	Kratko propržiti na ulju sa obe strane, tek da porumeni.
+	3.	U isti tiganj dodati krupno rendan crni luk i šargarepu, pa vratiti meso.
+	5.	U međuvremenu pripremiti krompire - iseći, začiniti svim sastojcima i izmešati.
+	6.	Teletinu i krompire složiti u posudu za rernu (idealno sa poklopcem), preliti sosom, poklopiti i peći 40-45 min na 230°C.
 	7.	Pred kraj skinuti poklopac da sve lepo porumeni.
 
 Poslužiti uz svež paradajz ili salatu po želji.
@@ -4324,10 +4222,10 @@ Uživajte! ❤️
 
 ---
 
-<a id="dmvopvxibcn"></a>
+<a id="recept-savrsen-za-leto"></a>
 ### Recept savršen za leto
 
-*2025-07-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DMvOpVXIBCn/)*
+*2025-07-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DMvOpVXIBCn/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/recept-savrsen-za-leto/*
 
 Recept savršen za leto, priprema se brzo, a rezultat – pun pogodak! 🍫🍓
 
@@ -4357,12 +4255,12 @@ Za ovaj kolač koristila sam nove Domaćica mlečne keksiće – nežne, mlečne
 
 - 1.	Puding i šećer razmutiti u 50 ml mleka.
 - 2.	Ostatak mleka (450 ml) staviti da provri, skloniti s vatre, dodati smesu sa pudingom, vratiti na ringlu i mešati dok se ne zgusne.
-- 4.	U ohlađen puding dodati mascarpone ili slatku pavlaku.
-- 5.	Za malina sos: kuvati maline, šećer, vodu i limunov sok. Pred kraj dodati razmućen gustin i kuvati dok se ne zgusne.
 
 **Priprema**
 
 3.	Ostaviti da se potpuno ohladi, prekriveno folijom.
+	4.	U ohlađen puding dodati mascarpone ili slatku pavlaku.
+	5.	Za malina sos: kuvati maline, šećer, vodu i limunov sok. Pred kraj dodati razmućen gustin i kuvati dok se ne zgusne.
 	6.	Ganache: slatku pavlaku zagrejati do vrenja, preliti preko sitno izlomljene čokolade, sačekati minut, pa mešati dok se ne dobije glatka smesa.
 	7.	Ređanje:
 keks – vanila fil – keks – malina sos – keks – ganache.
@@ -4372,10 +4270,10 @@ Izdašan, kremast i osvežavajuć – pravi letnji kolač za celu porodicu! Javi
 
 ---
 
-<a id="dmkkoljmzup"></a>
+<a id="sladoled-kolac-sa-kokosom-i-malinama"></a>
 ### Sladoled kolač sa kokosom i malinama
 
-*2025-07-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DMKkOLJMZUp/)*
+*2025-07-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DMKkOLJMZUp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sladoled-kolac-sa-kokosom-i-malinama/*
 
 Svilenkasta tekstura, lagan kao oblak… dođe ti da se samo zapitaš — da li zaroniti kašikom u  činiju ili se ipak potruditi i iseći parče? 😄
 
@@ -4395,17 +4293,15 @@ Svilenkasta tekstura, lagan kao oblak… dođe ti da se samo zapitaš — da li 
 - 250–300 g svežih malina
 - 2 pune kašike džema od malina (opciono)
 
-*Priprema*
-
-- 1.	Umuti krem sir, slatku pavlaku, kondenzovano mleko, otopljenu belu čokoladu i aromu vanile u gladak krem.
-- 2.	Piškote umači kratko u mlako mleko, pa ih uvaljaj u kokos.
-- 4.	Preko piškota nanesi polovinu fila i polovinu svežih malina.
-- 5.	Ponovi isti redosled — piškote, fil, maline.
-- 6.	Na kraju, možeš po želji dodati par kašika džema od malina po vrhu.
-
 **Priprema**
 
-3.	Ređaj polovinu piškota po dnu posude.
+👩‍🍳 Priprema:
+	1.	Umuti krem sir, slatku pavlaku, kondenzovano mleko, otopljenu belu čokoladu i aromu vanile u gladak krem.
+	2.	Piškote umači kratko u mlako mleko, pa ih uvaljaj u kokos.
+	3.	Ređaj polovinu piškota po dnu posude.
+	4.	Preko piškota nanesi polovinu fila i polovinu svežih malina.
+	5.	Ponovi isti redosled — piškote, fil, maline.
+	6.	Na kraju, možeš po želji dodati par kašika džema od malina po vrhu.
 
 🧊 Hlađenje:
 Stavi kolač prvo 1 sat u zamrzivač da se stegne, a zatim prebaci u frižider. Tekstura ostaje lagana, osvežavajuća, savršena za leto!
@@ -4414,10 +4310,10 @@ Kako vam se čini? Koji ste tim? Zaronim kašiku direkt u posudu ili pak - uživ
 
 ---
 
-<a id="dmin9krolkp"></a>
+<a id="ako-vam-treba-ideja-za-rucak"></a>
 ### Ako vam treba ideja za ručak
 
-*2025-07-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DMIn9kRolkP/)*
+*2025-07-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/DMIn9kRolkP/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ako-vam-treba-ideja-za-rucak/*
 
 Ako vam treba ideja za ručak, evo jednog preukusnog predloga koji miriše na dom.
 Topao, sočan i pun ukusa. 🍽️
@@ -4450,10 +4346,10 @@ Ako isprobate – pišite mi utiske. 💛
 
 ---
 
-<a id="dmclpkgs-cp"></a>
+<a id="u-moru-recepata-za-kiflice"></a>
 ### U moru recepata za kiflice
 
-*2025-07-13 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DMClpkgs-CP/)*
+*2025-07-13 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DMClpkgs-CP/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/u-moru-recepata-za-kiflice/*
 
 U moru recepata za kiflice, ovaj se izdvojio kao apsolutni favorit u našoj kući – i među prijateljima!
 Mekane, mirisne, puteraste… i najlepše baš ovako prazne, jer ih deca najviše vole 😍
@@ -4474,18 +4370,16 @@ Mekane, mirisne, puteraste… i najlepše baš ovako prazne, jer ih deca najviš
 - 1 jaje
 - susam
 
-*Postupak*
-
-- 1.	Pomešajte mlaku vodu s jogurtom u jednoj činiji, a mleko i ulje u drugoj. Kvasac podelite i dodajte u obe činije.
-- 2.	Sačekajte 10 minuta, sjedinite sve i dodajte brašno i so. Zamesite testo.
-- 4.	Na pobrašnjenoj podlozi razvucite testo, čašom vadite krugove.
-- 7.	Na pleh narendajte pola putera, poređajte kiflice, premažite jajetom, pospite susamom i narendajte ostatak putera preko.
-
 **Priprema**
 
-3.	Ostavite da narasta 30–45 min.
+🧈 Postupak:
+	1.	Pomešajte mlaku vodu s jogurtom u jednoj činiji, a mleko i ulje u drugoj. Kvasac podelite i dodajte u obe činije.
+	2.	Sačekajte 10 minuta, sjedinite sve i dodajte brašno i so. Zamesite testo.
+	3.	Ostavite da narasta 30–45 min.
+	4.	Na pobrašnjenoj podlozi razvucite testo, čašom vadite krugove.
 	5.	Svaki krug rastanjite, zasecite vrh i urolajte u oblik potkovice.
 	6.	Po želji punite nadevom ili ostavite prazne.
+	7.	Na pleh narendajte pola putera, poređajte kiflice, premažite jajetom, pospite susamom i narendajte ostatak putera preko.
 	8.	Ostavite još 15 min, pa pecite u zagrejanjoj rerni na 180°C oko 15 min dok lepo ne porumene.
 
 💡 Trik: Ispecite ih unapred, ohladite i zamrznite. Na dan proslave ih samo izvadite – biće kao sveže!
@@ -4496,10 +4390,10 @@ Mekane, mirisne, puteraste… i najlepše baš ovako prazne, jer ih deca najviš
 
 ---
 
-<a id="dlakak_ob6y"></a>
+<a id="tako-da-kod-nas-sve-mirise-na-domace-krofne"></a>
 ### Tako da – kod nas sve miriše na domaće krofne
 
-*2025-06-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DLAkaK_ob6Y/)*
+*2025-06-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DLAkaK_ob6Y/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tako-da-kod-nas-sve-mirise-na-domace-krofne/*
 
 Raspust je počeo, a ja sam danas rešila da udovoljavam.
 Tako da – kod nas sve miriše na domaće krofne 🍓🍩
@@ -4533,10 +4427,10 @@ Isprobajte recept, uživajte i pišite mi – s čim vi najviše volite da jedet
 
 ---
 
-<a id="dkz-dklmjxv"></a>
+<a id="jagodica-tortica-3"></a>
 ### Jagodica tortica
 
-*2025-06-12 · Torte · reel · [Instagram post](https://www.instagram.com/p/DKz-DkLMjxv/)*
+*2025-06-12 · Torte · reel · [Instagram post](https://www.instagram.com/p/DKz-DkLMjxv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagodica-tortica-3/*
 
 Osvezavajuća & kremasta tortica koja je apsolutni “must have” za sve ove prelepo sunčane dane dok još ima ovih savršenih lepotica 🍓
 
@@ -4582,10 +4476,10 @@ Radujem se vašim utiscima! 🌸
 
 ---
 
-<a id="dkkhqgvokvo"></a>
+<a id="sveze-maline-su-stigle-u-lidlsrbija"></a>
 ### Sveže maline su stigle u @lidlsrbija
 
-*2025-06-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DKkHqGVokvo/)*
+*2025-06-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DKkHqGVokvo/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sveze-maline-su-stigle-u-lidlsrbija/*
 
 Sveže maline su stigle u @lidlsrbija, a ja – naravno – odmah u nabavku. 😍
 Obožavam maline i deserte s njima, pa sam spremila savršeno letnje osveženje u čaši!
@@ -4614,12 +4508,6 @@ Obožavam maline i deserte s njima, pa sam spremila savršeno letnje osveženje 
 - 100 ml umućene slatke pavlake
 - oko 300 g svežih malina za dekoraciju
 
-*Priprema*
-
-- 2.	Za malina sos kuvam maline sa limunovim sokom i šećerom, pa dodam gustin razmućen u vodi i ostavim da se prohladi.
-- 3.	Podlogu pravim tako što pomešam keks, otopljen puter i mleko, pa rasporedim na dno čaša.
-- 4.	Ohlađen vanila fil sjedinjavam sa umućenom pavlakom i slažem redom: keks, malina sos, vanila fil i sveže maline.
-
 **Priprema**
 
 ⠀
@@ -4628,15 +4516,18 @@ Obožavam maline i deserte s njima, pa sam spremila savršeno letnje osveženje 
 
 ⠀
 1.	Prvo pripremam vanila fil jer je potrebno da se malo prohladi.Mutim žumanca sa šećerom i vanilom, dodajem gustin i deo mleka, pa sve sipam u zagrejano mleko i kuvam dok se ne zgusne. Dodam puter, promešam i ostavim da se hladi.
+2.	Za malina sos kuvam maline sa limunovim sokom i šećerom, pa dodam gustin razmućen u vodi i ostavim da se prohladi.
+3.	Podlogu pravim tako što pomešam keks, otopljen puter i mleko, pa rasporedim na dno čaša.
+4.	Ohlađen vanila fil sjedinjavam sa umućenom pavlakom i slažem redom: keks, malina sos, vanila fil i sveže maline.
 Brzo, kremasto i osvežavajuće!
 Uživajte! 🥄❤️
 
 ---
 
-<a id="dkczyzxtofp"></a>
+<a id="provereno-najbolji-recept-za-domace-palacinke"></a>
 ### Provereno najbolji recept za domaće palačinke
 
-*2025-06-03 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DKczYzXtOfP/)*
+*2025-06-03 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DKczYzXtOfP/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/provereno-najbolji-recept-za-domace-palacinke/*
 
 **Sastojci**
 
@@ -4671,10 +4562,10 @@ I naravno – kako vi volite da ih kremkate? 😍😍😍
 
 ---
 
-<a id="dj81erqsjki"></a>
+<a id="tart-bela-cokolada-crveno-voce-2"></a>
 ### Tart bela čokolada & crveno voće
 
-*2025-05-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DJ81ErQsJKI/)*
+*2025-05-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DJ81ErQsJKI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-bela-cokolada-crveno-voce-2/*
 
 Sjajna kombinacija crvenog voća i bele čokolade na podlozi od plazme i putera 😍
 
@@ -4723,10 +4614,10 @@ Toliko se brzo priprema, a zaista je i ova kombinacija opravdala moja očekivanj
 
 ---
 
-<a id="djbinkjmmic"></a>
+<a id="dan-za-mame-i-uspomene-koje-ostaju"></a>
 ### Dan za mame i uspomene koje ostaju
 
-*2025-05-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DJbinKjMmIc/)*
+*2025-05-09 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DJbinKjMmIc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/dan-za-mame-i-uspomene-koje-ostaju/*
 
 Miris kolača koji se peče u rerni 🍰, dečje ruke umrljane čokoladom 🍫 i smeh koji ispunjava kuhinju 🥰 — baš kao vikendi koje sam provodila sa svojom mamom.
 Danas tu slatku tradiciju delim sa Lenom, Lukom i Kalinom.
@@ -4757,7 +4648,6 @@ Kod možete iskoristiti u radnjama, a važi do 22. maja.
 
 **Priprema**
 
-Priprema:
 Puter umutiti sa šećerom (oko 2 minuta), dodati aromu vanile i potom jedno po jedno jaje, uz stalno mućenje. Dodati mleko, a zatim postepeno umešati brašno pomešano s praškom za pecivo i prstohvatom soli.
 Smesu podeliti na dva dela – u jedan dodati otopljenu belu, u drugi otopljenu crnu čokoladu.
 U kalup (podmazan i posut brašnom) sipati kašiku po kašiku naizmenično iz obe smese. Nakon svakog sloja dodati po šaku malina. Ponavljati dok ne utrošite svu smesu.
@@ -4780,10 +4670,10 @@ Uživajte u našem predlogu za još slađi vikend 🥰
 
 ---
 
-<a id="djwybwlmplv"></a>
+<a id="ukusan"></a>
 ### Ukusan
 
-*2025-05-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DJWYbWlMpLv/)*
+*2025-05-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DJWYbWlMpLv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ukusan/*
 
 Ukusan, osvežavajuć i hranljiv – baš onakav kakav treba! ☀️🥤 Pripremila sam fini proteinski šejk za celu porodicu uz @moja__kravica PROTEIN mleko, koje sadrži 60g proteina po litru, bez laktoze i sa samo 0,5% mlečne masti. Savršena podrška za sve naše porodične avanture! 💙
 
@@ -4803,10 +4693,10 @@ Izblendirajte sve sastojke i uživajte u savršenom osveženju! 💙
 
 ---
 
-<a id="djuvppwmavj"></a>
+<a id="kinder-bueno-tiramisu-recept-za-ozbiljno-dobar-uzitak"></a>
 ### Kinder Bueno tiramisu – recept za ozbiljno dobar užitak
 
-*2025-05-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DJUVppwMAVj/)*
+*2025-05-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DJUVppwMAVj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-tiramisu-recept-za-ozbiljno-dobar-uzitak/*
 
 U poslednje vreme tiramisu mi se sve češće sprema — ali ne klasičan. Malo eksperimentišem, jer volim kada ti slatki eksperimenti završe ovako dobro: kremasto, bogato, nežno, a opet intenzivno. Ako ste fan Kinder Bueno ukusa i volite moderne varijacije tradicionalnih poslastica, ovaj recept će vas potpuno osvojiti!
 
@@ -4826,15 +4716,12 @@ U poslednje vreme tiramisu mi se sve češće sprema — ali ne klasičan. Malo 
 - 200 g lešnik krema (koristila sam onaj iz @slatkadomacica.shop – bukvalno Kinder Bueno u teglici)
 - 2 Kinder Bueno čokoladice (usitnjene)
 
-*Priprema*
-
-- 2.	Mascarpone kratko umutiti mikserom, dodati mu nemućenu slatku pavlaku i mutiti dok ne postane čvrsta, glatka krema.
-- 3.	Umešati ohlađenu smesu od jaja, a zatim dodati i lešnik krem. Sve sjediniti mikserom u jedan bogat, gladak fil.
-- 4.	U vruće mleko dodati espresso i, po želji, malo amareta.
-
 **Priprema**
 
 1.	Umutiti žumanca i šećer, pa kuvati na pari uz neprestano mešanje dok se ne dobije gusta, svetložuta kremasta smesa. Ostaviti da se potpuno ohladi.
+	2.	Mascarpone kratko umutiti mikserom, dodati mu nemućenu slatku pavlaku i mutiti dok ne postane čvrsta, glatka krema.
+	3.	Umešati ohlađenu smesu od jaja, a zatim dodati i lešnik krem. Sve sjediniti mikserom u jedan bogat, gladak fil.
+	4.	U vruće mleko dodati espresso i, po želji, malo amareta.
 	5.	Piškote kratko umakati s obe strane i slagati u posudu.
 	6.	Preko piškota naneti polovinu fila, zatim još jedan sloj piškota, pa tanak sloj kreme i preko toga posuti usitnjenim Kinder Bueno čokoladicama.
 	7.	Završiti preostalim filom i po želji dekorisati.
@@ -4842,10 +4729,10 @@ U poslednje vreme tiramisu mi se sve češće sprema — ali ne klasičan. Malo 
 
 ---
 
-<a id="di8vk2rmdmk"></a>
+<a id="brzi-jogurt-ustipci-4"></a>
 ### Brzi jogurt uštipci
 
-*2025-04-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DI8VK2rMdmk/)*
+*2025-04-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DI8VK2rMdmk/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzi-jogurt-ustipci-4/*
 
 Znam koliko volite ove prvenstveno jednostavne recepte od samo par sastojaka, još kad se spremaju jako brzo bez nekog čekanja, dok se ukućani razbude i srede sačeka ih topao doručak i možete se okupiti za stolom 😍
 
@@ -4873,10 +4760,10 @@ Mi ih volimo i slane i slatke, priloge birajte po ukusu 🌸
 
 ---
 
-<a id="dioxirqsx9-"></a>
+<a id="uskrsnja-cvet-pogaca"></a>
 ### Uskršnja cvet pogača
 
-*2025-04-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DIoxIrQsX9-/)*
+*2025-04-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DIoxIrQsX9-/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrsnja-cvet-pogaca/*
 
 Mekana, mirisna i dekorativna – ova pogača će sigurno ulepšati vaš praznični sto. Priprema nije komplikovana, a rezultat je i lep i ukusan – baš onako kako volimo za Uskrs.
 U nastavku vas čeka recept korak po korak.
@@ -4898,20 +4785,12 @@ U nastavku vas čeka recept korak po korak.
 - 1 kašika mleka
 - susam i lan za posipanje
 
-*Priprema*
-
-- 1.	Pomešajte kvasac, šećer i mleko. Ostavite 10 minuta da se aktivira.
-- 2.	U brašno dodajte so, promešajte, pa dodajte aktivirani kvasac, vodu i 50ml ulja. Mešajte i umesite glatko testo.
-- 3.	Pred kraj dodajte još 20ml ulja i njime premažite testo da se ne lepi.
-
-*Pečenje*
-
-- 11.	Premažite ostatkom umućenog jaja sa mlekom.
-- 14.	Kad se ispeče, premažite maslacem i ostavite da se hladi.
-
 **Priprema**
 
-4.	Oblikujte u loptu, pokrijte krpom i ostavite da naraste 30–60 minuta.
+1.	Pomešajte kvasac, šećer i mleko. Ostavite 10 minuta da se aktivira.
+	2.	U brašno dodajte so, promešajte, pa dodajte aktivirani kvasac, vodu i 50ml ulja. Mešajte i umesite glatko testo.
+	3.	Pred kraj dodajte još 20ml ulja i njime premažite testo da se ne lepi.
+	4.	Oblikujte u loptu, pokrijte krpom i ostavite da naraste 30–60 minuta.
 
 Formiranje pogače:
 	5.	Odvojite manji deo testa za kuglicu koja ide u sredinu.
@@ -4920,9 +4799,12 @@ Formiranje pogače:
 	8.	Isecite na osam trouglova i svaki po sredini pritisnite štapićem da dobijete oblik latica. Poređajte ih između kuglica.
 	9.	U sredinu stavite malu kuglicu od testa, takođe premazanu i posutu po želji.
 
+Pečenje:
 10.	Pogaču pokrijte krpom i ostavite još 30 minuta da naraste.
+11.	Premažite ostatkom umućenog jaja sa mlekom.
 12.	Pecite u prethodno zagrejanoj rerni na 200°C oko 25 minuta.
 13.	Po želji, pred kraj stavite papir za pečenje odozgo da ne prepeče.
+14.	Kad se ispeče, premažite maslacem i ostavite da se hladi.
 
 @domaci_recepti i hvala za ovako jednostavnu, prelepu i preukusnu pogaču 🥰
 
@@ -4931,10 +4813,10 @@ Srećni praznici! ❤️
 
 ---
 
-<a id="dimp-jusz7z"></a>
+<a id="pistac-tiramisu-tortica"></a>
 ### Pistać tiramisu tortica
 
-*2025-04-18 · Torte · reel · [Instagram post](https://www.instagram.com/p/DImP-JUsZ7Z/)*
+*2025-04-18 · Torte · reel · [Instagram post](https://www.instagram.com/p/DImP-JUsZ7Z/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistac-tiramisu-tortica/*
 
 Lagana pistać tortica, bruuutalnog ukusa, priprema bez jaja, sa mascarpone sirom i savršenim pistać kremom 🥰🥰
 Ja sam pronašla i kremasti liker sa ukusom pistaća, a naravno možete dodati i neki drugi ili zameniti sa espresso kafom 🥰
@@ -4969,22 +4851,21 @@ Savršena i kao predlog za uskršnju poslasticu za celu porodicu!
 
 ---
 
-<a id="dijjqs5s-tl"></a>
+<a id="ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti"></a>
 ### Ovo je tehnika farbanja jaja koja me uvek podseti na deti…
 
-*2025-04-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIjjQS5s-tl/)*
+*2025-04-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIjjQS5s-tl/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovo-je-tehnika-farbanja-jaja-koja-me-uvek-podseti-na-deti/*
 
 Ovo je tehnika farbanja jaja koja me uvek podseti na detinjstvo — jednostavna, mirisna i topla, baš kao praznici nekad. 🪺
 
+Isprobala sam dva načina:
+
+1. Sitno seckana lukovina + papir + par kapi crvene ili roze boje
+
 **Sastojci**
 
-
-*Isprobala sam dva načina*
-
-- 1. Sitno seckana lukovina + papir + par kapi crvene ili roze boje
 - Svako jaje se uvalja u ovu kombinaciju
 - Umota se u gazu i pažljivo zategne koncem
-- 2. Travčice i cvetići + lukovina na dno šerpe
 - Jaje se obavije biljkama i umota u tanku najlon čarapu
 - Poređa se preko sloja lukovine
 - Po želji, doda se i kašika-dve hibiskus čaja za intenzivniju boju
@@ -4997,15 +4878,17 @@ Ovo je tehnika farbanja jaja koja me uvek podseti na detinjstvo — jednostavna,
 
 **Priprema**
 
+2. Travčice i cvetići + lukovina na dno šerpe
+
 Sačuvaj ovaj video ako voliš tradicionalno, ali želiš da uneseš i malo detinjstva u svoj praznik. ❤️
 Na koga vas ovako farbana jaja podsećaju?
 
 ---
 
-<a id="digrfrdsrij"></a>
+<a id="ako-nesto-zasluzuje-pocasno-mesto-na-uskrsnjoj-trpezi"></a>
 ### Ako nešto zaslužuje počasno mesto na uskršnjoj trpezi
 
-*2025-04-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DIgRfrDsrij/)*
+*2025-04-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DIgRfrDsrij/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ako-nesto-zasluzuje-pocasno-mesto-na-uskrsnjoj-trpezi/*
 
 Ako nešto zaslužuje počasno mesto na uskršnjoj trpezi, onda je to ova torta — lagana, kremasta, sočna, savršen spoj čokoladnih palačinaka, bele čokolade, mascarpone sira i višanja. Presek koji oduzima dah i ukus koji se pamti! 🍒
 
@@ -5052,10 +4935,10 @@ Uživajte 🍰🪺🌸
 
 ---
 
-<a id="dia8mlsmc5v"></a>
+<a id="ove-godine-posebno-su-viralna-jaja-farbana-prirodnim-bojama"></a>
 ### Ove godine posebno su viralna jaja farbana prirodnim bojama
 
-*2025-04-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIa8MLSMC5v/)*
+*2025-04-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIa8MLSMC5v/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ove-godine-posebno-su-viralna-jaja-farbana-prirodnim-bojama/*
 
 Ove godine posebno su viralna jaja farbana prirodnim bojama, i moram priznati—potpuno razumem zašto! 🪺
 Ovog puta isprobala sam kombinaciju čaja od hibiskusa i kurkume i dobila predivnu, zelenu nijansu na koju sam dodala malo zlatnih detalja.
@@ -5085,10 +4968,10 @@ Kako se vama čine? Koju tehniku biste voleli da isprobate ove godine?
 
 ---
 
-<a id="dimbwlzsjbs"></a>
+<a id="slani-rolat-3"></a>
 ### Slani rolat
 
-*2025-04-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DIMbwlzsjbS/)*
+*2025-04-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DIMbwlzsjbS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slani-rolat-3/*
 
 Legenda kaže da se ovakvo parčence ne odbija 😍 Testo punjeno njeguškim pršutom, dinstanim pečurkama i sirom, idealan predlog za serviranje i degustaciju za predstojeći praznik 💓💓
 Zanimljivo je i to da kvasno testo ne morate vi mesiti ako ste u žurbi i onda zaista za čas posla imate spreman rolat 🙌🏻
@@ -5116,10 +4999,10 @@ Sjajna ideja, zar ne..?
 
 ---
 
-<a id="dihwgjmspuf"></a>
+<a id="uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja"></a>
 ### Uskrs nam se bliži i ako prvi put ove godine farbate jaja…
 
-*2025-04-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIHWGjmspuF/)*
+*2025-04-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/DIHWGjmspuF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrs-nam-se-blizi-i-ako-prvi-put-ove-godine-farbate-jaja/*
 
 Uskrs nam se bliži i ako prvi put ove godine farbate jaja – tu sam da podelim jednu od meni najdražih tehnika! Ovaj put koristim prehrambene boje, gel boje za jaja, zlatni sedef i zlatne listiće – za jednostavne, nežne i prelepe rezultate.
 
@@ -5157,10 +5040,10 @@ Pišite mi ako vam je nešto od ovoga bilo korisno – i naravno, koja je vaša 
 
 ---
 
-<a id="didweissk63"></a>
+<a id="muffin-cupavci-punjeni-visnjama"></a>
 ### Muffin Čupavci punjeni višnjama
 
-*2025-04-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DIDwEIssk63/)*
+*2025-04-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DIDwEIssk63/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/muffin-cupavci-punjeni-visnjama/*
 
 Sastojci:
 
@@ -5199,46 +5082,39 @@ Sastojci:
 - 2 kašike šećera u prahu
 - Kokos
 
-*Priprema sosa od višnje*
-
-- 1.	U šerpicu staviti višnje, šećer, gustin, limunov sok i koricu.
-- 2.	Kuvati na srednjoj vatri oko 10 minuta uz povremeno mešanje, dok se smesa ne zgusne.
-
-*Priprema muffina*
-
-- 2.	Maslac i šećer penasto umutiti. Dodati jaja, grčki jogurt, vanilu i mleko, pa još kratko umutiti.
-- 3.	U drugoj posudi pomešati brašno, prašak za pecivo i so.
-
-*Priprema čokoladnog premaza*
-
-- 1.	Na pari otopiti čokoladu, mleko i puter dok ne dobijete glatku smesu.
-
-*Sastavljanje muffin čupavaca*
-
-- 2.	Umakati ih u čokoladu, zatim odmah uvaljati u kokos.
-- 3.	Napuniti izdubljeni deo ohlađenim sosom od višnje.
-- 4.	Umutiti slatku pavlaku sa šećerom u prahu i vanilom, pa dekorisati svaki muffin.
-
 **Priprema**
 
-3.	Ostaviti da se ohladi i ukoliko više volite - izblendajte smesu.
+Priprema sosa od višnje:
+	1.	U šerpicu staviti višnje, šećer, gustin, limunov sok i koricu.
+	2.	Kuvati na srednjoj vatri oko 10 minuta uz povremeno mešanje, dok se smesa ne zgusne.
+	3.	Ostaviti da se ohladi i ukoliko više volite - izblendajte smesu.
 
+Priprema muffina:
 	1.	Zagrejati rernu na 180°C i obložiti kalupe za muffine papirnim korpicama.
+	2.	Maslac i šećer penasto umutiti. Dodati jaja, grčki jogurt, vanilu i mleko, pa još kratko umutiti.
+	3.	U drugoj posudi pomešati brašno, prašak za pecivo i so.
 	4.	Postepeno dodavati suve sastojke u mokre, mešajući tek toliko da se sjedini.
 	5.	Smesu rasporediti u kalupe (otprilike do ¾ visine) i peći 15 minuta.
 	6.	Ostaviti da se muffini prohlade.
 
+Priprema čokoladnog premaza:
+	1.	Na pari otopiti čokoladu, mleko i puter dok ne dobijete glatku smesu.
+
+Sastavljanje muffin čupavaca:
 	1.	Ohlađene muffine izdubiti (možete i kašičicom)
+	2.	Umakati ih u čokoladu, zatim odmah uvaljati u kokos.
+	3.	Napuniti izdubljeni deo ohlađenim sosom od višnje.
+	4.	Umutiti slatku pavlaku sa šećerom u prahu i vanilom, pa dekorisati svaki muffin.
 
 Ovi muffin čupavci su sočni, kremasti i savršeno se tope u ustima – pravi praznik za nepca!
 Hvala @muffinmunchies_ na savršenoj ideji i proverenom receptu! ❤️
 
 ---
 
-<a id="dhtq0v1m-jn"></a>
+<a id="domaca-supa-sa-knedlama"></a>
 ### Domaća supa sa knedlama
 
-*2025-03-27 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHtq0V1M-jN/)*
+*2025-03-27 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHtq0V1M-jN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaca-supa-sa-knedlama/*
 
 Topla, mirisna i puna ukusa – domaća supa je uvek pravi izbor, a uz savršeno mekane knedlice postaje neodoljiva.
 
@@ -5258,24 +5134,21 @@ Recept za supu
 - Svež peršun
 - Biber
 
-*Sastojci*
-
-- 1 jaje
-- 7-8 punih kašičica griza
-- ½ kašičice suvog začina (vegete)
-- ¼ kašičice praška za pecivo
-- 1-2 kašičice ulja
-
 **Priprema**
 
-Priprema:
 Meso, luk i povrće staviti u veću šerpu i preliti vrelom vodom. Dodati malo soli i kuvati na laganoj vatri oko sat i po, dok meso ne postane potpuno mekano.
 
 Nakon kuvanja procediti supu, meso iseckati na sitne komadiće, a šargarepu na kolutiće, pa vratiti u supu. Dodati kocku za supu, malo bibera i svež peršun.
 
 Recept za knedle
 
-Priprema:
+Sastojci:
+	•	1 jaje
+	•	7-8 punih kašičica griza
+	•	½ kašičice suvog začina (vegete)
+	•	¼ kašičice praška za pecivo
+	•	1-2 kašičice ulja
+
 Sve sastojke sjediniti i ostaviti smesu da odmori par minuta. Treba da bude gustine kao na snimku – ne previše retka, ali ni previše čvrsta.
 
 Kašičicu prvo umočiti u supu, zatim njome uzeti deo smese i pustiti da sklizne u lagano ključalu supu. Ovaj postupak ponavljati, svaki put prethodno umoćivši kašičicu u supu.
@@ -5286,10 +5159,10 @@ Prijatno!
 
 ---
 
-<a id="dhroq_nm_0j"></a>
+<a id="rucak-koji-svi-obozavamo-socni-svinjski-file-sa-krompir"></a>
 ### Ručak koji svi obožavamo – sočni svinjski file sa krompir…
 
-*2025-03-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHrOq_nM_0j/)*
+*2025-03-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHrOq_nM_0j/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rucak-koji-svi-obozavamo-socni-svinjski-file-sa-krompir/*
 
 Ručak koji svi obožavamo – sočni svinjski file sa krompirom i šargarepom 🍲
 
@@ -5321,10 +5194,10 @@ Miris koji se širi iz rerne odmah mami osmeh – krompirići, šargarepa i meso
 
 ---
 
-<a id="dhnlukzmywg"></a>
+<a id="giveaway-alert"></a>
 ### GIVEAWAY ALERT
 
-*2025-03-25 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DHnluKZMyWG/)*
+*2025-03-25 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DHnluKZMyWG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/giveaway-alert/*
 
 Ljubitelji čokolade i Baileys likera, ovo je za vas! ✨ Pripremila sam neodoljivi Baileys čokoladni tart, a uz to neko od vas osvaja prelepu, elegantnu kutiju sa TRI Baileys likera! 🥃🤍 Još lepša vest? Među njima je i Baileys Tiramisu, koji jedva čekam da neko od vas isproba! 😍
 
@@ -5369,8 +5242,6 @@ Prečnik kalupa: 23 cm
 
 Sastojci:
 
-Priprema:
-
 1️⃣ Podloga:
 Pomešajte mleveni keks, kakao i otopljeni puter. Po želji dodajte mleko za kompaktniju teksturu. Utapkajte smesu u kalup i stavite u frižider dok pripremate fil.
 
@@ -5388,10 +5259,10 @@ Ko bi uživao u ovom desertu s tobom? Taguj ga u komentaru i učestvuj u giveawa
 
 ---
 
-<a id="dhjsxzgs8t_"></a>
+<a id="americke-palacinke-5"></a>
 ### Američke palačinke
 
-*2025-03-23 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DHjSxZgs8T_/)*
+*2025-03-23 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DHjSxZgs8T_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americke-palacinke-5/*
 
 Za one koji možda prvi put prave, da olakšam i sprečim bilo kakav potencijalni neuspeh 🥞
 
@@ -5432,10 +5303,10 @@ Prijatno! 💞
 
 ---
 
-<a id="dhhc4j_mmd5"></a>
+<a id="lepinjice-punjene-piletinom"></a>
 ### Lepinjice punjene piletinom
 
-*2025-03-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHHC4j_Mmd5/)*
+*2025-03-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/DHHC4j_Mmd5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lepinjice-punjene-piletinom/*
 
 Dok pričam ovu priču, u videu se priprema nešto što će sigurno obradovati sve ljubitelje ukusnog peciva – meke, mirisne lepinjice punjene sočnom piletinom. A evo i recepta, da ih i vi možete napraviti kod kuće!
 
@@ -5461,13 +5332,7 @@ Lepinjice punjene piletinom 👌🏼
 - 40 g parmezana
 - 1 ravna kašičica luka u prahu
 - Malo soli
-
-*Priprema testa*
-
-- 1.	U posudu staviti vodu, mleko, med i kvasac, pa dobro promešati.
-- 2.	Dodati jaje, ulje i brašno, zatim umešati omekšali puter i so, pa umesiti glatko testo.
 - 5.	Oblikovati kuglice od 50 g, rastanjiti ih u krug i preklopiti na pola.
-- 6.	Premazati mlekom i posuti mešavinom parmezana, luka u prahu i soli.
 
 *Sastojci za nadev*
 
@@ -5477,10 +5342,6 @@ Lepinjice punjene piletinom 👌🏼
 - Malo začina za piletinu
 - 20 g maslinovog ulja
 
-*Priprema nadeva*
-
-- 1.	Marinirati piletinu sa svim začinima i maslinovim uljem.
-
 *Sastojci za beli sos*
 
 - 5 kašika majoneza
@@ -5488,28 +5349,32 @@ Lepinjice punjene piletinom 👌🏼
 - Malo luka u prahu
 - So i malo soka od limuna
 
-*Finalna priprema*
-
-- 1.	Pečene lepinje raseći, premazati sosom i napuniti piletinom.
-- 2.	Dodati seckanu salatu (ja sam koristila paradajz). Možete uz to poslužiti i pomfrit ili pečene krompiriće.
-
 **Priprema**
 
-3.	Mesiti testo oko 6 minuta.
+Priprema testa:
+	1.	U posudu staviti vodu, mleko, med i kvasac, pa dobro promešati.
+	2.	Dodati jaje, ulje i brašno, zatim umešati omekšali puter i so, pa umesiti glatko testo.
+	3.	Mesiti testo oko 6 minuta.
 	4.	Pokriti i ostaviti da naraste dok ne udvostruči zapreminu.
+	6.	Premazati mlekom i posuti mešavinom parmezana, luka u prahu i soli.
 	7.	Ostaviti da naraste još 35 minuta.
 	8.	Peći u prethodno zagrejanoj rerni na 180°C oko 15 minuta, pazeći da se ne prepeče.
 
+Priprema nadeva:
+	1.	Marinirati piletinu sa svim začinima i maslinovim uljem.
 	2.	Pržiti u tiganju dok ne postane zlatno-smeđa i sočna.
+Finalna priprema:
+	1.	Pečene lepinje raseći, premazati sosom i napuniti piletinom.
+	2.	Dodati seckanu salatu (ja sam koristila paradajz). Možete uz to poslužiti i pomfrit ili pečene krompiriće.
 
 Prijatno! 🌸
 
 ---
 
-<a id="dhb0ehumf_t"></a>
+<a id="ferrero-rocher-torta-recept-koji-svi-obozavaju"></a>
 ### Ferrero Rocher torta – recept koji svi obožavaju
 
-*2025-03-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/DHB0EhUMf_t/)*
+*2025-03-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/DHB0EhUMf_t/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ferrero-rocher-torta-recept-koji-svi-obozavaju/*
 
 Ovu tortu sam spremala nebrojeno puta, jer je toliko izdašna, kremasta i bogata da se uvek traži parče više! Ako volite Ferrero Rocher, obavezno sačuvajte recept.
 
@@ -5540,27 +5405,24 @@ Ovu tortu sam spremala nebrojeno puta, jer je toliko izdašna, kremasta i bogata
 - 150 g mlečne čokolade
 - 70 g slatke pavlake
 
-*Priprema*
-
-- 1️⃣ Umutiti maslac sa šećerom u prahu, dodati žumanca, zatim otopljenu čokoladu i sjediniti.
-- 2️⃣ Dodati brašno, kakao i prašak za pecivo, lagano umešati žicom.
-- 3️⃣ Dodati mleko i slatku pavlaku, na kraju sneg od belanaca – lagano sjediniti žicom.
-- 5️⃣ Fil: Umutiti mascarpone, dodati Nutellu i seckane lešnike.
-- 7️⃣ Ganache preliv: Ugrejati pavlaku do vrenja, preliti preko čokolade, sjediniti i preliti tortu.
-
 **Priprema**
 
+1️⃣ Umutiti maslac sa šećerom u prahu, dodati žumanca, zatim otopljenu čokoladu i sjediniti.
+2️⃣ Dodati brašno, kakao i prašak za pecivo, lagano umešati žicom.
+3️⃣ Dodati mleko i slatku pavlaku, na kraju sneg od belanaca – lagano sjediniti žicom.
 4️⃣ Peći u dva kalupa (20 cm) na 180°C oko 25 min.
+5️⃣ Fil: Umutiti mascarpone, dodati Nutellu i seckane lešnike.
 6️⃣ Premazati fil preko prve kore, staviti drugu koru i naneti ostatak fila.
+7️⃣ Ganache preliv: Ugrejati pavlaku do vrenja, preliti preko čokolade, sjediniti i preliti tortu.
 
 I to je to – savršeno kremasta, neodoljivo čokoladna i hrskava od lešnika! 😍 Probajte i javite utiske!
 
 ---
 
-<a id="dgitcftmqzl"></a>
+<a id="jagoda-tiramisu-torta"></a>
 ### Jagoda tiramisu torta
 
-*2025-02-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/DGiTCftMqZL/)*
+*2025-02-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/DGiTCftMqZL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-tiramisu-torta/*
 
 **Sastojci**
 
@@ -5581,17 +5443,16 @@ I to je to – savršeno kremasta, neodoljivo čokoladna i hrskava od lešnika! 
 - 2 kesice vanilin šećera
 - 2 kašike šećera
 - 2 kašike gustina
-- 3.	U ohlađenu smesu sa žumancima dodati prethodno pripremljeni fil i dobro umutiti da se dobije kremasta tekstura.
-- 7.	Dekoracija: Po želji, tortu obložiti piškotama umočenim u belu čokoladu i vezati trakom. Može se dodatno ukrasiti svežim jagodama.
 
 **Priprema**
 
-Priprema:
-	1.	Priprema fila: Odvojiti žumanca i umutiti ih sa kristal šećerom. Kuvati na pari dok se šećer potpuno ne rastopi i smesa ne postane kremasta. Ostaviti da se ohladi.
+1.	Priprema fila: Odvojiti žumanca i umutiti ih sa kristal šećerom. Kuvati na pari dok se šećer potpuno ne rastopi i smesa ne postane kremasta. Ostaviti da se ohladi.
 	2.	U posebnoj posudi umutiti mascarpone sir i nemućenu slatku pavlaku dok smesa ne očvrsne. Dodati prohlađenu belu čokoladu i sjediniti mikserom.
+	3.	U ohlađenu smesu sa žumancima dodati prethodno pripremljeni fil i dobro umutiti da se dobije kremasta tekstura.
 	4.	Priprema jagoda sosa: Jagode iseckati i kuvati sa limunovim sokom, vanilin šećerom i šećerom. Kada omekšaju, izblendati smesu i dodati gustin razmućen u malo vode. Kuvati dok se ne zgusne, zatim dodati seckane sveže jagode i ostaviti da se ohladi.
 	5.	Slaganje torte: Piškote umakati u toplo mleko sa ekstraktom vanile i ređati na dno kalupa (prečnika 20 cm). Premazati slojem fila, zatim jagoda sosom. Ponoviti postupak još dva puta.
 	6.	Tortu ostaviti u frižideru preko noći da se stegne.
+	7.	Dekoracija: Po želji, tortu obložiti piškotama umočenim u belu čokoladu i vezati trakom. Može se dodatno ukrasiti svežim jagodama.
 
 Ova smesa je dovoljna za tortu prečnika 20 cm i dodatno 3 porcije u čašama. Za veću tortu koristite kalup od 23-24 cm.
 
@@ -5599,10 +5460,10 @@ Prijatno! 🍓✨
 
 ---
 
-<a id="dglbf81sbfl"></a>
+<a id="cannelloni-sa-junecim-mesom-2"></a>
 ### Cannelloni sa junećim mesom
 
-*2025-02-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DGLBf81sbfL/)*
+*2025-02-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DGLBf81sbfL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cannelloni-sa-junecim-mesom-2/*
 
 u bešamel sosu 🫕
 
@@ -5623,8 +5484,6 @@ Obavezno isprobajte da li je dovoljno začinjeno 🤗
 U šerpicu srednje veličine stavim oko 100 gr putera na potpuno tihu vatru kako bi se puter lagano istopio, zatim malko pojačam, pa dodam 50 gr mekog brašna, mešajući žicom. Žica lepo razbije sve grumuljice brašna, nastavljam da mešam sve do trenutka dok se ne pojavi pena, pa tada, i dalje mešajući dodam oko 700,800 ml mleka. Dodajem so i biber. Po ukusu dodajte i muskatni oraščić.
 Povremeno lagano mešam, kada se lepo ukuva i postane srednje gust, sklanjam serpicu sa vatre.
 
-Priprema:
-
 Dno posude na koju ću redjati cannellone pospem sa malo maslinovog ulja, premažem sa recimo dve, tri kašike bešamel sosa, pa poređam cannellone koje sam prethodno napunila prohlađenim bolonjeze sosom.
 Preko cannellona pospite bešamel sos, a preko sosa nekih 250 gr rendanog mozzarella sora.
 Poklopljeno ili prekriveno folijom peći nekih 40ak minuta, pa otkrijte i zapecite još 10ak minuta.
@@ -5633,10 +5492,10 @@ Prijatno 🤍
 
 ---
 
-<a id="dgihjramtjj"></a>
+<a id="brzinske-slane-palacinke-savrsen-dorucak-ili-vecera"></a>
 ### Brzinske slane palačinke – savršen doručak ili večera
 
-*2025-02-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DGIhJRaMTJj/)*
+*2025-02-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DGIhJRaMTJj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzinske-slane-palacinke-savrsen-dorucak-ili-vecera/*
 
 Ako volite slane palačinke, ovaj recept će vas oduševiti! Mekane, mirisne i punog ukusa, spremne su za tili čas!
 
@@ -5655,25 +5514,22 @@ Ako volite slane palačinke, ovaj recept će vas oduševiti! Mekane, mirisne i p
 - 100 g rendane šunke
 - Miks italijanskih začina na bazi origana (po ukusu)
 
-*Priprema*
-
-- 1.	Umutiti jaja sa šećerom i solju.
-- 2.	Dodati polovinu mleka i brašna, dobro promešati da nema grudvica.
-- 3.	Dodati ostatak mleka, ulje, rendani kačkavalj, rendanu šunku i začine, pa sve sjediniti.
-- 5.	Poslužiti tople uz omiljeni prilog (dovoljno je malo krem sira, a ukusne su i prazne).
-
 **Priprema**
 
-4.	Na zagrejanom tiganju peći palačinke na srednjoj vatri, s obe strane, dok ne dobiju zlatnu boju. (ja sam ih pekla na jačini 7 od 9)
+1.	Umutiti jaja sa šećerom i solju.
+	2.	Dodati polovinu mleka i brašna, dobro promešati da nema grudvica.
+	3.	Dodati ostatak mleka, ulje, rendani kačkavalj, rendanu šunku i začine, pa sve sjediniti.
+	4.	Na zagrejanom tiganju peći palačinke na srednjoj vatri, s obe strane, dok ne dobiju zlatnu boju. (ja sam ih pekla na jačini 7 od 9)
+	5.	Poslužiti tople uz omiljeni prilog (dovoljno je malo krem sira, a ukusne su i prazne).
 
 Brzo, jednostavno i preukusno! Da li biste ih probali za doručak ili večeru? 👇😊
 
 ---
 
-<a id="df-b1nwm4zh"></a>
+<a id="pistac-tiramisu-2"></a>
 ### Pistać tiramisu
 
-*2025-02-12 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DF-B1NWM4Zh/)*
+*2025-02-12 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DF-B1NWM4Zh/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistac-tiramisu-2/*
 
 Danima mi se jede ovaj kremasti spoj i ova rapsodija ukusa u svakom zalogaju 🥰
 Mislim da ćete se odušeeeeviti ovom neodoljivom poslasticom, jer neki ukusi jednostavno ostavljaju trag i uvek im se vraćamo 😍
@@ -5694,7 +5550,6 @@ Mislim da ćete se odušeeeeviti ovom neodoljivom poslasticom, jer neki ukusi je
 
 **Priprema**
 
-Priprema:
 Odvojiti žumanca u jednu staklenu posudu i tu dodati šećer, pa kuvati na pari sve do onog momenta dok se šećer potpuno ne rastopi u jajima i smesa ne postane kremkasta. Ostaviti na hladjenju. Za to vreme umutiti mascarpone sir, vrlo kratko mikserom i dodati mu 200 ml slatke, nemućene pavlake pa zajedno mutiti dok smesa ne očvrsne. U ovaj fil dodajemo potpuno prohladjena jaja kuvana na pari i mutimo mikserom sve do one savršene kreme kojoj dodajemo krem od pistaća i tu nastaje maaagija. Piškote umačemo u toplo mleko kome smo dodali Baileys ,poredjati ih po dnu posude, zatim premažemo polovinu fila. Opet redjamo sloj piškota i preko toga ostatak fila.
 Kolač ostaviti u frižider na hladjenje par sati ili tokom noći.
 
@@ -5705,10 +5560,10 @@ Prijatno 🌸
 
 ---
 
-<a id="df2jmgsmy9x"></a>
+<a id="brza-i-socna-pita-sa-sirom"></a>
 ### Brza i sočna pita sa sirom
 
-*2025-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DF2JmGsMy9X/)*
+*2025-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DF2JmGsMy9X/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brza-i-socna-pita-sa-sirom/*
 
 Ako vam jutra započinju žurbom i gladnim ukućanima, ova pita sa sirom je savršeno rešenje. Priprema traje svega 5 minuta, a jedino što je potrebno jeste malo strpljenja dok se ispeče. Hrskava spolja, sočna iznutra –
 
@@ -5725,15 +5580,12 @@ Ako vam jutra započinju žurbom i gladnim ukućanima, ova pita sa sirom je savr
 - Prstohvat soli
 - 200- 250 g feta sira
 
-*Priprema*
-
-- 2.	U posudi umutite kiselu vodu, mleko, ulje, jaja i prstohvat soli.
-- 4.	Ravnomerno rasporedite izmrvljen feta sir.
-
 **Priprema**
 
 1.	Polovinu kora složite u podmazan pleh.
+	2.	U posudi umutite kiselu vodu, mleko, ulje, jaja i prstohvat soli.
 	3.	Prelijte polovinu preliva preko kora.
+	4.	Ravnomerno rasporedite izmrvljen feta sir.
 	5.	Pokrijte ostatkom kora i prelijte ostatak preliva.
 	6.	Pecite u rerni zagrejanoj na 200°C dok ne porumeni i postane hrskava (oko 30-40 minuta).
 
@@ -5741,10 +5593,10 @@ Savršeno ide uz šolju kiselog mleka! Javite utiske ☺️🥰
 
 ---
 
-<a id="dfqvqirshql"></a>
+<a id="nutella-kiflice-koje-nestaju-dok-su-jos-tople"></a>
 ### Nutella kiflice koje nestaju dok su još tople
 
-*2025-02-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DFqVQIRshqL/)*
+*2025-02-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DFqVQIRshqL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-kiflice-koje-nestaju-dok-su-jos-tople/*
 
 **Sastojci**
 
@@ -5771,27 +5623,24 @@ Savršeno ide uz šolju kiselog mleka! Javite utiske ☺️🥰
 - Prah šećer
 - 50 g istopljene čokolade
 
-*Priprema*
-
-- 1️⃣ U mlakom mleku pomešajte kašičicu šećera i dodajte suvi kvasac. Ostavite 10 minuta da se aktivira.
-- 2️⃣ U posudi pomešajte brašno, ostatak šećera, jogurt, prašak za pecivo i prstohvat soli. Dodajte aktivirani kvasac i mesite 5-10 minuta.
-- 3️⃣ Dodajte omekšali puter i mesite još 5 minuta. Pokrijte testo i ostavite 30-60 minuta da naraste.
-- 4️⃣ Umesite čokoladne kapljice u testo, razvucite ga i podelite na 16 delova. Stavite Nutellu na kraj svakog dela i urolajte.
-- 6️⃣ Premažite žumancem i mlekom, pa pecite na 180°C oko 15-20 minuta dok ne postanu zlatne.
-- 7️⃣ Još tople pospite prah šećerom i prelijte istopljenom čokoladom.
-
 **Priprema**
 
+1️⃣ U mlakom mleku pomešajte kašičicu šećera i dodajte suvi kvasac. Ostavite 10 minuta da se aktivira.
+2️⃣ U posudi pomešajte brašno, ostatak šećera, jogurt, prašak za pecivo i prstohvat soli. Dodajte aktivirani kvasac i mesite 5-10 minuta.
+3️⃣ Dodajte omekšali puter i mesite još 5 minuta. Pokrijte testo i ostavite 30-60 minuta da naraste.
+4️⃣ Umesite čokoladne kapljice u testo, razvucite ga i podelite na 16 delova. Stavite Nutellu na kraj svakog dela i urolajte.
 5️⃣ Kiflice poređajte na pleh, pokrijte i ostavite da odmore još 30 minuta.
+6️⃣ Premažite žumancem i mlekom, pa pecite na 180°C oko 15-20 minuta dok ne postanu zlatne.
+7️⃣ Još tople pospite prah šećerom i prelijte istopljenom čokoladom.
 
 Ovo je mera da se pojedu odmah tople i prelepe, idealne za porodično uživanje. 🥰 Ako planirate druženje — odmah duplirajte meru! 😉
 
 ---
 
-<a id="dfyxbrwxdqv"></a>
+<a id="rolat-sa-jabukama"></a>
 ### Rolat sa jabukama
 
-*2025-01-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DFYXbrwxdQV/)*
+*2025-01-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DFYXbrwxdQV/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rolat-sa-jabukama/*
 
 Savršeno mirisan i mekan, ovaj rolat sa jabukama će osvojiti vaše srce već na prvi zalogaj! Evo recepta koji možete lako pripremiti:
 
@@ -5817,18 +5666,15 @@ Sastojci:
 - 3 kašičice mešavine začina za pitu od jabuka (ili 2 kašičice cimeta)
 - 1 -2 kašike šećera
 
-*Priprema*
-
-- 1️⃣ Ogulite jabuke i narendajte ih na krupno rende.
-- 2️⃣ Dodajte začin za pitu od jabuka i šećer, pa pržite na tiganju oko 10 minuta.
-- 3️⃣ Umutite jaja, so i šećer mikserom dok smesa ne postane svetla i penasta (oko 4 minuta).
-- 4️⃣ U šerpi zagrejte mleko, maslac i vanilin šećer dok se maslac ne otopi.
-- 5️⃣ U brašno dodajte prašak za pecivo i polovinu prosejte u smesu od jaja. Pažljivo izmešajte.
-- 6️⃣ Dodajte mlečnu mešavinu i preostalo brašno, lagano mešajući dok se sve sjedini.
-- 7️⃣ Tepsiju obložite papirom za pečenje. Rasporedite pržene jabuke ravnomerno po dnu, a preko njih sipajte smesu za testo.
-
 **Priprema**
 
+1️⃣ Ogulite jabuke i narendajte ih na krupno rende.
+2️⃣ Dodajte začin za pitu od jabuka i šećer, pa pržite na tiganju oko 10 minuta.
+3️⃣ Umutite jaja, so i šećer mikserom dok smesa ne postane svetla i penasta (oko 4 minuta).
+4️⃣ U šerpi zagrejte mleko, maslac i vanilin šećer dok se maslac ne otopi.
+5️⃣ U brašno dodajte prašak za pecivo i polovinu prosejte u smesu od jaja. Pažljivo izmešajte.
+6️⃣ Dodajte mlečnu mešavinu i preostalo brašno, lagano mešajući dok se sve sjedini.
+7️⃣ Tepsiju obložite papirom za pečenje. Rasporedite pržene jabuke ravnomerno po dnu, a preko njih sipajte smesu za testo.
 8️⃣ Pecite na 180°C oko 20 minuta, dok ne dobije zlatnu boju.
 9️⃣ Još topao rolat urolajte zajedno s papirom i ostavite da se ohladi.
 🔟 Pospite šećerom u prahu po želji.
@@ -5840,10 +5686,10 @@ Prijatno! 😋
 
 ---
 
-<a id="de7smbcsipr"></a>
+<a id="susam-feta-pancerote-iz-rerne"></a>
 ### Susam feta pancerote iz rerne
 
-*2025-01-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DE7SMbcsIpr/)*
+*2025-01-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DE7SMbcsIpr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/susam-feta-pancerote-iz-rerne/*
 
 Kad je u @lidlsrbija akcija Cene idu dole, meni ne manjka inspiracije za ukusne recepte! Ovog puta spremila sam mekane i mirisne susam feta pancerote, savršene za svaki obrok – doručak, užinu ili večeru. Bez prženja u ulju, iz rerne, a ukus je božanstven! 😍
 
@@ -5872,18 +5718,15 @@ Kad je u @lidlsrbija akcija Cene idu dole, meni ne manjka inspiracije za ukusne 
 
 - 1 jaje
 
-*Priprema*
-
-- 1.	Testo: U toplu mešavinu mleka i vode dodajte šećer, kvasac i kašičicu brašna. Ostavite 10 minuta da kvasac nadođe.
-- 2.	Dodajte ulje, brašno i so, pa umesite glatko testo. Prekrijte providnom folijom i ostavite da odmara 20 minuta.
-- 4.	Susam podloga: Na radnu površinu pospite 50 g susama. Razvucite testo preko susama tako da ga testo upije.
-- 5.	Nadev: Pomešajte Adriatikos feta sir, kiselu pavlaku, jaje i origano.
-- 7.	Pancerote poređajte u pleh, ostavite ih da odstoje još 20 minuta, premažite umućenim jajetom.
-
 **Priprema**
 
-3.	Malo premesite: Testo će biti prilično mekano i lepljivo. Pospite ga s malo brašna i premesite kratko, samo koliko je potrebno da bude lakše za rad.
+1.	Testo: U toplu mešavinu mleka i vode dodajte šećer, kvasac i kašičicu brašna. Ostavite 10 minuta da kvasac nadođe.
+	2.	Dodajte ulje, brašno i so, pa umesite glatko testo. Prekrijte providnom folijom i ostavite da odmara 20 minuta.
+	3.	Malo premesite: Testo će biti prilično mekano i lepljivo. Pospite ga s malo brašna i premesite kratko, samo koliko je potrebno da bude lakše za rad.
+	4.	Susam podloga: Na radnu površinu pospite 50 g susama. Razvucite testo preko susama tako da ga testo upije.
+	5.	Nadev: Pomešajte Adriatikos feta sir, kiselu pavlaku, jaje i origano.
 	6.	Testo razvucite oklagijom i vadite krugove željene veličine. Na sredinu svakog kruga stavite kašiku nadeva, preklopite i pritisnite ivice viljuškom da nadev ne iscuri.
+	7.	Pancerote poređajte u pleh, ostavite ih da odstoje još 20 minuta, premažite umućenim jajetom.
 	8.	Pecite u zagrejanoj rerni na 220°C oko 18-20 minuta, dok ne porumene.
 
 Mirisne, sočne i jednostavne za pripremu – ove pancerote sigurno će vas oduševiti! 🥰
@@ -5892,10 +5735,10 @@ Koji je vaš omiljeni trenutak za njih – doručak ili večera? Pišite mi! �
 
 ---
 
-<a id="desese0shtp"></a>
+<a id="cimet-rolnice-2"></a>
 ### Cimet rolnice
 
-*2025-01-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEsese0sHtp/)*
+*2025-01-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEsese0sHtp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cimet-rolnice-2/*
 
 Sa ovom hladnoćom napolju povećava se i želja za najmekšim, puterastim testom i to onim od kojeg cela kuća zamiriše za cimet.
 Ostavljam vam recept za najlepše cimet rolnice koje sam ikada jela ☺️
@@ -5940,10 +5783,10 @@ Najmekše, najlepše i najsočnije cimet rolnice su pred vama.
 
 ---
 
-<a id="dec9r5tskbm"></a>
+<a id="posna-plazma-srca-sa-pomorandzom-slatka"></a>
 ### Posna plazma srca sa pomorandžom – slatka
 
-*2025-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEc9r5tsKBM/)*
+*2025-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEc9r5tsKBM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posna-plazma-srca-sa-pomorandzom-slatka/*
 
 Posna plazma srca sa pomorandžom – slatka, jednostavna i prelepa ideja za svaku priliku! 💛🍊
 Savršeni za dane posta ili kad poželite brz i ukusan desert.
@@ -5962,24 +5805,21 @@ Evo recepta:
 - 300 g crne čokolade
 - Po želji: seckani lešnici ili pistaći
 
-*Priprema*
-
-- 1.	Pomešajte mlevenu plazmu, otopljeni margarin, šećer u prahu i rendanu zaleđenu pomorandžu dok ne dobijete kompaktnu smesu.
-- 3.	Kada se stegnu, umočite srca u otopljenu crnu čokoladu (po želji dodajte i malo ulja u čokoladu za lakše nanošenje).
-- 4.	Po želji, pospite seckanim lešnicima ili pistaćima i ostavite da se čokolada stegne.
-
 **Priprema**
 
-2.	Utisnite smesu u silikonske kalupe u obliku srca i stavite ih u zamrzivač da se stegnu.
+1.	Pomešajte mlevenu plazmu, otopljeni margarin, šećer u prahu i rendanu zaleđenu pomorandžu dok ne dobijete kompaktnu smesu.
+	2.	Utisnite smesu u silikonske kalupe u obliku srca i stavite ih u zamrzivač da se stegnu.
+	3.	Kada se stegnu, umočite srca u otopljenu crnu čokoladu (po želji dodajte i malo ulja u čokoladu za lakše nanošenje).
+	4.	Po želji, pospite seckanim lešnicima ili pistaćima i ostavite da se čokolada stegne.
 
 Brzo, lako i neodoljivo! ❤️🍫 Koji oblik biste vi probali – srca ili kuglice?
 
 ---
 
-<a id="dezsyfjmvuv"></a>
+<a id="predstavljam-vam-savrsen-recept-za-hleb-koji-se-ne-mesi"></a>
 ### Predstavljam vam savršen recept za hleb koji se ne mesi
 
-*2025-01-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEZsyFJMvUv/)*
+*2025-01-04 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEZsyFJMvUv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/predstavljam-vam-savrsen-recept-za-hleb-koji-se-ne-mesi/*
 
 Predstavljam vam savršen recept za hleb koji se ne mesi, sa hrskavom koricom i mekanom sredinom. Moja mama je gotovo svakodnevno pripremala ovakav hleb, i obožavam ga!
 
@@ -5994,16 +5834,13 @@ Predstavljam vam savršen recept za hleb koji se ne mesi, sa hrskavom koricom i 
 - 1 kašičica šećera
 - 2 kašičice soli
 
-*Priprema*
-
-- 1.	U 200 ml tople vode dodajte kašičicu brašna, šećer i suvi kvasac. Promešajte i ostavite da se aktivira.
-- 5.	Na pobrašnjenom pek papiru izlijte testo i pažljivo ga prebacite u vrelu posudu. Poklopite i pecite 30 minuta na 230C poklopljeno.
-
 **Priprema**
 
+1.	U 200 ml tople vode dodajte kašičicu brašna, šećer i suvi kvasac. Promešajte i ostavite da se aktivira.
 2.	U činiji pomešajte prosejano brašno i so. Dodajte preostalu vodu i aktivirani kvasac. Mešajte varjačom oko 5 minuta dok smesa ne postane ujednačena i lepljiva.
 3.	Pokrijte činiju i ostavite testo na toplom mestu da naraste oko sat vremena.
 4.	Zagrejte rernu na 230°C sa posudom za pečenje i poklopcem unutra.
+5.	Na pobrašnjenom pek papiru izlijte testo i pažljivo ga prebacite u vrelu posudu. Poklopite i pecite 30 minuta na 230C poklopljeno.
 6.	Uklonite poklopac i pecite još 5-10 minuta dok hleb ne dobije zlatnu boju.
 Ako imate dovoljno strpljenja, ostavite hleb da se prohladi. Ja nisam mogla da odolim – vruć hleb sa kajmakom je neodoljiv! Kako vi volite da ga jedete?
 Nikada nisam zapisala tačne mere za hleb koji je pripremala moja mama, jer je ona to radila odokativno. Zato sam ovaj recept pronašla kod @prokuvaj, i zaista je savršen.
@@ -6012,10 +5849,10 @@ Prijatno!!!
 
 ---
 
-<a id="dex7kwxsv6c"></a>
+<a id="slani-rolat-s-orasima"></a>
 ### Slani rolat s orasima
 
-*2025-01-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEX7kWXsV6c/)*
+*2025-01-03 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEX7kWXsV6c/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slani-rolat-s-orasima/*
 
 Predjelo koje pleni izgledom i ukusom, savršeno za svaku svečanu trpezu, pa i za predstojeći Božić. 🎄💫
 Jednostavan za pripremu, a efektan i ukusan – ovaj rolat može biti pravi izbor!
@@ -6038,26 +5875,25 @@ Jednostavan za pripremu, a efektan i ukusan – ovaj rolat može biti pravi izbo
 - 180 g kisele pavlake
 - 200 g šunke
 - 50 g rendanog kačkavalja (za dekoraciju)
-- 6.	Kada se kora ohladi, premažite je mešavinom feta sira i kisele pavlake, poređajte šunku preko fila i pažljivo je urolajte.
 
 **Priprema**
 
-Priprema:
-	1.	Odvojite belanca od žumanaca. Umutite belanca u čvrst šne, pa dodajte jedno po jedno jaje. Žumanca možete dodavati jedno po jedno ili sva odjednom, dok ih lagano mutite mikserom.
+1.	Odvojite belanca od žumanaca. Umutite belanca u čvrst šne, pa dodajte jedno po jedno jaje. Žumanca možete dodavati jedno po jedno ili sva odjednom, dok ih lagano mutite mikserom.
 	2.	Dodajte jogurt, zatim prosejano brašno s praškom za pecivo i prstohvat soli. Na kraju umešajte mlevene orahe. Lagano sjedinite smesu ručno ili na najmanjoj brzini miksera.
 	3.	Izlijte smesu u pleh obložen pek papirom i pažljivo je poravnajte. Lagano lupnite plehom o radnu površinu da izađe višak vazduha.
 	4.	Pecite u prethodno zagrejanoj rerni na 200°C oko 12 minuta, dok kora ne porumeni.
 	5.	Još toplu koru prebacite na čistu kuhinjsku krpu i urolajte zajedno s njom. Ostavite da se potpuno ohladi.
+	6.	Kada se kora ohladi, premažite je mešavinom feta sira i kisele pavlake, poređajte šunku preko fila i pažljivo je urolajte.
 	7.	Umotajte rolat u foliju i stavite u frižider da se ohladi. Pre serviranja premažite ga tankim slojem pavlake i pospite rendanim kačkavaljem za savršen izgled.
 
 Uživajte u ovom predivnom predjelu i obavezno ga dodajte na svoju Božićnu trpezu! 🤎✨
 
 ---
 
-<a id="devdnzpmki0"></a>
+<a id="bozicna-cesnica"></a>
 ### Božićna česnica
 
-*2025-01-02 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEVDNzpMKI0/)*
+*2025-01-02 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DEVDNzpMKI0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bozicna-cesnica/*
 
 Ovo je recept koji najviše volim i koji sam pre nekoliko godina pronašla na YouTube-u. Jeste da postupak pripreme traje, ali je rezultat uvek čaroban, ovo je deo tradicije koja unosi toplinu i radost u dom.
 
@@ -6078,7 +5914,6 @@ Ovo je recept koji najviše volim i koji sam pre nekoliko godina pronašla na Yo
 
 **Priprema**
 
-Priprema:
 1.U posudu zagrejati 250 ml mleka, dodati suvi kvasac, kašiku šećera i 2 kašike brašna. Promešati, poklopiti i ostaviti 10 minuta da kvasac nadođe.
 2.Umutiti jedno celo jaje i jedno belance, a žumance ostaviti za premazivanje.U polovinu brašna dodati aktivirani kvasac, 100 ml ulja, kašiku soli i umućena jaja. Dobro promešati i postepeno dodati ostatak brašna. Zamesiti glatko testo, prekriti krpom i ostaviti na toplom mestu da naraste oko 40 minuta.
 3.Kada testo naraste, premesiti ga na pobrašnjenoj površini i podeliti na 9 jednakih delova. Oblikovati kuglice i prekriti ih krpom da se ne suše.
@@ -6095,10 +5930,10 @@ Javite mi utiske ❤️
 
 ---
 
-<a id="dee8qcimt5g"></a>
+<a id="decembar-mi-je-totalno-haotican-i-uzurban"></a>
 ### Decembar mi je totalno haotičan i užurban
 
-*2024-12-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEE8qCiMt5G/)*
+*2024-12-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DEE8qCiMt5G/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/decembar-mi-je-totalno-haotican-i-uzurban/*
 
 Decembar mi je totalno haotičan i užurban, toliko je toga što želim da stignem i postignem, onoliko svega što diktira posao, da su momenti u kojima zastanem i osvestim trenutak prava retkost. Preplove me i emocije i to stvori poseban osecaj nemoći. Posebno preispitujem svoju prisutnost i vreme koje provodim sa decom. 🥹
 Znam da nisam jedina i nadam se da je to vreme koje dugujemo sebi i njima nešto sa čim ćemo mnogo lakše i bolje u budućnosti ❤️
@@ -6131,10 +5966,10 @@ Prijatno 💫
 
 ---
 
-<a id="ddr8x2zmvy9"></a>
+<a id="posne-ferrero-rocher-kuglice"></a>
 ### Posne Ferrero Rocher kuglice
 
-*2024-12-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDr8X2zMVY9/)*
+*2024-12-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDr8X2zMVY9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posne-ferrero-rocher-kuglice/*
 
 Jednostavan i ukusan recept koji će oduševiti sve!
 
@@ -6151,18 +5986,15 @@ Ako želite slatkiš koji se brzo sprema, prelepog je ukusa i izgleda, ove posne
 - 200 g crne čokolade
 - 2-3 kašike ulja
 
-*Priprema*
-
-- 1.	U secku sameljite pečene lešnike i posne napolitanke dok ne dobijete sitnu smesu.
-- 2.	U posudi sjedinite mlevene lešnike i napolitanke sa posnim kremom. Dobro izmešajte dok ne dobijete kompaktnu smesu.
-- 4.	Formirajte kuglice željene veličine (oko 20 g po kuglici) i ređajte ih na tacnu. Ponovo ih ohladite u frižideru nekoliko minuta.
-- 5.	Za dodatno bogat i hrskav ukus – svaku kuglicu pre umakanja u čokoladu provucite kroz sitno seckani pečeni lešnik (opciono).
-- 6.	Rastopite crnu čokoladu i dodajte 2-3 kašike ulja kako bi glazura bila glatka.
-- 7.	Umakati ohlađene kuglice u čokoladu, ređati ih na papir za pečenje, pa ih vratiti u frižider da se čokolada stegne.
-
 **Priprema**
 
+1.	U secku sameljite pečene lešnike i posne napolitanke dok ne dobijete sitnu smesu.
+2.	U posudi sjedinite mlevene lešnike i napolitanke sa posnim kremom. Dobro izmešajte dok ne dobijete kompaktnu smesu.
 3.	Smesu stavite u frižider na nekoliko minuta da se stegne.
+4.	Formirajte kuglice željene veličine (oko 20 g po kuglici) i ređajte ih na tacnu. Ponovo ih ohladite u frižideru nekoliko minuta.
+5.	Za dodatno bogat i hrskav ukus – svaku kuglicu pre umakanja u čokoladu provucite kroz sitno seckani pečeni lešnik (opciono).
+6.	Rastopite crnu čokoladu i dodajte 2-3 kašike ulja kako bi glazura bila glatka.
+7.	Umakati ohlađene kuglice u čokoladu, ređati ih na papir za pečenje, pa ih vratiti u frižider da se čokolada stegne.
 
 Dodatni savet: Kako bi se kuglice lakše oblikovale, nakvasite ruke prilikom formiranja.
 
@@ -6170,10 +6002,10 @@ Kada se čokolada stegne, kuglice su spremne za uživanje! Divno izgledaju, a jo
 
 ---
 
-<a id="ddkrn-crwg6"></a>
+<a id="zimska-jaffa-tortica-2"></a>
 ### Zimska jaffa tortica
 
-*2024-12-14 · Torte · reel · [Instagram post](https://www.instagram.com/p/DDkrn-CRWG6/)*
+*2024-12-14 · Torte · reel · [Instagram post](https://www.instagram.com/p/DDkrn-CRWG6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zimska-jaffa-tortica-2/*
 
 Posebno fina, izdašna tortica koja će, sigurna sam biti sjajan izbor i za praznična okupljanja.
 Tortica se ne peče, kremasta je i bogatog ukusa, a evo i recepta:
@@ -6218,10 +6050,10 @@ Predivna je, a jedva čekam i vaše utiske 🫶🏼
 
 ---
 
-<a id="ddhpto4mrkc"></a>
+<a id="puteraste-masnice"></a>
 ### Puteraste mašnice
 
-*2024-12-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDhpTo4MrKc/)*
+*2024-12-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDhpTo4MrKc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puteraste-masnice/*
 
 **Sastojci**
 
@@ -6255,10 +6087,10 @@ Uživajte u pripremi i degustaciji! 🎄💫
 
 ---
 
-<a id="ddnaqors8-u"></a>
+<a id="korpice-bela-cokolada-malina"></a>
 ### Korpice bela čokolada-malina
 
-*2024-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDNAQORs8-u/)*
+*2024-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DDNAQORs8-u/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/korpice-bela-cokolada-malina/*
 
 **Sastojci**
 
@@ -6273,20 +6105,18 @@ Uživajte u pripremi i degustaciji! 🎄💫
 - 100 gr džema od malina
 - 100 gr bele čokolade (za dekoraciju)
 
-*Priprema*
-
-- 1.	U većoj posudi pomešajte mlevenu plazmu i bademovo brašno.
-- 2.	Otopite 250 gr bele čokolade sa 100 ml slatke pavlake na tihoj vatri ili u mikrotalasnoj pećnici (kratkim intervalima, uz mešanje).
-- 3.	Sipajte otopljenu čokoladu u smesu plazme i badema i sve dobro sjedinite dok ne dobijete homogenu masu.
-- 4.	Od dobijene smese formirajte kuglice težine 25 g (približno veličina oraha).
-- 5.	Kuglice uvaljajte u kokos i ostavite ih u frižideru 15 minuta da se stegnu.
-- 3.	Ja koristim dresir kesu za dodavanje džema i čokolade jer mi je tako jednostavnije i urednije, ali možete koristiti i kašičicu.
-
 **Priprema**
+
+1.	U većoj posudi pomešajte mlevenu plazmu i bademovo brašno.
+	2.	Otopite 250 gr bele čokolade sa 100 ml slatke pavlake na tihoj vatri ili u mikrotalasnoj pećnici (kratkim intervalima, uz mešanje).
+	3.	Sipajte otopljenu čokoladu u smesu plazme i badema i sve dobro sjedinite dok ne dobijete homogenu masu.
+	4.	Od dobijene smese formirajte kuglice težine 25 g (približno veličina oraha).
+	5.	Kuglice uvaljajte u kokos i ostavite ih u frižideru 15 minuta da se stegnu.
 
 Filovanje:
 	1.	Nakon što su kuglice ohlađene, koristeći štapić ili prst, blago izdubite sredinu svake kuglice.
 	2.	U izdubljeni deo prvo stavite kašičicu džema od malina, a zatim preko dodajte kašičicu otopljene bele čokolade (100 g čokolade otopite na tihoj vatri).
+	3.	Ja koristim dresir kesu za dodavanje džema i čokolade jer mi je tako jednostavnije i urednije, ali možete koristiti i kašičicu.
 
 Finalni korak:
 Ostavite korpice u frižideru još 10 minuta da se stegnu, a zatim ih poslužite!
@@ -6297,10 +6127,10 @@ Uživajte! ❤️💫
 
 ---
 
-<a id="dczckrgs_w3"></a>
+<a id="banana-hleb"></a>
 ### Banana hleb
 
-*2024-11-25 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DCzckRGs_w3/)*
+*2024-11-25 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/DCzckRGs_w3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/banana-hleb/*
 
 Veče za ušuškavanje i ukusne zalogaje 😍
 
@@ -6321,17 +6151,16 @@ Veče za ušuškavanje i ukusne zalogaje 😍
 
 **Priprema**
 
-Priprema:
 Izgnječite banane i umutite ih sa smeđim i belim šećerom, pa tome dodajte jaje i kašiku arome vanile. Umešajte. Dodajte brašno i prašak za pecivo, pa sve dobro promešajte. Ja sam tek ovde dodala puter, a možete i na samom početku, ukus i tekstura su svakako fenomenalni 😍 Na kraju umešajte seckanu čokoladu. Smesu sipajte u pripremljen kalup za pečenje. Pecite u prethodno zagrejanoj rerni na 175°C dok ne postane zlatno braon, otprilike 50-60 minuta. Proverite čačkalicom – ako izađe suva, hleb je gotov.
 
 Prijatno svima koji probaju! 😊
 
 ---
 
-<a id="dcj6kzhmlm3"></a>
+<a id="kinder-bueno-stanglice-recept-koji-cete-obozavati"></a>
 ### Kinder Bueno štanglice – recept koji ćete obožavati
 
-*2024-11-19 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DCj6kzhMLM3/)*
+*2024-11-19 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DCj6kzhMLM3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-stanglice-recept-koji-cete-obozavati/*
 
 Pripremite savršeno sočne i kremaste kolačiće uz ovaj jednostavan recept:
 
@@ -6359,8 +6188,6 @@ Sastojci:
 - 300 g mlečne čokolade
 - 5 kašika ulja
 - (za dekoraciju) 30 g crne čokolade + 1 kašičica ulja
-- 5.	Preliv: Otopite mlečnu čokoladu sa uljem. Svaku štanglicu pažljivo umačite u otopljenu čokoladu, pa ih vratite na papir za pečenje.
-- 6.	Za dekoraciju, otopite crnu čokoladu sa kašičicom ulja i napravite šare po glazuri.
 
 **Priprema**
 
@@ -6369,15 +6196,17 @@ Postupak pripreme:
 2.	Drugi sloj: Umutite slatku pavlaku, zatim dodajte maskarpone sir, mlevenu plazmu i lešnik krem. Dobro promešajte dok ne dobijete glatku smesu, pa je nanesite preko prvog sloja.
 3.	Ostavite kolač u frižideru nekoliko sati (najbolje preko noći) kako bi se stegao. To je vrlo bitno da bi štanglice bile dovoljno čvrste za sledeći korak.
 4.	Kada se kolač potpuno stegne, isecite ga na štanglice.
+5.	Preliv: Otopite mlečnu čokoladu sa uljem. Svaku štanglicu pažljivo umačite u otopljenu čokoladu, pa ih vratite na papir za pečenje.
+6.	Za dekoraciju, otopite crnu čokoladu sa kašičicom ulja i napravite šare po glazuri.
 7.	Ostavite kolače u frižideru da se preliv stegne.
 Sačuvajte recept i podelite ga s prijateljima. 🍪
 
 ---
 
-<a id="dcbe91qmcq6"></a>
+<a id="cene-idu-dole"></a>
 ### Cene idu dole
 
-*2024-11-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/DCbE91QMcQ6/)*
+*2024-11-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/DCbE91QMcQ6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cene-idu-dole/*
 
 @lidlsrbija ima fantastičnu akciju sa čak 50 proizvoda na sniženju – za svakoga ponešto! 🛒
 
@@ -6398,10 +6227,10 @@ Isprobajte i vi, a obavezno mi javite utiske! 😊
 
 ---
 
-<a id="dcmmuhwswho"></a>
+<a id="curosi-na-stapicu-slatka-priprema-bez-przenja-u-ulju-ko"></a>
 ### Ćurosi na štapiću - slatka priprema bez prženja u ulju ko…
 
-*2024-11-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DCMMuHwsWHO/)*
+*2024-11-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DCMMuHwsWHO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/curosi-na-stapicu-slatka-priprema-bez-przenja-u-ulju-ko/*
 
 Ćurosi na štapiću - slatka priprema bez prženja u ulju koje će oduševiti sve mališane 🤎
 
@@ -6419,27 +6248,25 @@ Isprobajte i vi, a obavezno mi javite utiske! 😊
 - 50 g kristal šećera (za uvaljivanje)
 - Po želji: prstohvat cimeta (za uvaljivanje)
 
-*Postupak pripreme*
-
-- 1.	U šerpici otopite puter, dodajte vodu i ekstrakt vanile, pa pustite da provri.
-- 2.	Sklonite sa ploče, dodajte brašno i so, pa energično mešajte dok ne dobijete glatku smesu.
-- 3.	Kada se smesa prohladi, dodajte jedno po jedno jaje, dobro mešajući između kako biste dobili homogenu masu.
-- 6.	Gotove ćurose uvaljajte u kristal šećer, a po želji dodajte i malo cimeta za dodatni ukus.
-
 **Priprema**
 
+Postupak pripreme:
+1.	U šerpici otopite puter, dodajte vodu i ekstrakt vanile, pa pustite da provri.
+2.	Sklonite sa ploče, dodajte brašno i so, pa energično mešajte dok ne dobijete glatku smesu.
+3.	Kada se smesa prohladi, dodajte jedno po jedno jaje, dobro mešajući između kako biste dobili homogenu masu.
 4.	Prebacite smesu u dresir kesu.
 5.	Na tosteru oblikujte trake od testa i pecite dok ne dobiju lepu zlatnu boju.
+6.	Gotove ćurose uvaljajte u kristal šećer, a po želji dodajte i malo cimeta za dodatni ukus.
 7.	Zabodite štapiće za sladoled radi zanimljivog izgleda.
 
 Uživajte sa mališanima u pripremi, serviranju, i naravno, degustaciji! ❤️
 
 ---
 
-<a id="dchhxtcon-j"></a>
+<a id="zebra-mafini-desert-koji-spaja-savrsen-ukus-i-zabavan-i"></a>
 ### Zebra mafini – desert koji spaja savršen ukus i zabavan i…
 
-*2024-11-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DCHhXtcoN-j/)*
+*2024-11-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DCHhXtcoN-j/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zebra-mafini-desert-koji-spaja-savrsen-ukus-i-zabavan-i/*
 
 Zebra mafini – desert koji spaja savršen ukus i zabavan izgled! 🦓🤎
 
@@ -6461,27 +6288,24 @@ Meki, sočni i vizuelno neodoljivi, ovi mafini će sigurno postati vaši omiljen
 - 1 kašičica ekstrakta vanile
 - 20 g kakao praha (za kakao smesu)
 
-*Priprema*
-
-- 1.	Umutite jaja sa šećerom dok ne dobijete penastu smesu.
-- 2.	Dodajte slatku pavlaku i prohlađeni otopljeni puter. Promešajte.
-- 3.	Zatim sipajte 220 g brašna pomešanog s praškom za pecivo i prstohvatom soli. Mešajte dok se sve lepo ne sjedini.
-- U prvi deo dodajte 20 g brašna i kašičicu ekstrakta vanile.
-- U drugi deo dodajte 20 g kakao praha.
-
 **Priprema**
 
+1.	Umutite jaja sa šećerom dok ne dobijete penastu smesu.
+2.	Dodajte slatku pavlaku i prohlađeni otopljeni puter. Promešajte.
+3.	Zatim sipajte 220 g brašna pomešanog s praškom za pecivo i prstohvatom soli. Mešajte dok se sve lepo ne sjedini.
 4.	Smesu podelite na dva jednaka dela.
+•	U prvi deo dodajte 20 g brašna i kašičicu ekstrakta vanile.
+•	U drugi deo dodajte 20 g kakao praha.
 5.	Naizmenično sipajte obe smese u kalup za mafine kako biste dobili karakterističan zebrasti izgled.
 6.	Pecite u prethodno zagrejanoj rerni na 180°C oko 20-25 minuta.
 I to je to! Uživajte u savršenom spoju vanile i čokolade. 🧁✨
 
 ---
 
-<a id="dbt51los5mu"></a>
+<a id="kesten-kolacici"></a>
 ### Kesten kolačići
 
-*2024-10-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DBt51LOs5mU/)*
+*2024-10-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DBt51LOs5mU/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kesten-kolacici/*
 
 Ako volite jednostavne recepte, ovo je pravi izbor za vas! Priprema se od samo 5 sastojaka i bez pečenja!
 
@@ -6504,10 +6328,10 @@ Recept sam pronašla kod @antonia.jagodic – hvala na ovoj divnoj ideji koja mi
 
 ---
 
-<a id="dbldq3ssbgf"></a>
+<a id="preukusan-juneci-gulas-kao-ideja-za-rucak-za-celu-porodicu"></a>
 ### Preukusan juneći gulaš kao ideja za ručak za celu porodicu!
 
-*2024-10-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/DBlDQ3SsBgf/)*
+*2024-10-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/DBlDQ3SsBgf/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/preukusan-juneci-gulas-kao-ideja-za-rucak-za-celu-porodicu/*
 
 Preukusan juneći gulaš kao ideja za ručak za celu porodicu! Savršeno sočno meso koje se topi u ustima, idealno za hladnije dane koji nam predstoje. 👌🏼
 
@@ -6529,23 +6353,22 @@ Evo recepta:
 - 2 kašike paradajz koncentrata
 - maslinovo ulje
 - so i biber
-- 2.	U isti tiganj dodajte seckani luk i šargarepu, i propržite dok ne puste sok.
-- 4.	Dodajte krompir, poklopite i kuvajte još 30-45 minuta, dok meso ne postane savršeno sočno, a krompirići mekani.
 
 **Priprema**
 
-Priprema
 1.	Uvaljajte kockice junetine u brašno. Na maslinovom ulju i kockici putera, propržite kratko meso sa obe strane dok ne dobije zlatnu boju, zatim ga izvadite sa strane.
+2.	U isti tiganj dodajte seckani luk i šargarepu, i propržite dok ne puste sok.
 3.	Vratite meso u tiganj, dodajte bujon i paradajz pastu. Posolite, dodajte malo bibera i začine po ukusu. Ostavite da se sve lagano krčka oko sat vremena.
+4.	Dodajte krompir, poklopite i kuvajte još 30-45 minuta, dok meso ne postane savršeno sočno, a krompirići mekani.
 
 Poslužite i uživajte u pravom porodičnom ručku! 🍲
 
 ---
 
-<a id="dbizkxbsjjy"></a>
+<a id="coko-malina-tortica"></a>
 ### Čoko malina tortica
 
-*2024-10-25 · Torte · reel · [Instagram post](https://www.instagram.com/p/DBizKxbsJJY/)*
+*2024-10-25 · Torte · reel · [Instagram post](https://www.instagram.com/p/DBizKxbsJJY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-malina-tortica/*
 
 Nema boljeg načina da se okupimo i uživamo u lepim trenucima nego uz savršenu poslasticu i osveženje ✨
 
@@ -6596,10 +6419,10 @@ I na kraju najbolji deo - druženje sa drugaricama, torta i osveženje uz @nexts
 
 ---
 
-<a id="dboxcqvm5ks"></a>
+<a id="recept-za-ovu-jednostavnu"></a>
 ### Recept za ovu jednostavnu
 
-*2024-10-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DBOXCqVM5Ks/)*
+*2024-10-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/DBOXCqVM5Ks/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/recept-za-ovu-jednostavnu/*
 
 Recept za ovu jednostavnu, a ukusnu pitu sa sirom sigurno će postati omiljen u tvojoj kuhinji. Sve sastojke možeš pronaći u najbližem @lidlsrbija , a priprema je brza i laka!
 
@@ -6621,25 +6444,22 @@ Recept za ovu jednostavnu, a ukusnu pitu sa sirom sigurno će postati omiljen u 
 - 60 ml ulja
 - susam (po želji)
 
-*Priprema*
-
-- 1.	Umutite sir, dodajte jaja, jogurt, prašak za pecivo i so. Sve dobro sjediniti.
-- 2.	Prvu koru premažite mešavinom ulja i mleka, na drugu stavite samo fil.
-- 3.	 Urolajte i redjajte u tepsiju, zatim premažite ostatkom mešavine ulja i mleka.
-- 4.  Pospite susamom po vrhu.
-
 **Priprema**
 
-5.	Pecite u zagrejanoj rerni na 200°C oko 30 minuta, dok ne dobije zlatno-smeđu boju.
+1.	Umutite sir, dodajte jaja, jogurt, prašak za pecivo i so. Sve dobro sjediniti.
+	2.	Prvu koru premažite mešavinom ulja i mleka, na drugu stavite samo fil.
+	3.	 Urolajte i redjajte u tepsiju, zatim premažite ostatkom mešavine ulja i mleka.
+  4.  Pospite susamom po vrhu.
+	5.	Pecite u zagrejanoj rerni na 200°C oko 30 minuta, dok ne dobije zlatno-smeđu boju.
 
 Uživaj u svakom zalogaju ove hrskave i sočne pite sa sirom, uz proizvode S ljubavlju domaće!
 
 ---
 
-<a id="daqkhcmsxc5"></a>
+<a id="fairy-max-power-pranje-sudova-nikad-nije-bilo-lakse"></a>
 ### Fairy Max Power – pranje sudova nikad nije bilo lakše
 
-*2024-10-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DAqKhcmsXC5/)*
+*2024-10-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/DAqKhcmsXC5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/fairy-max-power-pranje-sudova-nikad-nije-bilo-lakse/*
 
 Bez curenja, bez otpada, i bez muke – samo efikasnost! Zahvaljujući inovativnoj obrnutoj boci, svaka kap deterdženta se koristi do kraja, a zaštitni mehanizam sprečava curenje. Pored toga, nema više otvaranja poklopaca – samo pritisnite i operite!
 Isprobajte Fairy Max Power i uživajte u jednostavnijem pranju sudova nego ikada ranije. I kao bonus – ostavljam vam recept za moj pistać lava kolač. 🥰🍰
@@ -6668,10 +6488,10 @@ Uživajte!! 🌸
 
 ---
 
-<a id="daokvlxmzuq"></a>
+<a id="mamina-strudla-crna-cokolada-visnje-2"></a>
 ### Mamina štrudla crna čokolada & višnje
 
-*2024-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DAoKvLXMzUq/)*
+*2024-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DAoKvLXMzUq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mamina-strudla-crna-cokolada-visnje-2/*
 
 **Sastojci**
 
@@ -6706,10 +6526,10 @@ Ooobavezno mi javite utiske 💓💓💓
 
 ---
 
-<a id="daro816sz6g"></a>
+<a id="evo-recepta-za-popularnu-dubai-cokoladu"></a>
 ### Evo recepta za popularnu Dubai čokoladu
 
-*2024-09-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DARO816sz6g/)*
+*2024-09-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/DARO816sz6g/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/evo-recepta-za-popularnu-dubai-cokoladu/*
 
 Evo recepta za popularnu Dubai čokoladu, kombinaciju hrskave kadaif testenine i pistać krema u mlečnoj čokoladi 🥰
 
@@ -6725,8 +6545,6 @@ Evo recepta za popularnu Dubai čokoladu, kombinaciju hrskave kadaif testenine i
 - dva reda bele čokolade (za dekoraciju, opciono)
 
 **Priprema**
-
-Priprema:
 
 Kadaif testeninu sitno iseckaj. U dubljem tiganju na srednjoj vatri istopi puter.
 Dodaj iseckanu kadaif testeninu i prži uz mešanje dok ne postane zlatno hrskava (oko 5-7 minuta).
@@ -6744,10 +6562,10 @@ Prijatno ❤️
 
 ---
 
-<a id="danoj9kowbi"></a>
+<a id="french-toast-2"></a>
 ### French toast
 
-*2024-09-22 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DANoJ9koWbI/)*
+*2024-09-22 · Doručak · reel · [Instagram post](https://www.instagram.com/p/DANoJ9koWbI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/french-toast-2/*
 
 Preukusna ideja za doručak ⬇️
 Slatke prženice koje tako razmirišu kuću na puter i nežnu aromu cimeta, ma milinica 😍😍😍
@@ -6774,10 +6592,10 @@ Da li ih spremate u ovoj slatkih varijanti..? 🤤
 
 ---
 
-<a id="dajba_qsrvb"></a>
+<a id="stapici-sa-lukom-2"></a>
 ### Štapići sa lukom
 
-*2024-09-20 · Slano · reel · [Instagram post](https://www.instagram.com/p/DAJba_QsrVB/)*
+*2024-09-20 · Slano · reel · [Instagram post](https://www.instagram.com/p/DAJba_QsrVB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-lukom-2/*
 
 **Sastojci**
 
@@ -6805,10 +6623,10 @@ Prijatno 🤍
 
 ---
 
-<a id="c_2xc6vmz5v"></a>
+<a id="jabuka-mafini-2"></a>
 ### Jabuka mafini
 
-*2024-09-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_2xC6VMZ5V/)*
+*2024-09-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_2xC6VMZ5V/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jabuka-mafini-2/*
 
 Sjajan brzinski recept za sočne i preukusne jabuka mafine, koji će vas oduševiti:
 
@@ -6833,10 +6651,10 @@ Prijatno!
 
 ---
 
-<a id="c_yui_jmexg"></a>
+<a id="stigao-mi-je-i-drugi-temu-paket"></a>
 ### Stigao mi je i drugi Temu paket
 
-*2024-09-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_yUi_jMeXg/)*
+*2024-09-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_yUi_jMeXg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stigao-mi-je-i-drugi-temu-paket/*
 
 Stigao mi je i drugi Temu paket, ovog puta fokus mi je bio na pakovanju užine za decu, ali sam i sebe počastila, javite mi baš kako vam se čini moj izbor..? 😍
 
@@ -6863,10 +6681,10 @@ Uživajte u kupovini!
 
 ---
 
-<a id="c_sgfqvm4pm"></a>
+<a id="nije-li-ovo-jedan-od-onih-ukusa-koji-vraca-u-detinjstvo"></a>
 ### Nije li ovo jedan od onih ukusa koji vraća u detinjstvo?
 
-*2024-09-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/C_sGFqvM4PM/)*
+*2024-09-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/C_sGFqvM4PM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nije-li-ovo-jedan-od-onih-ukusa-koji-vraca-u-detinjstvo/*
 
 Svi je volimo i pravimo, ali ja sam sigurna da će vam ovo postati novi omiljeni recept 😍
 
@@ -6898,10 +6716,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c_pdc06s0-w"></a>
+<a id="miris-krofni-vraca-me-u-ne-tako-daleku-proslost"></a>
 ### Miris krofni vraća me u ne tako daleku prošlost
 
-*2024-09-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_pdc06s0-w/)*
+*2024-09-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C_pdc06s0-w/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/miris-krofni-vraca-me-u-ne-tako-daleku-proslost/*
 
 Miris krofni vraća me u ne tako daleku prošlost, budi posebne uspomene i jedno tiho nedostajanje...
 Bez obzira na to da li su posute šećerom ili punjene kremovima, džemom, vanilom – nijedna krofna nije kao one koje su vas nekada dočekivale na kućnom pragu.
@@ -6934,10 +6752,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="c_kuvhbszyb"></a>
+<a id="trazite-zdrave-ideje-za-skolsku-uzinu"></a>
 ### Tražite zdrave ideje za školsku užinu?
 
-*2024-09-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/C_kUvhBszYB/)*
+*2024-09-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/C_kUvhBszYB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/trazite-zdrave-ideje-za-skolsku-uzinu/*
 
 Tražite zdrave ideje za školsku užinu? Evo tri jednostavna i ukusna rešenja! 🥪🍎
 
@@ -6980,10 +6798,10 @@ Prijatno!
 
 ---
 
-<a id="c_czx_cmexs"></a>
+<a id="stigao-je-i-moj-temu-paket"></a>
 ### Stigao je i moj Temu paket
 
-*2024-09-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C_czx_CMexs/)*
+*2024-09-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C_czx_CMexs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stigao-je-i-moj-temu-paket/*
 
 Stigao je i moj Temu paket, naravno, nisam odolela ovim preslatkim stvarčicama, ali ni ovim cenama, a baš me zanima šta se vama najviše dopada iz moje porudžbine..?
 
@@ -7024,10 +6842,10 @@ Uživajte u kupovini!
 
 ---
 
-<a id="c_u3easmnrk"></a>
+<a id="pitice-sa-jabukama"></a>
 ### Pitice sa jabukama
 
-*2024-08-31 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C_U3EASMNRk/)*
+*2024-08-31 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C_U3EASMNRk/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pitice-sa-jabukama/*
 
 Ove pitice su toliko ukusne i tako zgodne za smazati ☺️☺️ Žao mi je što ne mogu miris da vam prenesem.
 Idealne za gricnuti u bilo koje doba dana u kući, a savršene za školsku užinu 🫶🏼🫶🏼🫶🏼
@@ -7057,10 +6875,10 @@ Uživajte! 🫶🏼
 
 ---
 
-<a id="c-5sb3imne_"></a>
+<a id="vocni-kolac-2"></a>
 ### Voćni kolač
 
-*2024-08-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C-5sb3iMne_/)*
+*2024-08-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C-5sb3iMne_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/vocni-kolac-2/*
 
 Ovo je jedan od onih čija je osnova starinski kolač kakve su naše bake i mame najčešće spremale sa višnjama, ja sam mu dodala samo jedan voćkasti sloj izmedju dva biskvitna dela i naravno kao po običaju prelila dodatno sa topljenim belom čokoladom 😍😍
 
@@ -7099,10 +6917,10 @@ Jedva čekam vaše utiske 🍎🍑🫐
 
 ---
 
-<a id="c-n8uazmcun"></a>
+<a id="grcka-torta"></a>
 ### Grčka torta
 
-*2024-08-03 · Torte · reel · [Instagram post](https://www.instagram.com/p/C-N8uAzMCun/)*
+*2024-08-03 · Torte · reel · [Instagram post](https://www.instagram.com/p/C-N8uAzMCun/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/grcka-torta/*
 
 Ukoliko je do sada niste već pripremali ili isprobali, evo videa koji će vam sigurna sam olakšati pripremu.
 Spoj ukusa je divan i vredna je paljenja rerne 😍
@@ -7151,10 +6969,10 @@ Uživajte, prijatno 💓
 
 ---
 
-<a id="c9jzgekmm36"></a>
+<a id="cheesecake-rolat-bueno-malinica"></a>
 ### Cheesecake rolat bueno malinica
 
-*2024-07-18 · Torte · reel · [Instagram post](https://www.instagram.com/p/C9jzgekMm36/)*
+*2024-07-18 · Torte · reel · [Instagram post](https://www.instagram.com/p/C9jzgekMm36/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cheesecake-rolat-bueno-malinica/*
 
 Rolat bez pečenja, gotov za 15ak minuta, idealna poslastica za ove vrele letnje dane ☺️
 
@@ -7196,10 +7014,10 @@ Jedva čekam vaše utiske!
 
 ---
 
-<a id="c9x7nawmv4e"></a>
+<a id="lukina-rodjendanska-plazma-tortica-7"></a>
 ### Lukina rodjendanska plazma tortica 7 ⃣
 
-*2024-07-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/C9X7nAwMv4e/)*
+*2024-07-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/C9X7nAwMv4e/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lukina-rodjendanska-plazma-tortica-7/*
 
 Najidealnija tortica za decije rodjendane i laganih 40+, bez pečenja, bez muke, savršenog ukusa 😍
 
@@ -7226,10 +7044,10 @@ Prijatno 🩵
 
 ---
 
-<a id="c9kzsmbis95"></a>
+<a id="sve-sto-mi-je-danas-trebalo"></a>
 ### Sve što mi je danas trebalo
 
-*2024-07-08 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/C9KzsMbIS95/)*
+*2024-07-08 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/C9KzsMbIS95/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sve-sto-mi-je-danas-trebalo/*
 
 Na ovako vreo dan, nema ništa bolje od osvežavajuće Dalgona kafe! Evo jednostavnog recepta za dve šolje:
 
@@ -7250,10 +7068,10 @@ Sećate li se kada je Dalgona kafa postala viralni hit tokom karantina? Da li st
 
 ---
 
-<a id="c8uhvaysafx"></a>
+<a id="hrskavi-parfe"></a>
 ### Hrskavi parfe
 
-*2024-06-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C8uhVAysAfx/)*
+*2024-06-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C8uhVAysAfx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hrskavi-parfe/*
 
 Neodoljivo, lagano, kremasto i hrskavo, pravo letnje osveženje u čaši 🙌🏻
 Iskoristila sam XXL nedelju u @lidlsrbija , obavila nabavku, a vama ostavljam recept i jedva čekam utiske 🥰
@@ -7293,10 +7111,10 @@ Uživajte 🌸🌸🌸
 
 ---
 
-<a id="c8r9jiknsr0"></a>
+<a id="coko-malina-stracatela"></a>
 ### Čoko malina straćatela
 
-*2024-06-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/C8r9jIkNSr0/)*
+*2024-06-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/C8r9jIkNSr0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-malina-stracatela/*
 
 Tatina rodjendanska 🎂
 
@@ -7340,10 +7158,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c8gqhz7melt"></a>
+<a id="kad-mama-udovoljava"></a>
 ### Kad mama udovoljava
 
-*2024-06-22 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C8gqHZ7MelT/)*
+*2024-06-22 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C8gqHZ7MelT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kad-mama-udovoljava/*
 
 Rolovane punjene prženice svi volimo, pitanje je samo ko više voli slane, a ko slatke..? 🤗
 Inače, ovaj tost hlebić bez kore i većih dimenzija mi je baš zgodan za pripremu ☺️👌🏼
@@ -7376,10 +7194,10 @@ Uživajte u vikendu 🌸
 
 ---
 
-<a id="c8y94yaspof"></a>
+<a id="3-poklon-vaucera"></a>
 ### 3 poklon vaučera
 
-*2024-06-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C8Y94yaspoF/)*
+*2024-06-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C8Y94yaspoF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/3-poklon-vaucera/*
 
 Kao i uvek, uživala sam u kupovini u @pepcors , ali ovog puta pripremila sam iznenađenje i za vas:
 
@@ -7406,10 +7224,10 @@ Srećno svima! 🌸
 
 ---
 
-<a id="c8se2olokfs"></a>
+<a id="pripremam-vegan-burger-koji-izgleda"></a>
 ### Pripremam vegan burger koji izgleda
 
-*2024-06-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/C8SE2OlokfS/)*
+*2024-06-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/C8SE2OlokfS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pripremam-vegan-burger-koji-izgleda/*
 
 Pripremam vegan burger koji izgleda, priprema se i miriše toliko savršeno da čak ni ja, koja inače jedem meso, nemam nikakve zamerke. 🍔👌🏼
 
@@ -7436,10 +7254,10 @@ Nisam želela da pripremam nikakav sos jer sam htela da zaista osetim ukus i už
 
 ---
 
-<a id="c8owh4tsbqh"></a>
+<a id="lotus-malinica-dezert-u-casi"></a>
 ### Lotus malinica dezert u čaši
 
-*2024-06-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C8OwH4Tsbqh/)*
+*2024-06-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C8OwH4Tsbqh/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lotus-malinica-dezert-u-casi/*
 
 Lagan, preukusan, speman za čas, pa da nazdravimo početku letnjeg raspusta na moj način 🥰🥰🥰
 
@@ -7472,10 +7290,10 @@ Uživajte 🌸🌸🌸
 
 ---
 
-<a id="c787rdoswrb"></a>
+<a id="oreo-shake"></a>
 ### Oreo shake
 
-*2024-06-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C787rDOswrb/)*
+*2024-06-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C787rDOswrb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/oreo-shake/*
 
 Idealan letnji dezert u čaši, ne samo zbog savršenog ukusa već i zbog pripreme koja vam oduzima bukvalno 5 minuta.
 Jedan blender i par sastojaka 🙌🏻
@@ -7500,10 +7318,10 @@ Uživajte u vikendu 🌸
 
 ---
 
-<a id="c715u8nstky"></a>
+<a id="malina-vanila-tortica"></a>
 ### Malina vanila tortica
 
-*2024-06-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/C715u8nsTKy/)*
+*2024-06-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/C715u8nsTKy/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/malina-vanila-tortica/*
 
 Predivna, lagana, prava letnja osvežavajuća tortica 🌸
 Vanila fil, mekana podloga od keksa, malina sos i sveže maline, ljubitelji kremastog i osvežavajućeg, obožavaćete ovu kombinaciju 💓
@@ -7553,10 +7371,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c7os1ngmebc"></a>
+<a id="ideja-za-rucak-2"></a>
 ### Ideja za ručak
 
-*2024-05-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/C7oS1nGMebc/)*
+*2024-05-31 · Slano · reel · [Instagram post](https://www.instagram.com/p/C7oS1nGMebc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ideja-za-rucak-2/*
 
 Dobrih i ukusnih ideja za ručak spreman za manje od 30 minuta nikad dosta, priznaćete, pa evo mera i za ovo savršeno jelo:
 
@@ -7584,10 +7402,10 @@ Prijatno ❤️
 
 ---
 
-<a id="c7jdbmbmbul"></a>
+<a id="jagodica-tortica-2"></a>
 ### Jagodica tortica
 
-*2024-05-29 · Torte · reel · [Instagram post](https://www.instagram.com/p/C7jDbMbMbuL/)*
+*2024-05-29 · Torte · reel · [Instagram post](https://www.instagram.com/p/C7jDbMbMbuL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagodica-tortica-2/*
 
 Osvezavajuća & kremasta tortica koja je apsolutni “must have” za sve ove prelepo sunčane dane dok još ima ovih savršenih lepotica 🍓
 
@@ -7633,10 +7451,10 @@ Radujem se vašim utiscima! 🌸
 
 ---
 
-<a id="c7tnzubs1y1"></a>
+<a id="sutlijas-sa-belom-cokoladom"></a>
 ### Sutlijaš sa belom čokoladom
 
-*2024-05-23 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C7TnzUBs1Y1/)*
+*2024-05-23 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C7TnzUBs1Y1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sutlijas-sa-belom-cokoladom/*
 
 Pozivam vas na učešće u sjajnoj nagradnoj igri koju organizuje Moja Kravica! Kupite veliko pakovanje Moja Kravica mleka ili jogurta, pošaljite PFR broj sa računa na broj 8888 i osvojite vredne nagrade svakog dana! Nagradna igra traje od 9.5. do 8.6., zato požurite! 🎁
 Svakog dana biće izvučeno 10 dobitnika Moja Kravica Metalac šerpica, svake nedelje jedan LG televizor, dok će najsrećniji dobitnik osvojiti glavnu nagradu- Škodu Karoq!
@@ -7671,10 +7489,10 @@ Potpuno je kremasto i fino, a ja jedva čekam vaše utiske 😍
 
 ---
 
-<a id="c7przufoi15"></a>
+<a id="danas-sam-spremala-ukusnu-i-zdravu-salatu-sa-gardengourm"></a>
 ### Danas sam spremala ukusnu i zdravu salatu sa @gardengourm…
 
-*2024-05-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/C7PRzufoi15/)*
+*2024-05-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/C7PRzufoi15/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/danas-sam-spremala-ukusnu-i-zdravu-salatu-sa-gardengourm/*
 
 Danas sam spremala ukusnu i zdravu salatu sa @gardengourmet_rs veganskim medaljonima! 🥗✨ Ovi veganski nuggetsi imaju sjajan ukus i zadovoljavajući zalogaj nuggetsa, prekriveni su hrskavim prezlama za hrskavi zalogaj. Napravljeni su od visokokvalitetnih biljnih sastojaka, bogati proteinima i izvor su vlakana. Možete ih poslužiti i sa pomfritom ili krompirom i omiljenim povrćem - ukusno i bez muke!
 Rernu samzagrejala sam rernu na 200°C.
@@ -7699,10 +7517,10 @@ Prijatno! 😋
 
 ---
 
-<a id="c61f9_ksloj"></a>
+<a id="pita-sa-dve-vrste-sira"></a>
 ### Pita sa dve vrste sira
 
-*2024-05-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C61f9_ksLOJ/)*
+*2024-05-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C61f9_ksLOJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pita-sa-dve-vrste-sira/*
 
 Lepo vreme poziva na druženja na terasi, a gde je društvo tu mora da se širi i neki lep miris, ali i dobar ukus, jer u društvu se uvek slatko ručka 🥰
 Mislim da će vas ukus oduševiti, zato vam ostavljam mere za pripremu za jedno pakovanje kora (16 komada)
@@ -7740,10 +7558,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c6iaojgs4xf"></a>
+<a id="uskrsnji-plazma-jagoda-kolacici"></a>
 ### Uskršnji plazma jagoda kolačići
 
-*2024-05-04 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6iaOJgs4xf/)*
+*2024-05-04 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6iaOJgs4xf/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrsnji-plazma-jagoda-kolacici/*
 
 Ako vam je potrebna ideja za prazničnu poslasticu u poslednji čas ovo je idealan predlog. Spoj Mlevene Plazme, sočnih jagoda i bele čokolade u kremastim i laganim zalogajima. Još ako vam kažem da je dezert spreman za čas, prelazimo odmah na pripremu:
 
@@ -7776,10 +7594,10 @@ Kremasto, lagano, preukusno, a čekam i vaše utiske 🌸
 
 ---
 
-<a id="c6wzfd6irwh"></a>
+<a id="bounty-cokoladice-4"></a>
 ### Bounty čokoladice
 
-*2024-04-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C6WZFD6Irwh/)*
+*2024-04-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C6WZFD6Irwh/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bounty-cokoladice-4/*
 
 Ove čokoladice sam prvi put pravila da obradujem tatu , ali se ispostavilo da ih sada krijemo po kući kako bi ostale i za njega, jer ih svi obozavamo 🤗
 Posle hladjenja u frižideru, smesa se lepo stegne i dobra je za oblikovanje, tako da možete praviti bounty kuglice, čokoladice, a možete ih obući i u uskršnje odelo 🥚🤍
@@ -7807,10 +7625,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c6jlmjpm-84"></a>
+<a id="musaka-rolat"></a>
 ### Musaka rolat
 
-*2024-04-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6JlMjPM-84/)*
+*2024-04-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6JlMjPM-84/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/musaka-rolat/*
 
 Sjajna ideja za ručak od dobro poznatih sastojaka, uz malo improvizacije može biti i divan predlog za dane praznika i neka fina okupljanja 😍
 
@@ -7843,10 +7661,10 @@ Prijatno!
 
 ---
 
-<a id="c6a-n4vsudd"></a>
+<a id="slani-rolat-2"></a>
 ### Slani rolat
 
-*2024-04-21 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6A-N4VsUdd/)*
+*2024-04-21 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C6A-N4VsUdd/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slani-rolat-2/*
 
 Legenda kaže da se ovakvo parčence ne odbija 😍 Testo punjeno njeguškim pršutom, dinstanim pečurkama i sirom, idealan predlog za serviranje i degustaciju za predstojeći praznik 💓💓
 Zanimljivo je i to da kvasno testo ne morate vi mesiti ako ste u žurbi i onda zaista za čas posla imate spreman rolat 🙌🏻
@@ -7874,10 +7692,10 @@ Sjajna ideja, zar ne..?
 
 ---
 
-<a id="c58k35hmypd"></a>
+<a id="bajadera-torta"></a>
 ### Bajadera torta
 
-*2024-04-19 · Torte · reel · [Instagram post](https://www.instagram.com/p/C58K35hMYpD/)*
+*2024-04-19 · Torte · reel · [Instagram post](https://www.instagram.com/p/C58K35hMYpD/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bajadera-torta/*
 
 Ukoliko i vi volite da pripremite čokoladnu poslasticu sa Menaž čokoladom koja uvek uspe, pozivam vas da učestvujete u Menaž kreativnom konkursu tako što ćete svoju poslasticu slikati i uploudovati na sajt volimposlastice.rs, konkurs traje od 15.04. do 12.05., tu vas svake nedelje čekaju vredne nagrade, a poslednje i glavna nagrada.
 
@@ -7933,10 +7751,10 @@ Srećno & prijatno! 🌸
 
 ---
 
-<a id="c508yoemibb"></a>
+<a id="savrseno-cokoladne-kuglice"></a>
 ### Savršeno čokoladne kuglice
 
-*2024-04-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C508yOeMiBb/)*
+*2024-04-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C508yOeMiBb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/savrseno-cokoladne-kuglice/*
 
 Evo jedne sjajne ideje koja može poslužiti i kao poslastica za okupljanje sa prijateljima za uskršnje praznike 😍😍😍
 
@@ -7967,10 +7785,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c5vkv8amf_i"></a>
+<a id="krofnice-iz-aparata-2"></a>
 ### Krofnice iz aparata
 
-*2024-04-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C5vKv8aMf_i/)*
+*2024-04-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C5vKv8aMf_i/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofnice-iz-aparata-2/*
 
 Ovog puta vam ostavljam jedan sjajan recept za krofnice onda kada nemate vremena za čekanje da testo naraste. Sjajna stvar je što se ne prže u ulju već možete da ih pripremate u rerni u kalupu za krofne ili u aparatu za krofnice, šta god da vam je zgodnije ☺️☺️☺️
 
@@ -8004,10 +7822,10 @@ Uživajte u slatkim zalogajima 💓
 
 ---
 
-<a id="c5sbvxrmeeh"></a>
+<a id="ostavljam-vam-snimak-za-postupak-i-nacin-na-koji-ja-najvi"></a>
 ### Ostavljam vam snimak za postupak i način na koji ja najvi…
 
-*2024-04-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5sbVxrMEeH/)*
+*2024-04-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5sbVxrMEeH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ostavljam-vam-snimak-za-postupak-i-nacin-na-koji-ja-najvi/*
 
 Ostavljam vam snimak za postupak i način na koji ja najviše volim da dekorišem Uskršnja jaja 💓
 Ne zato što je ovo neka nauka ili nešto što možda mnogi od vas već uveliko ne primenjuju, već zato što mi je mnooogo lepih poruka pristiglo na ovu temu, zato što ste bili oduševljeni prošlogodišnjim i zato što se uvek vodim time da je možda nekome baš prva godina da će jaja farbati sam 😍
@@ -8037,10 +7855,10 @@ Uključite i decu i zajedno starajte uspomene 🌸
 
 ---
 
-<a id="c5od4d_s_7j"></a>
+<a id="banana-lotus-sladoled-tortica"></a>
 ### Banana-lotus sladoled tortica
 
-*2024-04-11 · Torte · reel · [Instagram post](https://www.instagram.com/p/C5oD4d_s_7J/)*
+*2024-04-11 · Torte · reel · [Instagram post](https://www.instagram.com/p/C5oD4d_s_7J/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/banana-lotus-sladoled-tortica/*
 
 Savršen ukus, prelepa kremasta tekstura, idealan dezert ukoliko vam je slatkiš potreban sad i odmah, nema pečenja, kuvanja, samo smućkaj, iseckaj, usitni i izruči.. 😋
 
@@ -8066,10 +7884,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c5c9whssfir"></a>
+<a id="kis-sa-piletinom"></a>
 ### Kiš sa piletinom
 
-*2024-04-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5c9whSsFIr/)*
+*2024-04-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5c9whSsFIr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kis-sa-piletinom/*
 
 Slana pita prhkog testa i kremastog mlečnog punjenja, idealan je deo posluženja i praznične trpeze, pa ga tako i ja u ovom periodu najčešće pripremam.
 
@@ -8105,10 +7923,10 @@ Prijatno! 💓
 
 ---
 
-<a id="c5vyqtrstgr"></a>
+<a id="posni-krekeri"></a>
 ### Posni krekeri
 
-*2024-04-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5VYQtRsTGr/)*
+*2024-04-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5VYQtRsTGr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posni-krekeri/*
 
 Danas pripremamo i serviramo jednu posnu dasku, uz predivne hrskave krekere, ali i nov @argeta_official Veggie namaz - Tartar od sočiva.
 
@@ -8143,10 +7961,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c5quevdmjrm"></a>
+<a id="otvorene-punjene-paprike"></a>
 ### Otvorene punjene paprike
 
-*2024-04-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5QUevDMjrm/)*
+*2024-04-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/C5QUevDMjrm/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/otvorene-punjene-paprike/*
 
 Vikend i lepo vreme smo iskoristili za igru u dvorištu & druženje, pa sam spremala ručak koji svi vole. Punjenje otvorene paprike na krompir pireu. Lagano, jednostavno i preukusno jelo, pa ga ostavljam kao ideju za pripremu i vama:
 
@@ -8175,10 +7993,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c5b34wumkwh"></a>
+<a id="crunchy-korpice-kikiriki-puter-mlecna-cokolada"></a>
 ### Crunchy korpice kikiriki puter & mlečna čokolada
 
-*2024-03-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C5B34wuMkwH/)*
+*2024-03-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C5B34wuMkwH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/crunchy-korpice-kikiriki-puter-mlecna-cokolada/*
 
 Poslastica spremna za 15ak minuta, ljubitelji reeses čokoladica uzivaćete!
 Čokoladno & hrskavo, a evo i šta vam je potrebno od sastojaka:
@@ -8200,10 +8018,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c475z77m698"></a>
+<a id="waffle-4"></a>
 ### Waffle
 
-*2024-03-25 · Doručak · reel · [Instagram post](https://www.instagram.com/p/C475Z77M698/)*
+*2024-03-25 · Doručak · reel · [Instagram post](https://www.instagram.com/p/C475Z77M698/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle-4/*
 
 Provereno dobar recept za waffle je uvek moj izbor kada želim finu užinu, ali vrlo lako, uz malo mašte od toga pripremim i divan dezert. U @lidlsrbija su trenutno u ponudi aparati za waffle u prelepim pastelnim nijansama i to sa tri različite ploče za pripremu 😍
 
@@ -8234,10 +8052,10 @@ Prijatno 💓💓
 
 ---
 
-<a id="c43cuk4sqer"></a>
+<a id="stapici-sa-susamom-i-sirom-od-samo-4-sastojka"></a>
 ### Štapići sa susamom i sirom od samo 4 sastojka
 
-*2024-03-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/C43cUK4sQEr/)*
+*2024-03-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/C43cUK4sQEr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-susamom-i-sirom-od-samo-4-sastojka/*
 
 Jedna lagana & brzinska priprema doručka ili večere, a takvih ideja nikad dosta.
 
@@ -8262,10 +8080,10 @@ Uživajte!
 
 ---
 
-<a id="c4ngjalsols"></a>
+<a id="pizza-pita-iz-tiganja"></a>
 ### Pizza pita iz tiganja
 
-*2024-03-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C4nGjAlsols/)*
+*2024-03-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C4nGjAlsols/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pizza-pita-iz-tiganja/*
 
 Ovaj viralni video nije mogao da mi iskoči u
 boljem trenutku 😍 Da li ste ga vi isprobali?
@@ -8294,10 +8112,10 @@ Uživajte 😋😍
 
 ---
 
-<a id="c4q6xp3m_bk"></a>
+<a id="lekina-rodjendanska"></a>
 ### Lekina rodjendanska
 
-*2024-03-08 · Torte · reel · [Instagram post](https://www.instagram.com/p/C4Q6xp3M_bK/)*
+*2024-03-08 · Torte · reel · [Instagram post](https://www.instagram.com/p/C4Q6xp3M_bK/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lekina-rodjendanska/*
 
 **Sastojci**
 
@@ -8356,10 +8174,10 @@ Uživajte 🌸
 
 ---
 
-<a id="c34u8b4stla"></a>
+<a id="moja-rodjendanska"></a>
 ### Moja rodjendanska
 
-*2024-02-28 · Torte · reel · [Instagram post](https://www.instagram.com/p/C34u8b4sTLA/)*
+*2024-02-28 · Torte · reel · [Instagram post](https://www.instagram.com/p/C34u8b4sTLA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/moja-rodjendanska/*
 
 Uzivaćete u ukusu ove tortice, to mogu da vam obećam, pa jedva čekam prve utiske 🥰🥰
 
@@ -8403,10 +8221,10 @@ Prijatno! 💓
 
 ---
 
-<a id="c3urosus8-y"></a>
+<a id="piskota-kolac-bela-cokolada-jagode"></a>
 ### Piškota kolač bela čokolada & jagode
 
-*2024-02-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C3urosUs8-y/)*
+*2024-02-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C3urosUs8-y/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piskota-kolac-bela-cokolada-jagode/*
 
 Da razvedrimo malko oblake i prizovemo proleće 😍😍
 
@@ -8451,10 +8269,10 @@ Uživajte i javite utiske 🍓❤️
 
 ---
 
-<a id="c3klgfwm0mf"></a>
+<a id="lisnata-srculenca"></a>
 ### Lisnata srculenca
 
-*2024-02-10 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C3KLGfwM0MF/)*
+*2024-02-10 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C3KLGfwM0MF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lisnata-srculenca/*
 
 višnja & čokolada ❤️❤️❤️
 
@@ -8498,10 +8316,10 @@ Uživajte u vikendu ❤️
 
 ---
 
-<a id="c3civaqsrka"></a>
+<a id="milka-srculenca-2"></a>
 ### Milka srculenca
 
-*2024-02-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C3CiVaQsrKa/)*
+*2024-02-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C3CiVaQsrKa/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/milka-srculenca-2/*
 
 Idealan tajming za ove ljubavne kolačiće, slažete li se..? 😍😍😍 Preukusna ❤️, izgledom neodoljiva, kako se vama čine..?
 
@@ -8530,10 +8348,10 @@ Ko ih sprema ovog vikenda? 🫶🏼
 
 ---
 
-<a id="c20nnmrm823"></a>
+<a id="curosi"></a>
 ### Ćurosi
 
-*2024-02-01 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C20NNMrM823/)*
+*2024-02-01 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/C20NNMrM823/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/curosi/*
 
 Ukoliko ih do sad niste pripremali, kroz video ćete ispratiti koliko je lako, a kad ih smažete javite koliko vam se dopadaju 😍
 
@@ -8564,10 +8382,10 @@ Kako vam se čini..? 😋😋😋
 
 ---
 
-<a id="c2huihksysc"></a>
+<a id="coko-lesnik-tart-2"></a>
 ### Čoko lešnik tart
 
-*2024-01-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C2hUihksysc/)*
+*2024-01-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C2hUihksysc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-lesnik-tart-2/*
 
 Ljubitelji kremastih čokoladnih zalogaja protkanih hrskavim pečenim lešnicima, ovo je tart za vas!!!
 Eksplozija ukusa, savršen čokoladni užitak, verujte mi na reč ☺️
@@ -8604,10 +8422,10 @@ Prijatno 🌸
 
 ---
 
-<a id="c2nywn8mb7e"></a>
+<a id="savrseni-brusketi-3"></a>
 ### Savršeni brusketi
 
-*2024-01-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/C2NYWn8Mb7e/)*
+*2024-01-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/C2NYWn8Mb7e/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/savrseni-brusketi-3/*
 
 Uh.. 🤤
 Ovo je jedan od onih recepata koji sam preuzela od sestre, više i ne pamtim pre koliko godina, znam samo da su večno bili glavni na svim mogućim okupljanjima sa prijateljima, da su ih sve drugarice prepisivale u svesku i da se još nije pojavio neko ko ih ne voli 🥰
@@ -8636,10 +8454,10 @@ Jedva čekam  vaše utiske 🥰🥰🥰
 
 ---
 
-<a id="c2f2uvosamg"></a>
+<a id="coko-visnja-kolac"></a>
 ### Čoko višnja kolač
 
-*2024-01-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C2F2Uvosamg/)*
+*2024-01-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C2F2Uvosamg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-visnja-kolac/*
 
 Ukoliko volite kombinaciju čokolade i višnje evo jedne fine ideje za kolačić da ušuškate možda već sledeći vikend 😍
 
@@ -8684,10 +8502,10 @@ Uživajte ✨
 
 ---
 
-<a id="c12jpgnmvek"></a>
+<a id="topla-cokolada"></a>
 ### Topla čokolada
 
-*2024-01-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C12JPGnMVek/)*
+*2024-01-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C12JPGnMVek/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/topla-cokolada/*
 
 Sneg bez tople čokolade, nikako ❄️🥰
 Ovo je recept za onu pravu, potpuno kreeemastu, taman gustu, ma, savršenu.
@@ -8719,10 +8537,10 @@ Ja sam dobila 4 čaše, ali mislim da je svaka za deljenje 🥰❤️💫
 
 ---
 
-<a id="c1u64dpm8mp"></a>
+<a id="posne-plazma-pomorandza-bombonjerice"></a>
 ### Posne plazma pomorandza bombonjerice
 
-*2024-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C1u64DPM8mp/)*
+*2024-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C1u64DPM8mp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posne-plazma-pomorandza-bombonjerice/*
 
 **Sastojci**
 
@@ -8747,10 +8565,10 @@ Uživajte 🥂
 
 ---
 
-<a id="c1rmdvgm5wa"></a>
+<a id="piletina-i-krompirici-iz-rerne"></a>
 ### Piletina i krompirići iz rerne
 
-*2024-01-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/C1rMdVGM5Wa/)*
+*2024-01-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/C1rMdVGM5Wa/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piletina-i-krompirici-iz-rerne/*
 
 Jedna od onih ideja za ručak  koja je lagana za pripremu, a koju ukućani vole i rado ručakaju.
 Način pripreme i začini daju divnu aromu i sočnost, pa ovaj recept obavezno na save - kada ponestane ideja ovo je ono što sigurno prolazi 😍
@@ -8784,10 +8602,10 @@ Uživajte ❤️
 
 ---
 
-<a id="c1sylodmhv0"></a>
+<a id="kinder-bueno-keks-tortica"></a>
 ### Kinder bueno keks tortica
 
-*2023-12-25 · Torte · reel · [Instagram post](https://www.instagram.com/p/C1SYLoDMhv0/)*
+*2023-12-25 · Torte · reel · [Instagram post](https://www.instagram.com/p/C1SYLoDMhv0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-keks-tortica/*
 
 Izuzetno lagana priprema, a bogatstvo ukusa, ovo će biti idealan predlog za prazničnu pripremu pogotovo ukoliko ste u žurbi a volite kremaste zalogaje ❤️
 
@@ -8822,10 +8640,10 @@ Uživajte ❤️
 
 ---
 
-<a id="c1jvx0lmnrw"></a>
+<a id="bozanstvene-kinder-kockice-koje-se-tope-u-ustima-2"></a>
 ### Božanstvene kinder kockice koje se tope u ustima
 
-*2023-12-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C1Jvx0LMnRW/)*
+*2023-12-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C1Jvx0LMnRW/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bozanstvene-kinder-kockice-koje-se-tope-u-ustima-2/*
 
 Božanstvene kinder kockice koje se tope u ustima, predivnog ukusa koje su idealan kremasti dezert, spremne za čas, bez pečenja 💓
 
@@ -8870,10 +8688,10 @@ Jedva čekam da isprobate 😍
 
 ---
 
-<a id="c05932cmqqb"></a>
+<a id="zajedno-rastemo"></a>
 ### Zajedno rastemo
 
-*2023-12-16 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C05932CMqQb/)*
+*2023-12-16 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/C05932CMqQb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zajedno-rastemo/*
 
 HVALA vam na podršci ljudi moji dragi, ova slatka poslastica je za vas! 🍰✨
 200.000 duša je tu i zahvalna sam vam na svoj ljubavi koju ste bili spremni da nesebično pružite! 🫶🏼🫶🏼🫶🏼
@@ -8917,10 +8735,10 @@ Uživajte u vikendu! ✨
 
 ---
 
-<a id="c01w51bs1hz"></a>
+<a id="poseban-je-uzitak-biti-okruzen-dragim-ljudima-za-vreme-pr"></a>
 ### Poseban je užitak biti okružen dragim ljudima za vreme pr…
 
-*2023-12-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/C01W51bs1hz/)*
+*2023-12-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/C01W51bs1hz/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/poseban-je-uzitak-biti-okruzen-dragim-ljudima-za-vreme-pr/*
 
 Poseban je užitak biti okružen dragim ljudima za vreme praznika 🎄✨
 Za mene, magija je u deljenju ukusnih zalogaja sa onima koje volimo, a sve je potaman kada se deli uz čašu osvežavajuće Coca-Cole ❤️
@@ -8959,10 +8777,10 @@ Uživajte u svakom od ovih trenutaka, jer svaki je neprocenjiv 🥂✨
 
 ---
 
-<a id="c0yymyms6-d"></a>
+<a id="zimska-jaffa-tortica"></a>
 ### Zimska jaffa tortica
 
-*2023-12-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/C0yymyMs6-D/)*
+*2023-12-13 · Torte · reel · [Instagram post](https://www.instagram.com/p/C0yymyMs6-D/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zimska-jaffa-tortica/*
 
 Posebno fina, izdašna tortica koja će, sigurna sam biti sjajan izbor i za praznična okupljanja.
 Tortica se ne peče, kremasta je i bogatog ukusa, a evo i recepta:
@@ -9007,10 +8825,10 @@ Predivna je, a jedva čekam i vaše utiske 🫶🏼
 
 ---
 
-<a id="c0gn7zhm-nz"></a>
+<a id="piletina-sa-mlincima"></a>
 ### Piletina sa mlincima
 
-*2023-12-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/C0gn7ZhM-NZ/)*
+*2023-12-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/C0gn7ZhM-NZ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piletina-sa-mlincima/*
 
 Jedno od onih jela koje je vrlo lagano za pripremu, kremasto i sočno, a  koje svi u kući volimo 😍
 
@@ -9040,10 +8858,10 @@ Uživajte! 🥰
 
 ---
 
-<a id="c0dqf94m5jz"></a>
+<a id="medenjaci-2"></a>
 ### Medenjaci
 
-*2023-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C0dqF94M5jz/)*
+*2023-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C0dqF94M5jz/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/medenjaci-2/*
 
 Medenjaci kao neizostavni slatkiš hladnih jesenjih i zimskih dana 🍯
 Ne znam kakva je situacija kod vas ali moja dečica ih obožavaju.. A da se ne lažemo volimo ih i mi veliki,obožavam i pripremu, pa tek onaj miris koji se širi kućom.. 🏡🎄❤️
@@ -9083,10 +8901,10 @@ Nadam se da ćete ih isprobati ❤️
 
 ---
 
-<a id="c0rnin9s50_"></a>
+<a id="badem-puter-keksici"></a>
 ### Badem puter keksići
 
-*2023-11-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C0RNiN9s50_/)*
+*2023-11-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/C0RNiN9s50_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/badem-puter-keksici/*
 
 Sveže i hladno vreme napolju prosto priziva neke lepe pripreme. Vreme kada se rerna pali i kada se kuća najlepše razmiriše.
 A i kako bi drugačije uz puter, badem i neki fin kremić 🥰🥰
@@ -9124,10 +8942,10 @@ Nadam se da će vam razvedriti dan 🍪
 
 ---
 
-<a id="czwb3hxsdpx"></a>
+<a id="zrna-kafe-2"></a>
 ### Zrna kafe
 
-*2023-11-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czwb3HXsDPx/)*
+*2023-11-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czwb3HXsDPx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zrna-kafe-2/*
 
 I imamo li ovde ljubitelja kafeeee…? 😍😍😍
 
@@ -9160,10 +8978,10 @@ Ukoliko spremate posne koristite margarin i crnu čokoladu 🤎
 
 ---
 
-<a id="czqo_hwmulg"></a>
+<a id="brza-pita-sa-jabukama"></a>
 ### Brza pita sa jabukama
 
-*2023-11-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czqo_HWMUlg/)*
+*2023-11-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czqo_HWMUlg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brza-pita-sa-jabukama/*
 
 Svima nam je povremeno potrebna brzinska priprema, a ukusno jelo 😍
 Ova pita sa jabukama je toliko ukusna i lepa, nadev je sočan i preukusan, a testo ne morate uvek vi mesiti 🤗
@@ -9197,10 +9015,10 @@ Uživajte!
 
 ---
 
-<a id="czidi4es6xt"></a>
+<a id="lesnik-gnezda"></a>
 ### Lešnik gnezda
 
-*2023-11-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czidi4Es6Xt/)*
+*2023-11-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Czidi4Es6Xt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lesnik-gnezda/*
 
 Sezona slava nam dolazi, a odmah iza toga i najlepši praznici koji zaslužuju sitne preukusne domaće kolače. Nama jedan od omiljenih su lešnik gnezda i današ vam ostavljam postupak pripreme 🥰
 Zgodno je što sastojke možete prilagoditi ako su vam potrebni u posnoj varijantu, pa tako puter zamenite margarinom i vodite računa da koristite crnu čokoladu i posni keks. Sve mere ostaju iste 🤎
@@ -9231,10 +9049,10 @@ Od ove smese dobila sam 35 kolačica, pa ako je za veća slavlja, odmah dupla me
 
 ---
 
-<a id="czbngqbi7dj"></a>
+<a id="kokos-malinica"></a>
 ### Kokos malinica
 
-*2023-11-09 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CzbngQbI7DJ/)*
+*2023-11-09 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CzbngQbI7DJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kokos-malinica/*
 
 Kombinacija neodoljivog kokos krema i svežih malina u kremastom filu na podlozi od keksa.
 Kako vam to zvuči..? 😍😍😍
@@ -9273,10 +9091,10 @@ Dekorišete po ukusu i uživajte u ovim kremastim i sočnim zalogajima 😍😍�
 
 ---
 
-<a id="czbsub0sfo9"></a>
+<a id="malina-korpice-u-mlecnoj-cokoladi"></a>
 ### Malina korpice u mlečnoj čokoladi
 
-*2023-10-30 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CzBSuB0sfo9/)*
+*2023-10-30 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CzBSuB0sfo9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/malina-korpice-u-mlecnoj-cokoladi/*
 
 Ove čarobne korpice spajaju osvežavajuću notu sočnih malina sa slatkoćom kremaste mlečne čokolade. Priprema je jednostavna, a rezultat će vas oduševiti 🥰🥰
 
@@ -9303,10 +9121,10 @@ Dobijate preslatke korpice koje su preukusan dezert.
 
 ---
 
-<a id="cy3kf4vmvir"></a>
+<a id="badem-praline"></a>
 ### Badem praline
 
-*2023-10-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cy3kF4vMVIr/)*
+*2023-10-26 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cy3kF4vMVIr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/badem-praline/*
 
 Obrni, okreni, kod kuće je najlepše. Domaće je domaće. Pa kada god mogu trudim se da tako i bude🥰
 Sezona slava je pred nama, a onda nam stižu i najlepši praznici, obavezno neka vam se i ovaj kolačić nadje na spisku za pripremu 🫶🏼
@@ -9340,10 +9158,10 @@ Kako vam se čini..?
 
 ---
 
-<a id="cyx266tmro7"></a>
+<a id="paradajz-potaz"></a>
 ### Paradajz potaž
 
-*2023-10-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cyx266TMRo7/)*
+*2023-10-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cyx266TMRo7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/paradajz-potaz/*
 
 Kroz ovaj recept vam donosim način kako da pripremite potaž koja će vas zagrejati i osvežiti, bez obzira na trenutno vreme napolju. Spremite se da uživate u jednostavnom, ali apsolutno divnom paradajz potažu koji će vas zadovoljiti tokom cele godine 🥰
 
@@ -9379,10 +9197,10 @@ Uživajte 🍅
 
 ---
 
-<a id="cytbmmks57q"></a>
+<a id="pistac-dezert-u-casi"></a>
 ### Pistać dezert u čaši
 
-*2023-10-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CytbmMKs57Q/)*
+*2023-10-22 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CytbmMKs57Q/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistac-dezert-u-casi/*
 
 Da završimo ovu nedelju slatko, jedan potpuno bombastičan dezert u čaši 😍
 Sprema se za 15 minuta, a obogaćen je pistać kremom i komadićima pistaća - ne znam ko bi mu odoleo 🤗
@@ -9413,10 +9231,10 @@ Ima li ovde još ljubitelja poslastica sa pistaćima..? 🙌🏻
 
 ---
 
-<a id="cygkfskspog"></a>
+<a id="pasta-sa-piletinom-u-lesniku-3"></a>
 ### Pasta sa piletinom u lešniku
 
-*2023-10-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/CygkFsksPoG/)*
+*2023-10-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/CygkFsksPoG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pasta-sa-piletinom-u-lesniku-3/*
 
 **Sastojci**
 
@@ -9443,10 +9261,10 @@ Uživajte u isprobavanju i javite utiske 🤎
 
 ---
 
-<a id="cywqj02sudr"></a>
+<a id="kolac-koji-mirise-na-jesen"></a>
 ### Kolač koji miriše na jesen
 
-*2023-10-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CyWQJ02sudR/)*
+*2023-10-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CyWQJ02sudR/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-koji-mirise-na-jesen/*
 
 Lagani, biskvitni kolač sa jabukama, cimetom, savršenog ukusa u pravom jesenjem izdanju.
 A tek kako razmiriše kuću 🫶🏼
@@ -9495,10 +9313,10 @@ Sačuvajte, prosledite nekome i uživajte i vi ❤️
 
 ---
 
-<a id="cx50olysr6e"></a>
+<a id="brzi-jogurt-ustipci-3"></a>
 ### Brzi jogurt uštipci
 
-*2023-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cx50OLysr6E/)*
+*2023-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cx50OLysr6E/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzi-jogurt-ustipci-3/*
 
 Znam koliko volite ove prvenstveno jednostavne recepte od samo par sastojaka, još kad se spremaju jako brzo bez nekog čekanja, pun pogodak 👌🏼😍
 U @lidlsrbija su izloženi proizvodi žena preduzetnica pod sloganom “Hrabre, snažne, važne” a kada sam ugledala @zutilist džem od šipurka poželela sam da odmah pripremim upravo ove uštipke i isprobam u ovoj slatkoj varijanti 😍
@@ -9529,10 +9347,10 @@ Uživajte ❤️
 
 ---
 
-<a id="cxn1pwrm-ux"></a>
+<a id="nutella-banana-mafini"></a>
 ### Nutella & banana mafini
 
-*2023-09-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cxn1pwRM-UX/)*
+*2023-09-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cxn1pwRM-UX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-banana-mafini/*
 
 Danas sam isprobala jedan jako fin recept za mafine sa bananama, možete ih puniti nutelom ukoliko baš želite da se zasladite, ja sam ostavila nekoliko komada i bez i tako su jako fini 🥰
 
@@ -9558,10 +9376,10 @@ Nadam se da ćete isprobati, a ja čekam vaše utiske 🫶🏼
 
 ---
 
-<a id="cxz6sfvs0rt"></a>
+<a id="s-r-e-d-a"></a>
 ### S r e d a
 
-*2023-09-20 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CxZ6sFvs0Rt/)*
+*2023-09-20 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CxZ6sFvs0Rt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/s-r-e-d-a/*
 
 Evo jednog slatkog predloga za užinu koji će, sigurna sam, obradovati sve mališane 😍
 
@@ -9595,10 +9413,10 @@ Mekane su, vazdušaste i preuuukusne. Moja dečica ih često pojedu bez ikakvih 
 
 ---
 
-<a id="cxnvjqoskvt"></a>
+<a id="cokoladni-sufle"></a>
 ### Čokoladni sufle
 
-*2023-09-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CxNVJqOskVT/)*
+*2023-09-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CxNVJqOskVT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladni-sufle/*
 
 Danas pripremam savršen čokoladni sufle kome retko ko može ostati ravnodušan. 😍
 Služi se topao uz sladoled od vanile i crveno voće, a vreme pečenja možete iskoristiti da se rešite prljavih sudova nastalih prilikom pripreme.
@@ -9631,10 +9449,10 @@ Uživajte ❤️
 
 ---
 
-<a id="cxiln11mwm4"></a>
+<a id="socni-breskva-kolac"></a>
 ### Sočni breskva kolač
 
-*2023-09-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CxILn11MwM4/)*
+*2023-09-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CxILn11MwM4/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-breskva-kolac/*
 
 Potpuno lagan, sočan kolač sa breskvama, koji će vas oduševiti i ukusom i lakoćom pripreme 😍
 
@@ -9670,10 +9488,10 @@ Oduševiće vas 🍑🫶🏼
 
 ---
 
-<a id="cxdqqgsopje"></a>
+<a id="domaci-hleb"></a>
 ### Domaći hleb
 
-*2023-09-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CxDqQGSopJE/)*
+*2023-09-11 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CxDqQGSopJE/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-hleb/*
 
 Ako nešto može da me u sekundi vrati u uspomene, da oživi momente, to je miris domaćeg pečenog hleba ❤️
 Danas sam svratila do @lidlsrbija jer u ponudi imaju fenomenalno posudje od livenog gvožđa i prvo što sam zamislila u ovom pekaču je upravo hleb 🤗
@@ -9705,10 +9523,10 @@ Uživajte 🫶🏼
 
 ---
 
-<a id="cw0zykyi4fo"></a>
+<a id="kremasta-oreo-tortica"></a>
 ### Kremasta OREO tortica
 
-*2023-09-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cw0ZykYI4FO/)*
+*2023-09-05 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cw0ZykYI4FO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kremasta-oreo-tortica/*
 
 Ljubitelji Oreo keksa ima li vas..? ☺️
 Sada već po tradiciji svom bratu za divan dan spremam torticu 😍😍
@@ -9748,10 +9566,10 @@ Prijatno ❤️
 
 ---
 
-<a id="cwwxcthsclk"></a>
+<a id="mini-topli-sendvici-zapeceni-u-rerni"></a>
 ### Mini topli sendviči zapečeni u rerni
 
-*2023-09-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CwwxCThsclK/)*
+*2023-09-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CwwxCThsclK/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mini-topli-sendvici-zapeceni-u-rerni/*
 
 Znam da volite da ispratite predloge za užinice koje pakujem Leni, pa evo jednog jako ukusnog koji može da posluži i kao ideja za doručak za celu porodicu 😍
 
@@ -9777,10 +9595,10 @@ Kako vam se čini i da li želite da povremeno ostavljam predloge ovog tipa i u 
 
 ---
 
-<a id="cwp7mz5mns8"></a>
+<a id="nova-dizni-avantura-je-tu"></a>
 ### Nova Dizni avantura je tu
 
-*2023-09-01 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/Cwp7Mz5MNs8/)*
+*2023-09-01 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/Cwp7Mz5MNs8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nova-dizni-avantura-je-tu/*
 
 Neodoljiva ponuda u @lidlsrbija kojom će se mališani oduševiti 😍😍😍
 Sigurna sam da će uživati koliko u procesu prikupljanja novih Dizni Stacks figurica toliko i u igrama i zanimljivim izazovima koje nude 🥰
@@ -9802,10 +9620,10 @@ Uživajte ❤️
 
 ---
 
-<a id="cwnbcznslxf"></a>
+<a id="tart-bela-cokolada-crveno-voce"></a>
 ### Tart bela čokolada & crveno voće
 
-*2023-08-31 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CwnbcZnsLXF/)*
+*2023-08-31 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CwnbcZnsLXF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-bela-cokolada-crveno-voce/*
 
 U susret 1. septembru, slatko da ne može slađe.
 Sjajna kombinacija crvenog voća i bele čokolade na podlozi od plazme i putera 😍
@@ -9856,10 +9674,10 @@ Toliko se brzo priprema, a zaista je i ova kombinacija opravdala moja očekivanj
 
 ---
 
-<a id="cwc0qshm5aa"></a>
+<a id="pilece-cuftice-u-sosu-od-pecuraka-posluzene-na-pireu"></a>
 ### Pileće ćuftice u sosu od pečuraka poslužene na pireu
 
-*2023-08-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/CwC0qShM5aA/)*
+*2023-08-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/CwC0qShM5aA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pilece-cuftice-u-sosu-od-pecuraka-posluzene-na-pireu/*
 
 Imam sjajan predlog za ručak:
 
@@ -9903,10 +9721,10 @@ Prijatno!
 
 ---
 
-<a id="cv7t3dxa2rj"></a>
+<a id="rolovane-tikvice-u-prezlama-i-parmezanu-punjene-prsutom-i"></a>
 ### Rolovane tikvice u prezlama i parmezanu punjene pršutom i…
 
-*2023-08-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cv7t3DxA2RJ/)*
+*2023-08-14 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cv7t3DxA2RJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rolovane-tikvice-u-prezlama-i-parmezanu-punjene-prsutom-i/*
 
 Rolovane tikvice u prezlama i parmezanu punjene pršutom i kačkavaljem 🥒🥓🧀
 
@@ -9936,10 +9754,10 @@ Javite mi vaše utiske 🫶🏼
 
 ---
 
-<a id="cvui3flgcb0"></a>
+<a id="domaci-sendvic-sladoled"></a>
 ### Domaći sendvič sladoled
 
-*2023-08-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/CvuI3fLgcB0/)*
+*2023-08-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/CvuI3fLgcB0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-sendvic-sladoled/*
 
 Preukusan sladoled sa više puta oprobanom kombinacijom mascarpone sira, slatke pavlake i zaslađenog kondenzovanog mleka kao osnove.
 Idealan i tek tako pripremljen, a zamislite kad mu još dodate omiljen krem ili koju voćkicu 😍😍😍
@@ -9968,10 +9786,10 @@ Ukus je božanstven, jedva čekam vaše utiske 🫶🏼
 
 ---
 
-<a id="cvkkrk1gokz"></a>
+<a id="puter-kajzerice-sa-belim-lukom-3"></a>
 ### Puter kajzerice sa belim lukom
 
-*2023-08-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/CvkkRk1gOKZ/)*
+*2023-08-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/CvkkRk1gOKZ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-kajzerice-sa-belim-lukom-3/*
 
 Idealan recept za sveže nedeljno jutro kakvo nam najavljuju. 😍
 Kajzerice su diiivne i same po sebi, za neke fine homemade sendviče, ali i kao dodatak uz neku čorbicu koju volite 🥰
@@ -10009,10 +9827,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cvx5vusgdwd"></a>
+<a id="reforma-torta"></a>
 ### Reforma torta
 
-*2023-07-31 · Torte · reel · [Instagram post](https://www.instagram.com/p/CvX5vusgdwd/)*
+*2023-07-31 · Torte · reel · [Instagram post](https://www.instagram.com/p/CvX5vusgdwd/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/reforma-torta/*
 
 Kraljica torta, bukvalno. 🙌🏻
 Ovaj fil kuvan na pari, meni je ovo neodoljivo. Iako nisam tip koji voli orahe, ovde ih ne osećam u tom smislu i ova torta mi je asocijacija dečije rodjendane iz perioda kad smo mi bili mali.
@@ -10063,10 +9881,10 @@ Ako želite ispisaću vam i kako sam ja to uradila 😍
 
 ---
 
-<a id="cu7fruyand3"></a>
+<a id="sladoled-kolac-sa-malinama-i-belom-cokoladom"></a>
 ### Sladoled kolač sa malinama i belom čokoladom
 
-*2023-07-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cu7fRuyAND3/)*
+*2023-07-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cu7fRuyAND3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sladoled-kolac-sa-malinama-i-belom-cokoladom/*
 
 Ljudi moji, ovo je tako moćno i ukusno, predobar spoj mascarpone sira, zaslađenog kondenzovanog mleka i slatke pavlake - prelepa svilenkasta smesa koja se topi u ustima 😍
 Uz dodatak piškota, malina i bele čokolade, puuun pogodak ako mene pitate 🙌🏻🙌🏻
@@ -10106,10 +9924,10 @@ Jedva ćekam utiske!
 
 ---
 
-<a id="cupen8oaapj"></a>
+<a id="pileci-stapici-u-mrvljenom-lesniku-2"></a>
 ### Pileći štapici u mrvljenom lešniku
 
-*2023-07-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CupeN8OAapj/)*
+*2023-07-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CupeN8OAapj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pileci-stapici-u-mrvljenom-lesniku-2/*
 
 **Sastojci**
 
@@ -10147,10 +9965,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cuaekxlazo0"></a>
+<a id="ledeni-letnji-malina-latte"></a>
 ### Ledeni letnji malina latte
 
-*2023-06-27 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/CuAEkXlAZO0/)*
+*2023-06-27 · Ostalo · reel · [Instagram post](https://www.instagram.com/p/CuAEkXlAZO0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ledeni-letnji-malina-latte/*
 
 Ukoliko ste za kafu na malo drugačiji način, izaberite što zrelije maline i isprobajte ovu neobičnu kombinaciju, ja nisam odolela.. 😍
 
@@ -10172,10 +9990,10 @@ Da li biste isprobali ili preskočili..?
 
 ---
 
-<a id="ct7gacaa8yl"></a>
+<a id="heljdopita"></a>
 ### Heljdopita
 
-*2023-06-25 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Ct7GAcaA8Yl/)*
+*2023-06-25 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Ct7GAcaA8Yl/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/heljdopita/*
 
 Mama nam je toliko često spremala, toliko puta nas dočekala sa ovom pitom, da sam prosto morala da je spremim da mi zamiriše kuća.
 Specijalitet iz kraja u kom je odrastala, deluje kao da je svako okupljanje počinjalo upravo sa njom i tanjirom suhomesnatog na stolu.
@@ -10213,10 +10031,10 @@ Nadam se da ćete isprobati ako već niste, a ja jedva čekam utiske ❤️
 
 ---
 
-<a id="ctyftzwgvnt"></a>
+<a id="cizkejk-od-borovnica-i-bele-cokolade"></a>
 ### Čizkejk od borovnica i bele čokolade
 
-*2023-06-22 · Torte · reel · [Instagram post](https://www.instagram.com/p/CtyfTZwgvNt/)*
+*2023-06-22 · Torte · reel · [Instagram post](https://www.instagram.com/p/CtyfTZwgvNt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cizkejk-od-borovnica-i-bele-cokolade/*
 
 Nepečeni čizkejk, poslužen u čaše, u kombinaciji borovnica i bele čokolade - kremasto, osvežavajuće, prelepo i lagano, ma pravo letnje osveženje 😍😍
 Po materijale sam skoknula do @lidlsrbija po staroj dobroj navici, a vama ostavljam recept i jedva čekam utiske:
@@ -10255,10 +10073,10 @@ Prijatno!
 
 ---
 
-<a id="ctunwjegket"></a>
+<a id="nutella-m-m-s-cookies-3"></a>
 ### Nutella M&M’s COOKIES
 
-*2023-06-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CtuNWJEgKEt/)*
+*2023-06-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CtuNWJEgKEt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-m-m-s-cookies-3/*
 
 Da li ste spremni za najobožavanije kukize u našoj porodici..? 🥰🥰
 Kod nas se sprema maltene za svaki rodjendan, praznik, dogadjaj. Ma za bilo koji povod za radost. Ili onda kada samo želimo da prizovemo radost 🥰
@@ -10292,10 +10110,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ctpg9_ognti"></a>
+<a id="pizza-stapici-spremni-za-cas"></a>
 ### Pizza štapići spremni za čas
 
-*2023-06-18 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CtpG9_OgNtI/)*
+*2023-06-18 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CtpG9_OgNtI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pizza-stapici-spremni-za-cas/*
 
 Idealan recept ako se može tako i nazvati za ona jutra posle neprospavanih noći, kada vam je potrebno nešto na brzinu i bez čekanja ❤️
 
@@ -10318,10 +10136,10 @@ Ko sprema..? 🍕🥰
 
 ---
 
-<a id="ctgabs1ay8i"></a>
+<a id="kremasta-salata-sa-curetinom-u-lisnatim-korpicama"></a>
 ### Kremasta salata sa ćuretinom u lisnatim korpicama
 
-*2023-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/CtgaBs1AY8I/)*
+*2023-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/CtgaBs1AY8I/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kremasta-salata-sa-curetinom-u-lisnatim-korpicama/*
 
 Sa toplijim vremenom mi sve više prija laganija hrana, a ova salatica je pun pogodak 😍
 Kremasta i lagana, a ovako poslužena u korpice idealna i za neke lepe proslave.
@@ -10352,10 +10170,10 @@ Ukus je fenomenalan, jedva čekam da isprobate i javite mi utiske,
 
 ---
 
-<a id="ctzwjcdadky"></a>
+<a id="danas-sam-decicu-iz-skole-i-vrtica-docekala-sa-onim-najje"></a>
 ### Danas sam dečicu iz škole i vrtića dočekala sa onim najje…
 
-*2023-06-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CtZwjcdAdkY/)*
+*2023-06-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CtZwjcdAdkY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/danas-sam-decicu-iz-skole-i-vrtica-docekala-sa-onim-najje/*
 
 Danas sam dečicu iz škole i vrtića dočekala sa onim najjednostavnijim mekanim voćnim kolačem čiji me je miris vratio u detinjstvo, a sigurna sam da će i mnoge od vas..🤍
 Toliko je divan da je Leka odmah zamolila da joj ostavim bar neko parčence za sutra za užinu 🥹
@@ -10396,10 +10214,10 @@ Nadam se da ćete ga isprobati i jedva čekam vaše utiske. 🥰
 
 ---
 
-<a id="csvuuwkgpdt"></a>
+<a id="piskota-kolac-sa-jagodama-belom-cokoladom"></a>
 ### Piškota kolač sa jagodama & belom čokoladom
 
-*2023-05-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CsvUuwkgPDT/)*
+*2023-05-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CsvUuwkgPDT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piskota-kolac-sa-jagodama-belom-cokoladom/*
 
 Kremasto, lagano, preukusno, bukvalno vam dodje da jedete direktno iz činije 😍😍
 A svakom uspeva 🥰
@@ -10427,10 +10245,10 @@ Uživajte u vikendu i sitnim radostima 🌸
 
 ---
 
-<a id="csizggagtpt"></a>
+<a id="strawberry-mohito"></a>
 ### Strawberry mohito
 
-*2023-05-22 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CsizGgagTPT/)*
+*2023-05-22 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CsizGgagTPT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/strawberry-mohito/*
 
 Što se mene tiče, spremno dočekujem tople dane pred nama 🍹🍹😍
 Danas sam u @lidlsrbija pronašla aparat za mrvljenje leda 🥰🥰🥰
@@ -10453,10 +10271,10 @@ Uživajte 💕💕
 
 ---
 
-<a id="csehjdlakyo"></a>
+<a id="krofnice-iz-rerne"></a>
 ### Krofnice iz rerne
 
-*2023-05-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CsehJdlAkYo/)*
+*2023-05-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CsehJdlAkYo/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofnice-iz-rerne/*
 
 Ovog puta vam ostavljam jedan sjajan recept za krofnice onda kada nemate vremena za čekanje da testo naraste. Sjajna stvar je što se ne prže u ulju već možete da ih pripremate u rerni u kalupu za krofne ili u aparatu za krofnice, šta god da vam je zgodnije ☺️☺️☺️
 
@@ -10491,10 +10309,10 @@ Uživajte u slatkim zalogajima 💓
 
 ---
 
-<a id="csn1_ivaivc"></a>
+<a id="klasicni-waffle"></a>
 ### Klasični waffle
 
-*2023-05-14 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CsN1_iVAivc/)*
+*2023-05-14 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CsN1_iVAivc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/klasicni-waffle/*
 
 **Sastojci**
 
@@ -10522,10 +10340,10 @@ Prijatno 💓💓
 
 ---
 
-<a id="csespv3anbw"></a>
+<a id="jagodica-tortica"></a>
 ### Jagodica tortica
 
-*2023-05-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/CsEsPv3ANBW/)*
+*2023-05-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/CsEsPv3ANBW/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagodica-tortica/*
 
 **Sastojci**
 
@@ -10563,10 +10381,10 @@ Tortica se brzo spremi, još brže smaže, ovog puta sam poželela da podloga bu
 
 ---
 
-<a id="crjpv9bgjfg"></a>
+<a id="kinder-bueno-tart"></a>
 ### Kinder bueno tart
 
-*2023-04-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CrjPv9bgJfG/)*
+*2023-04-27 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CrjPv9bgJfG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-tart/*
 
 Znam koliko volite brzinske tartove, bez pečenja, a kada su sastojci kvalitetni i dobro ukombinovani onda ne izostaje oduševljenje i ljubav na prvi zalogaj. Ovaj je saaaavršen, pa da ne dužim,
 
@@ -10617,10 +10435,10 @@ Jeeeedva čekam utiske 💓💓💓
 
 ---
 
-<a id="croa4tygddi"></a>
+<a id="zapeceni-palacinka-paketici"></a>
 ### Zapečeni palačinka paketići
 
-*2023-04-19 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CrOa4TYgdDI/)*
+*2023-04-19 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CrOa4TYgdDI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zapeceni-palacinka-paketici/*
 
 Neodoljivo jelo koje možete servirati i kao ručak i kao večeru, na vama je izbor, a ono što zasigurno tvrdim je da će tražiti koju palačinku više 😍😍😍
 
@@ -10666,10 +10484,10 @@ Jedva čekam vaše utiske 💓
 
 ---
 
-<a id="cq_jsmtaky7"></a>
+<a id="bounty-cokoladice-3"></a>
 ### Bounty čokoladice
 
-*2023-04-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cq_JsMtAKY7/)*
+*2023-04-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cq_JsMtAKY7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bounty-cokoladice-3/*
 
 Ove čokoladice sam prvi put pravila da obradujem tatu , ali se ispostavilo da ih sada krijemo po kući kako bi ostale i za njega, jer ih svi obozavamo 🤗
 Posle hladjenja u frižideru, smesa se lepo stegne i dobra je za oblikovanje, tako da možete praviti bounty kuglice, čokoladice, a možete ih obući i u uskršnje odelo 🥚🤍
@@ -10697,10 +10515,10 @@ Uživajte 🌸
 
 ---
 
-<a id="cq8z2dvg_9f"></a>
+<a id="ostavljam-vam-proslogodisnji-snimak-za-postupak-i-nacin-n"></a>
 ### Ostavljam vam prošlogodišnji snimak za postupak i način n…
 
-*2023-04-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cq8Z2dVg_9F/)*
+*2023-04-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cq8Z2dVg_9F/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ostavljam-vam-proslogodisnji-snimak-za-postupak-i-nacin-n/*
 
 Ostavljam vam prošlogodišnji snimak za postupak i način na koji ja najviše volim da dekorišem uskršnja jaja 💓
 Ne zato što je ovo neka nauka ili nešto što možda mnogi od vas već uveliko ne primenjuju, već zato što mi je mnooogo lepih poruka pristiglo na ovu temu, zato što ste bili oduševljeni prošlogodišnjim i zato što se uvek vodim time da je možda nekome baš prva godina da će jaja farbati sam 😍
@@ -10730,10 +10548,10 @@ Uključite i decu i zajedno starajte uspomene 🌸
 
 ---
 
-<a id="cq3cugta5pj"></a>
+<a id="kalup-je-precnika-24-cm"></a>
 ### Kalup je prečnika 24 cm
 
-*2023-04-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cq3cUGtA5pJ/)*
+*2023-04-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cq3cUGtA5pJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kalup-je-precnika-24-cm/*
 
 Inspirisana novim frikom King sladoledom u ovoj kombinaciji ukusa - bela čokolada, pistać & crveno voće, nisam mogla da izdržim a da ne napravim neku svoju varijantu tarta 😍😍
 
@@ -10779,10 +10597,10 @@ Jedva čekam vaše utiske!
 
 ---
 
-<a id="cqukbbagpig"></a>
+<a id="cokoladna-ovsena-kasa-2"></a>
 ### Čokoladna ovsena kaša
 
-*2023-04-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CqukbbAgpig/)*
+*2023-04-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CqukbbAgpig/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladna-ovsena-kasa-2/*
 
 **Sastojci**
 
@@ -10811,10 +10629,10 @@ Prijatno 💓
 
 ---
 
-<a id="cqgy4hma5cy"></a>
+<a id="cannelloni-sa-junecim-mesom"></a>
 ### Cannelloni sa junećim mesom
 
-*2023-04-01 · Slano · reel · [Instagram post](https://www.instagram.com/p/CqgY4HMA5CY/)*
+*2023-04-01 · Slano · reel · [Instagram post](https://www.instagram.com/p/CqgY4HMA5CY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cannelloni-sa-junecim-mesom/*
 
 u bešamel sosu 🫕
 
@@ -10835,8 +10653,6 @@ Obavezno isprobajte da li je dovoljno začinjeno 🤗
 U šerpicu srednje veličine stavim oko 100 gr putera na potpuno tihu vatru kako bi se puter lagano istopio, zatim malko pojačam, pa dodam 50 gr mekog brašna, mešajući žicom. Žica lepo razbije sve grumuljice brašna, nastavljam da mešam sve do trenutka dok se ne pojavi pena, pa tada, i dalje mešajući dodam oko 700,800 ml mleka. Dodajem so i biber. Po ukusu dodajte i muskatni oraščić.
 Povremeno lagano mešam, kada se lepo ukuva i postane srednje gust, sklanjam serpicu sa vatre.
 
-Priprema:
-
 Dno posude na koju ću redjati cannellone pospem sa malo maslinovog ulja, premažem sa recimo dve, tri kašike bešamel sosa, pa poređam cannellone koje sam prethodno napunila prohlađenim bolonjez sosom.
 Preko cannellona pospite bešamel sos, a preko sosa nekih 250 gr rendanog mozzarella sora.
 Poklopljeno ili prekriveno folijom peći nekih 40ak minuta na 200C, pa otkrijte i zapecite još 10ak minuta.
@@ -10845,10 +10661,10 @@ Prijatno 🤍
 
 ---
 
-<a id="cqygks1gc5y"></a>
+<a id="dezert-u-casi"></a>
 ### Dezert u čaši
 
-*2023-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CqYgKs1gC5y/)*
+*2023-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CqYgKs1gC5y/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/dezert-u-casi/*
 
 Brzinska ideja kako osladiti dan i iznenaditi drage ljude 😍
 
@@ -10885,10 +10701,10 @@ Prijatno 🌸🌸
 
 ---
 
-<a id="cqlpmqbaeqg"></a>
+<a id="jagoda-mafini-2"></a>
 ### Jagoda mafini
 
-*2023-03-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CqLpMQbAEqg/)*
+*2023-03-24 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CqLpMQbAEqg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-mafini-2/*
 
 Obožavam jagode, obožavaaaam.. 😍Ne znam kakva je situacija kod vas, ali ja sam ih jedva dočekala 🥰🥰🥰
 Petak je i za danas jedan od onih recepata koji pripremimo za čas posla, smućkaj, prospi, rerna i okupite dečicu da se oslade za užinu ili recimo za vikend uživajte svi u ovim mekanim ušuškanim zalogajčićima ☺️
@@ -10932,10 +10748,10 @@ Uživajte u vikendu pred nama i javite mi utiske 💓
 
 ---
 
-<a id="cp9w0uxanh_"></a>
+<a id="darivanje"></a>
 ### DARIVANJE
 
-*2023-03-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Cp9w0UxANh_/)*
+*2023-03-19 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Cp9w0UxANh_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/darivanje/*
 
 Tortilja pizza zalogajčići 🍕😋
 
@@ -10970,10 +10786,10 @@ Srećno svima 🍀
 
 ---
 
-<a id="cplc-dygnua"></a>
+<a id="lenina-rodjendanska"></a>
 ### Lenina rođendanska
 
-*2023-03-09 · Torte · reel · [Instagram post](https://www.instagram.com/p/CplC-DygNUA/)*
+*2023-03-09 · Torte · reel · [Instagram post](https://www.instagram.com/p/CplC-DygNUA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lenina-rodjendanska/*
 
 Slavljenica je imala želju da joj mama napravi baš ovu torticu 😍
 Pečene lešnik korice, filovi od bele i mlečne čokolade, pa onda još hrskavog lešnika, maaa, milina… Sledi recept 😍
@@ -11036,10 +10852,10 @@ Prijatno 🌸🌸🌸
 
 ---
 
-<a id="cpf3ssagxo2"></a>
+<a id="da-li-ste-culi-da-je-u-toku-veeeeliko-plazma-zvanicna-pl"></a>
 ### Da li ste čuli da je u toku veeeeliko @plazma_zvanicna Pl…
 
-*2023-03-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cpf3SSagXo2/)*
+*2023-03-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cpf3SSagXo2/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/da-li-ste-culi-da-je-u-toku-veeeeliko-plazma-zvanicna-pl/*
 
 Da li ste čuli da je u toku veeeeliko @plazma_zvanicna Plazma Mlevena nagrađivanje..?
 
@@ -11079,10 +10895,10 @@ Pa, neka je sa srećom 🥂🥰
 
 ---
 
-<a id="cplqveugo1w"></a>
+<a id="trostruko-cokoladni-cheesecake"></a>
 ### Trostruko čokoladni cheesecake
 
-*2023-02-27 · Torte · reel · [Instagram post](https://www.instagram.com/p/CpLQvEUgo1W/)*
+*2023-02-27 · Torte · reel · [Instagram post](https://www.instagram.com/p/CpLQvEUgo1W/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/trostruko-cokoladni-cheesecake/*
 
 Rodjendanska, brzinska, bez pečenja jer sam je spremala u poslednji čas, zato prepuna čokolade uz dodatak svežih jagoda, meni dosta 😍😍
 
@@ -11120,10 +10936,10 @@ Ja sam dodala i sveže 🍓🍓🍓 preko 😍
 
 ---
 
-<a id="cpbctbjalq9"></a>
+<a id="pistac-tiramisu"></a>
 ### Pistać tiramisu
 
-*2023-02-23 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CpBCtBjAlq9/)*
+*2023-02-23 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CpBCtBjAlq9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistac-tiramisu/*
 
 Danima mi se jede ovaj kremasti spoj i ova rapsodija ukusa, morala sam da udovoljim sebi i da pripremim ovo čudo 😍😍
 Mislim da ćete se odušeeeeviti, zato sledi recept 😍
@@ -11144,7 +10960,6 @@ Mislim da ćete se odušeeeeviti, zato sledi recept 😍
 
 **Priprema**
 
-Priprema:
 Odvojiti žumanca u jednu staklenu posudu i tu dodati šećer, pa kuvati na pari sve do onog momenta dok se šećer potpuno ne rastopi u jajima i smesa ne postane kremkasta. Ostaviti na hladjenju. Za to vreme umutiti mascarpone sir, vrlo kratko mikserom i dodati mu 200 ml slatke, nemućene pavlake pa zajedno mutiti dok smesa ne očvrsne. U ovaj fil dodajemo potpuno prohladjena jaja kuvana na pari i mutimo mikserom sve do one savršene kreme kojoj dodajemo krem od pistaća i tu nastaje maaagija. Piškote umačemo u toplo mleko kome smo dodali Baileys ,poredjati ih po dnu posude, zatim premažemo polovinu fila. Opet redjamo sloj piškota i preko toga ostatak fila.
 Kolač ostaviti u frižider na hladjenje par sati ili tokom noći.
 
@@ -11155,10 +10970,10 @@ Prijatno 🌸
 
 ---
 
-<a id="coxo2lpgngs"></a>
+<a id="krem-corbica-sa-piletinom-i-povrcem-2"></a>
 ### Krem čorbica sa piletinom i povrćem
 
-*2023-02-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/Coxo2LPgngs/)*
+*2023-02-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/Coxo2LPgngs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krem-corbica-sa-piletinom-i-povrcem-2/*
 
 **Sastojci**
 
@@ -11189,10 +11004,10 @@ Prijatno 🌸
 
 ---
 
-<a id="coc8bhrgvpy"></a>
+<a id="mamina-strudla-crna-cokolada-visnje"></a>
 ### Mamina štrudla crna čokolada & višnje
 
-*2023-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Coc8bHrgvpy/)*
+*2023-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Coc8bHrgvpy/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mamina-strudla-crna-cokolada-visnje/*
 
 **Sastojci**
 
@@ -11227,10 +11042,10 @@ Ooobavezno mi javite utiske 💓💓💓
 
 ---
 
-<a id="cow6vcgaqaj"></a>
+<a id="omiljeni-jutarnji-ritual-u-nasoj-kuci-je-upravo-pravljenj"></a>
 ### Omiljeni jutarnji ritual u našoj kući je upravo pravljenj…
 
-*2023-02-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CoW6VcGAQaj/)*
+*2023-02-07 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CoW6VcGAQaj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/omiljeni-jutarnji-ritual-u-nasoj-kuci-je-upravo-pravljenj/*
 
 Omiljeni jutarnji ritual u našoj kući je upravo pravljenje palačinaka za doručak, obavezne su bar jednom nedeljno i to je vreme u kome svi uživamo, svi su uključeni u pripremu, zajedno ih kremkamo, a kućom se samo šire osmesi! 😍
 
@@ -11266,10 +11081,10 @@ Srećno 🫶🏼
 
 ---
 
-<a id="coucigfa7m7"></a>
+<a id="uzivanje-u-dorucku-je-duplo-vece-onda-kada-je-neko-drugi"></a>
 ### Uživanje u doručku je duplo veće onda kada je neko drugi…
 
-*2023-02-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CoUciGfA7M7/)*
+*2023-02-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CoUciGfA7M7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uzivanje-u-dorucku-je-duplo-vece-onda-kada-je-neko-drugi/*
 
 Uživanje u doručku je duplo veće onda kada je neko drugi za vas fino naseckao suhomesnate proizvode koji se savršeno slažu uz proju 😍
 U @lidlsrbija stigli su Pikok Pure mesni proizvodi koji ne sadrže pojačivače ukusa, konzervanse, ali ni aditive ni veštačke boje kako bi ukus ostao na vrhunskom nivou.
@@ -11305,10 +11120,10 @@ Prijatno 🌸
 
 ---
 
-<a id="coqc3wyanba"></a>
+<a id="zapecene-cuftice-na-pireu-u-paradajz-sosu"></a>
 ### Zapečene ćuftice na pireu u paradajz sosu
 
-*2023-02-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CoQC3wYAnBa/)*
+*2023-02-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CoQC3wYAnBa/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zapecene-cuftice-na-pireu-u-paradajz-sosu/*
 
 Još jedna u nizu standardnih recepata koji se ručkaju bez problema, i ideja za one dane kada nam zafale 🫶🏼
 
@@ -11356,10 +11171,10 @@ Za koji ručak vaša dečica ne prave pitanje..?
 
 ---
 
-<a id="colae_zgomg"></a>
+<a id="ljubavni-puter-keksici-2"></a>
 ### Ljubavni puter keksići
 
-*2023-02-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CoLAE_zgOmg/)*
+*2023-02-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CoLAE_zgOmg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ljubavni-puter-keksici-2/*
 
 Recept je lagan, keksići se brzo pripremaju, predivnog su ukusa i dečica ih obožavaju ❤️
 
@@ -11390,10 +11205,10 @@ Kako vam se čine..?
 
 ---
 
-<a id="cn9kjajaj_k"></a>
+<a id="coko-lesnik-waffle"></a>
 ### Čoko lešnik waffle
 
-*2023-01-28 · Doručak · reel · [Instagram post](https://www.instagram.com/p/Cn9KjAJAj_k/)*
+*2023-01-28 · Doručak · reel · [Instagram post](https://www.instagram.com/p/Cn9KjAJAj_k/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-lesnik-waffle/*
 
 Ovu subotu smo razmirisali na lešnik i čokoladu , uživali smo u doručku koji smo zajedno pripremali i delimo ideju sa vama 😍
 
@@ -11422,10 +11237,10 @@ Prijatno ❤️
 
 ---
 
-<a id="cnxj6c7p3xs"></a>
+<a id="zapecene-tagliatelle-sa-prsutom"></a>
 ### Zapečene tagliatelle sa pršutom
 
-*2023-01-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnxJ6c7p3xs/)*
+*2023-01-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnxJ6c7p3xs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zapecene-tagliatelle-sa-prsutom/*
 
 Ova ideja za ručak nastala je tek tako na brzinu, nije bilo odlaska u nabavku pre pripreme, pa sam iskoristila ono što sam imala na raspolaganju i prvi put sam pripremala na ovaj način pa sam i sama prijatno iznenađena koliko je ukusno i kremasto ispalo 🥰
 
@@ -11455,10 +11270,10 @@ Da li ste već isprobali ovakav način pripreme, ja ga već duže vreme izbegava
 
 ---
 
-<a id="cnxzbs2j0h-"></a>
+<a id="ideja-za-rucak"></a>
 ### Ideja za ručak
 
-*2023-01-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnXZBs2J0H-/)*
+*2023-01-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnXZBs2J0H-/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ideja-za-rucak/*
 
 Za momente kada zafali ideja i kada klasična priprema mesa i krompira dosadi, evo jednog finog predloga 😍
 Dečica su oduševljena, a verujem da će se i vama dopasti ❤️
@@ -11490,10 +11305,10 @@ Klasika i milinica ručkić koji svi vole 😍😍
 
 ---
 
-<a id="cnh5xi6jcys"></a>
+<a id="bozicna-radost"></a>
 ### Božićna radost
 
-*2023-01-07 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CnH5Xi6JCys/)*
+*2023-01-07 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CnH5Xi6JCys/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bozicna-radost/*
 
 Ko je isprobao pistać krem zna koliko je taj ukus ljubaaav. Bukvalno poseban ukus kome bi se svako iznova vratio 😋
 U vreme dok sam tortice još uvek izrađivala po porudžbini, ova je uuuvek ostavljala poseban utisak ❤️
@@ -11544,10 +11359,10 @@ Kako vam se čini..?❤️
 
 ---
 
-<a id="cnckia6pcws"></a>
+<a id="teletina-sa-povrcem"></a>
 ### Teletina sa povrćem
 
-*2023-01-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnCkIa6pcwS/)*
+*2023-01-05 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnCkIa6pcwS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/teletina-sa-povrcem/*
 
 Jedno pravo, fino, gurmanski jelo koje može biti i idealan predlog za Božićni ručak 😍
 
@@ -11582,10 +11397,10 @@ Meso je izuzetno sočno, mekano, krompirići takođe, predivan ručak za celu po
 
 ---
 
-<a id="cnanzsoj-8u"></a>
+<a id="mimoza"></a>
 ### Mimoza
 
-*2023-01-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnANZSOJ-8U/)*
+*2023-01-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CnANZSOJ-8U/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mimoza/*
 
 **Sastojci**
 
@@ -11610,10 +11425,10 @@ Mnogi dodaju kisele krastavčiće ili recimo šargarepu, sigurna sam da ste je i
 
 ---
 
-<a id="cm9gsbcpwpz"></a>
+<a id="evo-jedne-lagane"></a>
 ### Evo jedne lagane
 
-*2023-01-03 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cm9gSBcpWpz/)*
+*2023-01-03 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cm9gSBcpWpz/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/evo-jedne-lagane/*
 
 Evo jedne lagane, brzinske a savršene kombinacije ukusa kao predjelo generalno, a nećete pogrešiti ukoliko vam se nađe i na Božićnoj trpezi 🎄🥂
 
@@ -11640,10 +11455,10 @@ Ko voli ovakve “grickalice”..? 😍
 
 ---
 
-<a id="cm7lanujl3-"></a>
+<a id="praline-od-bele-mlecne-cokolade"></a>
 ### Praline od bele & mlečne čokolade
 
-*2023-01-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cm7LAnuJL3-/)*
+*2023-01-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cm7LAnuJL3-/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/praline-od-bele-mlecne-cokolade/*
 
 Volim ove jednostavne za pripremiti kolačiće koje izgledom nikoga ne ostave ravnodušnim, a ukus možete prilagoditi baš po vašoj želji,
 
@@ -11672,10 +11487,10 @@ Kalup je bitno premazati otopljenim čokoladom u dva sloja, ostaviti u frižider
 
 ---
 
-<a id="cmtej2ejqcn"></a>
+<a id="pita-sa-piletinom"></a>
 ### Pita sa piletinom
 
-*2022-12-28 · Slano · reel · [Instagram post](https://www.instagram.com/p/CmteJ2EJQcn/)*
+*2022-12-28 · Slano · reel · [Instagram post](https://www.instagram.com/p/CmteJ2EJQcn/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pita-sa-piletinom/*
 
 Mmmm… ova pita!!! 😍😍😍
 Već nekoliko godina je neizostavna na svim okupljanjima u našem domu, a ako mene pitate idealna je kao posluženje na prazničnoj trpezi 🥰
@@ -11724,10 +11539,10 @@ Prijatno 😍
 
 ---
 
-<a id="cmo6cpzjwqc"></a>
+<a id="baileys-tortica"></a>
 ### Baileys tortica
 
-*2022-12-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cmo6cpZJWQC/)*
+*2022-12-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cmo6cpZJWQC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/baileys-tortica/*
 
 Hajmo konačno jednu bezobrazno dooobru torticu za nas velike, da lagano ispratimo poslednji ponedeljak ove godine i da praznici ne prođu bez nje! Obožavaoci ovog prefinjenog likera će me potpuno razumeti 🥹😍😍
 
@@ -11766,10 +11581,10 @@ Ja se nadam da ćete uživati u ovoj laganoj pripremi i pooootpuno neodoljivom u
 
 ---
 
-<a id="cmewhwxj1nj"></a>
+<a id="karamel-plazma-popsici-kolacici"></a>
 ### Karamel plazma popsići & kolačići
 
-*2022-12-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CmewhwxJ1Nj/)*
+*2022-12-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CmewhwxJ1Nj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/karamel-plazma-popsici-kolacici/*
 
 Preukusni kolačići i super ideja kada vam za neku priliku znači da imate više vrsta od iste smese 😍
 
@@ -11803,10 +11618,10 @@ Kako vam se čine..?
 
 ---
 
-<a id="cmckrqxj-5q"></a>
+<a id="nutella-buhtlice"></a>
 ### Nutella buhtlice
 
-*2022-12-21 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CmcKRQxJ-5Q/)*
+*2022-12-21 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CmcKRQxJ-5Q/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-buhtlice/*
 
 Za ovo vredi čekati da testo narasta, vredi paliti rernu a onda se samo malko strpiti da se prohlade.. Pa za večeru, užinu ili ujutru za doručak ako pretekne 🤗
 
@@ -11839,10 +11654,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cmmpcnguubi"></a>
+<a id="coko-lesnik-praline-2"></a>
 ### Čoko lešnik praline
 
-*2022-12-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CmMpCnguubi/)*
+*2022-12-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CmMpCnguubi/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-lesnik-praline-2/*
 
 Meni je toooliko fascinantno da se ovako prelepi čokoladni zalogajčići pripreme za 10ak minuta uz samo par sastojaka, a da su predivnog ukusa i savršenog izgleda 🥰
 Pa zamislite ih samo uz šoljicu kafe ili recimo u nekoj malenoj ukrasnoj kutiji sa kojom ćete nekome ulepšati praznike..? ❤️
@@ -11868,10 +11683,10 @@ Nadam se da su vas oduševili koliko i mene 🥰🥰🥰
 
 ---
 
-<a id="cmci-frgn1n"></a>
+<a id="bozanstvene-kinder-kockice-koje-se-tope-u-ustima"></a>
 ### Božanstvene kinder kockice koje se tope u ustima
 
-*2022-12-11 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CmCi-frgN1n/)*
+*2022-12-11 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CmCi-frgN1n/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bozanstvene-kinder-kockice-koje-se-tope-u-ustima/*
 
 Božanstvene kinder kockice koje se tope u ustima, predivnog ukusa koje su idealan kremasti dezert, spremne za čas, bez pečenja 💓
 
@@ -11916,10 +11731,10 @@ Jedva čekam da isprobate 😍
 
 ---
 
-<a id="clyzqx7ae_i"></a>
+<a id="medenjaci"></a>
 ### Medenjaci
 
-*2022-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ClyzqX7Ae_i/)*
+*2022-12-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ClyzqX7Ae_i/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/medenjaci/*
 
 Medenjaci kao neizostavni slatkiš hladnih jesenjih i zimskih dana 🍯
 Ne znam kakva je situacija kod vas ali moja dečica ih obožavaju.. A da se ne lažemo volimo ih i mi veliki,obožavam i pripremu, pa tek onaj miris koji se širi kućom.. 🏡🎄❤️
@@ -11958,10 +11773,10 @@ Nadam se da ćete ih isprobati ❤️
 
 ---
 
-<a id="clzpiw_gu-e"></a>
+<a id="domaci-ukusni-zu-zu"></a>
 ### Domaći ukusni žu-žu
 
-*2022-11-25 · Slano · reel · [Instagram post](https://www.instagram.com/p/ClZPiW_gU-E/)*
+*2022-11-25 · Slano · reel · [Instagram post](https://www.instagram.com/p/ClZPiW_gU-E/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-ukusni-zu-zu/*
 
 Čuveno pecivo od samo 3 osnovna sastojka, prelepog ukusa, idealan doručak ili večera uz solju jogurta i praktična užina za dečicu 🥰🥰🥰
 
@@ -12001,10 +11816,10 @@ Prijatno 🥰
 
 ---
 
-<a id="clmvvofa_lg"></a>
+<a id="lesnik-puter-keksici"></a>
 ### Lešnik puter keksići
 
-*2022-11-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ClMVvofA_Lg/)*
+*2022-11-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ClMVvofA_Lg/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lesnik-puter-keksici/*
 
 Sveže i hladno vreme napolju prosto priziva neke lepe pripreme. Vreme kada se rerna pali i kada se kuća najlepše razmiriše.
 A i kako bi drugačije uz puter, lešnik i neki fin kremić 🥰🥰
@@ -12043,10 +11858,10 @@ Nadam se da će vam razvedriti dan 🍪
 
 ---
 
-<a id="ck6zl5lahon"></a>
+<a id="plazma-malina-tart"></a>
 ### Plazma & malina tart
 
-*2022-11-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ck6ZL5lAHoN/)*
+*2022-11-13 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ck6ZL5lAHoN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/plazma-malina-tart/*
 
 Obožavam ove brzinske, poslastice bez pečenja, predivnog ukusa ali i tako finog izgleda 🥰🥰🥰
 Ovaj tart je upravo jedan od njih, pa izvolite, da se osladite 🥰🥰🥰
@@ -12090,10 +11905,10 @@ Prelijte preko malina sosa, pa ostavite da se malo prohladi, a potom uživajte u
 
 ---
 
-<a id="ckyfttnq7na"></a>
+<a id="najlepsi-period-godine-donosi-i-najlepse-slatkise-u-lidl"></a>
 ### Najlepši period godine donosi i najlepše slatkiše u @lidl…
 
-*2022-11-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CkyfttNq7NA/)*
+*2022-11-10 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CkyfttNq7NA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/najlepsi-period-godine-donosi-i-najlepse-slatkise-u-lidl/*
 
 Najlepši period godine donosi i najlepše slatkiše u @lidlsrbija 😍😍
 One koji se razmirišu na cimet, pečeni lešnik, bademe, karamelu..
@@ -12126,10 +11941,10 @@ Uživajte 💓
 
 ---
 
-<a id="ckq3hxaggig"></a>
+<a id="plazma-kocke-sa-belom-cokoladom"></a>
 ### Plazma kocke sa belom čokoladom
 
-*2022-11-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ckq3hXaggig/)*
+*2022-11-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ckq3hXaggig/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/plazma-kocke-sa-belom-cokoladom/*
 
 Pobednički izbor dezerta su ove savršeno kremaste, jednostavne za pripremu kockice sa Mlevenom Plazmom, belom čokoladom i mlevenim lešnikom 😍😍😍
 Nisam iznenađena, napravili ste odličan izbor, ali da budem iskrena sva tri su toooliko neodoljiva, a budimo realni sa @plazma_zvanicna i nema greške 👌🏼👌🏼 oduvek se sjajno meša u sve moje poslastice 💓
@@ -12182,10 +11997,10 @@ Posle hlađenja u frižideru, ostaje degustacija i potpuno uživanje u ovom neod
 
 ---
 
-<a id="cki-i2gkmp3"></a>
+<a id="aromaticni-hlebcici-sa-umakom-od-sira-2"></a>
 ### Aromatični hlebčići sa umakom od sira
 
-*2022-11-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cki-i2GKmP3/)*
+*2022-11-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cki-i2GKmP3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/aromaticni-hlebcici-sa-umakom-od-sira-2/*
 
 Nemojte da vas dužina vremena koja je potrebna za pripremu pokoleba! Izuzetno je lako pripremiti, potrebno je samo imati strpljenja dok testo narasta.
 Testo je mekano kaoooo duša. Blaga aroma luka, krupna morska so, pa kad se okruglice hleba umoče u otopljen sir, maaa 🥰🥰🥰
@@ -12231,40 +12046,10 @@ Nadam se da vam se dopada, kod nas se ne zna ko je više oduševljen ❤️
 
 ---
 
-<a id="ckdgjk4qnqi"></a>
-### Heej hej! Društvo
-
-*2022-11-02 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CkdGjk4qnqI/)*
-
-Ovog puta vas prizivam u pomoć i bacam vas na slatke muke 🤗 Slatke i plazmastične, ne znam može li bolje? 😍
-Potrebna mi je pomoć u odabiru koji sledeći recept od ponuđenih da pripremam..?
-
-A poslušajte predloge i saznaćete i zašto mi je teško da i sama odlučim🤗:
-
-**Sastojci**
-
-- 1. Plazma malina tart
-- 2. Plazma kocke sa belom čokoladom
-
-**Priprema**
-
-3. Plazma - pomorandža pralinice
-
-Čak 5 vas koji ste spremni da učestvujete i olakšate mi izbor biće nagrađeno kul Plazma Mlevenim paketima koji će vam poslužiti da svoje kulinarsko umeće podignete na viši nivo 😍😍😍
-
-Sve što je potrebno je da mi u komentaru odgovorite sa rednim brojem predloga dezerta uz follow i tag @plazma_zvanicna profila
-(neću se ljutiti ukoliko ovu objavu lajkujete i podelite zanimljive i slatke vesti sa prijateljima 😉)
-
-A poslasticu sa najviše glasova pripremamo zajedno već u ponedeljak, 07-og novembra 😍
-
-Jedva čekam da vidim šta to pripremamo 😍
-
----
-
-<a id="ckwuvcdgq4m"></a>
+<a id="musaka-sa-tikvicama"></a>
 ### Musaka sa tikvicama
 
-*2022-10-30 · Slano · reel · [Instagram post](https://www.instagram.com/p/CkWUvcDgq4m/)*
+*2022-10-30 · Slano · reel · [Instagram post](https://www.instagram.com/p/CkWUvcDgq4m/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/musaka-sa-tikvicama/*
 
 Ukoliko volite malo da promenite, ova musaka je divan izbor. Savršeno je sočna, čak i za malene probirljivce koji ne vole tikvice, ovaj način pripreme gde se tikvice rendaju je pun pogodak.
 
@@ -12297,10 +12082,10 @@ Jedan fin ručkić za celu porodicu, ukoliko isprobate, javite mi utiske 😍�
 
 ---
 
-<a id="ckdjxtna8t8"></a>
+<a id="pancerote-iz-rerne-2"></a>
 ### Pancerote iz rerne
 
-*2022-10-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/CkDJXTNA8T8/)*
+*2022-10-23 · Slano · reel · [Instagram post](https://www.instagram.com/p/CkDJXTNA8T8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pancerote-iz-rerne-2/*
 
 Kad napolju zazimi ništa lepše nego da se kroz kuću razmiriše neko lepo pecivo. Ovog puta donosim vam recept za slaniš koji često spremam i koji svi vole 🤗😋
 Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
@@ -12330,10 +12115,10 @@ Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
 
 - 1 jaje
 - susam
-- 1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadođe
 
 **Priprema**
 
+1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadođe
 2. Promešati, dodati ulje, pa postepeno dodavati brašno sa soli i umesiti glatko testo, potom ga prekriti providnom folijom i ostaviti 20ak minuta
 3. Pripremiti sastojke za nadev
 4. Oklagijom razvuci testo i vaditi krugove veličine po želji. Na sredinu svakog staviti nadev i preklopiti pa se pobrinuti da ivice predjete viljuskom kako nadev prilikom pečenja ne bi cureo. Ja sam sasvim slučajno naišla na ovu plastičnu spravicu i resila da je isprobam - odlično se pokazala ☺️
@@ -12343,10 +12128,10 @@ Hoće li se na vašoj trpezi pre naći za doručak ili večeru ..? 😋
 
 ---
 
-<a id="cj_c4vyar3d"></a>
+<a id="piletina-u-kremastom-sosu"></a>
 ### Piletina u kremastom sosu
 
-*2022-10-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cj_C4vyAr3d/)*
+*2022-10-21 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cj_C4vyAr3d/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piletina-u-kremastom-sosu/*
 
 Idealan predlog za jedan fin ručak  koji najčešće poslužim uz pire ili pirinač, piletina bude sočna, divna, a crni luk i pečurke daju onu predivnu aromu, verujem da će vam se dopasti.
 
@@ -12376,10 +12161,10 @@ Uživaćete u ukusu i u brzo pripremljenom obroku za celu porodicu 💓
 
 ---
 
-<a id="cj0zti3a6jb"></a>
+<a id="tiramisu-bombice-sa-nutelom"></a>
 ### Tiramisu bombice sa nutelom
 
-*2022-10-17 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cj0zTI3A6Jb/)*
+*2022-10-17 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cj0zTI3A6Jb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tiramisu-bombice-sa-nutelom/*
 
 Jednostavna priprema, a bombice prava doza za uz kaficu 😍
 Imaju moć da ulepšaju ponedeljak, o daa 🤗
@@ -12411,10 +12196,10 @@ Uživajte 🤍
 
 ---
 
-<a id="cjvou1dapmn"></a>
+<a id="savrseni-brusketi-2"></a>
 ### Savršeni brusketi
 
-*2022-10-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cjvou1dAPmN/)*
+*2022-10-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cjvou1dAPmN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/savrseni-brusketi-2/*
 
 Uh.. 🤤
 Ovo je jedan od onih recepata koji sam preuzela od sestre, više i ne pamtim pre koliko godina, znam samo da su večno bili glavni na svim mogućim okupljanjima sa prijateljima, da su ih sve drugarice prepisivale u svesku i da se još nije pojavio neko ko ih ne voli 🥰
@@ -12443,10 +12228,10 @@ Jedva čekam  vaše utiske 🥰🥰🥰
 
 ---
 
-<a id="cjkdg66aars"></a>
+<a id="snickers-cookies"></a>
 ### Snickers cookies
 
-*2022-10-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjkdG66AArS/)*
+*2022-10-11 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjkdG66AArS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/snickers-cookies/*
 
 Omiljeni slatkiš, isproban u mnooogo kombinacija, uvek dobrodošao uz kaficu ili onda kada vam se baš jede nešto slatko, a rekla bih da mi je najslađe kada se okupimo sa prijateljima pa se sladimo i oduševljavamo natenane 😍😍😍
 
@@ -12487,10 +12272,10 @@ Kada se potpuno prohlade, premažite karamelom (ako se u medjuvremenu stegla oto
 
 ---
 
-<a id="cjs9rgiqxmj"></a>
+<a id="ferrero-cheesecake"></a>
 ### Ferrero cheesecake
 
-*2022-10-04 · Torte · reel · [Instagram post](https://www.instagram.com/p/CjS9rGiqxMj/)*
+*2022-10-04 · Torte · reel · [Instagram post](https://www.instagram.com/p/CjS9rGiqxMj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ferrero-cheesecake/*
 
 Kremasta tortica, bez pečenja, sa puno nutelle i pečenog lešnika, baš kako volim, a nadam se da će i mnogima od vas postati omiljena 😍😍
 
@@ -12539,10 +12324,10 @@ Hvala na svoj podršci koju mi pružate 😍
 
 ---
 
-<a id="cjni7gdafxd"></a>
+<a id="brzi-jogurt-ustipci-2"></a>
 ### Brzi jogurt uštipci
 
-*2022-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjNI7gDAfxD/)*
+*2022-10-02 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjNI7gDAfxD/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzi-jogurt-ustipci-2/*
 
 Znam koliko volite ove prvenstveno jednostavne recepte od samo par sastojaka, još kad se spremaju jako brzo bez nekog čekanja, dok se ukućani razbude i srede sačeka ih topao doručak i možete se okupiti za stolom 😍
 
@@ -12575,10 +12360,10 @@ Uživajte u nedelji 😍
 
 ---
 
-<a id="cjdhatmaq1y"></a>
+<a id="domaca-pita-sa-jabukama-i-vanilom"></a>
 ### Domaća pita sa jabukama i vanilom
 
-*2022-09-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjDhatmAQ1y/)*
+*2022-09-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CjDhatmAQ1y/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaca-pita-sa-jabukama-i-vanilom/*
 
 Jednostavna za pripremu, po principu smuti pa prospi, ali kad se razmiriše iz rerne svi dotrče do kuhinje da vide šta se to fino sprema 🥧
 
@@ -12616,10 +12401,10 @@ U zagrejanoj rerni na 180C pecite 40-45 minuta, a preko vrelog možete dodati i 
 
 ---
 
-<a id="cjafprzg3jn"></a>
+<a id="cokoladna-ovsena-kasa"></a>
 ### Čokoladna ovsena kaša
 
-*2022-09-27 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CjAfprzg3JN/)*
+*2022-09-27 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CjAfprzg3JN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladna-ovsena-kasa/*
 
 **Sastojci**
 
@@ -12648,10 +12433,10 @@ Prijatno 💓
 
 ---
 
-<a id="ci7ya2ogdjq"></a>
+<a id="kolac-sa-makom-jabukama-cokoladom"></a>
 ### Kolač sa makom, jabukama & čokoladom
 
-*2022-09-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ci7ya2OgDjq/)*
+*2022-09-25 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Ci7ya2OgDjq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-sa-makom-jabukama-cokoladom/*
 
 Danas sam pripremila jedan saaaavršeno sočan kolač sa makom i jabukama, okupan čokoladom razume se ☺️☺️☺️ I kada god ga pripremam, toliko razmirišem kuću i baš mi nije pošlo za rukom nijednom da ga ostavim da se potpuno stegne pre sečenja, ljubitelji ove kombinacije, razumećete 😅
 
@@ -12693,10 +12478,10 @@ Lepo veče vam želim 🤍
 
 ---
 
-<a id="cizcllzgyha"></a>
+<a id="banana-pralinice"></a>
 ### Banana pralinice
 
-*2022-09-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CizclLzgYhA/)*
+*2022-09-22 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CizclLzgYhA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/banana-pralinice/*
 
 **Sastojci**
 
@@ -12721,10 +12506,10 @@ Nadam se da ćete isprobati 😍
 
 ---
 
-<a id="ciuwrc_gier"></a>
+<a id="mafini"></a>
 ### Mafini
 
-*2022-09-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CiuWrc_giER/)*
+*2022-09-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CiuWrc_giER/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mafini/*
 
 crna čokolada maline 🧁
 
@@ -12758,10 +12543,10 @@ Uživajte i javite utiske 💓💓💓
 
 ---
 
-<a id="cio9unfaisk"></a>
+<a id="stapici-sa-lukom"></a>
 ### Štapići sa lukom
 
-*2022-09-18 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cio9UNFAIsK/)*
+*2022-09-18 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cio9UNFAIsK/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-lukom/*
 
 **Sastojci**
 
@@ -12789,10 +12574,10 @@ Prijatno 🤍
 
 ---
 
-<a id="cihc6magli8"></a>
+<a id="istina-je-da-cete-isprljati-nesto-vise-sudova"></a>
 ### Istina je da ćete isprljati nešto više sudova
 
-*2022-09-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cihc6MAgLI8/)*
+*2022-09-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cihc6MAgLI8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/istina-je-da-cete-isprljati-nesto-vise-sudova/*
 
 Istina je da ćete isprljati nešto više sudova, ali vredi, itekako 😋
 Svako ima neki svoj način za pripremu, ja se držim ovog jer mi se pokazao zaista kao nepogrešiv 🙌🏼
@@ -12817,10 +12602,10 @@ Poklopljeno ili prekriveno folijom peći 45 min na 200C
 
 ---
 
-<a id="ciszzxxgqui"></a>
+<a id="parmezan-piletina-u-paradajz-sosu-sa-njokama"></a>
 ### Parmezan piletina u paradajz sosu sa njokama
 
-*2022-09-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/CiSzZXXgqUI/)*
+*2022-09-09 · Slano · reel · [Instagram post](https://www.instagram.com/p/CiSzZXXgqUI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/parmezan-piletina-u-paradajz-sosu-sa-njokama/*
 
 **Sastojci**
 
@@ -12858,10 +12643,10 @@ Nadam se da vam se dopada i baš se radujem vašim utiscima 😍
 
 ---
 
-<a id="cik6p2sgc8t"></a>
+<a id="kokolina"></a>
 ### Kokolina
 
-*2022-09-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CiK6P2SgC8t/)*
+*2022-09-06 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CiK6P2SgC8t/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kokolina/*
 
 Neodoljiv spoj mascarpone sira, krema od kokosa, na podlozi od keksa i putera, prelivenog belim ganašom uz pravu meru kiselkastog osvežavajućeg malina sosa 🤤🤤
 
@@ -12911,10 +12696,10 @@ Uživajte 🥥🌸
 
 ---
 
-<a id="cie7ze3gwdh"></a>
+<a id="americke-palacinke-4"></a>
 ### Američke palačinke
 
-*2022-09-04 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CiE7Ze3gwdH/)*
+*2022-09-04 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CiE7Ze3gwdH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americke-palacinke-4/*
 
 Za one koji možda prvi put prave, da olakšam i sprečim bilo kakav potencijalni neuspeh 🥞
 
@@ -12955,10 +12740,10 @@ Prijatno! 💞
 
 ---
 
-<a id="ch-bf1tgm6z"></a>
+<a id="danas-smo-resili-da-tremu-umirimo-kupovinom-u-lidlsrbija"></a>
 ### Danas smo rešili da tremu umirimo kupovinom u @lidlsrbija…
 
-*2022-09-01 · Slano · reel · [Instagram post](https://www.instagram.com/p/Ch-BF1tgM6Z/)*
+*2022-09-01 · Slano · reel · [Instagram post](https://www.instagram.com/p/Ch-BF1tgM6Z/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/danas-smo-resili-da-tremu-umirimo-kupovinom-u-lidlsrbija/*
 
 Danas smo rešili da tremu umirimo kupovinom u @lidlsrbija da zašarenimo dasku i počastimo se jednim finim doručkom pred ovaj poseban dan 😍😍
 Pored suhomesnatog, dimljenih sireva i voćkica obogatili smo je mini projicama sa spanaćem a  u nastavku vam ostavljam recept:
@@ -12987,10 +12772,10 @@ Prijatnooo 💓💓💓
 
 ---
 
-<a id="ch4pej1g2ja"></a>
+<a id="waffle-krekeri-slane-galete"></a>
 ### Waffle krekeri ( slane galete )
 
-*2022-08-30 · Doručak · reel · [Instagram post](https://www.instagram.com/p/Ch4PEJ1g2jA/)*
+*2022-08-30 · Doručak · reel · [Instagram post](https://www.instagram.com/p/Ch4PEJ1g2jA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle-krekeri-slane-galete/*
 
 Idealna užinica kako za školarce, tako i za nas ostale, grickalica između obroka, ali i dodatak uz doručak ili večeru 😍
 
@@ -13020,10 +12805,10 @@ Prijatno 💓
 
 ---
 
-<a id="cht88t4gdzf"></a>
+<a id="punjene-przenice"></a>
 ### Punjene prženice
 
-*2022-08-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cht88T4gDzF/)*
+*2022-08-26 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cht88T4gDzF/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/punjene-przenice/*
 
 Slani doručak koji obožavamo svi porodično, a verujem da se često sprema i u vašim domovima, pa neka ovo bude podsetnik šta bismo to mogli za vikend doručak kada smo svi kod kuće 😍😍
 
@@ -13051,10 +12836,10 @@ Prijatno 💓
 
 ---
 
-<a id="chhccwkayoj"></a>
+<a id="grcke-krofnice-sa-feta-sirom-i-parmezanom-2"></a>
 ### Grčke krofnice sa feta sirom i parmezanom
 
-*2022-08-21 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChhCCWkAyoJ/)*
+*2022-08-21 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChhCCWkAyoJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/grcke-krofnice-sa-feta-sirom-i-parmezanom-2/*
 
 Smesa se smućka za bukvalno 3 minuta, možete da birate da li biste ih pripremali u kalupu za krofnice koje ćete peći u rerni ili biste radije u aparatu, isprobane su obe varijante i smesa je pogodna za obe, malu prednost dajem ovima iz rerne, veće su krofnice, više narastu i nekako je puniji ukus ☺️
 Ja sam moje silikonske kalupe pronašla kod Kineza i cena im je bila simbolična, tako da sam odmah uzela dva da nema čekanja izmedju pečenja ☺️
@@ -13089,10 +12874,10 @@ Prijatnu i lepu nedelju vam želim 🌸
 
 ---
 
-<a id="chxbjj_ghjx"></a>
+<a id="pizza-hleb-zalogaji"></a>
 ### Pizza hleb zalogaji
 
-*2022-08-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/ChXbjj_gHjX/)*
+*2022-08-17 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/ChXbjj_gHjX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pizza-hleb-zalogaji/*
 
 Donosim vam ideju za večeru za kojom ćete odlepiti.
 Preukusno, sočno, a hrskavo i gotovo za 15 minuta, možeee..?
@@ -13118,10 +12903,10 @@ Idealno je i za one situacije kada gosti stižu, vi bi da nešto bocnete a da ne
 
 ---
 
-<a id="cht-aflgyp8"></a>
+<a id="french-toast"></a>
 ### French toast
 
-*2022-08-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/ChT-aflgyP8/)*
+*2022-08-16 · Doručak · reel · [Instagram post](https://www.instagram.com/p/ChT-aflgyP8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/french-toast/*
 
 Preukusna ideja za doručak ⬇️
 Slatke prženice koje tako razmirišu kuću na puter i nežnu aromu cimeta, ma milinica 😍😍😍
@@ -13148,10 +12933,10 @@ Da li ih spremate u ovoj slatkih varijanti..? 🤤
 
 ---
 
-<a id="chkcmxygvo5"></a>
+<a id="milka-srculenca"></a>
 ### Milka srculenca
 
-*2022-08-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChKcmXygvo5/)*
+*2022-08-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChKcmXygvo5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/milka-srculenca/*
 
 Samo sam ugledala milka kremić na polici špajiza i pomislih, ee ovog puta ne ideš u palačinke, sad ću ja na brzinu neke kuglice da spremim. 🥰
 A onda se setih i ovog kalupa, pa reših da budu pralinice još lepšeg izgleda☺️
@@ -13182,10 +12967,10 @@ Ko ih sprema ovog vikenda? 🫶🏼
 
 ---
 
-<a id="chesxtdgrt8"></a>
+<a id="puterasti-vocni-kolac-sa-kajsijama"></a>
 ### Puterasti voćni kolač sa kajsijama
 
-*2022-08-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChEsxTDgRT8/)*
+*2022-08-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/ChEsxTDgRT8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puterasti-vocni-kolac-sa-kajsijama/*
 
 Par stepeni manje juče bio je dovoljan razlog da se rerna upali, smućka kolačić na brzinu, a uživa natenane.
 Sigurna sam da će slatko razmirisati i vaš dom 😍
@@ -13226,10 +13011,10 @@ Uživajte u ovim savršenim ukusima i jednostavnoj pripremi 🍑🫶🏼
 
 ---
 
-<a id="cgre6srg_c_"></a>
+<a id="raffaello-shake"></a>
 ### Raffaello shake
 
-*2022-07-31 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cgre6sRg_c_/)*
+*2022-07-31 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/Cgre6sRg_c_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/raffaello-shake/*
 
 Savršeno letnje osveženje koje će vas potpuno raspametiti, a sastojci su sledeći:
 
@@ -13252,10 +13037,10 @@ Ljubitelji kokosa gde ste..? 🥰
 
 ---
 
-<a id="cgkgqzialcc"></a>
+<a id="za-dekorisanje-cupcake-kolacica-bice-vam-potreban-recept"></a>
 ### Za dekorisanje cupcake kolačica biće vam potreban recept…
 
-*2022-07-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CgkGQziALcC/)*
+*2022-07-28 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CgkGQziALcC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/za-dekorisanje-cupcake-kolacica-bice-vam-potreban-recept/*
 
 Za dekorisanje cupcake kolačica biće vam potreban recept za krem koji sadrzi samo dva sastojka 🧁:
 
@@ -13283,10 +13068,10 @@ A ako imate neko dodatno pitanje, tu sam ❤️
 
 ---
 
-<a id="cgy4fwfgjwj"></a>
+<a id="najkremastiji-domaci-sladoled"></a>
 ### Najkremastiji domaći sladoled
 
-*2022-07-24 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CgY4fWfgjwJ/)*
+*2022-07-24 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CgY4fWfgjwJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/najkremastiji-domaci-sladoled/*
 
 Auuu.. 🍦🍦🍦
 Mislila sam da je prošlogodišnji kinder bueno domaći sladoled teško nadmašiti, ali sam smesi dodala nekoliko sastojaka i dobila preeedivnu strukturu i tako bogat i lep ukus da se samo nadam da vas apsolutno ništa neće sprečiti da ga isprobate 😍😍😍
@@ -13328,10 +13113,10 @@ Callebaut ruby čokoladu u @curcuma__shop -u 🫶🏼
 
 ---
 
-<a id="cgeewa_ajka"></a>
+<a id="pralinice-od-bele-cokolade-i-jagoda"></a>
 ### Pralinice od bele čokolade i jagoda
 
-*2022-07-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CgEewa_AJKA/)*
+*2022-07-16 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CgEewa_AJKA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pralinice-od-bele-cokolade-i-jagoda/*
 
 Koliko često iskače ova ideja po drustvenim mrežama, nije mi dala mira dok je nisam isprobala ☺️
 I kako ja sad to da ne podelim sa vama, kako..? 🫶🏼
@@ -13366,10 +13151,10 @@ Kalup sam pronašla kod @svet.poslasticara 💓
 
 ---
 
-<a id="cf_ylickylg"></a>
+<a id="brownie-2"></a>
 ### Brownie
 
-*2022-07-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cf_ylIcKyLG/)*
+*2022-07-14 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cf_ylIcKyLG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie-2/*
 
 Najčokoladniji, najukusniji, a rekla bih i mnogima omiljeni kolač😍
 Koliko ga volim i koliko rado spremam otkriće vam i činjenica da je baš on, prvi osvanuo kao pisani recept ispod slike na mom profilu.. 🥰
@@ -13406,10 +13191,10 @@ Kada se prohladi, isecite željene parčiće i servirajte tako da uživaju i ču
 
 ---
 
-<a id="cfbvzt3ankx"></a>
+<a id="vocni-kolac"></a>
 ### Voćni kolač
 
-*2022-06-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CfbvZt3ANkX/)*
+*2022-06-30 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CfbvZt3ANkX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/vocni-kolac/*
 
 Ovo je jedan od onih čija je osnova starinski kolač kakve su naše bake i mame najčešće spremale sa višnjama, ja sam mu dodala samo jedan voćkasti sloj izmedju dva biskvitna dela i naravno kao po običaju prelila dodatno sa topljenim belom čokoladom 😍😍
 
@@ -13450,10 +13235,10 @@ Jedva čekam vaše utiske 🍎🍑🫐
 
 ---
 
-<a id="cfl4pdggd48"></a>
+<a id="cuftice-u-paradajz-sosu-sa-pirincem"></a>
 ### Ćuftice u paradajz sosu sa pirinčem
 
-*2022-06-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/CfL4pdGgD48/)*
+*2022-06-24 · Slano · reel · [Instagram post](https://www.instagram.com/p/CfL4pdGgD48/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cuftice-u-paradajz-sosu-sa-pirincem/*
 
 Ovaj ručak svi volimo, a Leka posebno, pa bi bila šteta da ideju za pripremu ne podelim i sa vama, uvek dodju oni dani kada ni sami ne znamo šta bismo pripremali 🤗
 
@@ -13487,10 +13272,10 @@ Kako vam se čini..? Jel volite ovakva jela..?
 
 ---
 
-<a id="ce6vxjsq3ss"></a>
+<a id="lagana-tortica-sa-jagodama-i-oreo-keksom"></a>
 ### Lagana tortica sa jagodama i oreo keksom
 
-*2022-06-17 · Torte · reel · [Instagram post](https://www.instagram.com/p/Ce6VxjSq3Ss/)*
+*2022-06-17 · Torte · reel · [Instagram post](https://www.instagram.com/p/Ce6VxjSq3Ss/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lagana-tortica-sa-jagodama-i-oreo-keksom/*
 
 Ove tortice koje smišljam usput su mi nekako najdraže, najbrže se jedu, podloge na bazi keksa i putera, kremkasti fil od marscapone ili krem sira, uz dodatak voćkica, najfinijih čokolada.. Ma nema osobe koja se ne oduševi 😍🥰
 
@@ -13539,10 +13324,10 @@ Kako se vama čini..?
 
 ---
 
-<a id="ce0tdszahpt"></a>
+<a id="pasta-sa-piletinom-u-lesniku-2"></a>
 ### Pasta sa piletinom u lešniku
 
-*2022-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Ce0tdszAhPt/)*
+*2022-06-15 · Slano · reel · [Instagram post](https://www.instagram.com/p/Ce0tdszAhPt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pasta-sa-piletinom-u-lesniku-2/*
 
 Od kada sam svesna sebe volim da pripremam hranu, volim da ugadjam ukućanima i kombinujem namirnice koje volimo.. 🤎Oduvek je ljubav prema pripremi i dekorisanju slatkog uzimala primat jer to zamisljam kao onu višnjicu na vrhu kapkejka, a ručak, njega nekako manje više moramo da pripremamo svi 🤗.. Ali hajde da danas uživate i vi u snimcima i u ovoj savršeno sočnoj pasti koja se spremi za samo nekoliko minuta, a dugo se pamti 😉
 
@@ -13572,10 +13357,10 @@ Uživajte 🤎
 
 ---
 
-<a id="cevkcgigajn"></a>
+<a id="ono-kad-shvatis-da-mozes-da-zivis-godinu-na-quattro-racu"></a>
 ### Ono kad shvatiš da možeš da živiš “godinu na Quattro raču…
 
-*2022-06-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CevkcGigAJn/)*
+*2022-06-13 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CevkcGigAJn/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ono-kad-shvatis-da-mozes-da-zivis-godinu-na-quattro-racu/*
 
 Ono kad shvatiš da možeš da živiš “godinu na Quattro račun” i to u ovo ludo vreme kada cene svakodnevno rastu😍😍😍
 
@@ -13601,10 +13386,10 @@ Dečica i ja već uveliko popunjavamo spisak želja i pravimo planove od svakodn
 
 ---
 
-<a id="ces5yedaoec"></a>
+<a id="proja-sa-sirom"></a>
 ### Proja sa sirom
 
-*2022-06-12 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Ces5YedAoeC/)*
+*2022-06-12 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Ces5YedAoeC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/proja-sa-sirom/*
 
 Najjednostavniji dorucak, večera ili užina, najmekša i najukusnija proja svih vremena!!!
 Odgovorno tvrdim 🙌🏼
@@ -13636,10 +13421,10 @@ Prijatno
 
 ---
 
-<a id="cen6pzkanui"></a>
+<a id="slana-palacinka-tortica"></a>
 ### Slana palačinka tortica
 
-*2022-06-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cen6pZKANUI/)*
+*2022-06-10 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cen6pZKANUI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slana-palacinka-tortica/*
 
 Imam savršenu ideju kako da iskoristite palačinke koje su preostale od večere ili doručka.
 Jedan taaako sočan i moćan ručak, za koji će vam biti potreban sos od mlevenog junećeg mesa, 10ak palačinaka i bešamel sos, pa još puuuno sira preko 🤤
@@ -13683,10 +13468,10 @@ Verujem da će vikend pred nama obeležiti ova slana tortica od palačinaka 😍
 
 ---
 
-<a id="cedgxgaajys"></a>
+<a id="americka-pita-sa-jagodama"></a>
 ### Američka pita sa jagodama
 
-*2022-06-06 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CedgxgAAJYS/)*
+*2022-06-06 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CedgxgAAJYS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americka-pita-sa-jagodama/*
 
 Dakle, mislila sam da bolje od kombinacije jabuka cimet ne može, ali morala sam je isprobati i sa najslađim jagodama, znate već koliko se sa njima teško opraštam 🥹🥹
 Pita sa jagodama, sladoledom od vanile i malko topljene bele čokolade, maaaa 🤤🤤🤤🤤
@@ -13736,10 +13521,10 @@ Ko joj neće odoleti..? 🤗
 
 ---
 
-<a id="cevvod7g363"></a>
+<a id="proslog-leta-bas-u-periodu-dok-su-jos-uvek-bile-aktuelne"></a>
 ### Prošlog leta baš u periodu dok su još uvek bile aktuelne…
 
-*2022-06-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CeVvod7g363/)*
+*2022-06-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CeVvod7g363/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/proslog-leta-bas-u-periodu-dok-su-jos-uvek-bile-aktuelne/*
 
 Prošlog leta baš u periodu dok su još uvek bile aktuelne trešnje  često sam spremala čuvene ćurose, ali obično predveče, pa smo ih na terasi posle celog dana provedenog na bazenu tako slatko ručkali. Red ćurosa umočenih u topljenu čokoladu ili karamelu, pa red trešanja, jer balans 🍒🤗
 A danas ostavljam i vama mere i postupak za pripremu i nadam se da ćete u vikendu uživati u njima i u nekom dobrom društvu 🥰
@@ -13771,10 +13556,10 @@ Kako vam se čini..? 😋😋😋
 
 ---
 
-<a id="ceiorg7asdi"></a>
+<a id="ovog-jutra-idemo-na-jedan-ekstremno-brz"></a>
 ### Ovog jutra idemo na jedan ekstremno brz
 
-*2022-05-29 · Slano · reel · [Instagram post](https://www.instagram.com/p/CeIorG7AsdI/)*
+*2022-05-29 · Slano · reel · [Instagram post](https://www.instagram.com/p/CeIorG7AsdI/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovog-jutra-idemo-na-jedan-ekstremno-brz/*
 
 Ovog jutra idemo na jedan ekstremno brz, baš baaaš ukusan doručak, koji generalno uvek možete prilagoditi sa sastojcima koje volite ili koje u datom trenutku imate u kući 🤗
 Od kada po marketima nailazim na ove manje tortiljice uvek biram njih jer su daleko praktičnije za sve ono što pripremam 😍
@@ -13816,10 +13601,10 @@ I da li volite ove ultra brzinske idejice..?
 
 ---
 
-<a id="cedqxh-g_xs"></a>
+<a id="socni-mlecni-kolac-sa-jagodama"></a>
 ### Sočni mlečni kolač sa jagodama
 
-*2022-05-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CeDqXH-g_xS/)*
+*2022-05-27 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CeDqXH-g_xS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-mlecni-kolac-sa-jagodama/*
 
 Kremkasto savršenstvo pripremano sa tri vrste mleka uz dodatak kokosa i jagoda,
 tako bogat ukus, a tako malo vremena i tako prosta priprema 😌😍
@@ -13863,10 +13648,10 @@ Iskoristite najsladje 🍓🍓 dok ih još ima, isprobajte ovu divotu a ja vas �
 
 ---
 
-<a id="cd-hbecs2rn"></a>
+<a id="waffle-3"></a>
 ### Waffle
 
-*2022-05-25 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/Cd-hBECs2rN/)*
+*2022-05-25 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/Cd-hBECs2rN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle-3/*
 
 U sred srede odmor od vrtića i naravno čim se oči otvore kreće se sa idejama za doručak, ovog puta su to waffle, one koje najčešće i ručkamo. Samo su danas posebno divne jer ih je Kalina spremala sa mamom 🥰
 
@@ -13895,10 +13680,10 @@ Pregršt ideja kako ih mackati i prelivati i uz šta služiti, a ako imate neku 
 
 ---
 
-<a id="cd0adpyamdm"></a>
+<a id="mamine-piroske"></a>
 ### Mamine piroške
 
-*2022-05-21 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Cd0AdpyAMDM/)*
+*2022-05-21 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/Cd0AdpyAMDM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mamine-piroske/*
 
 Oni najjednostavniji recepti, od sastojaka koje mahom imamo u kući, uvek su zgodni za pripreme.
 Brze uštipke sa jogurtom ste baš zavoleli i pripremali, sigurna sam da će vas i ove poroške oduševiti.
@@ -13931,10 +13716,10 @@ Uživajte u vikendu,
 
 ---
 
-<a id="cdxkdvdgmbb"></a>
+<a id="sladoled-kasa"></a>
 ### Sladoled kaša
 
-*2022-05-20 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CdxkdVDgMbB/)*
+*2022-05-20 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CdxkdVDgMbB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sladoled-kasa/*
 
 Hoćemo li da osvežimo ovo jutro jednom savršenom, ledenom i preukusnom sladoled kašom sa 🍌 i 🍓..?
 Mislim da će posle nje svi oni koji su se bunili i govorili ne ovakvom sočnom doručku ili užini popustiti 😍
@@ -13963,10 +13748,10 @@ Eto, da ne bude kod mene sve čokoladno, može i ukusno i zdravo 🥰🍦🍌�
 
 ---
 
-<a id="cdp_5ngab0c"></a>
+<a id="rolovana-punjena-piletina-i-mladi-krompirici"></a>
 ### Rolovana punjena piletina i mladi krompirići
 
-*2022-05-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cdp_5NgAB0C/)*
+*2022-05-17 · Slano · reel · [Instagram post](https://www.instagram.com/p/Cdp_5NgAB0C/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rolovana-punjena-piletina-i-mladi-krompirici/*
 
 Danas ste izglasali predlog za ručak, a ovo je jedan od onih koji svaka porodica voli - meso i krompirići, pa sa tim nema greške.. 😍
 Ja ću vam samo pokazati moj način pripreme ☺️
@@ -14010,10 +13795,10 @@ Jedva čekam da isprobate i ovaj način i da mi javite utiske, nadam se da vam s
 
 ---
 
-<a id="cdfwyekgrkt"></a>
+<a id="hlebcici-punjeni-piletinom-u-belom-sosu"></a>
 ### Hlebčići punjeni piletinom u belom sosu
 
-*2022-05-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdfwYEKgRkT/)*
+*2022-05-13 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdfwYEKgRkT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hlebcici-punjeni-piletinom-u-belom-sosu/*
 
 Peeetak je 🤗 Pred nama vikend.. 😍 Neko će uživati sa porodicom, neko će se okupiti sa prijateljima, a ja ću biti tu da vam dam predlog za jedan super ukusan i moćan ručak koji će verujem ići na SAVE i koji će se isprobati ukoliko već sutra ❤️
 
@@ -14049,10 +13834,10 @@ Kako vam se čini..?
 
 ---
 
-<a id="cddp5cygzwd"></a>
+<a id="coko-jagoda-mafini"></a>
 ### Čoko jagoda mafini
 
-*2022-05-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cddp5cYgzWd/)*
+*2022-05-12 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/Cddp5cYgzWd/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-jagoda-mafini/*
 
 Red je da iskoristimo i jagodice sada kada su najslađe i dok ih još ima, a ovo je predlog koji je više nego jednostavan, sočan i ukusan, a lagan za pripremu 🥰🥰🥰
 
@@ -14088,10 +13873,10 @@ Oduseviće vas ukus, a nadam se da vam se i ideja dopada 🧁🍓❤️
 
 ---
 
-<a id="cdx_h6jgg95"></a>
+<a id="pasta-carbonara"></a>
 ### Pasta carbonara
 
-*2022-05-10 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdX_h6jgg95/)*
+*2022-05-10 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdX_h6jgg95/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pasta-carbonara/*
 
 Danas jedan spontani i brzinski ručak. Spontani i snimak, ali ipak da podelim ideju, nekada baš znači 🥰
 Mislim da je ovo pasta koju uvek najbrže spremim. Bukvalno 10ak minuta i gotovo jelo 👐🏼
@@ -14126,10 +13911,10 @@ Uživajte ☺️☺️☺️
 
 ---
 
-<a id="cdsqu6ngeh5"></a>
+<a id="dijamant-sladoled"></a>
 ### Dijamant sladoled
 
-*2022-05-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CdSqu6NgeH5/)*
+*2022-05-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CdSqu6NgeH5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/dijamant-sladoled/*
 
 Volim i one vikende u kojima se isključim od svih obaveza i maltene ceo dan provedem u dvorištu.. Kada se dečica istrče i izigraju, a ja uživam u onim nekim sitnim, a tako bitnim radostima.
 Volim i prijatelje koji tačno znaju kada da pozovu i samo kažu dolazim, nosim pizzu, ne želim da te vidim danas u kuhinji, upijaćemo vazduh, a tvoje je samo da mi spremiš onu kaficu, znaš koju 🥰
@@ -14166,10 +13951,10 @@ Koliko vam je lep ovaj oblik 😍😍..?
 
 ---
 
-<a id="cdogvdxazew"></a>
+<a id="krompir-cuftice-u-besamel-sosu"></a>
 ### Krompir ćuftice u bešamel sosu
 
-*2022-05-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdOGvdxAzEw/)*
+*2022-05-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CdOGvdxAzEw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krompir-cuftice-u-besamel-sosu/*
 
 Znam koliko volite, a nekako najmanje postižem da u svakodnevnoj trci i frci sa obavezama i vremenom postavim i kameru i snimim neke lepe ideje i predloge za obroke,
 Zato danas, pred vikend, da vas obradujem jednim super sočnim predlogom za ručak koji će vam već za vikend možda zamirisati dom 💓
@@ -14211,10 +13996,10 @@ Uživajte u ovom predivnom ručkiću, a ja sad sa nestrpljenjem čekam utiske �
 
 ---
 
-<a id="cdidl7maaf_"></a>
+<a id="pistac-malina-casica"></a>
 ### Pistać malina čašica
 
-*2022-05-04 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CdIdL7MAaf_/)*
+*2022-05-04 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CdIdL7MAaf_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistac-malina-casica/*
 
 One zalihe marscapone sira moraju se utrošiti na vreme, a kako dugačke nego na ono najkremastije i najjednostavnije za napraviti..? 🥰
 Kada sam pitala koju kombinaciju ukusa biste voleli da vidite u nekom finom dezertu u čaši mnooogi od vas su glasali za kombinaciju postać - malina,
@@ -14257,10 +14042,10 @@ Verujem da će vas oduševiti spoj ukusa i zato se nadam da ćete isprobati 💓
 
 ---
 
-<a id="cc0by3gauhe"></a>
+<a id="coko-karamelizovana-fantazija"></a>
 ### Čoko karamelizovana fantazija
 
-*2022-04-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cc0BY3GAUhe/)*
+*2022-04-26 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cc0BY3GAUhe/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-karamelizovana-fantazija/*
 
 Znate da sam fan ovih laganih, kremastih, tortica koje se brzo spreme a čini mi se još brže pojedu 😌😌
 Za praznik koji je iza nas priprema tortica je definitivno odigrala vodeću ulogu, a kako je 1. maj iza ćoška i opet imamo par dana za uživanje sa najmilijima evo recepta i za jednu novu 🍰, ovakve me inspirišu u momentu gde isprobavam neke nove čokolade, keks, pa uz to i malo svežeg voća pa na kraju budu one koje najviše oduševe ukusom i nekako nam se svima usele u dom 😍😍
@@ -14314,10 +14099,10 @@ Ko isprobava već za praznik..?
 
 ---
 
-<a id="ccswxa5acmm"></a>
+<a id="nutella-m-m-s-cookies-2"></a>
 ### Nutella M&M’s COOKIES
 
-*2022-04-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CcswXa5ACMm/)*
+*2022-04-23 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CcswXa5ACMm/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-m-m-s-cookies-2/*
 
 Da li ste spremni za najobožavanije kukize u našoj porodici..? 🥰🥰
 Kod nas se sprema maltene za svaki rodjendan, praznik, dogadjaj. Ma za bilo koji povod za radost. Ili onda kada samo želimo da prizovemo radost 🥰
@@ -14351,10 +14136,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cckwlzpgd1z"></a>
+<a id="cokoladna-punjena-jaja"></a>
 ### Čokoladna punjena jaja
 
-*2022-04-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CckWLzpgd1Z/)*
+*2022-04-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CckWLzpgd1Z/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladna-punjena-jaja/*
 
 U duhu najlepšeg praznika, dana radosti i veselja, još jedna ideja za dezert kojim ćete se počastiti u krugu najdražih 😍
 Ova čokoladna jaja nisu samo zanimljiva izgledom, preukusna su, verujte mi na reč 😍
@@ -14394,10 +14179,10 @@ Kako vam se dopada ideja..? 🌸
 
 ---
 
-<a id="ccp1yots0wp"></a>
+<a id="prvi-u-nizu-kolacica-koji-su-obozavani-za-praznicnom-trpe"></a>
 ### Prvi u nizu kolačića koji su obožavani za prazničnom trpe…
 
-*2022-04-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CcP1YOTs0Wp/)*
+*2022-04-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CcP1YOTs0Wp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/prvi-u-nizu-kolacica-koji-su-obozavani-za-praznicnom-trpe/*
 
 Prvi u nizu kolačića koji su obožavani za prazničnom trpezom. Oni, koje možete pripremiti i nekoliko dana ranije, samo se svojski potrudite da ne nestanu pre Uskrsa 🥰
 Ja sam oduševljena ukusom. Dečica ga obožavaju. Testu posebnu notu daju mleveni badem i malčice cimeta, a kremkani su nutella kremom, tako da ih svi vole 🥰
@@ -14431,10 +14216,10 @@ Lep dan vam želim 🦋🌸💓
 
 ---
 
-<a id="ccfk73ladub"></a>
+<a id="giotto-casica"></a>
 ### Giotto čašica
 
-*2022-04-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CcFk73lADUb/)*
+*2022-04-08 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CcFk73lADUb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/giotto-casica/*
 
 Oook, nisam mogla da odolim, zato sto su pripreme brze, jednostavne, zato što su zalogaji kremasti i savršeno ukusni i zato što je petak, a to znači samo jedno - da ćemo slatko uživati ovog vikenda 💓
 
@@ -14474,10 +14259,10 @@ Kako se vama čini..?
 
 ---
 
-<a id="ccc78cksp7o"></a>
+<a id="tiramisu-3"></a>
 ### Tiramisu
 
-*2022-04-07 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CcC78cKsp7o/)*
+*2022-04-07 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CcC78cKsp7o/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tiramisu-3/*
 
 Puno je recepata za ovaj prelepi, kremkasti užitak, ali jedno je sigurno, kvalitetan mascarpone sir, sveža domaća jaja, dobra kafa i nekoliko kapi likera od badema daju onu neodoljivu notu. Još ako uz sve to dodate samo jedan sloj nutele okupane u slatkoj pavlaci, buuum - rodi se nova ljubav 🤍
 
@@ -14500,8 +14285,6 @@ Puno je recepata za ovaj prelepi, kremkasti užitak, ali jedno je sigurno, kvali
 
 **Priprema**
 
-Priprema:
-
 Odvojiti žumanca u jednu staklenu posudu i tu dodati šećer, pa kuvati na pari sve do onog momenta dok se šećer potpuno ne rastopi u jajima i smesa ne postane kremkasta. Ostaviti na hladjenju. Za to vreme umutiti mascarpone sir, vrlo kratko mikserom i dodati mu 200 ml slatke, nemućene pavlake pa zajedno mutiti dok smesa ne očvrsne. U ovaj fil dodajemo potpuno prohladjena jaja kuvana na pari i mutimo mikserom sve do one savršene kreme kojom premazujemo slojeve piškota. Piškote umačemo u kafu(koju ne treba sladiti), poredjati ih po dnu posude, zatim premažemo polovinom kreme. Preko toga ide sloj nutelle koju smo prelili vrelom slatkom pavlakom i dobro umešali (do potpuno glatke tečnosti bez grudvica) pa prohladili. Opet redjamo sloj piškota i preko toga ostatak fila.
 Kolac ostaviti u frižider na hladjenje tokom noći. Sutradan pospite mešavinom kvalitetnog kakaa i čokolade u prahu (meni daje bolji ukus ovako).. A ukoliko ne pronadjete čokoladu u prahu, jer je i nema baš u svakom marketu, dobra zamena bi bio nesquik.
 A onda, uživajte už šoljicu omiljene kafe 🍮☕️
@@ -14511,10 +14294,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cb4oxd6gmig"></a>
+<a id="torta-sa-jagodama-gotova-za-10-minuta"></a>
 ### Torta sa jagodama gotova za 10 minuta
 
-*2022-04-03 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cb4oxD6gMig/)*
+*2022-04-03 · Torte · reel · [Instagram post](https://www.instagram.com/p/Cb4oxD6gMig/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/torta-sa-jagodama-gotova-za-10-minuta/*
 
 Nekada nam je prosto potrebno da za svega 10 minuta imamo spremnu sočnu i laganu tortu. Bez pečenja, sa gotovim korama, sa svežim sezonskim voćem, ako uz to dodamo i malo ukusne čokolade, ne ostane ni parčence viška.
 Zato što smo neiskusne u spremanju, zato sto smo u žurbi ili prosto zato što nam se tako nekad hoće 🤗🤗
@@ -14547,10 +14330,10 @@ Sutradan možete dodati još koju svežu voćkicu preko i verujte mi na reč, ak
 
 ---
 
-<a id="cbzcupcafxc"></a>
+<a id="nugat-malina-dezert-u-casi"></a>
 ### Nugat malina dezert u čaši
 
-*2022-04-01 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CbzcuPcAfXc/)*
+*2022-04-01 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CbzcuPcAfXc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nugat-malina-dezert-u-casi/*
 
 Dezert gotov za 10 minuta, a ukućani ocenili i izgled i ukus sa po još jednom desetkom 🥰🥰🥰
 Jedva čekam da čujem i vaše utiske..? ❤️
@@ -14587,10 +14370,10 @@ Ljubim vas i uživajte u vikendu,
 
 ---
 
-<a id="cbrwwqia8w3"></a>
+<a id="slatka-pasta-od"></a>
 ### Slatka pasta od
 
-*2022-03-29 · Slano · reel · [Instagram post](https://www.instagram.com/p/CbrwWqIA8W3/)*
+*2022-03-29 · Slano · reel · [Instagram post](https://www.instagram.com/p/CbrwWqIA8W3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slatka-pasta-od/*
 
 Palačinke sam godinama spremala odokativno, ali ste me toliko puta pitali za recept da sam jednom prilikom sastojke merila u gram i upisala u svoju knjigu. Za mnoge od nas ovo je jedan od prvih “specijaliteta” iz kuhinje. Ne znam da li sam ikada i upoznala osobu koja ih ne voli 🤗
 
@@ -14624,10 +14407,10 @@ Kako vam se čini ideja..?
 
 ---
 
-<a id="cbmkjm7sumg"></a>
+<a id="nedelja"></a>
 ### Nedelja
 
-*2022-03-27 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CbmkjM7suMG/)*
+*2022-03-27 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CbmkjM7suMG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nedelja/*
 
 Ovakve najviše volim, kada okupim najdraže, kada se potrudim da serviram onako da i meni srce zaigra. Kada je svaki zalogaj ljubav i kada sa osmehom idemo kroz dan.
 
@@ -14668,10 +14451,10 @@ Prijatno 🌸🌸🌸
 
 ---
 
-<a id="cbhzyhcamww"></a>
+<a id="mafini-sa-komadicima-cokolade"></a>
 ### Mafini sa komadićima čokolade
 
-*2022-03-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CbHzYHCAmww/)*
+*2022-03-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CbHzYHCAmww/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mafini-sa-komadicima-cokolade/*
 
 Za pripremu ovih mafina neće vam biti potreban  čak ni mikser, smućkate sastojke za 5, rernu koristite 15 minuta i ispred vas su najsočniji i najmekši mafini sa komadićima čokolade. Ovaj recept koristim godinama i ne menjam 😍
 Velikima uz kaficu, malima uz šolju mleka i uživanje može da počne 🧁🥛
@@ -14704,10 +14487,10 @@ Ko će isprobati..?
 
 ---
 
-<a id="ca_9r2rsu4n"></a>
+<a id="slatke-malina-lepinjice"></a>
 ### Slatke malina lepinjice
 
-*2022-03-12 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/Ca_9r2Rsu4n/)*
+*2022-03-12 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/Ca_9r2Rsu4n/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slatke-malina-lepinjice/*
 
 Ovo mekano, mirisno i divno testo je postalo hit na drustvenim mrežama pa se pravi i u slanim i u slatkim varijantama. Ja sam ovog puta isprobala slatku varijantu sa sosom od malina i krem sirom i oduševljena sam ukusom 😍
 Idealno za vikend doručak ali i da se lepo osladite u nekom dobrom društvu 🥰
@@ -14748,10 +14531,10 @@ Uživajte u ovom divnom, divnom mirisnom i mekanom slatkom testu 💓
 
 ---
 
-<a id="ca1kq_dsbdy"></a>
+<a id="bela-jagodica"></a>
 ### Bela jagodica
 
-*2022-03-08 · Torte · galerija · [Instagram post](https://www.instagram.com/p/Ca1kq_DsBDY/)*
+*2022-03-08 · Torte · galerija · [Instagram post](https://www.instagram.com/p/Ca1kq_DsBDY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bela-jagodica/*
 
 Ovog puta kombinovala sam sveže jagode i belu čokoladu i tortica je nestala, a okupilo se samo nas nekoliko najbližih 😍
 Ja bih rekla da to znači da ova tortica zaslužuje da se nadje i na vašem stolu za one najslađe događaje 🍓🍓🍓
@@ -14803,10 +14586,10 @@ Posle par sati na hlađenju je spremna za dekoraciju i degustaciju 🤗🥰
 
 ---
 
-<a id="canfg4bg88o"></a>
+<a id="aromaticni-hlebcici-sa-umakom-od-sira"></a>
 ### Aromatični hlebčići sa umakom od sira
 
-*2022-03-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/CanFg4Bg88o/)*
+*2022-03-02 · Slano · reel · [Instagram post](https://www.instagram.com/p/CanFg4Bg88o/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/aromaticni-hlebcici-sa-umakom-od-sira/*
 
 Nemojte da vas dužina vremena koja je potrebna za pripremu pokoleba, oooo, to ni slučajno! Izuzetno je lako pripremiti, potrebno je samo imati strpljenja dok testo narasta. Ali ovom ćete oduševiti i najveće probirljivce. Testo je mekano kaoooo duša. Blaga aroma luka, krupna morska so, pa kad se okruglice hleba umoče u otopljen sir, maaa 🥰🥰🥰
 T R A N S !!!
@@ -14851,10 +14634,10 @@ Nadam se da vam se dopada, kod nas se ne zna ko je više oduševljen ❤️
 
 ---
 
-<a id="cabwfnwsaje"></a>
+<a id="americke-palacinke-3"></a>
 ### Američke palačinke
 
-*2022-02-26 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CabwFNWsajE/)*
+*2022-02-26 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CabwFNWsajE/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americke-palacinke-3/*
 
 Za sve one koji sa nestrpljenjem čekaju na neke lepe pripreme i ne mogu ni da zamisle vikend bez takvog sadržaja na mom profilu 🥰
 
@@ -14891,10 +14674,10 @@ Prijatno! 💞
 
 ---
 
-<a id="camcjdmas1x"></a>
+<a id="brzi-jogurt-ustipci"></a>
 ### Brzi jogurt uštipci
 
-*2022-02-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CaMcJDMAs1x/)*
+*2022-02-20 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CaMcJDMAs1x/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brzi-jogurt-ustipci/*
 
 Znam koliko volite ove prvenstveno jednostavne recepte od samo par sastojaka, još kad se spremaju jako brzo bez nekog čekanja, dok se ukućani razbude i srede sačeka ih topao doručak i možete se okupiti za stolom 😍
 
@@ -14927,10 +14710,10 @@ Uživajte u nedelji ❤️
 
 ---
 
-<a id="cafhvjdabzt"></a>
+<a id="vanil-krofnice-u-beloj-cokoladi"></a>
 ### Vanil krofnice u beloj čokoladi
 
-*2022-02-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CaFhVjDAbzt/)*
+*2022-02-17 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CaFhVjDAbzt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/vanil-krofnice-u-beloj-cokoladi/*
 
 Ovog puta vam ostavljam jedan sjajan recept za krofnice onda kada nemate vremena za čekanje da testo naraste. Sjajna stvar je što se ne prže u ulju već možete da ih pripremate u rerni u kalupu za krofne ili u aparatu za krofnice, šta god da vam je zgodnije ☺️☺️☺️
 
@@ -14966,10 +14749,10 @@ Uživajte u slatkim zalogajima 💓
 
 ---
 
-<a id="cz9ewz5sxv_"></a>
+<a id="servirajte-ljubav-svaki-dan"></a>
 ### Servirajte ljubav svaki dan
 
-*2022-02-14 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CZ9EwZ5sxv_/)*
+*2022-02-14 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CZ9EwZ5sxv_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/servirajte-ljubav-svaki-dan/*
 
 Kroz razgovor, kroz dogovor, kroz hranu, kroz zagrljaj, pogled, delo, dodir ❤️
 
@@ -15010,10 +14793,10 @@ Ja sam koristila silikonski kalup @svet.poslasticara i pekla ih tačno 7 minuta 
 
 ---
 
-<a id="cz6t8rusvta"></a>
+<a id="feta-srculenca"></a>
 ### Feta srculenca
 
-*2022-02-13 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CZ6T8RUsVta/)*
+*2022-02-13 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CZ6T8RUsVta/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/feta-srculenca/*
 
 Čuveno pecivo od samo 3 osnovna sastojka, prelepog ukusa, idealan doručak uz solju jogurta i praktična užina za dečicu 🥰🥰🥰
 
@@ -15053,10 +14836,10 @@ Prijatno 🥰
 
 ---
 
-<a id="cz1di-xa8md"></a>
+<a id="srcoliki-popsi"></a>
 ### Srcoliki popsi
 
-*2022-02-11 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CZ1dI-xA8Md/)*
+*2022-02-11 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CZ1dI-xA8Md/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/srcoliki-popsi/*
 
 Evo jedne toliko proste ideje za ljubavne popsiće 🥰
 Samo 5 sastojka do ukusnog i preslatkog dezerta na štapiću 🥰🥰🥰
@@ -15088,10 +14871,10 @@ Uživajte u vikendu i ovom divnom vremenu ☺️
 
 ---
 
-<a id="czwmaaygavt"></a>
+<a id="ljubavni-puter-keksici"></a>
 ### Ljubavni puter keksići
 
-*2022-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CZwMAAygAvT/)*
+*2022-02-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CZwMAAygAvT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ljubavni-puter-keksici/*
 
 Internet ovih dana mami sa pregršt ideja i predloga raznih poslastica srcolikog oblika, pa mi je tako negde proletela ideja da sredina puter keksića bude baš u znaku ljubavi 🥰
 A kako je recept lagan, brzo se pripremaju, predivnog ukusa i za pripremu vam nije potreban nikakav kalup, rešila sam da ideju podelim sa vama ❤️
@@ -15123,10 +14906,10 @@ Kako vam se čine..?
 
 ---
 
-<a id="czrgfyaas6n"></a>
+<a id="srculenca"></a>
 ### Srculenca
 
-*2022-02-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CZrGFyaAs6N/)*
+*2022-02-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CZrGFyaAs6N/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/srculenca/*
 
 Koliko god delovalo da nije moguće ovakve kolačiće spremiti kod kuće, da su ovo oni koje imamo samo prilike da degustiramo u nekim finim poslastičarnicama, nije istina 🤗☺️☺️☺️
 Potrebni su vam samo odgovarajući kalupi i dobra volja 🥰
@@ -15178,10 +14961,10 @@ Srećno svima! ❤️❤️❤️
 
 ---
 
-<a id="czbpkngsw8o"></a>
+<a id="kinder-cookies-2"></a>
 ### Kinder cookies
 
-*2022-02-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CZbpkNGsw8O/)*
+*2022-02-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CZbpkNGsw8O/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-cookies-2/*
 
 Znate koliko ih volim. Oni nekako pozivaju na druženja. Kada god ih spremam okupljamo se porodično, sa prijateljima, proslavljamo rodjendane, neke sitne uspehe, ili jednostavno uživamo u dugim pričama i slatkim zalogajima. 🥰
 Za vikend smo se slatko služili, pa da i vama ostavim ideju za neko lepo okupljanje ❤️
@@ -15216,10 +14999,10 @@ Uživajte 🌸🌸🌸
 
 ---
 
-<a id="czt2zyvmp0r"></a>
+<a id="mirisna-subotna-jutra"></a>
 ### Mirisna subotna jutra
 
-*2022-01-29 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CZT2zyVMP0R/)*
+*2022-01-29 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CZT2zyVMP0R/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mirisna-subotna-jutra/*
 
 Ponekad tako uspem da se iskradem iz kreveta, a da Kalina ne oseti, samo ponekad. Ustanem i umesim testo za mamine kiflice mekane ko duša 🥰 A onda sednem i sačekam da miris razbudi sve ukućane ❤️
 
@@ -15256,10 +15039,10 @@ Lep i mirisan vikend vam želim 🥐🌸
 
 ---
 
-<a id="czozkyljowc"></a>
+<a id="apple-crumble-pie"></a>
 ### Apple crumble pie
 
-*2022-01-27 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CZOzkylJOWc/)*
+*2022-01-27 · Peciva i hleb · reel · [Instagram post](https://www.instagram.com/p/CZOzkylJOWc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/apple-crumble-pie/*
 
 Da se razumemo, nije mi trebalo mnogo vremena da odlučim šta prvo želim da ispečem i serviram u ove preslatke @isabelle.rose.u.beogradu činijice 🥣
 
@@ -15298,10 +15081,10 @@ Ukoliko zelite činijice kao moje, prosetajte do @imaginarium.concept -a i čik 
 
 ---
 
-<a id="cy6zilnmp2m"></a>
+<a id="bela-cokolada-malina-tart"></a>
 ### Bela čokolada malina tart
 
-*2022-01-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CY6zilNMp2M/)*
+*2022-01-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CY6zilNMp2M/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bela-cokolada-malina-tart/*
 
 Ovaj tart je čokoladna bomba, kombinacija bele čokolade, maline i blage note kokosa, saaavršenstvo jedno da vam ja kažem 🥰🥰🥰
 
@@ -15342,10 +15125,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cyzgnaqpyew"></a>
+<a id="homemade-burgers-3"></a>
 ### Homemade burgers
 
-*2022-01-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/CYzGNaqpyEw/)*
+*2022-01-16 · Slano · reel · [Instagram post](https://www.instagram.com/p/CYzGNaqpyEw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-burgers-3/*
 
 Nedelja i domaći burgeri, da ne dužim i predjem odmah na detalje pripreme 🥰
 
@@ -15395,10 +15178,10 @@ Prijatno 💫
 
 ---
 
-<a id="cyvsruqppts"></a>
+<a id="rekla-bih-da-ce-ovaj-vikend-u-mnogim-domovima-biti-rezerv"></a>
 ### Rekla bih da će ovaj vikend u mnogim domovima biti rezerv…
 
-*2022-01-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CYvsRUqpPtS/)*
+*2022-01-15 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CYvsRUqpPtS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rekla-bih-da-ce-ovaj-vikend-u-mnogim-domovima-biti-rezerv/*
 
 Rekla bih da će ovaj vikend u mnogim domovima biti rezervisan za rasklapanje jelke i odlaganje ukrasa, da ponedeljak dočekamo sa nekom novom energijom i konačno se pozdravimo sa praznicima i praznovanjem pa da možemo  da krenemo sa svim onim odlukama koje smo sebi zacrtali 🎄🤗
 
@@ -15423,10 +15206,10 @@ A vi gde god da ste ovaj vikend i kakvi god da su vam planovi - uživajte u sitn
 
 ---
 
-<a id="cyozpmnj-lk"></a>
+<a id="pancerote-iz-rerne"></a>
 ### Pancerote iz rerne
 
-*2022-01-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/CYozPmNJ-lK/)*
+*2022-01-12 · Slano · reel · [Instagram post](https://www.instagram.com/p/CYozPmNJ-lK/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pancerote-iz-rerne/*
 
 Kad napolju zazimi ništa lepše nego da se kroz kuću razmiriše neko lepo pecivo. Ovog puta donosim vam recept za slaniš koji često spremam i koji svi vole 🤗😋
 Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
@@ -15456,11 +15239,11 @@ Pancerote iz rerne, bez prženja u dubokom ulju, a baš baaaš divne 😍
 
 - 1 jaje
 - susam
-- 1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadodje
-- 2. Promešati pa postepeno dodati brašno sa soli i umesiti glatko testo, potom ga prekriti providnom folijom i ostaviti 20ak minuta
 
 **Priprema**
 
+1. Sjediniti mleko i vodu, dodati šećer, kvasac i kašičicu brašna pa ostaviti da malo nadodje
+2. Promešati pa postepeno dodati brašno sa soli i umesiti glatko testo, potom ga prekriti providnom folijom i ostaviti 20ak minuta
 3. Pripremiti sastojke za nadev
 4. Oklagijom razvuci testo i vaditi krugove veličine po želji. Na sredinu svakog staviti nađe i preklopiti pa se pobrinuti da ivice predjete viljuskom kako nadev prilikom pečenja ne bi cureo. Ja sam sasvim slučajno naišla na ovu plastičnu spravicu i resila da je isprobam - odlično se pokazala ☺️
 5. Pancerote ostaviti 20 ak minuta u plehu, pa premazati umućenim jajetom i posuti susamom. Pećinara i zagrejanoj termo na 220C 18-20 minuta, tj dok ne porumene ☺️
@@ -15469,10 +15252,10 @@ Hoće li se na vašoj trpezi pre naći za doručak ili večeru ..? 😋
 
 ---
 
-<a id="cyglxe8mfhe"></a>
+<a id="pistacchiotti"></a>
 ### Pistacchiotti
 
-*2022-01-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CYglXe8MFHe/)*
+*2022-01-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CYglXe8MFHe/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pistacchiotti/*
 
 Ponestalo prazničnih kolačića..?
 
@@ -15499,10 +15282,10 @@ Ali uživanje u ovim pistać zalogajima je stvarno posebno ❤️
 
 ---
 
-<a id="cyzjaajmaxy"></a>
+<a id="raspukli-cokoladni-keksici"></a>
 ### Raspukli čokoladni keksići
 
-*2022-01-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CYZJAAJMaxY/)*
+*2022-01-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CYZJAAJMaxY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/raspukli-cokoladni-keksici/*
 
 Ovo su jedni od onih keksića kod kojih izgled vara. Pogledate ih ovako raspuknute i pomislite kako spadaju u kategoriju prkih keksica, a istina je potpuno drugačija ☺️
 Unutra se krije mekani čokoladni užitak 🤗 Vrlo su jednostavni za pripremu i meni su baš ovakvi preslatki.
@@ -15533,10 +15316,10 @@ Prijatno ❣️
 
 ---
 
-<a id="cywuf-spand"></a>
+<a id="cajni-keksici-snezne-zvezdice"></a>
 ### Čajni keksići snežne zvezdice
 
-*2022-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CYWUf-SpAND/)*
+*2022-01-05 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CYWUf-SpAND/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cajni-keksici-snezne-zvezdice/*
 
 Koliko volim puteraste keksiće to ste već shvatili, a koliko tek volim one koji se pripreme danas pa mogu da se grickaju nekoliko dana 🥰🥰🥰
 Materijalom za pripremu sam se opremila u @lidlsrbija , ali sam pored namirnica za keksiće izabrala i neke lepe čajeve koji uz njih savršeno idu 😍
@@ -15568,10 +15351,10 @@ Uživajte ❤️
 
 ---
 
-<a id="cyjd7m1mwd1"></a>
+<a id="rudolf-sladoledici"></a>
 ### Rudolf sladoledići
 
-*2021-12-31 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CYJD7M1MWD1/)*
+*2021-12-31 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CYJD7M1MWD1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rudolf-sladoledici/*
 
 Ukoliko niste imali dovoljno vremena za pripreme, a želite večeras  da obradujete i mališane, pa i one velike - imam rešenje za vas. Mini tortice na štapiću, pa još u obliku sladoleda, dečija radost ☺️☺️☺️
 Nije što su slatki i jako jednostavni za pripremu, već su i preukusni.
@@ -15604,10 +15387,10 @@ A noć dočekajte ušuškani i voljeni 🎄
 
 ---
 
-<a id="cx_le4rm8dv"></a>
+<a id="cimet-rolnice"></a>
 ### Cimet rolnice
 
-*2021-12-27 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CX_le4RM8dV/)*
+*2021-12-27 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CX_le4RM8dV/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cimet-rolnice/*
 
 Ova hladnoća napolju voli najmekše, puterasto testo i to ono od kojeg cela kuća zamiriše za cimet. 💫
 
@@ -15653,10 +15436,10 @@ Sa kim biste ih smazali..? 😉
 
 ---
 
-<a id="cx1pwmumaxs"></a>
+<a id="rudolf-sendvic-keksici-2"></a>
 ### Rudolf sendvič keksići
 
-*2021-12-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CX1PWmuMAxS/)*
+*2021-12-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CX1PWmuMAxS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rudolf-sendvic-keksici-2/*
 
 Prošle godine u ovo vreme na pamet mi je pala ova ideja - za čokoladne irvas keksice, ove godine dospeli su u pisano izdanje Blic kujne, a ja ću ga ponoviti ovde uz uspomenu više ☺️
 Pripremali ste ih i zavoleli na prvi pogled, nadam se da će vam i ove godine zamirisati dom 💫
@@ -15690,10 +15473,10 @@ A ja znam koga sigurno možete oduševiti ovakvim keksićima❤️
 
 ---
 
-<a id="cxyap0xsmgb"></a>
+<a id="coko-lesnik-praline"></a>
 ### Čoko lešnik praline
 
-*2021-12-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXyAp0xsMgb/)*
+*2021-12-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXyAp0xsMgb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-lesnik-praline/*
 
 Meni je toooliko fascinantno da se ovako prelepi čokoladni zalogajčići pripreme za 10ak minuta uz samo par sastojaka, a da su predivnog ukusa i savršenog izgleda 🥰
 Pa zamislite ih samo uz šoljicu kafe ili recimo u nekoj malenoj ukrasnoj kutiji sa kojom ćete nekome ulepšati praznike..? ❤️
@@ -15720,10 +15503,10 @@ Nadam se da su vas oduševili koliko i mene 🥰🥰🥰
 
 ---
 
-<a id="cxvcyees2lp"></a>
+<a id="ferrero-rocher-cake"></a>
 ### Ferrero rocher cake
 
-*2021-12-21 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CXvcyees2Lp/)*
+*2021-12-21 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CXvcyees2Lp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ferrero-rocher-cake/*
 
 Danas sam rešena da sa vama podelim jednu brutalno dobru, jaku, onako pravu čokoladnu tortu u koju pored čokolade ide i puter i nutella krem i lešnik. Kako zvuči..?
 Njoj baš niko nikada nije ostao ravnodušan 😍
@@ -15774,10 +15557,10 @@ Uživajte 🥰
 
 ---
 
-<a id="cxoamtrmog_"></a>
+<a id="posna-bajadera"></a>
 ### Posna bajadera
 
-*2021-12-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXoamTrMoG_/)*
+*2021-12-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXoamTrMoG_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posna-bajadera/*
 
 Sasvim razumno, uoči Sv. Nikole, slave koju slavi moja porodica i moje devojačke postavljam recept za posnu bajaderu, najlepšu bajaderu koju majka pravi godinama, prepunu oraha i lešnika 🥰
 Odmah  da kažem mera je poprilična, za pleh dimenzija 40x25, pa je možete i prepoloviti ako pripremate samo da se počastite u krugu porodice.
@@ -15815,10 +15598,10 @@ Uživajte 🥰
 
 ---
 
-<a id="cxiselymr42"></a>
+<a id="puter-keksici"></a>
 ### Puter keksići
 
-*2021-12-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXisELYMR42/)*
+*2021-12-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXisELYMR42/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-keksici/*
 
 Hajde da puter keksiće učinimo malo zanimljivijim i po obliku i po izgledu. 🥰 Sa ispečenim se poigrajte pa ih umočite u otopljene čokolade ili pak pospite šećerom u prahu uz dodatak omiljenog dzema, kombinacija koliko volite 🥰
 Radost za dečicu, a sjajna vest je da se mogu pripremiti i nekoliko dana unapred ❤️
@@ -15858,10 +15641,10 @@ Jedva čekam da vidim vaše izvedbe ❤️
 
 ---
 
-<a id="cxbi2fcmojt"></a>
+<a id="coko-malina-fantazija"></a>
 ### Čoko malina fantazija
 
-*2021-12-13 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CXbi2FCMOjT/)*
+*2021-12-13 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CXbi2FCMOjT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-malina-fantazija/*
 
 Decembar u našoj porodici nije poseban  po svemu onom lepom sto on nosi sam po sebi već i po tome da se u tom mesecu kriju i neki najdraži rodjendani. ❤️
 Ovo je tortica koju sam spremala za rodjendan moje mame, pa je sva satkana od čokolade i ima tu neodoljivu malina notu baš kako ona voli 🥰
@@ -15914,10 +15697,10 @@ Jedva čekam da vidim ko će je sve isprobati 🤗
 
 ---
 
-<a id="cxqtn-rmwpr"></a>
+<a id="orascici"></a>
 ### Oraščići
 
-*2021-12-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXQtN-rMwPr/)*
+*2021-12-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXQtN-rMwPr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/orascici/*
 
 Ko se seća ovih preukusnih kolačića? Ovo su jedni od onih kolačića iz našeg detinjstva, jedni od omiljenih sa slavskih trpeza 🥰
 O kako smo ih samo brat i ja voleli.. A onda sam i zaboravila za njih dok negde nisam ugledala kalupe i odlučih da ga iznenadim ❤️
@@ -15949,10 +15732,10 @@ Uživajte ❤️
 
 ---
 
-<a id="cxizkmkmcae"></a>
+<a id="cokoladni-cupcakes"></a>
 ### Čokoladni cupcakes
 
-*2021-12-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXIzKmkMcaE/)*
+*2021-12-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CXIzKmkMcaE/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladni-cupcakes/*
 
 Decembar je mesec keksića, cupcake-ova i tortica, pa u tom maniru danas jedan recept i jedna ideja kako obući kapkejkove u novogodišnje odelo 🥰
 Ja sam poželela da moji podsećaju na toplu čokoladu - jer složićete se, ona spada u omiljene zimske napitke 🤗
@@ -16000,10 +15783,10 @@ Kako vam se čine..? 🧁🍭
 
 ---
 
-<a id="cxbfndtar0n"></a>
+<a id="kad-je-dan-siv"></a>
 ### Kad je dan siv
 
-*2021-12-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CXBFNdtAr0N/)*
+*2021-12-03 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CXBFNdtAr0N/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kad-je-dan-siv/*
 
 Kad je dan siv, kišan i ne uliva baš neko raspoloženje, odvojite 10 minuta sa ga učinite malim slatkim rajem za nepca 🥰
 Da li ste nekad pravili toplu čokoladu kod kuće..?
@@ -16044,10 +15827,10 @@ P.S. Koristila sam @deko_rs papirne slamčice ko me prati od početka zna i koli
 
 ---
 
-<a id="cw8ujsisdp5"></a>
+<a id="cokoladni-medenjaci"></a>
 ### Čokoladni medenjaci
 
-*2021-12-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CW8ujSisDp5/)*
+*2021-12-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CW8ujSisDp5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladni-medenjaci/*
 
 Medenjaci kao neizostavni slatkiš hladnih jesenjih i zimskih dana 🍯
 Ne znam kakva je situacija kod vas ali moja dečica ih obožavaju.. A da se ne lažemo volimo ih i mi veliki,obožavam i pripremu, pa tek onaj miris koji se širi kućom.. 🏡🎄❤️
@@ -16088,10 +15871,10 @@ Nadam se da ćete ih isprobati ❤️
 
 ---
 
-<a id="cw2-tzis2sq"></a>
+<a id="kokos-gnezda"></a>
 ### Kokos gnezda
 
-*2021-11-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CW2-tzIs2sq/)*
+*2021-11-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CW2-tzIs2sq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kokos-gnezda/*
 
 Čini mi se da sam najkreativnija onda kada mi najviše fali vazduha.. Moja kuhinja je moja oaza i tamo se potrudim da zbrišem i onda kada ne znam gde ću pre, od nagomilanog posla, obaveza, lošeg osećaja u stomaku.. Tu sam svoja, kreativna, stvaram lepo, ukusno.. i isključim se.
 Šta vas drži na zemlji..?
@@ -16131,10 +15914,10 @@ Lepu i uspešnu nedelju vam želim 🌸
 
 ---
 
-<a id="cwx0f05syym"></a>
+<a id="pita-sa-piletinom-i-kackavaljem-2"></a>
 ### Pita sa piletinom i kačkavaljem
 
-*2021-11-27 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CWx0F05syym/)*
+*2021-11-27 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CWx0F05syym/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pita-sa-piletinom-i-kackavaljem-2/*
 
 Mmmm.. ova pita! Već nekoliko godina je neizostavna na svim okupljanjima u našem domu, a ukoliko isprobate recept saznaćete i zašto 🙈 Naime i nastala je kao moja ideja da nadjem zamenu za pizza pitu koja je do tada bila naš favorit.
 Jaaako je sočna, bas zbog ovog premaza koji ide na prve dve kore, a piletina i kvalitetan punomasni kackavalj sa mrvicom začina joj daju bogat ukus, pa sam sigurna da je nećete spremiti samo jednom.
@@ -16168,10 +15951,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cwvhkkjsrgc"></a>
+<a id="slani-rolat"></a>
 ### Slani rolat
 
-*2021-11-26 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CWvHKKJsRgC/)*
+*2021-11-26 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CWvHKKJsRgC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slani-rolat/*
 
 Neizostavni deo predjela koji ušareni i ulepša svaku slanu dasku ☺️
 Jedno vreme su bili jako popularni rolati sa spanaćem i ajvarom, pa sam ja u nekom trenutku dok sam pripremala proslavu za nešto više ljudi došla na ideju da ga bojim i nekim drugim bojama. Tako sam u smesu dodala mlevene orahe i na kraju mi se on ukusom najviše i dopao 🥰
@@ -16208,10 +15991,10 @@ Uživajte 🤎
 
 ---
 
-<a id="cwskur6m0ef"></a>
+<a id="slane-kuglice"></a>
 ### Slane kuglice
 
-*2021-11-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWskUR6M0Ef/)*
+*2021-11-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWskUR6M0Ef/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slane-kuglice/*
 
 Kuglice koje ćete spremiti za nekoliko minuta, od samo 4 osnovna sastojka, punog , savršenog ukusa 🥰
 Obogatiće svaku dasku, ulepšati svako druženje 🍽
@@ -16241,10 +16024,10 @@ Javite mi utiske 🤎
 
 ---
 
-<a id="cwnbm9ksqbq"></a>
+<a id="baklava-sa-pistacima"></a>
 ### Baklava sa pistaćima
 
-*2021-11-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWnbm9ksqBQ/)*
+*2021-11-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWnbm9ksqBQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/baklava-sa-pistacima/*
 
 Neko bi rekao kraljica među slatkišima, ja kažem da mi je ovo parče tako trebalo danas. 🙈
 Muž kaže zauzela vrh liste svih poslastica koje sam pripremila , a gosti, oni ovog puta nisu stigli da probaju 😅
@@ -16287,10 +16070,10 @@ Lep dan vam želim 🤎
 
 ---
 
-<a id="cwaapptsrau"></a>
+<a id="jutros-me-je-bas-iznenadio-i-obradovao-jedan-podatak"></a>
 ### Jutros me je baš iznenadio i obradovao jedan podatak
 
-*2021-11-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWaapPtsraU/)*
+*2021-11-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWaapPtsraU/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jutros-me-je-bas-iznenadio-i-obradovao-jedan-podatak/*
 
 Ljudiiii, 50.000 duša podržava ovo što ja radim ❤️ ❤️❤️
 
@@ -16336,10 +16119,10 @@ Uživajte 🤎
 
 ---
 
-<a id="cwx3atwsvez"></a>
+<a id="zrna-kafe"></a>
 ### Zrna kafe
 
-*2021-11-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWX3atWsVez/)*
+*2021-11-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWX3atWsVez/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zrna-kafe/*
 
 Kako vam se kolačići čine iz ove perspektive…?
 
@@ -16375,18 +16158,24 @@ Video pripreme vas čeka u Highlights folderu 🤎
 
 ---
 
-<a id="cwvcpohmoii"></a>
-### Novembar je mesec slava
+<a id="1-lesnik-gnezda"></a>
+### 1. Lesnik gnezda
 
-*2021-11-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWVcPohMOII/)*
+*2021-11-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWVcPohMOII/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/1-lesnik-gnezda/*
 
 Novembar je mesec slava, a kako  sam se ja juče opremila #belbake proizvodima u @lidlsrbija odmah sam se bacila na pripremu, pa želim da vam ostavim recept za top tri sitna kolača u našoj porodici 🥰
 Ovo su ona tri koja prva nestaju sa tacni 🤗 pa se nadam da ćete i vi uživati u ukusima ☺️
 
+1. Lesnik gnezda
+2. Zrna kafe
+3. Badem praline
+
+Da krenemo od prvog i da vam odmah napišem, ukoliko slavite posnu slavu puter zamenite margarinom i vodite računa da koristite crnu čokoladu i posni keks. Sve mere ostaju iste 🤎
+
+Lešnik gnezda 🌰
+
 **Sastojci**
 
-- 1. Lesnik gnezda
-- 3. Badem praline
 
 *Sastojci*
 
@@ -16404,12 +16193,6 @@ Ovo su ona tri koja prva nestaju sa tacni 🤗 pa se nadam da ćete i vi uživat
 
 **Priprema**
 
-2. Zrna kafe
-
-Da krenemo od prvog i da vam odmah napišem, ukoliko slavite posnu slavu puter zamenite margarinom i vodite računa da koristite crnu čokoladu i posni keks. Sve mere ostaju iste 🤎
-
-Lešnik gnezda 🌰
-
 U šerpicu sipajte vodu, šećer i dodajte puter. Kada već puter krene da se topi, dodajte i čokoladu. Izmešajte tako da se sastojci otope i povežu pa ostavite da na laganoj vatri prokrčka. Sklonite sa ringle i smesi dodajte mleveni keks i mleveni pečeni lešnik.
 Ovo prvo prohladite pa ostavite u frižideru nekih pola sata do sat vremena. Potom odvajate smesu (ja sam gledala da bude po 15gr kako bi svaki kolačić bio isti)
 Formirate kuglice, svaku uvaljate u sitni seckani lešnik, pa svakoj udubite sredinu kako bi dodali po malo krema. Ja sam ga sipala u dresir kesu i tako nanosila.
@@ -16419,10 +16202,10 @@ Koji biste vi prvi smazali..? 😋
 
 ---
 
-<a id="cwd9lgbsntd"></a>
+<a id="potaz-sa-brokolijem-i-cedar-sirom"></a>
 ### Potaž sa brokolijem i čedar sirom
 
-*2021-11-09 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CWD9LGbsntD/)*
+*2021-11-09 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CWD9LGbsntD/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/potaz-sa-brokolijem-i-cedar-sirom/*
 
 Evo jednog savršeno kremastog potaža za ove prohladne dane 🤗
 Tražili ste više slanih recepata, pa hajde neka prvi u nizu bude praktična ideja za ručak ☺️
@@ -16454,10 +16237,10 @@ Prijatno 🍲
 
 ---
 
-<a id="cwa0rjem3lb"></a>
+<a id="carobni-lesnik-keksici"></a>
 ### Čarobni lešnik keksići
 
-*2021-11-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWA0rjeM3LB/)*
+*2021-11-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CWA0rjeM3LB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/carobni-lesnik-keksici/*
 
 Moram da priznam da sam se ovih dana uželela da imam svoje vreme u kuhinji za smišljanje i pripremu nekih ukusnih i slatkih recepata.. A tako su mi se po glavi motali neki lepi puter keksići ☺️
 I to ne bilo kakvi, posebno lepi, preliveni karamel čokoladom, spajani nutelom , preliveni ruby čokoladom, spajani dzemom od maline..🍪
@@ -16499,10 +16282,10 @@ Nadam se da će vam razvedriti dan 🍪
 
 ---
 
-<a id="cv3fasdmqsi"></a>
+<a id="kuglof-od-lesnika-i-cokolade"></a>
 ### Kuglof od lešnika i čokolade
 
-*2021-11-04 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CV3FaSdMQSi/)*
+*2021-11-04 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CV3FaSdMQSi/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kuglof-od-lesnika-i-cokolade/*
 
 Ovo sivilo napolju prosto traži da se rerne upale i da se kuća razmiriše 🥰
 Kod mene ovog puta na puter, lešnik, čokoladu.. Onako kako najviše volim ☺️
@@ -16540,10 +16323,10 @@ Uz šoljicu kafe, čaja.. Neka bude jedan lagani užitak 🥰
 
 ---
 
-<a id="cvu09-9ms-i"></a>
+<a id="pasta-sa-piletinom-u-lesniku"></a>
 ### Pasta sa piletinom u lešniku
 
-*2021-11-01 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CVu09-9Ms-I/)*
+*2021-11-01 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CVu09-9Ms-I/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pasta-sa-piletinom-u-lesniku/*
 
 Od kada sam svesna sebe volim da pripremam hranu, volim da ugadjam ukućanima i kombinujem namirnice koje volimo.. 🤎Oduvek je ljubav prema pripremi i dekorisanju slatkog uzimala primat jer to zamisljam kao onu višnjicu na vrhu kapkejka, a ručak, njega nekako manje više moramo da pripremamo svi 🤗.. Ali hajde da danas uživate i vi u snimcima koje ću ostaviti na storiju i ovoj savršeno sočnoj pasti koja se spremi za samo nekoliko minuta, a dugo se pamti 😉
 
@@ -16572,10 +16355,10 @@ Uživajte u ovom ponedeljka i početku novog meseca 🤎
 
 ---
 
-<a id="cvcj-brsf-t"></a>
+<a id="domaci-kroasani-2"></a>
 ### Domaći kroasani
 
-*2021-10-25 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CVcj-BrsF-T/)*
+*2021-10-25 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CVcj-BrsF-T/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-kroasani-2/*
 
 “Bez aditiva i veštačkih boja, homemade varijanta, a ja se osećam kao da sedim u nekoj ušuškanoj, slatkoj pekarici ili nekom finom kafiću, ispijam omiljeni cappuccino i jedem roze kroasan 🌸🌸🌸”
 
@@ -16613,10 +16396,10 @@ Roze - ruby #callebaut čokolada by @curcuma__shop 💓
 
 ---
 
-<a id="cvqfbcpmwnu"></a>
+<a id="kolac-sa-makom-i-jabukama"></a>
 ### Kolač sa makom i jabukama
 
-*2021-10-20 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CVQfbcPMwnu/)*
+*2021-10-20 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CVQfbcPMwnu/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-sa-makom-i-jabukama/*
 
 Danas sam pripremila jedan saaaavršeno sočan kolač sa makom i jabukama, okupan čokoladom razume se ☺️☺️☺️ I nisam stigla da podelim pripremu sa vama, to očekujte sutra na storiju, ali ja sam toliko nestrpljiva da čujem vaše utiske pa se nadam da ću vam sočnost preneti slikom 🤍
 
@@ -16658,10 +16441,10 @@ Lepo veče vam želim 🤍
 
 ---
 
-<a id="cvc1sexs5hx"></a>
+<a id="oreo-cokoladni-cookies"></a>
 ### Oreo čokoladni cookies
 
-*2021-10-15 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CVC1SEXs5hx/)*
+*2021-10-15 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CVC1SEXs5hx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/oreo-cokoladni-cookies/*
 
 Danas opet tmurno, kišno.. 😔
 A ono što mi najviše smeta jeste što takvi dani guše količinu dnevne svetlosti u kući i što onda odlažem neke lepe pripreme.. Food blogeri će najbolje razumeti 😅
@@ -16700,10 +16483,10 @@ Lep vikend vam želim 💓
 
 ---
 
-<a id="cuuy1e7shu6"></a>
+<a id="kinder-bueno-tortica"></a>
 ### Kinder bueno tortica
 
-*2021-10-07 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CUuY1E7sHU6/)*
+*2021-10-07 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CUuY1E7sHU6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-tortica/*
 
 Ovim bojama želim da rasteram oblake i zaustavim vetar! 🥰
 Prvo što sam poželela da vam spremim sa kinder bueno kremom jeste ova tortica, toliko je posebna, ukusna i lepa da ćete je sigurno pripremati za neke vama važne trenutke 🥰
@@ -16751,10 +16534,10 @@ Kako vam se čini..?
 
 ---
 
-<a id="cumkdhispik"></a>
+<a id="kinder-bueno-krem"></a>
 ### Kinder bueno krem
 
-*2021-10-04 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CUmkdHIsPiK/)*
+*2021-10-04 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CUmkdHIsPiK/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-bueno-krem/*
 
 **Sastojci**
 
@@ -16784,10 +16567,10 @@ Ja sam dobila 550gr krema ☺️
 
 ---
 
-<a id="cuzktdmadni"></a>
+<a id="coko-karamel-keksici"></a>
 ### Coko karamel keksići
 
-*2021-09-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CUZkTdmAdNi/)*
+*2021-09-29 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CUZkTdmAdNi/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-karamel-keksici/*
 
 Čokolada i karamela 🥰 Meni zvuči kao savršen spoj ☺️ Maleni preslatki i preukusni keksići koji se lagano i za kratko vreme pripremaju, a lagano i nestaju sa tacne verujte mi na reč 🙈
 
@@ -16812,10 +16595,10 @@ Nakon pečenja sačekajte da se potpuno ohlade pa u sredinu sipajte karamelu i u
 
 ---
 
-<a id="cupih35sw0l"></a>
+<a id="puter-puzici-sa-prsutom-i-sirom"></a>
 ### Puter pužići sa pršutom i sirom
 
-*2021-09-25 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CUPIh35sW0l/)*
+*2021-09-25 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CUPIh35sW0l/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-puzici-sa-prsutom-i-sirom/*
 
 Hajde da ovu subotu zaslanimo i da vam ostavim recept za pužice mekane kao duša 🥰
 Neka vam se na stolu nadju za dorucak, večeru ili užinu, uz šolju jogurta, a vole ih i mali i veliki 🥰
@@ -16853,10 +16636,10 @@ Uživajte u vikendu ❤️
 
 ---
 
-<a id="cuhhnoos8_p"></a>
+<a id="americka-pita-sa-jabukama"></a>
 ### Američka pita sa jabukama
 
-*2021-09-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CUHhNOos8_p/)*
+*2021-09-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CUHhNOos8_p/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americka-pita-sa-jabukama/*
 
 Ova pita je san!!! Bukvalno! Ljudi moji, znate onaj osećaj kad se sva moguća čula probude. Ovaj ukus nepca pamte! O itekako!
 Znam da me stalno hvalite kako su mi slike divne i kako lepo postavim hranu, ovog puta mislim da slikom nisam uspela ni pola da prenesem. A kako mi kuća mirise..? Uh.
@@ -16896,10 +16679,10 @@ Ja sam preoduševljena, malo je reci koliko se tooopi u ustima i koooliko je taj
 
 ---
 
-<a id="cuchx1rmvey"></a>
+<a id="cookies-sa-dve-vrste-cokolade-i-lesnicima"></a>
 ### Cookies sa dve vrste čokolade i lešnicima
 
-*2021-09-20 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CUChx1rMvey/)*
+*2021-09-20 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CUChx1rMvey/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cookies-sa-dve-vrste-cokolade-i-lesnicima/*
 
 Ono što ove cookies razlikuje od ostalih koje ste isprobali sa mog profila je braon puter.
 Do sada sam nekako najčešće 🍪 pripremala sa omekšalim ili tek istopljenim puterom ovog puta sam želela da vidim razliku u ukusu i teksturi kada se pripremaju sa braon puterom.
@@ -16939,10 +16722,10 @@ Neka vam kiša ne pokvari raspoloženje, već ugreje rerne i razmiriše kuću �
 
 ---
 
-<a id="ct6q-aim7t9"></a>
+<a id="lagani-kolac-sa-breskvama-i-malinama"></a>
 ### Lagani kolač sa breskvama i malinama
 
-*2021-09-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CT6q-aIM7T9/)*
+*2021-09-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CT6q-aIM7T9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lagani-kolac-sa-breskvama-i-malinama/*
 
 Pa dok jesen ne preuzme maha i iz kuće ne krene da se širi miris jabuka i cimeta da podelim sa vama jedan fin recept za lagani voćni kolač sa breskvama i malinama ☺️
 Meni je nekako za uz šolju čaja, za užinu, za uživanje natenane 🥰
@@ -16982,10 +16765,10 @@ Uživajte, vikend je pred nama 💫
 
 ---
 
-<a id="ctwejp7sn-q"></a>
+<a id="bounty-cokoladice-2"></a>
 ### Bounty čokoladice
 
-*2021-09-13 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CTweJP7sN-Q/)*
+*2021-09-13 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CTweJP7sN-Q/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bounty-cokoladice-2/*
 
 Ove čokoladice sam prvi put pravila da obradujem tatu , ali se ispostavilo da ih sada krijemo po kući kako bi ostale i za njega, jer ih svi obožavamo 🤗
 U recept koji sam nekada pravila, samo sam dodala malo zasladjenog kondenzovanog mleka i to im je dalo dodatnu sočnost i lakoću oblikovanja.
@@ -17017,10 +16800,10 @@ Srećan ponedeljak 🌸🌸🌸
 
 ---
 
-<a id="cthds-wa1ew"></a>
+<a id="socni-kolac-sa-borovnicama"></a>
 ### Sočni kolač sa borovnicama
 
-*2021-09-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CThDs-WA1Ew/)*
+*2021-09-07 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CThDs-WA1Ew/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-kolac-sa-borovnicama/*
 
 Voćni kolač u mekanom testu, za užinu ili užitak uz kafu, mlekce, za sve generacije, dok se još mogu lepe borovnice pronaći na pijaci 🌸
 
@@ -17050,10 +16833,10 @@ Lep dan vam želim 🌸
 
 ---
 
-<a id="ctzfnnfmst9"></a>
+<a id="grcke-krofnice-sa-feta-sirom-i-parmezanom"></a>
 ### Grčke krofnice sa feta sirom i parmezanom
 
-*2021-09-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CTZFNnFMsT9/)*
+*2021-09-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CTZFNnFMsT9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/grcke-krofnice-sa-feta-sirom-i-parmezanom/*
 
 Smesa se smućka za bukvalno 3 minuta, možete da birate da li biste ih pripremali u kalupu za krofnice koje ćete peći u rerni ili biste radije u aparatu, isprobane su obe varijante i smesa je pogodna za obe, malu prednost dajem ovima iz rerne, veće su krofnice, više narastu i nekako je puniji ukus ☺️
 Ja sam moje silikonske kalupe pronašla kod Kineza i cena im je bila simbolična, tako da sam odmah uzela dva da nema čekanja izmedju pečenja ☺️
@@ -17088,10 +16871,10 @@ Prijatnu i lepu subotu vam želim 🌸
 
 ---
 
-<a id="ctm79h4szcz"></a>
+<a id="kuglof-od-bele-i-crne-cokolade"></a>
 ### Kuglof od bele i crne čokolade
 
-*2021-08-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CTM79h4sZcZ/)*
+*2021-08-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CTM79h4sZcZ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kuglof-od-bele-i-crne-cokolade/*
 
 Stiže obećani recept za kolač koji je tako jednostavan, lagan za pripremu i od sastojaka koje uvek imamo u kući ☺️
 Moja dečica bi menjala svaki sa filovima i korama, komplikovanim prelivima za jedno ovo parčence.
@@ -17130,10 +16913,10 @@ Nadam se da će se i u vašoj kući voleti ☺️
 
 ---
 
-<a id="cs_wc1imhsq"></a>
+<a id="slatke-kiflice"></a>
 ### Slatke kiflice
 
-*2021-08-25 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CS_wC1iMhsq/)*
+*2021-08-25 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CS_wC1iMhsq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/slatke-kiflice/*
 
 Sivilo i kiša posebno vole rernu i mekano testo, miris koji se širi kućom i umackane prste od krema koji curi sa svih strana 🥰
 A posto smo juče puno pričali o podršci, uočila sam jedan profil, jednu savršenu sliku kiflica sa kremom i odlučila da ih brze bolje isprobam i pohvalim sjajnu @ja_u_ulozi_domacice kod koje ćete pronaci puno zanimljivih recepata 💓
@@ -17167,10 +16950,10 @@ Ako isprobate, javite mi utiske, nadam se da će i vama rasterati oblake 🥰
 
 ---
 
-<a id="cs6f9iosfaj"></a>
+<a id="cokoladni-mafini"></a>
 ### Čokoladni mafini
 
-*2021-08-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CS6f9iOsFaJ/)*
+*2021-08-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CS6f9iOsFaJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladni-mafini/*
 
 Ovo je recept za mafine sa puuuno čokolade, kakaom, nutellom, mafine koji su savršeno mekani i onako vlažni, baš kakve mi volimo.
 Bogat ukus čokolade je razlog da im se uvek vratite. Dovoljan vam je samo jedan da se lepo zasladite, pa vam je ova mera (14 komada) nekako taman i za okupljanje sa prijateljima, a uvek možete i da je prepolovite po potrebi ☺️
@@ -17209,10 +16992,10 @@ Srećan i uspešan pocetak nedelje vam želim 💓
 
 ---
 
-<a id="csyt6fqm0oo"></a>
+<a id="americke-palacinke-2"></a>
 ### Američke palačinke
 
-*2021-08-20 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CSyt6fqM0oO/)*
+*2021-08-20 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CSyt6fqM0oO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americke-palacinke-2/*
 
 Evo kako to izgleda kada ja udovoljavam 🥰.. Onda palačinke mogu da budu i minijaturne za one kojima je tako sladje, da se biraju kremovi i voćkice, da doručak bude u podne i da sedimo na terasi i sat vremena posle jela, a da još uvek ništa nije rasklonjeno 🙈
 
@@ -17244,10 +17027,10 @@ Uživajte u danu 🌸
 
 ---
 
-<a id="csw2pjssztv"></a>
+<a id="homemade-icecream"></a>
 ### Homemade icecream
 
-*2021-08-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CSw2pjSszTv/)*
+*2021-08-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CSw2pjSszTv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-icecream/*
 
 Nutella kinder sladoled
 
@@ -17280,10 +17063,10 @@ Koju kombinaciju bi vi isprobali..?
 
 ---
 
-<a id="csocj2bsbl4"></a>
+<a id="malina-pistac-vencici"></a>
 ### Malina pistać venčići
 
-*2021-08-16 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CSocj2bsbL4/)*
+*2021-08-16 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CSocj2bsbL4/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/malina-pistac-vencici/*
 
 Možda nije svojstveno ovim vrelim danima, ali toliko je slatko kad se preskoče i viljuška i nož pa se umažu prsti da se “smeši brk” 🥰
 Mekano i vazdušasto slatko puter testo, premazano džemom od malina , posuto seckanim pistaćima, pa još na kraju preliveno da verujem da već palite klime i proveravate da li su svi sastojci na broju 💓
@@ -17327,10 +17110,10 @@ Uživajte 💓💓💓
 
 ---
 
-<a id="cslr6_nmki5"></a>
+<a id="ledena-kasa"></a>
 ### Ledena kaša
 
-*2021-08-15 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CSlr6_NMkI5/)*
+*2021-08-15 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CSlr6_NMkI5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ledena-kasa/*
 
 Toliko prija ovo kremasto savršenstvo, a možete je smazati za doručak, neku užinu ili kao dezert 🤤
 Baš je često spremam jer je idealna za ove vrele letnje dane i uvek me neko pita za recept ☺️
@@ -17355,10 +17138,10 @@ Uživajte u nedelji i ako još niste, a isprobate, javite mi utiske 💓
 
 ---
 
-<a id="csw6dz5mde1"></a>
+<a id="kolac-sa-nektarinama-i-belom-kokos-cokoladom"></a>
 ### Kolač sa nektarinama i belom kokos čokoladom
 
-*2021-08-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CSW6Dz5Mde1/)*
+*2021-08-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CSW6Dz5Mde1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kolac-sa-nektarinama-i-belom-kokos-cokoladom/*
 
 Poželela sam jedan kremast, lagan, a opet nekako moćan i drugačiji letnji kolač.
 I najiskrenije dobila sam i više od toga. 🥰
@@ -17421,10 +17204,10 @@ Neka vas ne obeshrabri dužina recepta priprema je lagana, a kolač vredan ispro
 
 ---
 
-<a id="cstlkwssyts"></a>
+<a id="borovnica-shake"></a>
 ### Borovnica shake
 
-*2021-08-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CSTlKwSsYTS/)*
+*2021-08-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CSTlKwSsYTS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/borovnica-shake/*
 
 Da dan krene poletno, osvežavajuće i zdravo ☺️☺️
 Ovo ledeno osveženje će vam i te kako prijati za ona jutra kada vam je preko potrebna dodatna energija ☺️
@@ -17455,10 +17238,10 @@ Lepu nedelju vam želim 🌸
 
 ---
 
-<a id="cr6mz9tp6kt"></a>
+<a id="brownie-kup"></a>
 ### Brownie kup
 
-*2021-07-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CR6MZ9Tp6Kt/)*
+*2021-07-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CR6MZ9Tp6Kt/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie-kup/*
 
 Dobre ideje, zalogaji koji se pamte i oni neki osećaji koji sa sobom nose uvek na repeat!
 
@@ -17492,10 +17275,10 @@ Uživajte 💓
 
 ---
 
-<a id="crrqny9pkfs"></a>
+<a id="breskva-mafini"></a>
 ### Breskva mafini
 
-*2021-07-23 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CRrQnY9pkfS/)*
+*2021-07-23 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CRrQnY9pkfS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/breskva-mafini/*
 
 Ne laskam im kad kažem da zauzimaju sam vrh omiljenih 🧁
 Znam, nisu fotogenični ili samo ja nemam ideju kako da ih lepo uslikam i prikažem ih sto bolje te vas namamim na isprobavanje..
@@ -17546,10 +17329,10 @@ Lep vikend vam želim 💓
 
 ---
 
-<a id="cryol6npwk9"></a>
+<a id="letnji-tart-od-bele-cokolade-i"></a>
 ### Letnji tart od bele čokolade i
 
-*2021-07-16 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CRYoL6npwK9/)*
+*2021-07-16 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CRYoL6npwK9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/letnji-tart-od-bele-cokolade-i/*
 
 Hajmo malo da se poigramo ukusima i iskoristimo voće koje je aktuelno u sezoni, pa da krenemo od jedne lepe poslastice koja najavljuje vikend druženje ☺️☺️☺️
 
@@ -17606,10 +17389,10 @@ Uživajte u vikendu 🌸
 
 ---
 
-<a id="crvzsizpc1o"></a>
+<a id="jer-je-vredna-svakog-isprobavanja"></a>
 ### Jer je vredna svakog isprobavanja
 
-*2021-07-15 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CRVzsiZpc1o/)*
+*2021-07-15 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CRVzsiZpc1o/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jer-je-vredna-svakog-isprobavanja/*
 
 Ljuuuudi, napravila sam tako dobru ledenu, kremastu kašu, ooooduševljena sam i prenosim vam utiske! 😍
 Jer je vredna svakog isprobavanja 🤤
@@ -17638,10 +17421,10 @@ Sve sastojke za pripremu možete pronaci u @curcuma__shop a oni danas otvaraju i
 
 ---
 
-<a id="crglfv6jgnu"></a>
+<a id="jabuka-mafini"></a>
 ### Jabuka mafini
 
-*2021-07-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CRGlFV6JGNu/)*
+*2021-07-09 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CRGlFV6JGNu/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jabuka-mafini/*
 
 Još jedan recept iz edicije, nije slikabilan ali je preukusan, sprema se za čas, “smuti pa prospi”, ne palite čak ni mikser, a preeeeukusan je! 🤗
 
@@ -17671,10 +17454,10 @@ Prijatno 🌸
 
 ---
 
-<a id="crbzducphmx"></a>
+<a id="keksici-sa-dzemom-od-kajsija"></a>
 ### Keksići sa džemom od kajsija
 
-*2021-07-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CRBZDucpHMX/)*
+*2021-07-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CRBZDucpHMX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/keksici-sa-dzemom-od-kajsija/*
 
 Miris i ukus ovih keksića vraća u detinjstvo ☺️
 Ono jednostavno, mekano, puterasto testo koje se topi u ustima i džem od kajsije 🥰Jednostavno, a tako prelepo.. Jedan zalogaj i uploviš u neke davne prelepe uspomene. Ono kad mama napravi keksiće a dvorište se preplovi drugarima iz ulice, pa se čuje samo smeh i graja i traži koji keksić više.. 💫
@@ -17714,10 +17497,10 @@ Nadam se da ću još nekoga vratiti u detinjstvo ☺️
 
 ---
 
-<a id="cqx52cejsr4"></a>
+<a id="ovog-jutra-smo-svi-zajedno-na-dorucku"></a>
 ### Ovog jutra smo svi zajedno na doručku
 
-*2021-07-01 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CQx52CEJsR4/)*
+*2021-07-01 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CQx52CEJsR4/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovog-jutra-smo-svi-zajedno-na-dorucku/*
 
 Ovog jutra smo svi zajedno na doručku, ako mene pitate vikend je počeo ranije i jako mu se radujem
 💓💓💓
@@ -17753,10 +17536,10 @@ Ja sam na to oduvek bila sa zadovoljstvom “slaba” ❤️
 
 ---
 
-<a id="cqqumlsphox"></a>
+<a id="coko-lesnik-tart"></a>
 ### Čoko lešnik tart
 
-*2021-06-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CQqUmlSphoX/)*
+*2021-06-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CQqUmlSphoX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-lesnik-tart/*
 
 Eksplozija ukusa, savršen čokoladni užitak, verujte mi na reč ☺️
 Ovo je najisprobavaniji tart sa mog profila, toooliko ste ga pravili, toliko ste ga hvalili, pa evo jedan mali podsetnik da ovaj ponedeljak bude sladji 🥰
@@ -17793,10 +17576,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cqlf1cgp-mp"></a>
+<a id="oreo-truffles-2"></a>
 ### Oreo truffles
 
-*2021-06-26 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CQlF1Cgp-mp/)*
+*2021-06-26 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CQlF1Cgp-mp/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/oreo-truffles-2/*
 
 Ove bombice će vas oduvati 🥰🥰🥰
 Prave se sa samo 4 sastojka, a ukus je za prepričavanje! Verujte mi na reč!
@@ -17827,10 +17610,10 @@ Lep dan vam želim 🌸
 
 ---
 
-<a id="cqdzdchpgfs"></a>
+<a id="hvala-vam-drugari"></a>
 ### Hvala vam drugari
 
-*2021-06-23 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CQdZdchpgFS/)*
+*2021-06-23 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CQdZdchpgFS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hvala-vam-drugari/*
 
 Proslavljamo što vas je u ovolikom broju tu, jer vi ste energija i motivacija. Mnogo sam zahvalna za sve lepe reči i podršku jer je ona pokretač i vetar u ledja 💓
 Zato se danas sladimo pooosebno lepom tortom i uz prijatelje iz @curcuma__shop jer su od početka tu i prepoznali su “ono nešto” 🥰
@@ -17880,10 +17663,10 @@ Uživajte 💓💓💓
 
 ---
 
-<a id="cqzf_dbpa_v"></a>
+<a id="osvezavajuc-i-neodoljivo-mekan-limun-kolac"></a>
 ### Osvežavajuć i neodoljivo mekan limun kolač
 
-*2021-06-21 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CQZF_dbpa_V/)*
+*2021-06-21 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CQZF_dbpa_V/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/osvezavajuc-i-neodoljivo-mekan-limun-kolac/*
 
 Ovom kolaču nisam davala posebnu šansu, ali oduševio je. 🥰 Da se ne lažemo, pronašla sam mu nezamenljiv dodatak, callebaut kapljice bele čokolade sa aromom limuna iz @curcuma__shop , auu ljudi moji, pa vi ne možete da zamislite koooliko su kremaste i preeeukusne, bukvalno sam ostala zatečena.
 Umesto šećernih preliva koji se najčešće koriste za ovaj tip kolača, ova topljena čokolada je idealno legla 👌🏼
@@ -17922,10 +17705,10 @@ Pa, prijatno 🍋🌸
 
 ---
 
-<a id="cqqiefopwkq"></a>
+<a id="jagoda-shake"></a>
 ### Jagoda shake
 
-*2021-06-18 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CQQiEfOpWKQ/)*
+*2021-06-18 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CQQiEfOpWKQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-shake/*
 
 Peeeeetaaak 🌸🌸🌸
 
@@ -17963,10 +17746,10 @@ Uživajte u vikendu 🌸
 
 ---
 
-<a id="cqlamhhp-d_"></a>
+<a id="pita-sa-i-crnom-cokoladom"></a>
 ### Pita sa i crnom čokoladom
 
-*2021-06-16 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CQLaMHHp-d_/)*
+*2021-06-16 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CQLaMHHp-d_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pita-sa-i-crnom-cokoladom/*
 
 Brutalno sočna i moćna kombinacija - višnja nadev i crna čokolada.
 Verujem da će vas oduševiti. 🥰
@@ -17978,7 +17761,6 @@ Da ne dužim, ostavljam recept i smernice za pripremu:
 *Potrebne su*
 
 - 1. kore za pitu (9 komada)✔️
-- 3. višnja nadev ✔️
 - 4. crna čokolada (150 gr)✔️
 
 *Premaz za kore*
@@ -17998,6 +17780,7 @@ Da ne dužim, ostavljam recept i smernice za pripremu:
 **Priprema**
 
 2. premaz za kore ✔️
+3. višnja nadev ✔️
 
 Sjedini se sve i umuti žicom za mućenje pa se time premazuju prva, druga i treća kora, a na treću uz donju ivicu se stavlja 🍒 nadev, pa preko kapljice crne čokolade ili sitnije seckana crna čokolada. Podviju se kore sa strane, još malo premažu, pa se lagano urola.
 Ja sam od ove smese imala dovoljno materijala za tri pruta pite.
@@ -18014,10 +17797,10 @@ Uživajte 🍒
 
 ---
 
-<a id="cqjyyrypukx"></a>
+<a id="visnja-nadev"></a>
 ### Višnja nadev
 
-*2021-06-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CQJYYRypukx/)*
+*2021-06-15 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CQJYYRypukx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/visnja-nadev/*
 
 Sezona višnjica je upravo startovala, a verujem da mnogi od vas obožavaju kiselkasto osvežavajuću notu koju one daju same po sebi, e sad zamislite ih u savršenom nadevu, koji će  poslužiti za razno razne dezerte, kao preliv za palačinke i definitivno razbuditi nepca 🍒🤤
 
@@ -18043,10 +17826,10 @@ Na umu mi je nekoliko ideja za pripremu poslastica, šta mislite šta prvo pripr
 
 ---
 
-<a id="cqa9hy7jjnx"></a>
+<a id="cheesecake-palacinke"></a>
 ### Cheesecake palačinke
 
-*2021-06-12 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CQA9HY7JjnX/)*
+*2021-06-12 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CQA9HY7JjnX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cheesecake-palacinke/*
 
 Neka ostane zabeležena i ovde jedna brutalno dobra, osvezavajuća i kremasta ideja za filovanje palačinki💓
 Jer ideje su da ih delimo, degustiramo i uživamo 🥰
@@ -18086,10 +17869,10 @@ Kako vi najviše volite da ih kremkate..?
 
 ---
 
-<a id="cp77v8ljxeg"></a>
+<a id="kinder-cookies"></a>
 ### Kinder cookies
 
-*2021-06-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CP77V8lJXeG/)*
+*2021-06-10 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CP77V8lJXeG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-cookies/*
 
 Njih ćete obozavati! 🥰🥰🥰
 
@@ -18127,10 +17910,10 @@ Uživajte 🌸🌸🌸
 
 ---
 
-<a id="cp0q2hdpleb"></a>
+<a id="da-uozbiljimo-malo-stvar"></a>
 ### Da uozbiljimo malo stvar
 
-*2021-06-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/CP0Q2HDpleB/)*
+*2021-06-07 · Slano · reel · [Instagram post](https://www.instagram.com/p/CP0Q2HDpleB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/da-uozbiljimo-malo-stvar/*
 
 Da uozbiljimo malo stvar, da ne pomisle ljudi da mi slatkiše jedemo za doručak, ručak i večeru 😅
 
@@ -18162,10 +17945,10 @@ Uživajte i prijatno 🍅
 
 ---
 
-<a id="cpyd0sdp9a6"></a>
+<a id="kinder-plazma-shake"></a>
 ### Kinder plazma shake
 
-*2021-06-06 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CPyd0Sdp9A6/)*
+*2021-06-06 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CPyd0Sdp9A6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-plazma-shake/*
 
 Ma da rasteramo ove sive oblake 🌨
 
@@ -18193,10 +17976,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cpsg-ompqen"></a>
+<a id="cokoladne-krofnice"></a>
 ### Čokoladne krofnice
 
-*2021-06-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPsg-ompQEn/)*
+*2021-06-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPsg-ompQEn/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladne-krofnice/*
 
 iz rerne 🍩🍩🍩💓
 
@@ -18239,10 +18022,10 @@ Uživajte u vikendu 💓
 
 ---
 
-<a id="cpn2bnajenr"></a>
+<a id="sasvim-obicne-coko-jagoda-kockice"></a>
 ### Sasvim obične čoko jagoda kockice
 
-*2021-06-02 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPn2BNAJenr/)*
+*2021-06-02 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPn2BNAJenr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sasvim-obicne-coko-jagoda-kockice/*
 
 Svima nama  potreban je i jedan sasvim jednostavan recept za izdašan i ukusan kolač koji će voleti i dečica i mi malo veći ☺️
 Još kad je priprema jednostavna i brza onda se zasigurno nađe i u svesci i jedan je od onih koji se najslađe smaže uz prijatelje i kaficu 🥰🥰🥰
@@ -18290,10 +18073,10 @@ Javite utiske 💓💓💓
 
 ---
 
-<a id="cpaehnwjytr"></a>
+<a id="socni-kolac-sa-jagodama"></a>
 ### Sočni kolač sa jagodama
 
-*2021-05-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPaeHnWJYTr/)*
+*2021-05-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CPaeHnWJYTr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socni-kolac-sa-jagodama/*
 
 Sada kada su pijace preplovljene domaćim slatkim 🍓 da ne posustanem sa receptima na tu temu ☺️
 A i navikla sam vas obradujem dobrim receptom pred vikend da uživanje i druženje bude još sladje 🥰
@@ -18341,10 +18124,10 @@ Uživajte u vikendu 💓
 
 ---
 
-<a id="cpqmve9pbqs"></a>
+<a id="sladoled-sendvic-tortica"></a>
 ### Sladoled sendvič tortica
 
-*2021-05-24 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CPQMvE9pbQs/)*
+*2021-05-24 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CPQMvE9pbQs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sladoled-sendvic-tortica/*
 
 Danas sam vam  pripremila jednu fenomenalnu sladoled sendvič tortu 💓
 
@@ -18382,8 +18165,6 @@ Sve sastojke za pripremu sam kupila u @lidlsrbija, a recept kao i uvek delim sa 
 
 **Priprema**
 
-Priprema:
-
 Mikserom umutite jaja pa im dodate kakao sa prhosvatom soli. U manjoj šerpici puter otopite na šporetu, pa u vreo dodate šećere, mutite mikserom 1 minut, pa povežete smesom sa jajima. Na kraju dodate brašno sa praškom za pecivo i sjedinite. Dobićete gustu smesu koju delite na dva dela. Tačnije dobijate nekih 480 gr čokoladne smese i delite je na po 240 gr koje izlijete i uravnate u kalupe prečnika 20 cm. Ja sam stavila i pek papir kako se ne bi zalepilo. Peku se tačno 10 minuta i onda ih ostavite na hladjenju.
 Sladoled pre korišćenja nekih 15 ak minuta ostavite u frižideru, kako bi lepo omeksao.
 Pomešajte ga lagano kašikom sa grčkim jogurtom i tome dodajte oprane i posušene maline posute kašikom kristal šećera.
@@ -18397,10 +18178,10 @@ Jedva čekam da isprobate 🥰
 
 ---
 
-<a id="cpns2xjjzx8"></a>
+<a id="cokoladni-waffle"></a>
 ### ČOKOLADNI WAFFLE
 
-*2021-05-23 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CPNS2xJJZX8/)*
+*2021-05-23 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CPNS2xJJZX8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cokoladni-waffle/*
 
 Obične svi volimo, ali nedelja je dan kada ugadjamo svim čulima, pa hajde da budu čokoladni 🥰🥰🥰
 
@@ -18435,10 +18216,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cpihfnhjfcj"></a>
+<a id="raffaello-malinica-u-casi"></a>
 ### Raffaello malinica u čaši
 
-*2021-05-21 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CPIhFnHJfCj/)*
+*2021-05-21 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CPIhFnHJfCj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/raffaello-malinica-u-casi/*
 
 Za vikend pred nama imam predlog za jedan savršeno kremast i brzinski dezert u čaši 🥰
 
@@ -18481,10 +18262,10 @@ Nadam se da će vas oduseviti 🌸
 
 ---
 
-<a id="cpdu--2jd2a"></a>
+<a id="homemade"></a>
 ### Homemade
 
-*2021-05-19 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CPDU--2JD2a/)*
+*2021-05-19 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CPDU--2JD2a/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade/*
 
 **Sastojci**
 
@@ -18512,10 +18293,10 @@ Dobijate jednu manju teglicu od oko 350 gr krema, pa ko želi da duplira meru da
 
 ---
 
-<a id="cpasad-pukp"></a>
+<a id="oreo-truffles"></a>
 ### Oreo truffles
 
-*2021-05-18 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CPAsaD-pukP/)*
+*2021-05-18 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CPAsaD-pukP/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/oreo-truffles/*
 
 Ove bombice će vas oduvati 🥰🥰🥰
 Prave se sa samo 4 sastojka, a ukus je za prepričavanje! Verujte mi na reč!
@@ -18546,10 +18327,10 @@ Lep dan vam želim 🌸
 
 ---
 
-<a id="co2zng8j_qv"></a>
+<a id="oreo-jagodica"></a>
 ### Oreo jagodica
 
-*2021-05-14 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CO2ZNG8J_Qv/)*
+*2021-05-14 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CO2ZNG8J_Qv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/oreo-jagodica/*
 
 Ljudiii moji, kakav ukus! Pun, intenzivan, bogat.. Čaroban 🥰🥰🥰
 Oblaci mi nisu bili naklonjeni kada sam želela da je slikam, ali ja se nadam da ću vam preneti delić mog doživljaja..
@@ -18598,10 +18379,10 @@ Pišite mi utiske 💓
 
 ---
 
-<a id="cokrd1spjr1"></a>
+<a id="jagoda-sladoled-tart"></a>
 ### Jagoda sladoled tart
 
-*2021-05-07 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/COkRd1SpJR1/)*
+*2021-05-07 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/COkRd1SpJR1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-sladoled-tart/*
 
 Samo ću vam reći da je u pitanju kombinacija meni omiljenih jagoda, bele čokolade, kondenzovanog mleka i marscapone sira na podlozi od plazme i putera.
 Maaa... 🥰🥰🥰
@@ -18645,10 +18426,10 @@ Ohladjenom tartu dodajte sveže jagode i listiće badema, pa uživajte u ovim sa
 
 ---
 
-<a id="coadlw_pokw"></a>
+<a id="puter-kajzerice-sa-belim-lukom-2"></a>
 ### Puter kajzerice sa belim lukom
 
-*2021-05-03 · Slano · reel · [Instagram post](https://www.instagram.com/p/COaDLW_pOkW/)*
+*2021-05-03 · Slano · reel · [Instagram post](https://www.instagram.com/p/COaDLW_pOkW/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-kajzerice-sa-belim-lukom-2/*
 
 Obećala sam vam da će se recept za ove savrseno mekane i aromatične kajzerice naći i ovde, na reels-u, a ja se nadam da će vam se dopasti 🥰
 Valja ovo vreme praznovanja iskoristiti da se umesi nešto što obožavaju i stariji i mladji, a što ćete, verujem poželeti  da spremite inače🥰
@@ -18687,10 +18468,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cop-kphpx7t"></a>
+<a id="uskrsnji-coko-kolac"></a>
 ### Uskršnji čoko kolač
 
-*2021-04-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COP-kPhpX7t/)*
+*2021-04-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COP-kPhpX7t/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrsnji-coko-kolac/*
 
 Recept vam ostavljam ispod slike, vizuelno je simpatična ideja kojom ćete obradovati klince, priprema se mnogo jednostavno i ne oduzima puno vremena.
 U suštini dobijate čokoladnu bazu premazanu nugat kremom, posutu mrvicama orea i po neku jagodicu u čokoladi koja glumi šargarepicu 🥰
@@ -18732,10 +18513,10 @@ Divan dan vam želim 💓
 
 ---
 
-<a id="conomb3p06p"></a>
+<a id="uskrsnji-mini-kuglofi"></a>
 ### Uskršnji mini kuglofi
 
-*2021-04-28 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CONOmB3p06p/)*
+*2021-04-28 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CONOmB3p06p/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uskrsnji-mini-kuglofi/*
 
 Još jedna ideja za pripremu poslastice za Uskrs koja će vam oduzeti malo vremena, a ukusom i izgledom neće razočarati 🥰
 Mini kuglofi od vanila testa preliveni belom čokoladom, pa još uz dodatak slatkih šarenih bombonica 🥰🥰🥰
@@ -18772,10 +18553,10 @@ Uživajte u pripremi i isprobavanju 💓
 
 ---
 
-<a id="cokpzkcpq0i"></a>
+<a id="ovog-puta-sam-se-potrudila-da-im-oblik-bude"></a>
 ### Ovog puta sam se potrudila da im oblik bude
 
-*2021-04-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COKpzkCpq0I/)*
+*2021-04-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COKpzkCpq0I/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovog-puta-sam-se-potrudila-da-im-oblik-bude/*
 
 Za predstojeći praznik želim puno slatkih osmeha, lepih boja i vedrine. E baš takve sam zamislila i popsiće 🍭
 Ovog puta sam se potrudila da im oblik bude 🥚, pa da kompletno odgovaraju temi 🥰
@@ -18815,10 +18596,10 @@ Jedva čekam da vidim vaša mala remek dela 💓
 
 ---
 
-<a id="cofseoepmlu"></a>
+<a id="krofnice-iz-aparata"></a>
 ### Krofnice iz aparata
 
-*2021-04-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COFSeOepmLu/)*
+*2021-04-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/COFSeOepmLu/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofnice-iz-aparata/*
 
 Pre nekog vremena sam uzela ovaj aparat za krofnice, pa nikako da podelim sa vama ove mere koje su se meni pokazale taman 👌🏼
 Toliko su minijaturne da su naravno dečici još sladje, naime nije vam potreban ni mikser, sve sastojke redom dodajte i mutite ručno, žicom.
@@ -18847,10 +18628,10 @@ Prijatno 💓
 
 ---
 
-<a id="cochm0upe0j"></a>
+<a id="najjednostavnije-je-cesto-i-najlepse"></a>
 ### Najjednostavnije je često i najlepše
 
-*2021-04-24 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/COChm0UpE0j/)*
+*2021-04-24 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/COChm0UpE0j/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/najjednostavnije-je-cesto-i-najlepse/*
 
 Toliko ste me puta pitali kako pravim nes kafu..
 
@@ -18876,10 +18657,10 @@ Dobro jutro sunce, dobro jutro suboto ☕️🤍
 
 ---
 
-<a id="cn2bxsrj9ks"></a>
+<a id="nekoliko-saveta-za-savrsene"></a>
 ### Nekoliko saveta za savršene
 
-*2021-04-19 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CN2BXSRJ9kS/)*
+*2021-04-19 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CN2BXSRJ9kS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nekoliko-saveta-za-savrsene/*
 
 Jedan od nama omiljenih slatkiša u uskršnjem ruhu - cookies sa komadićima čokolade i šarenim bombonicama 🍪🐰🌸
 
@@ -18918,10 +18699,10 @@ Prijatno 🐰🌸
 
 ---
 
-<a id="cnzwfn-pycm"></a>
+<a id="susam-ustipci"></a>
 ### Susam uštipci
 
-*2021-04-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CNZwFn-pyCM/)*
+*2021-04-08 · Kolači i keks · reel · [Instagram post](https://www.instagram.com/p/CNZwFn-pyCM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/susam-ustipci/*
 
 Ne znam osobu koju uštipci ne vraćaju u detinjstvo, ono kad majka ustane pre svih, pa nas dočeka ogromna činija, domaći kajmak, sir, džem.. Pa se umaste prstići, umažu obrazi, pa razdragani i veseli otrčimo u dan.. 🥰
 Pravili su se i sa mlekom i sa jogurtom, i sa jajima i bez.. Ali pre neki dan mi je protrčala ova ideja da budu okupani susamom, videla sam je kod @jovanamilanovic_ 💓pa smo ih jutros takve smazali.. 🤗
@@ -18947,10 +18728,10 @@ Uživajte 🥰🥰🥰
 
 ---
 
-<a id="cnupyiepi06"></a>
+<a id="savrseni-brusketi"></a>
 ### Savršeni brusketi
 
-*2021-04-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CNUpyiEpi06/)*
+*2021-04-06 · Slano · reel · [Instagram post](https://www.instagram.com/p/CNUpyiEpi06/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/savrseni-brusketi/*
 
 Uh.. 🤤
 Ovo je jedan od onih recepata koji sam preuzela od sestre, više i ne pamtim pre koliko godina, znam samo da su večno bili glavni na svim mogućim okupljanjima sa prijateljima, da su ih sve drugarice prepisivale u svesku i da se još nije pojavio neko ko ih ne voli 🥰
@@ -18979,10 +18760,10 @@ Jedva čekam  vaše utiske 🥰🥰🥰
 
 ---
 
-<a id="cnp3fvejxxx"></a>
+<a id="stapici-sa-sirom-2"></a>
 ### Štapići sa sirom
 
-*2021-04-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CNP3FvEJxxx/)*
+*2021-04-04 · Slano · reel · [Instagram post](https://www.instagram.com/p/CNP3FvEJxxx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-sirom-2/*
 
 Priprema od svega par sastojaka, testo koje možete držati preko noći u frižideru pa vam ujutru doručak oduzima manje vremena, a najlepše od svega sto ih deca obožavaju i odlično se slažu uz šolju jogurta.
 
@@ -19009,10 +18790,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cnhjpdzjdnq"></a>
+<a id="leptirici"></a>
 ### Leptirići
 
-*2021-04-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CNHjPdzJDNQ/)*
+*2021-04-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CNHjPdzJDNQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/leptirici/*
 
 Prvi u nizu kolačića koji su obavezni za prazničnom trpezom. Oni, koje možete pripremiti i nekoliko dana ranije, samo se svojski potrudite da ne nestanu pre Uskrsa 🥰
 Ja sam oduševljena ukusom. Dečica ga obožavaju. Testu posebnu notu daju mleveni badem i malčice cimeta, a kremkani su bono premium kremom @pionir_subotica sa čak 20% lešnika. 🌰💓
@@ -19046,10 +18827,10 @@ Lep dan vam želim 🦋🌸💓
 
 ---
 
-<a id="cnfqfntpmfm"></a>
+<a id="strawberry-milkshake"></a>
 ### Strawberry milkshake
 
-*2021-03-31 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CNFQFNtpMFM/)*
+*2021-03-31 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CNFQFNtpMFM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/strawberry-milkshake/*
 
 Verujem da će vam osladiti
 i ohladiti dan 🥰
@@ -19072,10 +18853,10 @@ Uživajte 😉🌸
 
 ---
 
-<a id="cncfaw9pz7n"></a>
+<a id="jagoda-rolat"></a>
 ### Jagoda rolat
 
-*2021-03-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CNCfAW9pz7n/)*
+*2021-03-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CNCfAW9pz7n/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-rolat/*
 
 Kako je vreme rešilo da nas raduje suncem, mirisom jagoda i procvetalim cvećem tako sam brze bolje poželela ovaj jednostavan, lagan, osvežavajuć i preukusan dezert 🤗
 Spoj svežih jagoda u marscapone siru, uz malo domaćeg dzema od 🍓 da pridoda slasti 🥰
@@ -19114,15 +18895,12 @@ Na prohladjen patišpanj premažite prvo džem, pa beli fil, pa prespite jagodam
 
 ---
 
-<a id="cnazedapuw4"></a>
+<a id="sezona-hladne-nes-kafe-zvanicno-otvorena"></a>
 ### Sezona hladne nes kafe zvanično otvorena
 
-*2021-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CNAZeDApuW4/)*
+*2021-03-29 · Deserti i kremovi · reel · [Instagram post](https://www.instagram.com/p/CNAZeDApuW4/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sezona-hladne-nes-kafe-zvanicno-otvorena/*
 
 **Sastojci**
-
-
-*Priprema*
 
 - 2 ravne kašičice nes kafe
 - kašičica sećera
@@ -19137,10 +18915,10 @@ O ovom slasnom 🍓 zadovoljstvu ćemo sutra 💓
 
 ---
 
-<a id="cm6_twcp-h0"></a>
+<a id="waffle-2"></a>
 ### Waffle
 
-*2021-03-27 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CM6_TWCp-H0/)*
+*2021-03-27 · Doručak · reel · [Instagram post](https://www.instagram.com/p/CM6_TWCp-H0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle-2/*
 
 Recept 📝
 
@@ -19166,10 +18944,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cmznrm_jybn"></a>
+<a id="prolecna-kremasta-tortica"></a>
 ### Prolećna kremasta tortica
 
-*2021-03-24 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CMzNrm_JybN/)*
+*2021-03-24 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CMzNrm_JybN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/prolecna-kremasta-tortica/*
 
 Pre neki dan sam naišla na ovaj mlečni krem namaz sa kokosom, a pošto je zaista posebno lep u kombinaciji sa listićima badema pomislih kako ne bi bilo loše da bude osnova za neku finu kremastu torticu.
 I nastala je ova lepotica, verujte mi na reč, ja nisam neki preteran ljubitelj kokosa, ali ovi oblak zalogajčići koji se tope u ustima... Mmmm.. 🥰🥰🥰
@@ -19214,10 +18992,10 @@ Ostavite duže vreme na hladjenju, a onda uživajte u svakom zalogaju 🥰
 
 ---
 
-<a id="cmshio3pavq"></a>
+<a id="nedelja-vece-i-dom-koji-mirise-na-palacinke"></a>
 ### Nedelja veče i dom koji miriše na palačinke
 
-*2021-03-21 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CMsHio3pAVQ/)*
+*2021-03-21 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CMsHio3pAVQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nedelja-vece-i-dom-koji-mirise-na-palacinke/*
 
 Meni su ove fotke slatke male razglednice i bilo bi mi žao da ne ukrase i profil🥰
 Toliko jednostavno, prosto, obično, a tako lepo.. Jel se slažete sa mnom..?
@@ -19247,10 +19025,10 @@ Lepo veče vam želim 💓
 
 ---
 
-<a id="cmjsnpyjzen"></a>
+<a id="nutella-lava-cookies"></a>
 ### Nutella lava cookies
 
-*2021-03-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMjsnPyJzen/)*
+*2021-03-18 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMjsnPyJzen/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-lava-cookies/*
 
 Ljudi moji... 🙈 Mogu li ovde slike i snimci  da kažu svoje..?
 Rešava li i kod vas pojačana doza čokolade svađu sa ovim vremenom..?
@@ -19288,10 +19066,10 @@ Jedva čekam vaše utiske! 💓
 
 ---
 
-<a id="cmz1o1yp22o"></a>
+<a id="pileci-stapici-u-mrvljenom-lesniku"></a>
 ### Pileći štapici u mrvljenom lešniku
 
-*2021-03-14 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CMZ1O1Yp22o/)*
+*2021-03-14 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CMZ1O1Yp22o/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pileci-stapici-u-mrvljenom-lesniku/*
 
 Domaća supica, krompirići i piletina jedan od omiljenih ručkova kod nas kao i u većini nama znanih porodica 🤗
 Ovog puta sam se odlučila za pileće štapiće pečene u rerni koji ostanu divno mekani i sočni, tako da ne poželite više da ih pržite u ulju.
@@ -19326,10 +19104,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cmxm7gcpfh_"></a>
+<a id="mini-krofnice-iz-rerne"></a>
 ### Mini krofnice iz rerne
 
-*2021-03-13 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMXm7GCpfh_/)*
+*2021-03-13 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMXm7GCpfh_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mini-krofnice-iz-rerne/*
 
 Kad pomenem krofne pomislim na one prave, pržene u ulju, mekane ko duša, posute prah šećerom, punjene vanil kremom i jagodama, ili nutellom, ma one koje su nezamenljive. Ali priprema traje, i za njih su dani kada možete da izdvojite vreme i kada se kalorije ne broje.
 A ima i ovih dana kada vam je potrebno nešto na brzinu, a opet mirisan i ukusan dezert koji bez griže savesti možete dati i deci za užinu 💓
@@ -19359,10 +19137,10 @@ Pa kad smo već usmereni na kuću da se bar pošteno zabavimo 😅
 
 ---
 
-<a id="cmuyzqnjtr_"></a>
+<a id="jagoda-mafini"></a>
 ### Jagoda mafini
 
-*2021-03-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMUYZQNJTR_/)*
+*2021-03-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMUYZQNJTR_/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/jagoda-mafini/*
 
 Obožavam jagode, obožavaaaam.. 😍Ne znam kakva je situacija kod vas, ali ja sam ih jedva dočekala 🥰🥰🥰
 Petak je i za danas jedan od onih recepata koji pripremimo za čas posla, smućkaj, prospi, rerna i okupite dečicu da se oslade za užinu ili recimo za vikend uživajte svi u ovim mekanim ušuškanim zalogajčićima ☺️
@@ -19398,10 +19176,10 @@ Uživajte u vikendu pred nama i javite mi utiske 💓
 
 ---
 
-<a id="cmpe7hbpjvu"></a>
+<a id="nutella-lesnik-pletenica"></a>
 ### Nutella lešnik pletenica
 
-*2021-03-10 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CMPE7HbpJvu/)*
+*2021-03-10 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CMPE7HbpJvu/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-lesnik-pletenica/*
 
 E pa kad su dani sivi, ti im dodaj malo boje! 🌸
 A kako drugačije da razbudiš sva čula nego kad se kuća razmiriše  na ono najmekše testo koje se topi u ustima, pa još u kombinaciji nutelle i lešnika, mmmm.. 🤤
@@ -19437,10 +19215,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cmj4javjems"></a>
+<a id="drage-moje-srecan-osmi-mart"></a>
 ### Drage moje srećan Osmi mart
 
-*2021-03-08 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CMJ4jaVJEms/)*
+*2021-03-08 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CMJ4jaVJEms/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/drage-moje-srecan-osmi-mart/*
 
 Danas vam pišem recept za jednu savršenu torticu bez pečenja, koja je toliko kremasta i čokoladna, a na sve to sadrži nove brownie  lešnik @medelasrbija štrudlice 🥰
 Pravi užitak!
@@ -19484,10 +19262,10 @@ Uživajte u današnjem danu 💐
 
 ---
 
-<a id="cmcptqtjicc"></a>
+<a id="badem-visnja-bombice"></a>
 ### Badem višnja bombice
 
-*2021-03-05 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMCPTqTJICC/)*
+*2021-03-05 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CMCPTqTJICC/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/badem-visnja-bombice/*
 
 Mislim da nam za jedan sićusni čoko, plazma, badem dezert sa dodatkom višnje ne treba poseban povod.
 Slažete li se sa mnom..?
@@ -19522,10 +19300,10 @@ Prijatno 🌸
 
 ---
 
-<a id="clyi4boppdf"></a>
+<a id="ko-se-kod-vas-najvise-obraduje-dorucku"></a>
 ### Ko se kod vas najviše obraduje doručku..?
 
-*2021-02-27 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CLyi4BOpPdf/)*
+*2021-02-27 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CLyi4BOpPdf/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ko-se-kod-vas-najvise-obraduje-dorucku/*
 
 Kalina je prva koja će utrčati u kuhinju i koja će se razbuditi čim joj kuća zamiriše.
 Spremna je čak i da mami ubrza hladjenje kafe, ali i da mi pomogne da rasklonimo posudje 😅
@@ -19561,10 +19339,10 @@ Prijatno! 💞
 
 ---
 
-<a id="clozswojzka"></a>
+<a id="puter-kiflice-2"></a>
 ### Puter kiflice
 
-*2021-02-23 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLoZSWoJzka/)*
+*2021-02-23 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLoZSWoJzka/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-kiflice-2/*
 
 U moru recepata za kiflice ovaj se izdvojio kao omiljeni u našoj kući, a obožavaju ga i svi naši prijatelji 🤗 Isprobala sam ih toliko, ali ovo je onaj kog se držim i za kojim smo svi odlepili 🥰
 Kiflice su mekane, puteraste, divne i ja ih najčešće pravim bas ovako, prazne, jer ih dečica tako najsladje jedu 😍
@@ -19604,10 +19382,10 @@ Prijatno 🌸🌸🌸
 
 ---
 
-<a id="cll9ljxp44e"></a>
+<a id="ponedeljkom-volimo-da-krenemo-sa-nekim-zdravijim"></a>
 ### Ponedeljkom volimo da krenemo sa nekim zdravijim
 
-*2021-02-22 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CLl9LjXp44e/)*
+*2021-02-22 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CLl9LjXp44e/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ponedeljkom-volimo-da-krenemo-sa-nekim-zdravijim/*
 
 Ponedeljkom volimo da krenemo sa nekim zdravijim, ispravnijim odlukama. Lagala bih kada bih rekla da bih mogla da se odreknem da se zasladim povremeno uz kafu ili posle ručka, da se odreknem čokolade ili nekog mekanog puterastog testa. Ali verujem da su balans, sklad i umerenost od krucijalnog značaja.
 
@@ -19641,10 +19419,10 @@ Nisam koristila ni med ni bilo koji zasladjivač, zaista nema potrebe.. Uveriće
 
 ---
 
-<a id="clbunaoj_y5"></a>
+<a id="palacinke"></a>
 ### Palačinke
 
-*2021-02-18 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLbuNAoJ_Y5/)*
+*2021-02-18 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLbuNAoJ_Y5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/palacinke/*
 
 Za mnoge od nas jedan od prvih “specijaliteta” iz kuhinje. Svi ih volimo i svi ih pripremamo na neki svoj način. Ja sam jedna od onih koja ih uvek sprema odokativno, ali ste me toliko puta pitali za recept da sam premerila sastojke, pa izvolite, vikend je pred nama, idealno vreme za njih 🥰
 
@@ -19675,10 +19453,10 @@ Koja je vaša proverena kombinacija..?
 
 ---
 
-<a id="clorlxypksr"></a>
+<a id="caramel-cheesecake"></a>
 ### Caramel cheesecake
 
-*2021-02-13 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CLOrlXYpksR/)*
+*2021-02-13 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CLOrlXYpksR/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/caramel-cheesecake/*
 
 Kao neko ko obožava da priprema sočne, kremaste, dezerte, one koje voliš i kojima se rado vraćaš, nisam mogla da propustim ni ovaj vikend a da ne ugodim svim čulima srcu dragih bića.
 Stigle su mi Callebaut karamel kapljice iz @curcuma_vracar i ja sam sigurna da ćete za njima svi poooludeti 🥰🥰🥰 Toooliko su dobrog ukusa, da sam ja morala da sakrijem kesu sama od sebe kako ne bih pojela sve pre nego što ih testiram u dezertu.🙈
@@ -19725,10 +19503,10 @@ Uživajte u vikendu 🌸
 
 ---
 
-<a id="cljodcujzzj"></a>
+<a id="tri-leche"></a>
 ### Tri leche
 
-*2021-02-11 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CLJoDCuJzZJ/)*
+*2021-02-11 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CLJoDCuJzZJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tri-leche/*
 
 Ja za danas imam dezert koji je potpuna suprotnost ovom vremenu i nekoga ću njime oduševiti, pa ima li boljeg načina da se ovo sivilo neutrališe..? 🥰
 
@@ -19758,8 +19536,6 @@ Biskvitni deo svi pripremamo od samo par osnovnih namirnica, a ja ću vam ispis
 
 Ja sam ovog puta koristila kupovni, koji me je potpuno oduševio, savršenog je ukusa, teksture, gustine 👌🏼
 
-Priprema:
-
 Potrebno je odvojiti belanca i žumanca. Belanca umutiti u cvrst šne postepeno dodavajući šećer promešan sa vanilinim šećerom. Kada su fino umućena, dodavati jedno po jedno žumance muteći. Potom brašno pomešano sa praškom za pecivo dodavati iz više puta, muteći i dalje smesu.
 Biće jako vazdušasta i lagana. Sada je izlivate u pleh obložen papirom za pečenje (moj je dimenzija 30x20)
 Peče se 20ak minuta na 180C
@@ -19770,10 +19546,10 @@ Verujem da će vas svaki zalogaj vratiti u proleće i leto, zato ne čekajte 
 
 ---
 
-<a id="clef-qpje8d"></a>
+<a id="domaci-kroasani"></a>
 ### Domaći kroasani
 
-*2021-02-09 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLEf-QPJe8d/)*
+*2021-02-09 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CLEf-QPJe8d/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-kroasani/*
 
 Mnogo sam ponosna na ove moje domaće kroasančiće🙈 Zar nisu preslatki...? 💓💓💓
 Bez aditiva i veštačkih boja, homemade varijanta, a ja se osećam kao da sedim u nekoj ušuškanoj, slatkoj pekarici ili nekom finom kaficu, ispijam omiljeni cappuccino i jedem roze kroasan 🌸🌸🌸
@@ -19812,10 +19588,10 @@ Jaaao, muke.. 🥐🌸🌸
 
 ---
 
-<a id="ck4icsmp57g"></a>
+<a id="homemade-burgers-2"></a>
 ### Homemade burgers
 
-*2021-02-04 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CK4ICSmp57G/)*
+*2021-02-04 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CK4ICSmp57G/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-burgers-2/*
 
 Kada su 🍔 u pitanju najvažnije mi je da su sočni i da idu sa puuuno sira. Ovde su parmezan i chedar sir dodatak smesi za burger i ako mene pitate, daju onaj neki neodoljiv šmek.
 Isprobala sam mnoge varijante, ali u kućnim uslovima ova je definitivno favorit i ne menjam je 🙌🏼💫
@@ -19862,10 +19638,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ckwfsksplzs"></a>
+<a id="ok-do-sada-ste-verovatno-primetili-da-su-cookies-moj-omi"></a>
 ### Ok, do sada ste verovatno primetili da su cookies moj omi…
 
-*2021-02-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKwFSkSplzs/)*
+*2021-02-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKwFSkSplzs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ok-do-sada-ste-verovatno-primetili-da-su-cookies-moj-omi/*
 
 Ok, do sada ste verovatno primetili da su cookies moj omiljeni slatkiš. Toliko sam do sada pripremila torti, kolača, pita, ali njima nikada ne mogu da odolim. Pogotovo kada se radi o ovom tipu koji se topi u ustima. Ali bukvalno. Prebogat je kvalitetnom čokoladom i punjen nutellom, i verujem da je prava kalorijska bomba. 🙈
 Najdraže mi je da razuverim one koji nisu imali prilike da ih isprobaju do sada, jer im je spoljašnost baš nekako obična i jednostavna, ali mislim da se na prvi zalogaj u njih prosto zaljubiš.
@@ -19897,10 +19673,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ckojudbpfiw"></a>
+<a id="puter-kajzerice-sa-belim-lukom"></a>
 ### Puter kajzerice sa belim lukom
 
-*2021-01-29 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CKoJUDbpfiW/)*
+*2021-01-29 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CKoJUDbpfiW/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-kajzerice-sa-belim-lukom/*
 
 Obećala sam vam da će se recept za ove savrseno mekane i aromatične kajzerice naći i ovde, na feed-u, kako ste navikli 🥰
 A petak je, verujem da će mnogi od vas  poželeti za vikend da spremaju 🥰
@@ -19939,10 +19715,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cki4e5ujsax"></a>
+<a id="samo-naizgled-suvi-a-zapravo-od-suvog-ni-s"></a>
 ### Samo naizgled, suvi , a zapravo od suvog ni S
 
-*2021-01-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKi4e5uJSAx/)*
+*2021-01-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKi4e5uJSAx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/samo-naizgled-suvi-a-zapravo-od-suvog-ni-s/*
 
 Znate li da ovi kolačići oooopasno prete da postanu moji omiljeni..? 🥰
 Samo naizgled, suvi , a zapravo od suvog ni S 😅 Badem i mrvica cimeta u testu im daju toooliko neodoljiv šmek, nutella izmedju dva tanka keksica potpuno obogati celu priču i neeema šanse da se zaustavite na jednom 😅🙈
@@ -19976,10 +19752,10 @@ Prohladjene kremkate, spajate i po želji posipate šećer u prahu.
 
 ---
 
-<a id="ckd-e3fjbty"></a>
+<a id="ruby-srculenca"></a>
 ### Ruby srculenca
 
-*2021-01-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKd-E3fJBtY/)*
+*2021-01-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CKd-E3fJBtY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ruby-srculenca/*
 
 Meni je potrebno malo sunčevih zraka, malo svežeg vazduha, šetnje i odmah me neki leptirići poteraju da uposlim prste i napravim neki medeni keksić.
 Da ide uz kafu, da se gricne eto tako, usput.
@@ -20008,10 +19784,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ckoc4otjyiu"></a>
+<a id="teleca-corbica"></a>
 ### Teleća čorbica
 
-*2021-01-19 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CKOc4OTJYiU/)*
+*2021-01-19 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CKOc4OTJYiU/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/teleca-corbica/*
 
 Danas da malo zagrejemo stomačiće i pojedemo nešto na kašiku. Zapravo moja dečica zaista vole supice i čorbice pa ih ja vrlo često i rado pripremam.
 Teleću po ovakvom postupku pravim već nekoliko godina i ne menjamo recept.
@@ -20046,10 +19822,10 @@ Nadam se da ćete uživati ❤️
 
 ---
 
-<a id="ckeleonpien"></a>
+<a id="cinnamon-rolls"></a>
 ### Cinnamon rolls
 
-*2021-01-15 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CKEleoNpIeN/)*
+*2021-01-15 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CKEleoNpIeN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cinnamon-rolls/*
 
 Nadam se da ću slikama bar donekle da vam prenesem mekoću i sočnost, i da ćete uživati i u pripremi uz proveren recept, ali i da ćete posle šetnje i promrzlih obraza uživati u ovim zalogajima.
 Ja sam i više nego zaljubljena 💓
@@ -20094,10 +19870,10 @@ Najmekše, najlepše i najsočnije cimet rolnice su pred vama. 🤗🤤
 
 ---
 
-<a id="cj_oisbpb9v"></a>
+<a id="waffle"></a>
 ### Waffle
 
-*2021-01-13 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CJ_oisBpB9V/)*
+*2021-01-13 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CJ_oisBpB9V/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/waffle/*
 
 Pa dok smo još okruženi svetlucavim ambijentom, da se sladimo nečim laganim, puterastim, mekanim, premazanim omiljenim kremom i rashladjenim kuglom sladoleda od vanile ☺️
 
@@ -20125,10 +19901,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cj8eaatj8d1"></a>
+<a id="coko-pistac-fantazija"></a>
 ### Čoko pistać fantazija
 
-*2021-01-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJ8eAatJ8d1/)*
+*2021-01-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJ8eAatJ8d1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-pistac-fantazija/*
 
 Jako sam srećna što se konačno na našem tržištu pored nutele na koju smo svi navikli mogu pronaći i kremovi od lešnika ili pistaća. Zaista su nova dimenzija ukusa i pomeraju nas da osmislimo i neke nove kolačiće, keksiće i tortice i unesemo neku novu magiju u svet slatkiša. 💫
 Ja od kada sam zavolela pistać sladoled iz @c_ovca želim da taj ukus pod nepcima osećam i u slatkišima koji izlaze iz moje kuhinje.
@@ -20163,10 +19939,10 @@ Prijatno ❣️
 
 ---
 
-<a id="cjx7ltqjn5r"></a>
+<a id="kako-smo-ovih-dana-uzivali-svi-zajedno-kod-kuce"></a>
 ### Kako smo ovih dana uživali svi zajedno kod kuće
 
-*2021-01-08 · Doručak · slika · [Instagram post](https://www.instagram.com/p/CJx7lTQJn5R/)*
+*2021-01-08 · Doručak · slika · [Instagram post](https://www.instagram.com/p/CJx7lTQJn5R/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kako-smo-ovih-dana-uzivali-svi-zajedno-kod-kuce/*
 
 Kako smo ovih dana uživali svi zajedno kod kuće, tako su se ispunjavale željice..
 🦌🎄💫
@@ -20201,10 +19977,10 @@ Opet ako volite moj predlog je recimo javorov sirup , koja kockica putera i malo
 
 ---
 
-<a id="cjs9rixjwxo"></a>
+<a id="ferrero-rocher-rolat"></a>
 ### Ferrero rocher rolat
 
-*2021-01-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJs9riXJWXO/)*
+*2021-01-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJs9riXJWXO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ferrero-rocher-rolat/*
 
 Danas je trpeza posna, razume se, ali danas mi mame imamo i specijalan zadatak, da pripremimo i po neko mrsno jelo za sutra, da nam se za Božić zašareni trpeza, a da ne liznemo nijedan fil nekom greškom 😅
 Pa ako nekome još fali ideja čime sutra da se zasladite da vam predstavim ovaj savršeno kremast, sočan, mekan i preeeukusan rolat.
@@ -20250,10 +20026,10 @@ Prijatno ❣️
 
 ---
 
-<a id="cjoaiarpdnn"></a>
+<a id="medeni-cookies"></a>
 ### Medeni cookies
 
-*2021-01-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJoaiARpdNN/)*
+*2021-01-04 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJoaiARpdNN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/medeni-cookies/*
 
 Ljubitelji medenjaka ovi cookies kolačići će vas oduševiti 🥰
 Verujte mi na reč! 😍
@@ -20289,10 +20065,10 @@ Jedva čekam vaše utiske 🍪🍪🍪
 
 ---
 
-<a id="cjgtlmpp_tr"></a>
+<a id="saher-torta"></a>
 ### SAHER TORTA
 
-*2021-01-01 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CJgtLMpp_tr/)*
+*2021-01-01 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CJgtLMpp_tr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/saher-torta/*
 
 Pa da u ovu godinu udjemo slatko, a kako drugačije...? 💓💓💓
 
@@ -20330,10 +20106,10 @@ Verujem da ćete joj dati mesta za trpezom već za Božić 💓
 
 ---
 
-<a id="cjtdcurj24p"></a>
+<a id="danas-je-jedan-od-praznika-kojem-smo-se-brat-i-ja-kao-mal"></a>
 ### Danas je jedan od praznika kojem smo se brat i ja kao mal…
 
-*2020-12-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJTDCurJ24p/)*
+*2020-12-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJTDCurJ24p/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/danas-je-jedan-od-praznika-kojem-smo-se-brat-i-ja-kao-mal/*
 
 Danas je jedan od praznika kojem smo se brat i ja kao mali jako radovali. Materice. Tata bi nam pred spavanje šapnuo da je sutradan mamin praznik i da trebamo da je vežemo i očekujemo darove.
 Jedva se čekalo to jutro i jedva su se čekale te bombonice koje nam je mama namenila. A čekao nas je uvek i neki mekani, jednostavan kolač kojim bi nam mama zamirisala jutro.
@@ -20370,10 +20146,10 @@ Uživajte u ovoj divnoj nedelji sa vašim mališanima 💓💓💓
 
 ---
 
-<a id="cjqzyzvj-l1"></a>
+<a id="socne-americke-palacinke-punjene-nutellom"></a>
 ### Sočne američke palačinke punjene nutellom
 
-*2020-12-26 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CJQZYzvJ-l1/)*
+*2020-12-26 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CJQZYzvJ-l1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/socne-americke-palacinke-punjene-nutellom/*
 
 Viiiiikend💓A kako da prodje bez ovih pufnastih, mekanih palačinki..?
 Ovog puta na nešto drugačiji, zanimljiviji način.
@@ -20403,10 +20179,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cjolieujuhw"></a>
+<a id="ovi-prstici"></a>
 ### Ovi prstići
 
-*2020-12-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJOlIeuJuhw/)*
+*2020-12-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJOlIeuJuhw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ovi-prstici/*
 
 Za njih uvek biram kvalitetan nezasladjeni kakao jer je od suštinskog značaja za ukus, on, dobra čokolada i puter i buum, obožavaćete ih 💓
 
@@ -20441,10 +20217,10 @@ Javite mi kako vam je zamirisala kuća 💓
 
 ---
 
-<a id="cji8s0tpcxa"></a>
+<a id="kod-mene-nedelja-najlepsih-cookies-kolacica"></a>
 ### Kod mene nedelja najlepših cookies kolacica
 
-*2020-12-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJI8S0TpcxA/)*
+*2020-12-23 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJI8S0TpcxA/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kod-mene-nedelja-najlepsih-cookies-kolacica/*
 
 Ove zalogaje čokoladnih kukiza ćete obožavati.
 Obogaćeni su krupno seckanim lešnikom, usitnjenim komadićima karamel bombona i naravno neizostavnim čokoladnim kapljicama.
@@ -20482,10 +20258,10 @@ Lepa su ideja da nekom vama posebno dragom odnesete na poklon. Ima li šta leps
 
 ---
 
-<a id="cjgq0o7ply2"></a>
+<a id="marshmallow-chocolate-cookies"></a>
 ### Marshmallow chocolate cookies
 
-*2020-12-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJGQ0o7plY2/)*
+*2020-12-22 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CJGQ0o7plY2/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/marshmallow-chocolate-cookies/*
 
 Moju ljubav prema pripremi domaćih keksica ste uveliko prepoznali. A kako u mojoj glavi živi slika jedne malene slatke radnjice  iz koje se širi miris svežih kolačića tako mi i naviru ideje i sezonska ponuda istih.
 Ovi bi recimo bili u ponudi u decembru i januaru. ❄️
@@ -20518,10 +20294,10 @@ A onda uživajte 💓
 
 ---
 
-<a id="ci-b2g5jklx"></a>
+<a id="sveti-nikola"></a>
 ### Sveti Nikola
 
-*2020-12-19 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CI-b2G5JKlX/)*
+*2020-12-19 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CI-b2G5JKlX/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/sveti-nikola/*
 
 Devojačka slava. 💓
 Imala sam želju da sa vama danas podelim recept za posni sitni kolačić koji mi obožavamo i koji je obavezan svake godine za stolom.
@@ -20553,10 +20329,10 @@ Prijatno 🎄
 
 ---
 
-<a id="ci5hvrdplts"></a>
+<a id="posto-sam-vam-recept-za-klasicnu-toplu-cokoladu-vec-pi"></a>
 ### Posto sam vam recept za klasičnu toplu čokoladu već pi…
 
-*2020-12-17 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CI5hVrdplTs/)*
+*2020-12-17 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CI5hVrdplTs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/posto-sam-vam-recept-za-klasicnu-toplu-cokoladu-vec-pi/*
 
 Posto sam vam recept za klasičnu toplu čokoladu već pisala, ljubitelji bele čokolade, danas je vaš dan 🥰🥰🥰
 Jer zagazili smo poprilično u ovaj decembar, greota da feed ne ukrasi topla šoljica posuta cimet šećerom u kojoj se kupaju marshmallow bombonice 🍭
@@ -20581,10 +20357,10 @@ Sipajte vrelo u čaše, pa deklarišite po ukusu i utoplite nekome ovaj čet
 
 ---
 
-<a id="ci272qcppfv"></a>
+<a id="snezni-keksici"></a>
 ### Snežni keksići
 
-*2020-12-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CI272QCppfV/)*
+*2020-12-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CI272QCppfV/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/snezni-keksici/*
 
 Ne oseća li se svaka mama posebno kada iznenadi svoje dete keksićima koje je sama napravila..?
 Prosto znaš koje sastojke koristiš, pa i onda kada posle ručka dobije slatkiš, nema griže savesti. Pa još kada izgledaju ovako simpatično i sačeka te  onaj najjači i najtopliji zagrljaj, vredelo je. 💓
@@ -20621,10 +20397,10 @@ Kako vam se čine ovi snežni, pepermint keksići..?🍪💫
 
 ---
 
-<a id="cisz3jmp3-s"></a>
+<a id="novogodisnji-cake-pops"></a>
 ### Novogodišnji cake pops
 
-*2020-12-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIsZ3jMp3-s/)*
+*2020-12-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIsZ3jMp3-s/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/novogodisnji-cake-pops/*
 
 Ja kako sam krenula sa predlozima za novogodišnje poslastice trebala bih da ih objedinim sve u jednu malenu, pa bar e knjižicu i da ih imam na jednom mestu kao podsetnik za godine pred nama 🥰❤️
 Verujem da i vaša dečica obožavaju ove čuvene i preslatke loptice na štapiću, pa bih vam podelila recept za ove sa plazmom, njih prosto obožavaju.
@@ -20658,10 +20434,10 @@ Uživajte 🍭
 
 ---
 
-<a id="ciltfi3pq-t"></a>
+<a id="rudolf-sendvic-keksici"></a>
 ### Rudolf sendvič keksići
 
-*2020-12-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIlTfi3pq-t/)*
+*2020-12-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIlTfi3pq-t/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/rudolf-sendvic-keksici/*
 
 Ovo su zapravo mamine čokoladne vanilice, u malo izmenjenom, mom, novogodišnjem izdanju.
 Oooobozavam ih, jer je testo sa puterom, topljenom čokoladom i lešnikom. Izmedju dva keksića je premaz sa domaćim dzemom od kajsije. Pa onda još malo čokolade preko. Mmmm.. Verujte mi, savršeni zalogajčići 🥰
@@ -20692,10 +20468,10 @@ A ja znam ko će se sigurno oduševiti po dolasku iz vrtica ❤️
 
 ---
 
-<a id="ciitnorpknq"></a>
+<a id="coko-karamel-tart"></a>
 ### Čoko karamel tart
 
-*2020-12-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIiTnOrpKNq/)*
+*2020-12-08 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIiTnOrpKNq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/coko-karamel-tart/*
 
 Ovaj tart sam sanjala. Zaista 😅🤗🙈
 Neka noć sa malo sna, vrtim se i kako i u toku dana imam hiljadu i jednu zamisao oko  uklapanja materijala, spajanja nekih novih ukusa, dekoracije, tako je i ovaj tart ušetao u moj san. 🥰
@@ -20739,10 +20515,10 @@ Jedva čekam vaše utiske 🥰🥰🥰
 
 ---
 
-<a id="cifxryyj0_m"></a>
+<a id="a-evo-i-ideje-kako-da-jedan-dan-u-toku-nedelje-obradujete"></a>
 ### A evo i ideje kako da jedan dan u toku nedelje obradujete…
 
-*2020-12-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIfxrYyJ0_m/)*
+*2020-12-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIfxrYyJ0_m/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/a-evo-i-ideje-kako-da-jedan-dan-u-toku-nedelje-obradujete/*
 
 A evo i ideje kako da jedan dan u toku nedelje obradujete najmlađe 😍😍😍
 Moju dečicu je prošle nedelje po dolasku iz vrtića sačekalo ovo iznenadjenje i malo je reći da su bili ooooduševljeni 🥰🥰🥰
@@ -20776,10 +20552,10 @@ Jedva čekam da vidim koga ćete vi obradovati 😍🥰
 
 ---
 
-<a id="civgwl_jik3"></a>
+<a id="saaaaavrseno-kremkast"></a>
 ### Saaaaavršeno kremkast
 
-*2020-12-03 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIVgwL_JiK3/)*
+*2020-12-03 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIVgwL_JiK3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/saaaaavrseno-kremkast/*
 
 Saaaaavršeno kremkast, čokoladan i preeeukusan kolačić od samo 3 sastojka!!!
 Ooo, i te kako je moguće! Ovo morate da isprobate! ❤️
@@ -20808,10 +20584,10 @@ Radujem se vašim utiscima ❤️
 
 ---
 
-<a id="cis54ecptdq"></a>
+<a id="homemade-toblerone"></a>
 ### Homemade toblerone
 
-*2020-12-02 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIS54ecptdq/)*
+*2020-12-02 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIS54ecptdq/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-toblerone/*
 
 Od kada sam kod Kineza nabasala na ovaj kalup (a čini mi se da je bio oko 200 rsd) zamišljam neku izvedbu homemade toblerona.
 Mešavina drobljenih pečenih lešnika i badema u čokoladi ne zvuči loše zar ne..?
@@ -20841,10 +20617,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cionsh-jg7y"></a>
+<a id="raspuknuti-keksici"></a>
 ### Raspuknuti keksići
 
-*2020-11-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIONSh-Jg7Y/)*
+*2020-11-30 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIONSh-Jg7Y/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/raspuknuti-keksici/*
 
 Ovo su jedni od onih keksića kod kojih izgled vara. Pogledate ih ovako raspuknute i pomislite kako spadaju u kategoriju prkih keksica, a istina je potpuno drugačija ☺️
 Unutra se krije mekani čokoladni užitak 🤗 Vrlo su jednostavni za pripremu i meni su baš ovakvi preslatki.
@@ -20874,10 +20650,10 @@ Prijatno ❣️
 
 ---
 
-<a id="ciguzzsjln6"></a>
+<a id="chocolate-chip-cookies"></a>
 ### Chocolate chip cookies
 
-*2020-11-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIGUZZsJLn6/)*
+*2020-11-27 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CIGUZZsJLn6/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/chocolate-chip-cookies/*
 
 Moja ljubav prema 🍪🍪🍪 traje dugi niz godina, pa iz nje nastaju i usavršavaju se mnogi recepti što dovodi do onog momenta koji moja porodica i svi bliski, voljeni  ljudi iz okruženja nazivaju savršenstvom 💫
 Iako sam svoje recepte delila i pre nego što sam sa time istupila javno, puno puta sam nailazila na to da povratna informacija bude lepi su, ali nisu kao tvoji. Ja ću se zato potruditi da vama otkrijem sve bitne trikove, a vi da kada budete pripremali nikako ne izostavite najbitniji začin - ljubav ❤️
@@ -20910,10 +20686,10 @@ Da li da pišem o jedvačekanju na isprobavanja..? ❤️
 
 ---
 
-<a id="cid78kfpspi"></a>
+<a id="treba-vam-recept-za-savrseno-cokoladno-mekano-testo"></a>
 ### Treba vam recept za savršeno čokoladno mekano testo??
 
-*2020-11-26 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CID78KFpSpi/)*
+*2020-11-26 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CID78KFpSpi/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/treba-vam-recept-za-savrseno-cokoladno-mekano-testo/*
 
 Ovo možete koristiti tako što ćete napraviti kolač koji ćete izliti u najobičniji pleh, kalup za mafine, mini kuglof .. ma šta vam padne na pamet!
 Testo je bogato, čokoladno, mekano, sočno.. Odusevićete se ukusom! 🤗
@@ -20946,16 +20722,20 @@ Jedva čekam vaše utiske! 🌸
 
 ---
 
-<a id="ch2vokrpop1"></a>
-### Otkriću vam jednu tajnu
+<a id="3-pravim-zdravije-alternative-nekih-od-omiljenih-jela"></a>
+### 3. Pravim zdravije alternative nekih od omiljenih jela
 
-*2020-11-21 · Peciva i hleb · slika · [Instagram post](https://www.instagram.com/p/CH2VOkRpop1/)*
+*2020-11-21 · Peciva i hleb · slika · [Instagram post](https://www.instagram.com/p/CH2VOkRpop1/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/3-pravim-zdravije-alternative-nekih-od-omiljenih-jela/*
 
 Otkriću vam jednu tajnu, da bih koliko toliko održala liniju veoma je bitno da pratim sledeće korake:
+1. Ne pojedem sve slatko sto pripremam , slikam i postavljam ovde
+2. Isprobam, a ostatak zapakujem i prosledim svojim najdražima
+3. Pravim zdravije alternative nekih od omiljenih jela
+E, a kad smo kod koraka broj 3 u tome mi vrlo ide u prilog igrica #zajednickiobrok koju organizuje divna Nataša @pecatzivota jer otkrijem neke nove, predivne profile i mnoge zanimljive recepte.
+Tako smo jutros slatko doručkovali zdraviju verziju pizze, a mogu vam reći da je ukusom oduševila! @anahealthylife___ recept je savršen i original verziju možete pogledati kod ove sjajne devojke na profilu, ja vam pišem neki svoj postupak uz minimalne izmene.
 
 **Sastojci**
 
-- 1. Ne pojedem sve slatko sto pripremam , slikam i postavljam ovde
 
 *Sastojci*
 
@@ -20979,10 +20759,6 @@ Otkriću vam jednu tajnu, da bih koliko toliko održala liniju veoma je bitno 
 
 **Priprema**
 
-2. Isprobam, a ostatak zapakujem i prosledim svojim najdražima
-3. Pravim zdravije alternative nekih od omiljenih jela
-E, a kad smo kod koraka broj 3 u tome mi vrlo ide u prilog igrica #zajednickiobrok koju organizuje divna Nataša @pecatzivota jer otkrijem neke nove, predivne profile i mnoge zanimljive recepte.
-Tako smo jutros slatko doručkovali zdraviju verziju pizze, a mogu vam reći da je ukusom oduševila! @anahealthylife___ recept je savršen i original verziju možete pogledati kod ove sjajne devojke na profilu, ja vam pišem neki svoj postupak uz minimalne izmene.
 U jednoj ciniji promešati suve sastojke, pa dodati maslinovo ulje, jogurt i kiselu vodu. Promešati spatulom, biće malo vlažnije i biće mu potrebno još brašna za doradu. Na pobrašnjenu podlogu prebacite i dodajte postepeno belog brašna koliko je dovoljno da formirate glatko testo spremno za rad. Rastanjite testo i dodate nadev po želji. Mi smo je u ovoj varijanti slatko pojeli.
 Peče se nekih 20ak minuta na 200C.
 
@@ -20990,10 +20766,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chybankp2a8"></a>
+<a id="homemade-ferrero-kuglice"></a>
 ### Homemade ferrero kuglice
 
-*2020-11-19 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHyBAnKp2a8/)*
+*2020-11-19 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHyBAnKp2a8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-ferrero-kuglice/*
 
 Ovo je sigurno jedan od prvih sitnih kolačića koje sam počela da spremam, ujedno i onaj kojim sam očarala svog tadašnjeg momka, oca svoje dece, pa je zato tako poseban. 🙈🥰💫
 Inače, moje mišljenje je da je neizostavan za prazničnom trpezom, a obećala sam vam neke ideje na tu temu, pa da krenemo muški 💪🏼
@@ -21022,10 +20798,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chs2v68p73o"></a>
+<a id="praznicni-cajni-keksici"></a>
 ### PRAZNIČNI ČAJNI KEKSIĆI
 
-*2020-11-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHs2V68p73O/)*
+*2020-11-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHs2V68p73O/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/praznicni-cajni-keksici/*
 
 Imate li vi neki provereni recept za čajne keksice? Ovo je jedan od onih gde se testo zamesi za 5 minuta, od svega 5 osnovnih sastojaka koje uvek imamo u kući, odmah razvuče, vade se oblici, peku se svega 6,7 minuta i onda možete da uživate u grickanju. A možete i da ih umočite u belu i crnu čokoladu, dodate malo seckanih pistaća, badema ili lešnika i napravite pravu rapsodiju ukusa.
 Ja sam koristila diskove bele i crne Callebaut čokolade iz @curcuma_vracar, uz dodatak pistaća i lešnika i malo arome pomorandze i nisam pogrešila ni malo 👌🏼
@@ -21060,10 +20836,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chfefk8jmcy"></a>
+<a id="u-ovim-hladnim"></a>
 ### U ovim hladnim
 
-*2020-11-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHfeFK8JMcy/)*
+*2020-11-12 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHfeFK8JMcy/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/u-ovim-hladnim/*
 
 U ovim hladnim, sivim danima, pored neizostavnih cookies-a ono što će zasigurno zagrejati atmosferu u kući, jesu mekani, sočni, topli mafini. Ovo je jedan od onih recepata koji je apsolutno pogodan i za sve one koji bi se isprobali prvi put u kuhinji, a pobraće sve simpatije, verujte, kao i za one koji žele užinu ili slatkiš na brzinu. Ljubiteljima mekog, mirišljavog testa, a i onih koji ne vole da peru sudove 😅- taaadaaam, moj omiljeni recept za mafine:
 
@@ -21089,10 +20865,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chyk5s-ps2n"></a>
+<a id="m-e-d-e-nj-a-c-i"></a>
 ### M E D E NJ A C I
 
-*2020-11-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHYK5S-ps2N/)*
+*2020-11-09 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHYK5S-ps2N/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/m-e-d-e-nj-a-c-i/*
 
 Oduseviće vas ovaj toooliko jednostavan za pripremu recept, savršenog ukusa koji volimo i mi veliki, ali ih posebno vole dečica 🥰🥰🥰
 Njihova  čarolija jeste što okupljaju sve članove porodice u kuhinju, što najavljuju proverenu zabavu, umazane pločice i perlice rasute mahom po podu 😅 Svakome je interesantno da razvuče testo i napravi neki novi oblik, sa nestrpljenjem se iščekuje  pleh iz rerne, onda se malo umažemo  pokušavajući da ih ušaramo, igramo se, treniramo prstiće, a zapravo su nam najsladji i najlepši najobičniji 🥰
@@ -21127,10 +20903,10 @@ Jedva čekam vaše slike i utiske 🥰🥰🥰
 
 ---
 
-<a id="chu7nj9jygm"></a>
+<a id="odgovorno-tvrdim"></a>
 ### Odgovorno tvrdim
 
-*2020-11-08 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CHU7nJ9JyGM/)*
+*2020-11-08 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CHU7nJ9JyGM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/odgovorno-tvrdim/*
 
 Najjednostavniji dorucak, večera ili užina, najmekša i najukusnija proja svih vremena!!!
 Odgovorno tvrdim 🙌🏼
@@ -21160,10 +20936,10 @@ Prijatno
 
 ---
 
-<a id="chspxvmplpd"></a>
+<a id="nama-je-subota-zamirisala-na-puter"></a>
 ### Nama je subota zamirisala na puter
 
-*2020-11-07 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CHSPXvmplPD/)*
+*2020-11-07 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CHSPXvmplPD/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nama-je-subota-zamirisala-na-puter/*
 
 Nama je subota zamirisala  na puter, bananu, ovsene pahuljice, a sve to u formi američkih palačinki..Konačno prilika da sa vama podelim jedan recept za zdrave palačinke i to ovog puta od divne @mikina_kuhinja , a u okviru igre #zajednickiobrok koji organizuje @pecatzivota 😍🤗
 Nema belog brašna, nema šećera, te će biti pogodan i za vas koji imate odredjenih ograničenja u ishrani, kako zbog održavanja lepe figure tako i zbog zdravlja 🤗
@@ -21195,10 +20971,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chqbdykjqwl"></a>
+<a id="krokant-keksici"></a>
 ### Krokant keksići
 
-*2020-11-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHQbDYkJqwL/)*
+*2020-11-06 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHQbDYkJqwL/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krokant-keksici/*
 
 Obožavanje domaćih keksića svih vrsta, od onih standardnih do svih mogućih  varijacija. Keksice posebno volimo od novembra do kraja zime, tada ih spremim, ne zna im se broj 🙈 Ovo je jedan recept za keksice koje možete spremiti ovako malecke, slatke, umociti u crnu, mlečnu ili belu čokoladu, posuti mrvicama, i vaša će trpeza i za praznike biti posebna, šarenolika, a što je najbitnije preukusna 🥰
 Ovi su mi posebno zanimljivi jer su drugačiji, hrskavi i preslatki 😍
@@ -21233,10 +21009,10 @@ Jedva čekam utiske 🌸
 
 ---
 
-<a id="chnesjkpago"></a>
+<a id="pilecu-corbicu-ste-spremali-u-tolikom-broju-i-sa-oduse"></a>
 ### Pileću čorbicu ste spremali u tolikom broju i sa oduše…
 
-*2020-11-05 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CHNesJKpAgo/)*
+*2020-11-05 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CHNesJKpAgo/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pilecu-corbicu-ste-spremali-u-tolikom-broju-i-sa-oduse/*
 
 Pileću čorbicu ste spremali u tolikom broju i sa oduševljenjem mi slali utiske da sam poželela da sa vama podelim i kako pripremam paradajz čorbicu.
 Ovo je omiljena čorbica moje Lene i uvek se traži činija više, tako da verujem da će se i u vašem domu slatko jesti. 💫
@@ -21265,10 +21041,10 @@ Prijatno 🌸
 
 ---
 
-<a id="chis6ikpr40"></a>
+<a id="prvi-u-nizu-kolacica-koji-najavljuju-ono-doba-kada-kuca-n"></a>
 ### Prvi u nizu kolačića koji najavljuju ono doba kada kuća n…
 
-*2020-11-03 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHIs6iKpR40/)*
+*2020-11-03 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CHIs6iKpR40/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/prvi-u-nizu-kolacica-koji-najavljuju-ono-doba-kada-kuca-n/*
 
 Prvi u nizu kolačića koji najavljuju ono doba kada kuća najlepše miriše 😍❤️💫
 Ja sam oduševljena ukusom. Nije onaj najjednostavniji recept za testo ovog tipa, ima tu neku notu koja je posebna ali tako najviše i volim.  Polovinu sam kremkala domaćim dzemom od jagoda, drugu polovinu nutelom. I ne znam koji su lepši 🤗
@@ -21300,10 +21076,10 @@ Od kada imam decu ovaj period godine nam je posebno lep i oni već sa nestrpljen
 
 ---
 
-<a id="cg-glxipko5"></a>
+<a id="topla-cokolada-pre-zime"></a>
 ### Topla čokolada pre zime..?
 
-*2020-10-30 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CG-gLXIpkO5/)*
+*2020-10-30 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CG-gLXIpkO5/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/topla-cokolada-pre-zime/*
 
 Topla čokolada pre zime..? A što da ne 🤗 Taman da imate spreman recept i da vas hladnije vreme i novembar ne iznenade. Da li ste nekad pravili toplu čokoladu kod kuće..?
 Onu pravu, potpuno kreeemastu, taman gustu, ma, savršenu.
@@ -21332,10 +21108,10 @@ Čekam vaše utiske! 🌸
 
 ---
 
-<a id="cg5sjhepcnt"></a>
+<a id="piletina-na-njokama-u-krem-sosu-sa-prsutom-i-parmezanom"></a>
 ### Piletina na njokama u krem sosu sa pršutom i parmezanom
 
-*2020-10-28 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CG5SjHEpcNT/)*
+*2020-10-28 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CG5SjHEpcNT/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/piletina-na-njokama-u-krem-sosu-sa-prsutom-i-parmezanom/*
 
 Mmmm, jedna kremasta i sočna ideja za ručak ☺️ Pripremi se za svega par minuta, ljubitelji italijanske kuhinje, pasta, testenina, piletine, ovo je za vas 🥰
 
@@ -21362,10 +21138,10 @@ Za manje od pola sata imaćete predivan ručak ili večeru.
 
 ---
 
-<a id="cgng5yoj_q0"></a>
+<a id="mekane-puter-bombice-punjene-sosom-od-jabuka-i-karamela"></a>
 ### Mekane puter bombice punjene sosom od jabuka i karamela
 
-*2020-10-21 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CGnG5yOJ_q0/)*
+*2020-10-21 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CGnG5yOJ_q0/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/mekane-puter-bombice-punjene-sosom-od-jabuka-i-karamela/*
 
 Za ovo vredi čekati da testo narasta, vredi paliti rernu a onda se samo malko strpiti da se prohlade.. Pa za večeru, užinu ili ujutru za doručak ako pretekne 🤗
 Ono što ove buhtle čini posebnim jeste punjenje sa sosom od jabuka, cimeta i karamelama. Možete ih po svom izboru puniti nutelom, nekim dzemom, kako volite, ali čvrsto verujem da ćete isprobati i ovu zanimljivu kombinaciju.
@@ -21402,10 +21178,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cghdifdj-dz"></a>
+<a id="nutella-shake"></a>
 ### Nutella shake
 
-*2020-10-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGhdIFdJ-DZ/)*
+*2020-10-19 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGhdIFdJ-DZ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-shake/*
 
 Jeste da smo krenuli da palimo rerne, da se ušuškavamo i lagano grlimo ovu jesen, aaaali, kada izabereš da ceo dan odvajaš dečije stvari , slažeš, sortiraš i iznova praviš novi raspored u sobi potreban ti je hladaaan tuš. Meni izgleda kao da ovome nikad kraja 🙄😬☺️
 Pritom, ovaj dan danas je tooooliko divan, sunčan i ako mene pitate potpuno se slaže uz naaaajlepši nutella shake 💗
@@ -21430,10 +21206,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cgz0nrujrjm"></a>
+<a id="kad-smo-vec-kod-caja-i-posto-se-juce-odmaralo"></a>
 ### Kad smo već kod čaja i pošto se juče odmaralo
 
-*2020-10-16 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGZ0NruJRjM/)*
+*2020-10-16 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGZ0NruJRjM/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kad-smo-vec-kod-caja-i-posto-se-juce-odmaralo/*
 
 Kad smo već kod čaja i pošto se juče odmaralo, bilo je vremena da se osmisli nešto lepo da taj čaj isprati 🌸 Da se rerna upali, da se kuća ugreje, da se razmiriše, pa  se čokolade otope.. Pa se natenane sladi 💫
 A ovaj kuglof krije jedan specijalni sastojak koji mu daje poseban šmek, Baileys 🥃 I bitno je ispratiti način pripreme jer ćete testo dovesti do savršenstva. Mekano, razrudjeno, čokoladno, puterasto parčence, dva 😅 uz šolju toplog čaja i zaboravićete na ove oblake i sivilo napolju.
@@ -21472,10 +21248,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cgu2n3sjtgr"></a>
+<a id="cuveni-macaronsi"></a>
 ### Čuveni macaronsi
 
-*2020-10-14 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CGU2N3sJTgr/)*
+*2020-10-14 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CGU2N3sJTgr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/cuveni-macaronsi/*
 
 Minijaturni, jedni od onih koji staju na dlan, slatki toliko da poželite da krase sto za bilo koji bitan datum u vašem životu, a zanimljivo je to što ih možete bojiti u koju god boju da zamislite i uklopite uz svaku temu 🤗
 Osnova od belanaca, šećera i bademovog brašna, svega par sastojaka, navodi vas da pomislite mogu ja to, ali oprez, vrlo je bitno ispratiti sve trikove koji su tu da pomognu da budu savršeni 💗
@@ -21505,10 +21281,10 @@ Savet: Video pripreme pogledajte kod divnih @chica_shtikla_i_kashika i @fle.kaa 
 
 ---
 
-<a id="cgp-l7dpkfx"></a>
+<a id="hocemo-li-da-ovaj-kisni-ponedeljak-bojimo-u-neke-lepe-t"></a>
 ### Hoćemo li da ovaj kišni ponedeljak bojimo u neke lepe t…
 
-*2020-10-12 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGP-l7dpkFx/)*
+*2020-10-12 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CGP-l7dpkFx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/hocemo-li-da-ovaj-kisni-ponedeljak-bojimo-u-neke-lepe-t/*
 
 Hoćemo li da ovaj kišni ponedeljak bojimo u neke lepe tonove..? 🌸Tortica za koju vam ne treba puno vremena, niti puno umeća u kuhinji, koja je spoj tooooliko lepih ukusa-krem od pistaća, mascarpone sira i bele čokolade, koja se ne peče i koja je sjajan izbor onda kada želite malo da pobegnete od klasike i ponudite nešto nesvakidašnje a kremkasto i lepo.
 
@@ -21543,10 +21319,10 @@ Kako vam se čini..?🌸
 
 ---
 
-<a id="cgh4fjrpyde"></a>
+<a id="ova-pita-je-san"></a>
 ### Ova pita je san!!!
 
-*2020-10-09 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CGH4FJrpydE/)*
+*2020-10-09 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CGH4FJrpydE/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ova-pita-je-san/*
 
 Ova pita je san!!! Bukvalno! Ljudi moji, znate onaj osećaj kad se sva moguća čula probude. Ovaj ukus nepca pamte! O itekako!
 Znam da me stalno hvalite kako su mi slike divne i kako lepo postavim hranu, ovog puta mislim da slikom nisam uspela ni pola da prenesem. A kako mi kuća mirise..? Uh.
@@ -21588,10 +21364,10 @@ Hvala ti @ivana_lalicki_photography na sjajnom receptu!
 
 ---
 
-<a id="cgfs5wipqvb"></a>
+<a id="krem-corbica-sa-piletinom-i-povrcem"></a>
 ### Krem čorbica sa piletinom i povrćem
 
-*2020-10-08 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CGFs5wipQvB/)*
+*2020-10-08 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CGFs5wipQvB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krem-corbica-sa-piletinom-i-povrcem/*
 
 Danas nam je jesen pokazala svoje pravo lice čini mi se, uvukla se lagano u svaki dom.. Ta svežina napolju  i kiša su nas ušuškali i ostavili kućama. Bilo je više vremena da se kuva jedna od omiljenih čorbica.. I imam ih par na nekom ustaljenom meniju koje zaista volimo svi u kući pa ih često i  pripremam baš kada ovako zahladi 🍁🍂
 Ovo je jedna od onih koju sam čini mi se medju prvim i počela da pripremam, pa ćemo početi sa njom 😉
@@ -21624,10 +21400,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cgcnuzzjg37"></a>
+<a id="bubble-waffle"></a>
 ### Bubble waffle
 
-*2020-10-07 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CGCnuzZJg37/)*
+*2020-10-07 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CGCnuzZJg37/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bubble-waffle/*
 
 Danima sam uzbuđena kao malo dete jer sam sasvim slučajno naletela na ovaj aparat u @lidlsrbija , a ko me zna, zna koliko sam luda za palačinkama, vaflima i svim tim testima u kombinaciji sa topljenim čokoladama, kremovima.. ma za slatkišima generalno. I ja lično volim kada izadjem na neko fino mesto da ovako nešto poručim, a u kućnoj varijanti volim da ugadjam najbližima 🥰
 Verujem da sam ovaj dan lepo obojila ❤️
@@ -21656,10 +21432,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cf9fd41p-ey"></a>
+<a id="brownie-chocolate-cookie"></a>
 ### Brownie chocolate cookie
 
-*2020-10-05 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CF9fD41p-eY/)*
+*2020-10-05 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CF9fD41p-eY/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie-chocolate-cookie/*
 
 Toooliko dugo želim savršen kolačić, hrskav spolja, mekan unutra, da se topi u ustima i da je prava čokoladna eksplozija. Pronašla sam ga!!! Nekoliko pokušaja, različite kombinacije materijala i gramaže, isti sastojci, drugačiji način pripreme i uspela sam! A moja radost ne bi bila potpuna da ne podelim i sa vama.
 
@@ -21691,10 +21467,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cfzgwwcjmtp"></a>
+<a id="osmislila-sam-ga-tako-da-zadovolji-sve-sladokusce"></a>
 ### Osmislila sam ga tako da zadovolji sve sladokusce
 
-*2020-10-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFzGwWcJmTP/)*
+*2020-10-01 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFzGwWcJmTP/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/osmislila-sam-ga-tako-da-zadovolji-sve-sladokusce/*
 
 Mekan, sočan, malo čokolade, malo vanile, pa još po koja voćkica unutra.. Pa ko bi još odoleo jednom ovakvom parčencetu..? ☺️
 Osmislila sam ga tako da zadovolji sve sladokusce 🤗
@@ -21732,10 +21508,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cfw7mlrjpr2"></a>
+<a id="grisini-sa-parmezanom-i-belim-lukom"></a>
 ### Grisini sa parmezanom i belim lukom
 
-*2020-09-30 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CFw7mlrJpr2/)*
+*2020-09-30 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CFw7mlrJpr2/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/grisini-sa-parmezanom-i-belim-lukom/*
 
 Ovo je jedan od onih recepata kada vam brzinski treba neka grickalica uz čorbicu da kompletirate ručak.. Ostali ste bez hleba, ili čak bez jaja kao ja ovog puta pa vam treba nešto brzo i jednostavno.. 🙈
 U svim mojim receptima puter je zastupljen i skoro pa neizbežan, ovde vam čak ni on neće biti potreban, menja ga par kašika maslinovog ulja.. Pa, evo...
@@ -21764,10 +21540,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cft1zyij4c2"></a>
+<a id="ljubitelji-milka-noisette-cokolade-i-celih-pecenih-les"></a>
 ### Ljubitelji milka noisette čokolade i celih pečenih leš…
 
-*2020-09-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFt1ZYiJ4C2/)*
+*2020-09-29 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFt1ZYiJ4C2/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/ljubitelji-milka-noisette-cokolade-i-celih-pecenih-les/*
 
 Ljubitelji milka noisette čokolade i celih pečenih lešnika..?
 Ovo je tart za vas!!!
@@ -21806,10 +21582,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cfjtxcfpqtg"></a>
+<a id="krofnice-gotove-za-15-minuta"></a>
 ### Krofnice gotove za 15 minuta
 
-*2020-09-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFjTxcFpqtG/)*
+*2020-09-25 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFjTxcFpqtG/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofnice-gotove-za-15-minuta/*
 
 Da, moguće je! Ovo su jedne od onih za koje vam je potrebna jedna posuda, nekoliko sastojaka, 5 minuta za pripremu i desetak da ih ispečete.
 Sjajan predlog da za kratko vreme oduševite ukućane i ovim mirisom ih namamite oko kuhinjskog stola 🥰
@@ -21839,10 +21615,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cfb93ugpts3"></a>
+<a id="tiramisu-2"></a>
 ### Tiramisu
 
-*2020-09-22 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CFb93uGptS3/)*
+*2020-09-22 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/CFb93uGptS3/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tiramisu-2/*
 
 Puno je recepata za ovaj prelepi, kremkasti užitak, ali jedno je sigurno, kvalitetan mascarpone sir, sveza domaća jaja, dobra kafa i nekoliko kapi likera od badema daju onu neodoljivu notu. Još ako uz sve to dodate samo jedan sloj nutele okupane u slatkoj pavlaci, buuum - rodi se nova ljubav 🤍
 
@@ -21864,7 +21640,6 @@ Recept
 
 **Priprema**
 
-Priprema:
 Odvojiti žumanca u jednu staklenu posudu i tu dodati šećer, pa kuvati na pari sve do onog momenta dok se šećer potpuno ne rastopi u jajima i smesa ne postane kremkasta. Ostaviti na hladjenju. Za to vreme umutiti mascarpone sir, vrlo kratko mikserom i dodati mu 200 ml slatke, nemućene pavlake pa zajedno mutiti dok smesa ne očvrsne. U ovaj fil dodajemo potpuno prohladjena jaja kuvana na pari i mutimo mikserom sve do one savršene kreme kojom premazujemo slojeve piškota. Piškote umačemo u kafu(koju ne treba sladiti), poredjati ih po dnu posude, zatim premažemo polovinom kreme. Preko toga ide sloj nutelle koju smo prelili vrelom slatkom pavlakom i dobro umešali (do potpuno glatke tečnosti bez grudvica) pa prohladili. Opet redjamo sloj piškota i preko toga ostatak fila.
 Kolac ostaviti u frižider na hladjenje tokom noći. Sutradan pospite mešavinom kvalitetnog kakaa i čokolade u prahu (meni daje bolji ukus ovako).. A ukoliko ne pronadjete čokoladu u prahu, jer je i nema baš u svakom marketu, dobra zamena bi bio nesquik.
 Idealno bi bilo servirati ovakav dezert i u čaše,
@@ -21873,10 +21648,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cfwm_x1pdgj"></a>
+<a id="iskreno"></a>
 ### Iskreno
 
-*2020-09-20 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CFWm_x1pdgj/)*
+*2020-09-20 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CFWm_x1pdgj/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/iskreno/*
 
 Iskreno, meni je nedostajala moja kuhinja. Na umu imam toliko toga za spremanje sto želim da podelim sa vama, ali hajmo sada nešto jednostavno, provereno dobro i od sastojaka koji su se zatekli u kući 😅 Ranijih godina su čokoladne američke palačinke bile mnogo zastupljenije u mojoj kuhinji. Čak sam ih najčešće pripremala punjene nutelom ili belim kremom.. Ovog jutra za to nije bilo vremena, ali jeste dovoljno da osnovnu verziju podelim sa vama 🤗☺️
 
@@ -21906,10 +21681,10 @@ Prijatno 🌸🌸🌸
 
 ---
 
-<a id="cfmqdusjkxr"></a>
+<a id="znam-da-ste-bar-jednom-pomislili-koliko-je-simpaticno-kad"></a>
 ### Znam da ste bar jednom pomislili koliko je simpaticno kad…
 
-*2020-09-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFMQdusJKxr/)*
+*2020-09-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CFMQdusJKxr/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/znam-da-ste-bar-jednom-pomislili-koliko-je-simpaticno-kad/*
 
 Znam da ste bar jednom pomislili koliko je simpaticno kada se na raznim proslavama, okupljanjima, obeležavanju rodjendana, pojave ti čuveni kapkejkovi koji prosto mame.A da biste se i vi osećali kao profesionalac citate pažljivo. U pitanju je krem od najfinije cokolade i slatke pavlake. I daje izrazito bogat ukus i dopunu  mekanom testu.
 
@@ -21930,10 +21705,10 @@ So #staytuned 🤗
 
 ---
 
-<a id="cfbptgnjifq"></a>
+<a id="dobro-jutro"></a>
 ### Dobro jutro
 
-*2020-09-12 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CFBptgNJifQ/)*
+*2020-09-12 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CFBptgNJifQ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/dobro-jutro/*
 
 Rapsodija ukusa = sočan slatki zalogaj + gutljaj omiljene kafe 🍰☕️
 Lep vikend vam želim 🌸🌸🌸
@@ -21964,10 +21739,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ce_lod3jawn"></a>
+<a id="tart-od-bele-cokolade-i-malina"></a>
 ### Tart od bele čokolade i malina
 
-*2020-09-11 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CE_lOD3JaWN/)*
+*2020-09-11 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CE_lOD3JaWN/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-od-bele-cokolade-i-malina/*
 
 Petak je idealan za pripremu poslastice u kojoj ćete uživati za vikend, okupiti svoju porodicu pa uz ukusne zalogaje provesti one najlepše momente.
 Rado se odazivam ideji kompanije @dr.oetker_srbija i prilažem svoju fotku poslastice iz ptičije perspektive uz hashtag #okupljamoporodicu 🤍
@@ -22000,10 +21775,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ce2funrp-9z"></a>
+<a id="lava-cake"></a>
 ### Lava cake
 
-*2020-09-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CE2FUnRp-9z/)*
+*2020-09-07 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CE2FUnRp-9z/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/lava-cake/*
 
 Zelite li recept za ovo čokoladno savršenstvo..? Unutra toplo i tečno, čokoladno, puterasto, služi se još vruće, najbolje u kombinaciji sa sladoledom od vanile i po kojom malinom preko ako mene pitate 🤗😍
 Sprema se za 5 minuta, a za pečenje vam je potrebno još samo 7 minuta.
@@ -22028,10 +21803,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ceq4vbgjy5c"></a>
+<a id="imate-li-i-vi-predrasude-prema-odredjenoj-vrsti-hrane"></a>
 ### Imate li i vi predrasude prema odredjenoj vrsti hrane..?
 
-*2020-09-03 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CEq4vBgJY5C/)*
+*2020-09-03 · Doručak · galerija · [Instagram post](https://www.instagram.com/p/CEq4vBgJY5C/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/imate-li-i-vi-predrasude-prema-odredjenoj-vrsti-hrane/*
 
 Ili čak donesete zaključak kako vam se nešto ne dopada a da prethodno niste ni isprobali? Evo meni recimo godinama nije padalo na pamet da jedem kaše za doručak, a onda sam uzela stvar u svoje ruke i napravila kombinaciju koja je za mene pobednička i od tada je na meniju bar dva puta nedeljno.
 Ako ste i vi jedni od onih koji pripadaju toj grupaciji, možda bi trebalo da razmislite o tome da joj date šansu 🤗
@@ -22060,10 +21835,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cejw1_ojx5q"></a>
+<a id="kinder-plazma-sejk"></a>
 ### Kinder plazma šejk
 
-*2020-08-31 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CEjW1_oJX5q/)*
+*2020-08-31 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CEjW1_oJX5q/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kinder-plazma-sejk/*
 
 Ima li vas ovde još koji volite da sve ono sto ste videli i probali u nekim dragim kafićima, restoranima napravite i u svojoj kući..? Da pokušate da prenesete ukus, izgled ili možda najbitnije osecaj..
 Ja sam jedna od tih 🙋🏼‍♀️ Čini mi se da je tako zapravo i krenula ta ljubav prema pripremi i svi ti pokušaji da neku lepotu prenesem sa stola omiljenih restorana na sto svoga doma.
@@ -22090,10 +21865,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cecem_fj0xv"></a>
+<a id="nutella-m-m-s-cookies"></a>
 ### Nutella M&M’s COOKIES
 
-*2020-08-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CEcEm_fJ0xv/)*
+*2020-08-28 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CEcEm_fJ0xv/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/nutella-m-m-s-cookies/*
 
 Da li ste spremni za najobožavanije kukize u našoj porodici, za slatkiš koji jednako vole deca ali i mi nešto maaaalo stariji..?🙈
 Možda i nije neki dezert koji bi vas osvojio izgledom, ali ukusom osvaja na prvi zalogaj!
@@ -22126,10 +21901,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cemdasbpu5c"></a>
+<a id="bounty-cokoladice"></a>
 ### Bounty čokoladice
 
-*2020-08-22 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CEMDASbpU5C/)*
+*2020-08-22 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CEMDASbpU5C/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/bounty-cokoladice/*
 
 Lično, nisam neki zaljubljenik u kokos, ove čokoladice sam prvi put pravila da obradujem tatu , ali se ispostavilo da ih sada svi obozavamo 🤗
 Posle hladjenja u frižideru, smesa se lepo stegne i dobra je za oblikovanje, tako da možete praviti bounty kuglice, čokoladice, kockice, zabavite se u kuhinji 🤗
@@ -22153,10 +21928,10 @@ Uzivajte u vikendu 🌸🌸🌸
 
 ---
 
-<a id="cejilcej42a"></a>
+<a id="stapici-sa-sirom"></a>
 ### Štapići sa sirom
 
-*2020-08-21 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CEJilCeJ42a/)*
+*2020-08-21 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CEJilCeJ42a/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/stapici-sa-sirom/*
 
 U maminoj staroj knjizi recepata upisan je kao domaći ukusni zu-zu. Ja sam ga prekrstila u štapiće jer sam ih poslednjih nekoliko puta pravila tog oblika.
 Super stvar je sto ide svega par sastojaka, što testo možete držati preko noći u frižideru pa vam ujutru doručak oduzima manje vremena, a najlepše od svega sto ih deca obožavaju i odlično se slažu uz šolju jogurta.
@@ -22182,10 +21957,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cegykq_jeqb"></a>
+<a id="americke-palacinke"></a>
 ### Američke palačinke
 
-*2020-08-20 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CEGykq_JEQb/)*
+*2020-08-20 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CEGykq_JEQb/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/americke-palacinke/*
 
 **Sastojci**
 
@@ -22211,10 +21986,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cd8hgqdpcwu"></a>
+<a id="najsocniji-mafini-sa-borovnicama"></a>
 ### Najsočniji mafini sa borovnicama
 
-*2020-08-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CD8hGQdpCwU/)*
+*2020-08-16 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CD8hGQdpCwU/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/najsocniji-mafini-sa-borovnicama/*
 
 Iako sam tip osobe koji se uvek pre zakači za sve sto je čokoladno, veliki sam ljubitelj voća i bas volim ovako jednostavne, mekane i sočne mafine uz kaficu u toku dana, a lepa ideja i za doručak dok su još ovako topli 🥰
 
@@ -22245,10 +22020,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cd6whh5pryo"></a>
+<a id="pileci-file-punjen-spanacem-i-sirom"></a>
 ### Pileći file punjen spanaćem i sirom
 
-*2020-08-15 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CD6WHH5pRYO/)*
+*2020-08-15 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CD6WHH5pRYO/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pileci-file-punjen-spanacem-i-sirom/*
 
 Evo jedne lepe ideje za današnji ručak 🤗
 Potrebno je da parčiće pilećeg filea presečete dužinom, ali ne do kraja i da ih punite nadevom od spanaća, krem sira, fete i mozzarelle, uz dodatak malčice soli i maslinovog ulja.
@@ -22271,10 +22046,10 @@ Uzivajte u vikendu 🌸
 
 ---
 
-<a id="cdykeevp5xs"></a>
+<a id="tagliatelle-u-krem-sosu-sa-piletinom"></a>
 ### Tagliatelle u krem sosu sa piletinom
 
-*2020-08-12 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CDykeeVp5xS/)*
+*2020-08-12 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CDykeeVp5xS/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tagliatelle-u-krem-sosu-sa-piletinom/*
 
 Tagliatelle u krem sosu sa piletinom, listićima badema i brokolijem 🍲
 
@@ -22304,10 +22079,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cdt1t9yjbxc"></a>
+<a id="kako-da-ponedeljak-ucinite-sladjim"></a>
 ### Kako da ponedeljak učinite sladjim..?
 
-*2020-08-10 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CDt1t9yJBXc/)*
+*2020-08-10 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CDt1t9yJBXc/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/kako-da-ponedeljak-ucinite-sladjim/*
 
 Za samo 15 minuta pripreme i koji minut više izdvojen za rernu dobijate ovu čokoladnu bombu 🙈 A onda je rashladite veeelikom kuglom sladoleda od vanile, spremite svoju omiljenu kafu.. I utrošite nekoliko minuta za sebe...
 
@@ -22337,10 +22112,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cdpazltjyr8"></a>
+<a id="toooliko-je-dobro-da-vredi-svake-kalorije"></a>
 ### Toooliko je dobro, da vredi svake kalorije
 
-*2020-08-08 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CDpAZlTJyR8/)*
+*2020-08-08 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CDpAZlTJyR8/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/toooliko-je-dobro-da-vredi-svake-kalorije/*
 
 Istina je, ovo je prava kalorična čokoladna bomba, rashladjena sladoledom i pudingom, ali verujte, RAJ za nepce☺️☺️☺️
 Toooliko je dobro, da vredi svake kalorije 😅
@@ -22369,10 +22144,10 @@ Prijatno! 🌸
 
 ---
 
-<a id="cdjp_tbp37w"></a>
+<a id="zapeceni-cheesecake-sa-plazmom-i-belom-cokoladom"></a>
 ### Zapečeni cheesecake sa plazmom i belom čokoladom
 
-*2020-08-06 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CDjp_Tbp37W/)*
+*2020-08-06 · Torte · galerija · [Instagram post](https://www.instagram.com/p/CDjp_Tbp37W/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/zapeceni-cheesecake-sa-plazmom-i-belom-cokoladom/*
 
 Da li ste spremali zapečeni ciz..? Moj savet, pogledate sve tri fotke, pa se usudite da ne napravite 😅 Ukus je jako specifičan, prija istančanom nepcu i definitivno je za ljubitelje sirastih dezerata.. U osnovnoj varijanti je fin, a kada mu dodate voćni ili karamel preliv onda nastaje čarolija 💫💫💫
 
@@ -22400,7 +22175,6 @@ Da li ste spremali zapečeni ciz..? Moj savet, pogledate sve tri fotke, pa se u
 
 **Priprema**
 
-Priprema:
 Promešajte mlevenu plazmu sa cimetom, pa dodajte otopljen puter. Ovom mrvičastom smesom ćete obloziti dno kao i ivice kalupa veličine 22 cm. Prethodno premazite ivice i dno puterom, pa postavite papir za pečenje. Odložite u frižider na hladjenje dok pravite fil.
 Prvo otopite belu čokoladu na pari ili postepeno u mikrotalasnoj, pa je ostavite kako bi se prohladila. Spojite krem sir, grčki jogurt, šećer u prahu i aromu vanile, mutite lagano mikserom, pa u toku mućenja dodajte jedno po jedno jaje. Na kraju dodajte prohladjenu, otopljenu belu čokoladu, sjedinite, pa izrucite u kalup. Rerna treba da bude zagrejana na 160C i kolač se peče otprilike sat vremena. Potom ga ostavite na hladjenju još nekih sat vremena pa odložite u frižider na par sati..
 Savrseno ide uz šoljicu kafe ☺️
@@ -22408,10 +22182,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cda4w4cjokw"></a>
+<a id="pita-sa-piletinom-i-kackavaljem"></a>
 ### Pita sa piletinom i kačkavaljem
 
-*2020-08-03 · Slano · slika · [Instagram post](https://www.instagram.com/p/CDa4w4CJOkw/)*
+*2020-08-03 · Slano · slika · [Instagram post](https://www.instagram.com/p/CDa4w4CJOkw/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/pita-sa-piletinom-i-kackavaljem/*
 
 Mmmm.. ova pita! Već nekoliko godina je neizostavna na svim okupljanjima u našem domu, a ukoliko isprobate recept saznaćete i zašto 🙈 Naime i nastala je kao moja ideja da nadjem zamenu za pizza pitu koja je do tada bila naš favorit.
 Jaaako je sočna, bas zbog ovog premaza koji ide na prve dve kore, a piletina i kvalitetan punomasni kackavalj sa mrvicom začina joj daju bogat ukus, pa sam sigurna da je nećete spremiti samo jednom.
@@ -22444,10 +22218,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cdtvpmtjiq7"></a>
+<a id="tart-sa-mlecnom-cokoladom-i-plazma-keksom"></a>
 ### Tart sa mlečnom cokoladom i plazma keksom
 
-*2020-07-31 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CDTVpmTJiq7/)*
+*2020-07-31 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CDTVpmTJiq7/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tart-sa-mlecnom-cokoladom-i-plazma-keksom/*
 
 Petak je rezervisan za jedan od najdražih slatkiša ikad! 🥰
 I to ne samo zato sto je čokoladno plazmastična bomba, već zato sto mi je simpatično koliko me muž hvali kad se bas ovaj tart  nađje u kući kad svrate prijatelji na kaficu 🙈
@@ -22475,10 +22249,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cddybk2pgl-"></a>
+<a id="tiramisu"></a>
 ### Tiramisu
 
-*2020-07-25 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CDDybK2pGl-/)*
+*2020-07-25 · Deserti i kremovi · galerija · [Instagram post](https://www.instagram.com/p/CDDybK2pGl-/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/tiramisu/*
 
 Puno je recepata za ovaj prelepi, kremkasti užitak, ali jedno je sigurno, kvalitetan mascarpone sir, sveza domaća jaja, dobra kafa i nekoliko kapi likera od badema daju onu neodoljivu notu. Još ako uz sve to dodate samo jedan sloj nutelle okupane u slatkoj pavlaci, buuum - rodi se nova ljubav 🤍
 
@@ -22500,7 +22274,6 @@ Recept
 
 **Priprema**
 
-Priprema:
 Odvojiti žumanca u jednu staklenu posudu i tu dodati šećer, pa kuvati na pari sve do onog momenta dok se šećer potpuno ne rastopi u jajima i smesa ne postane kremkasta. Ostaviti na hladjenju. Za to vreme umutiti mascarpone sir, vrlo kratko mikserom i dodati mu 200 ml slatke, nemućene pavlake pa zajedno mutiti dok smesa ne očvrsne. U ovaj fil dodajemo potpuno prohladjena jaja kuvana na pari i mutimo mikserom sve do one savršene kreme kojom premazujemo slojeve piškota. Piškote umačemo u kafu(koju ne treba sladiti), poredjati ih po dnu posude, zatim premažemo polovinom kreme. Preko toga ide sloj nutelle koju smo prelili vrelom slatkom pavlakom i dobro umešali (do potpuno glatke tečnosti bez grudvica) pa prohladili. Opet redjamo sloj piškota i preko toga ostatak fila.
 Kolac ostaviti u frižider na hladjenje tokom noći. Sutradan pospite mešavinom kvalitetnog kakaa i čokolade u prahu (meni daje bolji ukus ovako).. A ukoliko ne pronadjete čokoladu u prahu, jer je i nema baš u svakom marketu, dobra zamena bi bio nesquik.
 A onda, uživajte už šoljicu omiljene kafe 🍮☕️
@@ -22510,10 +22283,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ccvaifrptrs"></a>
+<a id="domaci-prhki-keksici-idealni-uz-kafu"></a>
 ### Domaći prhki keksici, idealni uz kafu
 
-*2020-07-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CCvaifRpTRs/)*
+*2020-07-17 · Kolači i keks · galerija · [Instagram post](https://www.instagram.com/p/CCvaifRpTRs/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/domaci-prhki-keksici-idealni-uz-kafu/*
 
 Ono sto će vas sigurno navesti da ih isprobate jeste jednostavna priprema uz samo četiri sastojka:
 
@@ -22533,10 +22306,10 @@ Prijatno 🌸
 
 ---
 
-<a id="ccsedvwpww-"></a>
+<a id="u-nasoj-kuci-se-cesto-nadjje-na-stolu"></a>
 ### U našoj kući se često nađje na stolu
 
-*2020-07-16 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CCseDvWpWw-/)*
+*2020-07-16 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CCseDvWpWw-/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/u-nasoj-kuci-se-cesto-nadjje-na-stolu/*
 
 U našoj kući se često nađje na stolu, za pripremu je potrebno svega par minuta, a divan je doručak uz jogurt ili kiselo mleko, mada može sjajno da “obogati” dasku onda kada se najave gosti 🤗
 Nije li ovo jedan od onih ukusa koji vraća u detinjstvo?
@@ -22568,10 +22341,10 @@ Prijatno 🌸
 
 ---
 
-<a id="cbpkmlfj-ih"></a>
+<a id="puter-kiflice"></a>
 ### Puter kiflice
 
-*2020-06-20 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CBpkMLfJ-IH/)*
+*2020-06-20 · Peciva i hleb · galerija · [Instagram post](https://www.instagram.com/p/CBpkMLfJ-IH/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/puter-kiflice/*
 
 U moru recepata za kiflice ovaj se izdvojio kao omiljeni u našoj kući, a obožavaju ga i svi naši prijatelji 🤗 Napravljene su toliko puta, toliko puta je recept podeljen da je red da se nađje i ovde na feedu 🙌🏼
 Kiflice su mekane, puteraste, divne i ja ih najčešće pravim bas ovako, prazne, jer ih dečica tako najsladje jedu 😍
@@ -22600,10 +22373,10 @@ Prijatno 🌸🌸🌸
 
 ---
 
-<a id="cbifcykpfg9"></a>
+<a id="uter-keksici-sa-cokoladom-i-lesnicima"></a>
 ### 𝗣𝘂𝘁𝗲𝗿 𝗸𝗲𝗸𝘀𝗶𝗰𝗶 𝘀𝗮 𝗰𝗼𝗸𝗼𝗹𝗮𝗱𝗼𝗺 𝗶 𝗹𝗲𝘀𝗻𝗶𝗰𝗶𝗺𝗮
 
-*2020-06-17 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CBiFCYkpFG9/)*
+*2020-06-17 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CBiFCYkpFG9/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/uter-keksici-sa-cokoladom-i-lesnicima/*
 
 Dan zapocet soljicom omiljene kafe a uz to i savrsen keksic 💫 #treatyoself ••• Od sastojaka vam je potrebno:
 
@@ -22626,10 +22399,10 @@ Inace, prohladjene ih mozete drzati u zatvorenoj staklenoj posudi i sladiti se u
 
 ---
 
-<a id="cbterqkpegb"></a>
+<a id="homemade-burgers"></a>
 ### Homemade burgers
 
-*2020-06-11 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CBTeRqkpEGB/)*
+*2020-06-11 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CBTeRqkpEGB/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/homemade-burgers/*
 
 Jer #happyness ••• Recept ••Mere koje budem ispisala su dovoljne za dva burgera pa ih vi svakako povecajte u odnosu na broj ljudi kojima ih pripremate 🤗
 
@@ -22666,10 +22439,10 @@ Prijatno 💫
 
 ---
 
-<a id="cbodcbnp9lx"></a>
+<a id="istina-je-da-cete-za-pripremu-ovog-jela-isprljati-nesto-v"></a>
 ### Istina je da ćete za pripremu ovog jela isprljati nešto v…
 
-*2020-06-09 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CBODcbnp9Lx/)*
+*2020-06-09 · Slano · galerija · [Instagram post](https://www.instagram.com/p/CBODcbnp9Lx/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/istina-je-da-cete-za-pripremu-ovog-jela-isprljati-nesto-v/*
 
 Istina je da ćete za pripremu ovog jela isprljati nešto više sudova, ali vredi, verujte mi 🤗
 Svako ima neki svoj način za pripremu, ja se držim ovog jer mi se pokazao zaista kao nepogrešiv 🙌🏼
@@ -22694,10 +22467,10 @@ Prijatno 🌸
 
 ---
 
-<a id="caaph_oju2a"></a>
+<a id="vo-sivilo-napolju"></a>
 ### 𝑂𝑣𝑜 𝑠𝑖𝑣𝑖𝑙𝑜 𝑛𝑎𝑝𝑜𝑙𝑗𝑢
 
-*2020-05-20 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CAapH_oJu2A/)*
+*2020-05-20 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/CAapH_oJu2A/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/vo-sivilo-napolju/*
 
 𝑂𝑣𝑜 𝑠𝑖𝑣𝑖𝑙𝑜 𝑛𝑎𝑝𝑜𝑙𝑗𝑢, 𝑘𝑖𝑠𝑎 𝑖 𝑗𝑒𝑠𝑒𝑛 𝑢 𝑠𝑟𝑒𝑑 𝑝𝑟𝑜𝑙𝑒𝑐𝑎 𝑚𝑒 𝑛𝑎𝑣𝑒𝑙𝑎 𝑑𝑎 𝑑𝑎𝑛𝑎𝑠 𝑗𝑎𝑔𝑜𝑑𝑒 𝑜𝑠𝑡𝑎𝑣𝑖𝑚 𝑠𝑎 𝑠𝑡𝑟𝑎𝑛𝑒 𝑖 𝑝𝑟𝑒𝑑𝑛𝑜𝑠𝑡 𝑑𝑎𝑚 𝑗𝑎𝑏𝑢𝑘𝑎𝑚𝑎. 𝑍𝑎𝑜 𝑚𝑖 𝑗𝑒 𝑠𝑡𝑜 𝑠𝑙𝑖𝑘𝑜𝑚 𝑛𝑒 𝑚𝑜𝑔𝑢 𝑑𝑎 𝑝𝑟𝑒𝑛𝑒𝑠𝑒𝑚 𝑖 𝑚𝑖𝑟𝑖𝑠, 𝑎𝑙𝑖 𝑧𝑛𝑎𝑡𝑒 𝑜𝑛𝑎𝑗 𝑘𝑎𝑑 𝑐𝑒𝑙𝑎 𝑘𝑢𝑐𝑎 𝑧𝑎𝑚𝑖𝑟𝑖𝑠𝑒 𝑛𝑎 𝑗𝑎𝑏𝑢𝑘𝑒 𝑖 𝑐𝑖𝑚𝑒𝑡, 𝑗𝑒𝑑𝑎𝑛 𝑜𝑑 𝑜𝑚𝑖𝑙𝑗𝑒𝑛𝑖ℎ  𝑚𝑖𝑟𝑖𝑠𝑎 𝑚𝑜𝑔 𝑑𝑒𝑡𝑖𝑛𝑗𝑠𝑡𝑣𝑎 🤗 💫𝑀𝑎𝑓𝑖𝑛𝑖 𝑠𝑎 𝑗𝑎𝑏𝑢𝑘𝑎𝑚𝑎💫
 
@@ -22720,10 +22493,10 @@ Prijatno 🌸
 
 ---
 
-<a id="capvbycpfjj"></a>
+<a id="yummy-recept-2-jaja"></a>
 ### #yummy RECEPT 2 jaja
 
-*2020-05-16 · Doručak · slika · [Instagram post](https://www.instagram.com/p/CAPVBycpFjJ/)*
+*2020-05-16 · Doručak · slika · [Instagram post](https://www.instagram.com/p/CAPVBycpFjJ/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/yummy-recept-2-jaja/*
 
 Toooliko savrseno dobre da su morale da zamirisu ovog jutra 🤤
 #yummy 💫RECEPT 💫 * 2 jaja
@@ -22750,10 +22523,10 @@ Prijatno! 💞
 
 ---
 
-<a id="b_xp7wppn8g"></a>
+<a id="da-li-je-kasno-za-dezert-u-casi"></a>
 ### Da li je kasno za dezert u casi?
 
-*2020-05-04 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/B_xp7wppN8g/)*
+*2020-05-04 · Deserti i kremovi · slika · [Instagram post](https://www.instagram.com/p/B_xp7wppN8g/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/da-li-je-kasno-za-dezert-u-casi/*
 
 Ono kad želiš nešto slatko, kremkasto, da ne oduzima puno vremena u kuhinji, a da odusevi ukucane 🤗
 
@@ -22780,10 +22553,10 @@ I da vam kažem, smazali smo ih u slast 😋
 
 ---
 
-<a id="b_o32vlpt5e"></a>
+<a id="krofne"></a>
 ### Krofne
 
-*2020-05-01 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/B_o32vlpT5e/)*
+*2020-05-01 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/B_o32vlpT5e/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/krofne/*
 
 Ima li još onih koji nisu odlucili kako da se danas zaslade..?
 💫Krofne💫
@@ -22796,10 +22569,10 @@ Prijatno ! 💫
 
 ---
 
-<a id="b-7phvypo0b"></a>
+<a id="brownie"></a>
 ### Brownie
 
-*2020-04-13 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/B-7phVYpO0b/)*
+*2020-04-13 · Kolači i keks · slika · [Instagram post](https://www.instagram.com/p/B-7phVYpO0b/) · https://doskedev.github.io/jelenadoskovic-recepti/recept/brownie/*
 
 Od sastojaka vam je potrebno
 
