@@ -79,6 +79,29 @@
     Object.keys(fields).forEach(k => { out[k] = fsValue(fields[k]); });
     return out;
   }
+  async function fsList(path){
+    const res = await fetch(`${FS_URL}/${path}?pageSize=100&key=${FIREBASE_CONFIG.apiKey}`, {cache:'no-store'});
+    if (!res.ok) throw new Error('firestore ' + res.status);
+    const json = await res.json();
+    return (json.documents || []).map(d => {
+      const o = fsFields(d.fields || {});
+      o.id = d.name.split('/').pop();
+      return o;
+    });
+  }
+  async function fetchTags(){
+    const docs = await fsList('tags');
+    return docs.map(d => ({slug: d.slug || d.id, name: d.name || d.id,
+                           order: Number(d.order) || 0, count: Number(d.count) || 0}))
+               .sort((a, b) => a.order - b.order);
+  }
+  function applyTags(list){
+    if (!Array.isArray(list) || !list.length) return;
+    TAGS.length = 0;
+    list.forEach(t => TAGS.push(t));
+    Object.keys(TAG_NAME).forEach(k => delete TAG_NAME[k]);
+    TAGS.forEach(t => { TAG_NAME[t.slug] = t.name; });
+  }
   async function fsGet(path){
     const res = await fetch(`${FS_URL}/${path}?key=${FIREBASE_CONFIG.apiKey}`, {cache:'no-store'});
     if (!res.ok) throw new Error('firestore ' + res.status);
@@ -104,13 +127,16 @@
   }
   async function fetchCatalog(){
     const meta = await fsGet('catalog/meta');
-    const parts = await Promise.all(
-      Array.from({length: Number(meta.chunks) || 1}, (_, i) => fsGet(`catalog/chunk-${i}`)));
+    const [parts, freshTags] = await Promise.all([
+      Promise.all(Array.from({length: Number(meta.chunks) || 1}, (_, i) => fsGet(`catalog/chunk-${i}`))),
+      fetchTags().catch(() => null)
+    ]);
     const items = [];
     parts.forEach(p => { try { JSON.parse(p.json).forEach(x => items.push(x)); } catch(e){} });
     if (!items.length) throw new Error('prazan katalog');
-    lsSet(CATALOG_CACHE, JSON.stringify({version: meta.version, items}));
-    return {version: meta.version, items};
+    const payload = {version: meta.version, items, tags: freshTags || TAGS.slice()};
+    lsSet(CATALOG_CACHE, JSON.stringify(payload));
+    return payload;
   }
 
   const EMPTY = {fav:false, made:false, rating:0, note:''};
@@ -525,9 +551,26 @@
     try {
       const version = await catalogVersion();
       if (!version || version === BUILT_VERSION) return;
-      const r = await fsGet(`recipes/${encodeURIComponent(slug)}`);
+      const [r, freshTags] = await Promise.all([
+        fsGet(`recipes/${encodeURIComponent(slug)}`),
+        fetchTags().catch(() => null)
+      ]);
+      if (freshTags) applyTags(freshTags);
       if (r && r.title) applyRecipe(article, r);
+      if (r && Array.isArray(r.tags)) applyRecipeTags(article, r.tags);
     } catch(e){}
+  }
+  function applyRecipeTags(article, list){
+    const box = article.querySelector('.tag-chips');
+    if (box) {
+      box.innerHTML = list.map(t =>
+        `<a class="tag-chip" href="${BASE}?tag=${encodeURIComponent(t)}">${esc(TAG_NAME[t] || t)}</a>`).join('');
+    }
+    const crumb = document.getElementById('crumbTag');
+    if (crumb && list.length) {
+      crumb.textContent = TAG_NAME[list[0]] || list[0];
+      crumb.href = `${BASE}?tag=${encodeURIComponent(list[0])}`;
+    }
   }
   function initRecipePage(){
     const article = document.querySelector('.recipe');
@@ -552,7 +595,7 @@
       madeOnly: params.get('napravljeni') === '1',
       shown: PAGE_SIZE
     };
-    if (state.tag && !TAG_NAME[state.tag]) state.tag = '';
+
 
     const listEl = document.getElementById('list');
     const featuredEl = document.getElementById('featured');
@@ -576,28 +619,36 @@
     countTags();
     let featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
 
-    const navEls = [];
-    [{slug:'', name:'Sve'}].concat(TAGS).forEach(t => {
-      const b = document.createElement('button');
-      b.className = 'nav-btn';
-      b.type = 'button';
-      b.innerHTML = `${esc(t.name)}<i>${t.slug ? (tagCounts[t.slug] || 0) : recipes.length}</i>`;
-      b.addEventListener('click', () => { state.tag = t.slug; state.shown = PAGE_SIZE; update(); });
-      nav.appendChild(b);
-      navEls.push({el:b, tag:t.slug});
-    });
-
-    const tileEls = [];
-    TAGS.filter(t => t.slug !== 'ostalo').forEach(t => {
-      const pick = recipes.find(r => (r.tags || []).includes(t.slug) && r.img);
-      const b = document.createElement('button');
-      b.className = 'tile';
-      b.type = 'button';
-      b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(t.name)}</span>`;
-      b.addEventListener('click', () => { state.tag = state.tag === t.slug ? '' : t.slug; state.shown = PAGE_SIZE; update(); });
-      tilesGrid.appendChild(b);
-      tileEls.push({el:b, tag:t.slug});
-    });
+    let navEls = [], tileEls = [];
+    function buildNav(){
+      nav.innerHTML = '';
+      navEls = [];
+      [{slug:'', name:'Sve'}].concat(TAGS).forEach(t => {
+        const b = document.createElement('button');
+        b.className = 'nav-btn';
+        b.type = 'button';
+        b.innerHTML = `${esc(t.name)}<i>${t.slug ? (tagCounts[t.slug] || 0) : recipes.length}</i>`;
+        b.addEventListener('click', () => { state.tag = t.slug; state.shown = PAGE_SIZE; update(); });
+        nav.appendChild(b);
+        navEls.push({el:b, tag:t.slug});
+      });
+    }
+    function buildTiles(){
+      tilesGrid.innerHTML = '';
+      tileEls = [];
+      TAGS.filter(t => t.slug !== 'ostalo').forEach(t => {
+        const pick = recipes.find(r => (r.tags || []).includes(t.slug) && r.img);
+        const b = document.createElement('button');
+        b.className = 'tile';
+        b.type = 'button';
+        b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(t.name)}</span>`;
+        b.addEventListener('click', () => { state.tag = state.tag === t.slug ? '' : t.slug; state.shown = PAGE_SIZE; update(); });
+        tilesGrid.appendChild(b);
+        tileEls.push({el:b, tag:t.slug});
+      });
+    }
+    buildNav();
+    buildTiles();
 
     function filtered(){
       const terms = fold(state.q.trim()) ? fold(state.q.trim()).split(/\s+/) : [];
@@ -825,10 +876,8 @@
       recipes.length = 0;
       items.forEach(r => recipes.push(r));
       countTags();
-      navEls.forEach(n => {
-        const i = n.el.querySelector('i');
-        if (i) i.textContent = n.tag ? (tagCounts[n.tag] || 0) : recipes.length;
-      });
+      buildNav();
+      buildTiles();
       featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
       document.getElementById('sAll').textContent = recipes.length;
       const hc = document.getElementById('headCount');
@@ -841,8 +890,13 @@
         const cached = cachedCatalog();
         const version = await catalogVersion();
         if (!version || version === BUILT_VERSION) return;
-        if (cached && cached.version === version) { applyCatalog(cached.items); return; }
+        if (cached && cached.version === version) {
+          applyTags(cached.tags);
+          applyCatalog(cached.items);
+          return;
+        }
         const fresh = await fetchCatalog();
+        applyTags(fresh.tags);
         applyCatalog(fresh.items);
       } catch(e){}
     }
