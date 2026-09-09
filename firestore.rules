@@ -8,6 +8,11 @@ service cloud.firestore {
       allow write: if false;
     }
 
+    match /tags/{tag} {
+      allow read: if true;
+      allow write: if false;
+    }
+
     match /catalog/{doc} {
       allow read: if true;
       allow write: if false;

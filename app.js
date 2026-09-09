@@ -4,7 +4,9 @@
   const BASE = CONFIG.base || '';
   const dataEl = document.getElementById('data');
   const recipes = dataEl ? JSON.parse(dataEl.textContent) : [];
-  const CAT_ORDER = ['Torte','Kolači i keks','Peciva i hleb','Doručak','Deserti i kremovi','Slano','Ostalo'];
+  const TAGS = Array.isArray(CONFIG.tags) ? CONFIG.tags.slice() : [];
+  const TAG_NAME = {};
+  TAGS.forEach(t => { TAG_NAME[t.slug] = t.name; });
   const PAGE_SIZE = 24;
 
   const fold = s => (s||'').toLowerCase().replace(/č|ć/g,'c').replace(/š/g,'s').replace(/ž/g,'z').replace(/đ/g,'dj').normalize('NFD').replace(/[̀-ͯ]/g,'');
@@ -544,13 +546,13 @@
     const params = new URLSearchParams(location.search);
     let state = {
       q: params.get('q') || '',
-      cat: params.get('kat') || 'Sve',
+      tag: params.get('tag') || '',
       sort: 'new',
       favOnly: params.get('sacuvani') === '1',
       madeOnly: params.get('napravljeni') === '1',
       shown: PAGE_SIZE
     };
-    if (!CAT_ORDER.includes(state.cat)) state.cat = 'Sve';
+    if (state.tag && !TAG_NAME[state.tag]) state.tag = '';
 
     const listEl = document.getElementById('list');
     const featuredEl = document.getElementById('featured');
@@ -566,38 +568,42 @@
     const qInput = document.getElementById('q');
     const cardEls = new Map();
 
-    const catCounts = {};
-    recipes.forEach(r => catCounts[r.category] = (catCounts[r.category] || 0) + 1);
+    const tagCounts = {};
+    function countTags(){
+      Object.keys(tagCounts).forEach(k => delete tagCounts[k]);
+      recipes.forEach(r => (r.tags || []).forEach(t => { tagCounts[t] = (tagCounts[t] || 0) + 1; }));
+    }
+    countTags();
     let featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
 
     const navEls = [];
-    ['Sve'].concat(CAT_ORDER.filter(c => catCounts[c])).forEach(cat => {
+    [{slug:'', name:'Sve'}].concat(TAGS).forEach(t => {
       const b = document.createElement('button');
       b.className = 'nav-btn';
       b.type = 'button';
-      b.innerHTML = `${esc(cat)}<i>${cat === 'Sve' ? recipes.length : catCounts[cat]}</i>`;
-      b.addEventListener('click', () => { state.cat = cat; state.shown = PAGE_SIZE; update(); });
+      b.innerHTML = `${esc(t.name)}<i>${t.slug ? (tagCounts[t.slug] || 0) : recipes.length}</i>`;
+      b.addEventListener('click', () => { state.tag = t.slug; state.shown = PAGE_SIZE; update(); });
       nav.appendChild(b);
-      navEls.push({el:b, cat});
+      navEls.push({el:b, tag:t.slug});
     });
 
     const tileEls = [];
-    CAT_ORDER.filter(c => catCounts[c] && c !== 'Ostalo').forEach(cat => {
-      const pick = recipes.find(r => r.category === cat && r.img);
+    TAGS.filter(t => t.slug !== 'ostalo').forEach(t => {
+      const pick = recipes.find(r => (r.tags || []).includes(t.slug) && r.img);
       const b = document.createElement('button');
       b.className = 'tile';
       b.type = 'button';
-      b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(cat)}</span>`;
-      b.addEventListener('click', () => { state.cat = state.cat === cat ? 'Sve' : cat; state.shown = PAGE_SIZE; update(); });
+      b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(t.name)}</span>`;
+      b.addEventListener('click', () => { state.tag = state.tag === t.slug ? '' : t.slug; state.shown = PAGE_SIZE; update(); });
       tilesGrid.appendChild(b);
-      tileEls.push({el:b, cat});
+      tileEls.push({el:b, tag:t.slug});
     });
 
     function filtered(){
       const terms = fold(state.q.trim()) ? fold(state.q.trim()).split(/\s+/) : [];
       const list = recipes.filter(r => {
         const e = store.entries[r.code];
-        if (state.cat !== 'Sve' && r.category !== state.cat) return false;
+        if (state.tag && !(r.tags || []).includes(state.tag)) return false;
         if (state.favOnly && !(e && e.fav)) return false;
         if (state.madeOnly && !(e && e.made)) return false;
         return terms.every(t => r.hay.includes(t));
@@ -684,14 +690,14 @@
       document.getElementById('sNote').textContent = store.countNote();
       document.getElementById('chipFav').setAttribute('aria-pressed', String(state.favOnly));
       document.getElementById('chipMade').setAttribute('aria-pressed', String(state.madeOnly));
-      navEls.forEach(n => n.el.setAttribute('aria-pressed', String(state.cat === n.cat)));
-      tileEls.forEach(t => t.el.setAttribute('aria-pressed', String(state.cat === t.cat)));
+      navEls.forEach(n => n.el.setAttribute('aria-pressed', String(state.tag === n.tag)));
+      tileEls.forEach(t => t.el.setAttribute('aria-pressed', String(state.tag === t.tag)));
     }
 
     function syncUrl(){
       const p = new URLSearchParams();
       if (state.q.trim()) p.set('q', state.q.trim());
-      if (state.cat !== 'Sve') p.set('kat', state.cat);
+      if (state.tag) p.set('tag', state.tag);
       if (state.favOnly) p.set('sacuvani', '1');
       if (state.madeOnly) p.set('napravljeni', '1');
       const qs = p.toString();
@@ -699,7 +705,7 @@
     }
 
     function update(changedCode){
-      const browsing = !state.q.trim() && state.cat === 'Sve' && !state.favOnly && !state.madeOnly;
+      const browsing = !state.q.trim() && !state.tag && !state.favOnly && !state.madeOnly;
       if (changedCode && state.sort !== 'rating' && !state.favOnly && !state.madeOnly && refreshCard(changedCode)) {
         syncCounts();
         renderPicks();
@@ -719,7 +725,7 @@
       empty.hidden = current.length > 0;
       const parts = [];
       if (state.q.trim()) parts.push(`„${state.q.trim()}“`);
-      if (state.cat !== 'Sve') parts.push(state.cat);
+      if (state.tag) parts.push(TAG_NAME[state.tag] || state.tag);
       if (state.favOnly) parts.push('sačuvani');
       if (state.madeOnly) parts.push('napravljeni');
       resultText.textContent = parts.length ? `${current.length} od ${recipes.length} · ${parts.join(' · ')}` : `${recipes.length} recepata`;
@@ -818,12 +824,10 @@
     function applyCatalog(items){
       recipes.length = 0;
       items.forEach(r => recipes.push(r));
-      Object.keys(catCounts).forEach(k => delete catCounts[k]);
-      recipes.forEach(r => catCounts[r.category] = (catCounts[r.category] || 0) + 1);
+      countTags();
       navEls.forEach(n => {
-        const c = n.cat === 'Sve' ? recipes.length : (catCounts[n.cat] || 0);
         const i = n.el.querySelector('i');
-        if (i) i.textContent = c;
+        if (i) i.textContent = n.tag ? (tagCounts[n.tag] || 0) : recipes.length;
       });
       featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
       document.getElementById('sAll').textContent = recipes.length;
