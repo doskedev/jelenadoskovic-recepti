@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="sr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light">
+<meta name="robots" content="noindex, nofollow">
+<title>Uređivanje recepata</title>
+<meta name="theme-color" content="#F5E1DE">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#127859;</text></svg>">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Parisienne&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body class="admin-body">
+<div class="wrap">
+  <header class="admin-head">
+    <div>
+      <a class="wordmark small" href="../"><span class="script">Recepti</span></a>
+      <span class="admin-label">Uređivanje</span>
+    </div>
+    <div class="admin-user">
+      <span id="whoami"></span>
+      <button class="link-btn" id="signOutBtn" type="button" hidden>Odjava</button>
+    </div>
+  </header>
+
+  <section class="gate panel" id="gate">
+    <h1>Uređivanje recepata</h1>
+    <p>Ova stranica je zaključana. Prijavite se nalogom koji ima pristup.</p>
+    <button class="google-btn" id="signInBtn" type="button">Prijava Google nalogom</button>
+    <p class="auth-err" id="gateMsg"></p>
+  </section>
+
+  <div id="adminApp" hidden>
+    <div class="admin-bar">
+      <div class="admin-tabs">
+        <button class="admin-tab" data-tab="recipes" type="button" aria-pressed="true">Recepti</button>
+        <button class="admin-tab" data-tab="tags" type="button" aria-pressed="false">Tagovi</button>
+      </div>
+      <span class="admin-status" id="status" role="status"></span>
+    </div>
+
+    <div class="admin-view" data-view="recipes">
+      <div class="admin-layout">
+        <aside class="panel admin-side">
+          <div class="admin-filters">
+            <input id="adminSearch" type="search" placeholder="Pretraga recepata…" aria-label="Pretraga recepata">
+            <select id="adminTagFilter" aria-label="Filter po tagu"><option value="">Svi tagovi</option></select>
+            <span class="admin-note" id="listCount"></span>
+          </div>
+          <div class="admin-list" id="adminList"></div>
+        </aside>
+
+        <div class="panel admin-main">
+          <p class="admin-empty" id="editorEmpty">Izaberite recept sa spiska levo.</p>
+          <div id="editor" hidden>
+            <div class="editor-head">
+              <code id="editorSlug"></code>
+              <span class="editor-links">
+                <a id="editorLink" target="_blank" rel="noopener">Otvori na sajtu ↗</a>
+                <a id="editorPost" target="_blank" rel="noopener">Instagram post ↗</a>
+              </span>
+            </div>
+
+            <label class="field"><span>Naslov</span>
+              <input id="fTitle" type="text" maxlength="200"></label>
+
+            <label class="field"><span>Opis</span>
+              <textarea id="fIntro" rows="4"></textarea></label>
+
+            <label class="field"><span>Sastojci, jedan po redu. Red koji počinje sa # je podnaslov.</span>
+              <textarea id="fIngredients" rows="10"></textarea></label>
+
+            <label class="field"><span>Priprema</span>
+              <textarea id="fSteps" rows="10"></textarea></label>
+
+            <div class="field"><span>Tagovi</span>
+              <div class="tag-picks" id="fTags"></div></div>
+
+            <label class="field"><span>Slika, adresa. Prazno znači da se koristi slika sa Instagrama.</span>
+              <input id="fImg" type="url" placeholder="https://…"></label>
+            <div class="img-row">
+              <div class="img-preview" id="imgPreview"></div>
+              <span class="admin-note" id="imgSource"></span>
+            </div>
+
+            <div class="editor-actions">
+              <button class="pill-btn" id="saveBtn" type="button">Sačuvaj izmene</button>
+              <button class="danger-btn" id="deleteBtn" type="button">Obriši recept</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="admin-view" data-view="tags" hidden>
+      <div class="panel admin-main">
+        <h2 class="panel-title">Tagovi</h2>
+        <div class="side-body">
+          <div class="add-tag">
+            <input id="newTagName" type="text" placeholder="Naziv novog taga, na primer Posno" maxlength="60">
+            <button class="pill-btn" id="addTagBtn" type="button">Dodaj tag</button>
+          </div>
+          <div class="tag-table" id="tagList"></div>
+          <p class="admin-note">Tag se može obrisati samo kada nije ni na jednom receptu. Adresa taga se pravi automatski iz naziva i ne menja se kasnije.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="../admin.js" type="module"></script>
+</body>
+</html>
