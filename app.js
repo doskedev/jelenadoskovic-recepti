@@ -1,19 +1,17 @@
 (function(){
   const CONFIG = window.RECEPTI_CONFIG || {};
-  const MODE = CONFIG.mode || 'static';
   const PAGE = CONFIG.page || 'index';
   const BASE = CONFIG.base || '';
   const dataEl = document.getElementById('data');
   const recipes = dataEl ? JSON.parse(dataEl.textContent) : [];
   const CAT_ORDER = ['Torte','Kolači i keks','Peciva i hleb','Doručak','Deserti i kremovi','Slano','Ostalo'];
   const PAGE_SIZE = 24;
-  const SITE_NAME = 'Recepti Jelene Dosković';
 
   const fold = s => (s||'').toLowerCase().replace(/č|ć/g,'c').replace(/š/g,'s').replace(/ž/g,'z').replace(/đ/g,'dj').normalize('NFD').replace(/[̀-ͯ]/g,'');
   const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmtDate = d => { const p = (d||'').split('-'); return p.length === 3 ? `${+p[2]}. ${+p[1]}. ${p[0]}.` : ''; };
-  const byCode = {}, bySlug = {};
-  recipes.forEach(r => { byCode[r.code] = r; bySlug[r.slug] = r; });
+  const byCode = {};
+  recipes.forEach(r => { byCode[r.code] = r; });
 
   const heartSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.5s-7.5-4.6-7.5-10A4.3 4.3 0 0 1 12 8a4.3 4.3 0 0 1 7.5 2.5c0 5.4-7.5 10-7.5 10Z"/></svg>';
   const checkSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m5 13 4.5 4.5L19 7"/></svg>';
@@ -25,7 +23,7 @@
   const starPath = 'M12 2.6l2.9 5.9 6.5.9-4.7 4.6 1.1 6.4-5.8-3-5.8 3 1.1-6.4L2.6 9.4l6.5-.9z';
   const starsText = n => '★'.repeat(n) + `<i>${'★'.repeat(5 - n)}</i>`;
   const kindIcon = k => k === 'reel' ? filmSvg : photoSvg;
-  const recipeHref = r => MODE === 'artifact' ? `#/${encodeURIComponent(r.slug)}` : `${BASE}recept/${r.slug}/`;
+  const recipeHref = r => `${BASE}recept/${r.slug}/`;
 
   function metaHtml(r){
     return `<span>${calSvg}${fmtDate(r.date)}</span><span>${kindIcon(r.kind)}${esc(r.kind)}</span>`
@@ -45,13 +43,117 @@
     </div>`;
   }
 
+  const FB_VERSION = "12.4.0";
+  const FIREBASE_CONFIG = {
+    apiKey: "AIzaSyBBtAbgKkqX4NK-mD9nK-1IEiKSkNK10TI",
+    authDomain: "jelenadoskovic.firebaseapp.com",
+    projectId: "jelenadoskovic",
+    storageBucket: "jelenadoskovic.firebasestorage.app",
+    messagingSenderId: "1094516599117",
+    appId: "1:1094516599117:web:decde32807130dc1e02f04"
+  };
+
   const EMPTY = {fav:false, made:false, rating:0, note:''};
-  const KEY = 'recepti-stanje-v1';
-  const OLD_KEY = 'fav-recepti';
+  const LEGACY_KEY = 'recepti-stanje-v1';
+  const SIGNED_FLAG = 'recepti-prijavljen';
+  const LAST_UID = 'recepti-zadnji-uid';
+  const cacheKey = uid => `recepti-kes-${uid}`;
+  const migratedKey = uid => `recepti-preneto-${uid}`;
   const isSet = e => !!(e && (e.fav || e.made || e.rating || (e.note && e.note.trim())));
+  const lsGet = k => { try { return localStorage.getItem(k); } catch(e){ return null; } };
+  const lsSet = (k, v) => { try { localStorage.setItem(k, v); } catch(e){} };
+  const lsDel = k => { try { localStorage.removeItem(k); } catch(e){} };
+
+  function normalize(raw){
+    const out = {};
+    Object.keys(raw || {}).forEach(code => {
+      const v = raw[code];
+      if (!v || typeof v !== 'object') return;
+      out[code] = {fav: !!v.fav, made: !!v.made, rating: Number(v.rating) || 0,
+                   note: typeof v.note === 'string' ? v.note : '', updatedAt: Number(v.updatedAt) || 1};
+    });
+    return out;
+  }
+  function readLegacy(){
+    const raw = lsGet(LEGACY_KEY);
+    if (raw) {
+      try {
+        const parsed = JSON.parse(raw);
+        return normalize(parsed && (parsed.entries || parsed));
+      } catch(e){ return {}; }
+    }
+    try {
+      const old = JSON.parse(lsGet('fav-recepti') || '[]');
+      if (Array.isArray(old)) {
+        const out = {};
+        old.forEach(code => { out[code] = {fav:true, made:false, rating:0, note:'', updatedAt:1}; });
+        return out;
+      }
+    } catch(e){}
+    return {};
+  }
+
+  const auth = {
+    user: null, sdk: null, loading: null, resolved: false, listeners: [],
+    onChange(fn){ this.listeners.push(fn); },
+    emit(){ this.listeners.forEach(fn => fn(this.user)); },
+    get signedIn(){ return !!this.user; },
+    async load(){
+      if (this.loading) return this.loading;
+      this.loading = (async () => {
+        const base = `https://www.gstatic.com/firebasejs/${FB_VERSION}/`;
+        const [appMod, authMod, dbMod] = await Promise.all([
+          import(base + 'firebase-app.js'),
+          import(base + 'firebase-auth.js'),
+          import(base + 'firebase-firestore.js')
+        ]);
+        const app = appMod.initializeApp(FIREBASE_CONFIG);
+        const fbAuth = authMod.getAuth(app);
+        try { await authMod.setPersistence(fbAuth, authMod.browserLocalPersistence); } catch(e){}
+        const fs = dbMod.getFirestore(app);
+        this.sdk = {authMod, dbMod, auth: fbAuth, fs};
+        authMod.onAuthStateChanged(fbAuth, u => {
+          this.user = u || null;
+          this.resolved = true;
+          if (u) { lsSet(SIGNED_FLAG, '1'); lsSet(LAST_UID, u.uid); }
+          else lsDel(SIGNED_FLAG);
+          this.emit();
+          store.onAuth(u);
+        });
+        try { await authMod.getRedirectResult(fbAuth); } catch(e){}
+        return this.sdk;
+      })();
+      return this.loading;
+    },
+    async signIn(){
+      let sdk;
+      try { sdk = await this.load(); }
+      catch(e){ return {ok:false, error:'Ne mogu da učitam prijavu. Proverite internet vezu.'}; }
+      const {authMod, auth: a} = sdk;
+      const provider = new authMod.GoogleAuthProvider();
+      provider.setCustomParameters({prompt: 'select_account'});
+      try {
+        await authMod.signInWithPopup(a, provider);
+        return {ok:true};
+      } catch(err){
+        const code = err && err.code;
+        if (code === 'auth/popup-blocked' || code === 'auth/operation-not-supported-in-this-environment') {
+          try { await authMod.signInWithRedirect(a, provider); return {ok:true}; }
+          catch(e2){ return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'}; }
+        }
+        if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') return {ok:false};
+        if (code === 'auth/unauthorized-domain') return {ok:false, error:'Ovaj domen nije dozvoljen u Firebase podešavanjima.'};
+        return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'};
+      }
+    },
+    async signOut(){
+      if (!this.sdk) return;
+      try { await this.sdk.authMod.signOut(this.sdk.auth); } catch(e){}
+    }
+  };
 
   const store = {
-    entries: {}, db: null, listeners: [],
+    entries: {}, uid: null, unsub: null, listeners: [],
     onChange(fn){ this.listeners.push(fn); },
     emit(code){ this.listeners.forEach(fn => fn(code)); },
     get(code){ return Object.assign({}, EMPTY, this.entries[code] || {}); },
@@ -59,75 +161,181 @@
     countFav(){ return Object.values(this.entries).filter(e => e.fav).length; },
     countRated(){ return Object.values(this.entries).filter(e => e.rating > 0).length; },
     countNote(){ return Object.values(this.entries).filter(e => e.note && e.note.trim()).length; },
-    readLocal(){
-      let raw = null;
-      try { raw = localStorage.getItem(KEY); } catch(e){ return; }
-      if (raw) {
-        try {
-          const parsed = JSON.parse(raw);
-          if (parsed && typeof parsed === 'object') this.entries = parsed.entries || parsed || {};
-        } catch(e){}
-      } else {
-        try {
-          const old = JSON.parse(localStorage.getItem(OLD_KEY) || '[]');
-          if (Array.isArray(old)) old.forEach(code => { this.entries[code] = {fav:true, made:false, rating:0, note:'', updatedAt:1}; });
-        } catch(e){}
-      }
-      Object.keys(this.entries).forEach(code => {
-        const e = this.entries[code];
-        if (!e || typeof e !== 'object') { delete this.entries[code]; return; }
-        this.entries[code] = {fav:!!e.fav, made:!!e.made, rating:Number(e.rating) || 0, note:typeof e.note === 'string' ? e.note : '', updatedAt:Number(e.updatedAt) || 1};
-      });
+    writeCache(){ if (this.uid) lsSet(cacheKey(this.uid), JSON.stringify({version:2, entries:this.entries})); },
+    loadCache(uid){
+      const raw = lsGet(cacheKey(uid));
+      if (!raw) return {};
+      try {
+        const parsed = JSON.parse(raw);
+        return normalize(parsed && (parsed.entries || parsed));
+      } catch(e){ return {}; }
     },
-    writeLocal(){ try { localStorage.setItem(KEY, JSON.stringify({version:1, entries:this.entries})); } catch(e){} },
     set(code, patch){
+      if (!auth.signedIn) { requireSignIn(); return false; }
       const next = Object.assign(this.get(code), patch, {updatedAt: Date.now()});
       this.entries[code] = next;
-      this.writeLocal();
+      this.writeCache();
       this.push(code, next);
       this.emit(code);
-      return next;
+      return true;
     },
     merge(code, remote){
       const mine = this.entries[code];
-      const incoming = {fav:!!remote.fav, made:!!remote.made, rating:Number(remote.rating) || 0, note:typeof remote.note === 'string' ? remote.note : '', updatedAt:Number(remote.updatedAt) || 1};
+      const incoming = normalize({x: remote}).x;
+      if (!incoming) return false;
       if (mine && Number(mine.updatedAt || 0) >= incoming.updatedAt) return false;
       this.entries[code] = incoming;
       return true;
     },
     push(code, entry){
-      if (!this.db) return;
+      if (!auth.sdk || !this.uid) return;
+      const {dbMod, fs} = auth.sdk;
       try {
-        this.db.doc('beleske/' + code).set({code, fav:entry.fav, made:entry.made, rating:entry.rating, note:entry.note, updatedAt:entry.updatedAt}).catch(() => {});
+        dbMod.setDoc(dbMod.doc(fs, 'users', this.uid, 'marks', code), {
+          code, fav: entry.fav, made: entry.made, rating: entry.rating,
+          note: entry.note, updatedAt: entry.updatedAt
+        }).catch(() => {});
       } catch(e){}
     },
-    async connect(){
-      if (!(window.claude && typeof window.claude.use === 'function')) return;
-      let db = null;
-      try { db = await window.claude.use('db'); } catch(e){ return; }
-      if (!db) return;
-      this.db = db;
-      const syncNote = document.getElementById('syncNote');
+    async onAuth(user){
+      if (this.unsub) { this.unsub(); this.unsub = null; }
+      if (!user) {
+        this.uid = null;
+        this.entries = {};
+        this.emit();
+        return;
+      }
+      this.uid = user.uid;
+      this.entries = this.loadCache(user.uid);
+      this.emit();
+      const {dbMod, fs} = auth.sdk;
+      const marks = dbMod.collection(fs, 'users', user.uid, 'marks');
       try {
-        const snap = await db.collection('beleske').get();
-        let changed = false;
-        const seen = new Set();
-        snap.docs.forEach(d => { seen.add(d.id); if (this.merge(d.id, d.data() || {})) changed = true; });
-        Object.keys(this.entries).forEach(code => {
-          const e = this.entries[code];
-          if (!seen.has(code) && isSet(e)) this.push(code, e);
-        });
-        if (changed) { this.writeLocal(); this.emit(); }
-        if (syncNote) syncNote.textContent = 'Oznake, ocene i beleške sinhronizuju se sa vašim Claude nalogom, pa ih vidite na svim uređajima.';
-        db.collection('beleske').onSnapshot(s2 => {
+        const snap = await dbMod.getDocs(marks);
+        snap.forEach(d => this.merge(d.id, d.data() || {}));
+        await this.migrateLegacy(user.uid, new Set(snap.docs.map(d => d.id)));
+        this.writeCache();
+        this.emit();
+      } catch(e){}
+      try {
+        this.unsub = dbMod.onSnapshot(marks, snap => {
           let dirty = false;
-          s2.docs.forEach(d => { if (this.merge(d.id, d.data() || {})) dirty = true; });
-          if (dirty) { this.writeLocal(); this.emit(); }
+          snap.forEach(d => { if (this.merge(d.id, d.data() || {})) dirty = true; });
+          if (dirty) { this.writeCache(); this.emit(); }
         }, () => {});
-      } catch(e){ this.db = null; }
+      } catch(e){}
+    },
+    async migrateLegacy(uid, remoteCodes){
+      if (lsGet(migratedKey(uid))) return 0;
+      const legacy = readLegacy();
+      let moved = 0;
+      Object.keys(legacy).forEach(code => {
+        const e = legacy[code];
+        if (!isSet(e)) return;
+        const mine = this.entries[code];
+        if (mine && Number(mine.updatedAt || 0) >= Number(e.updatedAt || 0)) return;
+        this.entries[code] = e;
+        this.push(code, e);
+        moved++;
+      });
+      lsSet(migratedKey(uid), String(Date.now()));
+      if (moved) notify(`Preneto ${moved} zapisa sa ovog uređaja na vaš nalog.`);
+      return moved;
+    },
+    async deleteAll(){
+      if (!auth.sdk || !this.uid) return 0;
+      const {dbMod, fs} = auth.sdk;
+      const codes = Object.keys(this.entries);
+      for (const code of codes) {
+        try { await dbMod.deleteDoc(dbMod.doc(fs, 'users', this.uid, 'marks', code)); } catch(e){}
+      }
+      this.entries = {};
+      this.writeCache();
+      this.emit();
+      return codes.length;
     }
   };
-  store.readLocal();
+
+
+  /* ---------------- obaveštenja i prijava ---------------- */
+  let toastEl = null, toastTimer = null;
+  function notify(text){
+    if (!toastEl) {
+      toastEl = document.createElement('div');
+      toastEl.className = 'toast';
+      toastEl.setAttribute('role', 'status');
+      document.body.appendChild(toastEl);
+    }
+    toastEl.textContent = text;
+    toastEl.classList.add('on');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => toastEl.classList.remove('on'), 4000);
+  }
+
+  const GOOGLE_G = '<svg viewBox="0 0 48 48" aria-hidden="true" class="gicon"><path fill="#EA4335" d="M24 9.5c3.5 0 6.6 1.2 9 3.6l6.7-6.7C35.6 2.6 30.2.5 24 .5 14.6.5 6.5 5.9 2.6 13.7l7.8 6.1C12.3 14 17.6 9.5 24 9.5z"/><path fill="#4285F4" d="M46.5 24.5c0-1.6-.1-3.2-.4-4.7H24v9h12.7c-.6 3-2.3 5.5-4.8 7.2l7.5 5.8c4.4-4 6.9-10 6.9-17.3z"/><path fill="#FBBC05" d="M10.4 28.2c-.5-1.5-.8-3-.8-4.7s.3-3.2.8-4.7l-7.8-6.1C1 15.9 0 19.8 0 23.5s1 7.6 2.6 10.8l7.8-6.1z"/><path fill="#34A853" d="M24 47c6.2 0 11.5-2 15.3-5.6l-7.5-5.8c-2.1 1.4-4.8 2.2-7.8 2.2-6.4 0-11.7-4.5-13.6-10.5l-7.8 6.1C6.5 41.1 14.6 47 24 47z"/></svg>';
+  let authDlg = null, authErr = null, signingIn = false;
+  function buildAuthDialog(){
+    if (authDlg) return authDlg;
+    authDlg = document.createElement('dialog');
+    authDlg.className = 'auth-dlg';
+    authDlg.innerHTML = `<button class="auth-close" type="button" aria-label="Zatvori">×</button>
+      <h2>Prijavite se</h2>
+      <p>Da biste čuvali recepte, označavali šta ste napravili, davali ocenu i pisali beleške, prijavite se Google nalogom. Vaše beleške vidite samo vi, na svim uređajima.</p>
+      <button class="google-btn" type="button">${GOOGLE_G}Nastavi preko Google naloga</button>
+      <p class="auth-err" hidden></p>
+      <p class="auth-fine">Čuvamo samo vaše ime sa Google naloga i ono što sami upišete uz recepte. Podatke možete obrisati u svakom trenutku.</p>`;
+    document.body.appendChild(authDlg);
+    authErr = authDlg.querySelector('.auth-err');
+    authDlg.querySelector('.auth-close').addEventListener('click', () => authDlg.close());
+    authDlg.addEventListener('click', ev => { if (ev.target === authDlg) authDlg.close(); });
+    const btn = authDlg.querySelector('.google-btn');
+    btn.addEventListener('click', async () => {
+      if (signingIn) return;
+      signingIn = true;
+      btn.disabled = true;
+      authErr.hidden = true;
+      const res = await auth.signIn();
+      signingIn = false;
+      btn.disabled = false;
+      if (res && res.ok) authDlg.close();
+      else if (res && res.error) { authErr.textContent = res.error; authErr.hidden = false; }
+    });
+    return authDlg;
+  }
+  function requireSignIn(){
+    const dlg = buildAuthDialog();
+    auth.load().catch(() => {});
+    if (!dlg.open) dlg.showModal();
+  }
+
+  function renderAuthSlot(){
+    const slot = document.getElementById('authSlot');
+    if (!slot) return;
+    if (auth.signedIn) {
+      const u = auth.user;
+      const name = (u.displayName || 'Nalog').split(' ')[0];
+      const initial = (u.displayName || 'N').trim().charAt(0).toUpperCase();
+      slot.innerHTML = `<span class="user-chip">
+          ${u.photoURL ? `<img class="avatar" src="${u.photoURL}" alt="" referrerpolicy="no-referrer">` : `<span class="avatar avatar-ph">${initial}</span>`}
+          <span class="uname">${name}</span>
+          <button class="link-btn" type="button" data-signout>Odjava</button>
+        </span>`;
+      const img = slot.querySelector('img.avatar');
+      if (img) img.addEventListener('error', () => {
+        img.replaceWith(Object.assign(document.createElement('span'), {className:'avatar avatar-ph', textContent:initial}));
+      });
+      slot.querySelector('[data-signout]').addEventListener('click', () => auth.signOut());
+    } else {
+      slot.innerHTML = '<button class="signin-btn" type="button">Prijava</button>';
+      slot.querySelector('button').addEventListener('click', requireSignIn);
+    }
+  }
+
+  function initAuth(){
+    renderAuthSlot();
+    auth.onChange(() => { renderAuthSlot(); });
+    if (lsGet(SIGNED_FLAG)) auth.load().catch(() => {});
+  }
 
   function mineHtml(){
     return `<section class="mine">
@@ -194,8 +402,25 @@
         if (store.get(code).note !== noteField.value) store.set(code, {note:noteField.value});
       });
     }
+    let lockNote = mine.querySelector('.mine-lock');
+    if (!lockNote) {
+      lockNote = document.createElement('p');
+      lockNote.className = 'mine-lock';
+      lockNote.innerHTML = 'Prijavite se da biste čuvali oznake, ocenu i belešku. <button class="link-btn" type="button">Prijava</button>';
+      mine.appendChild(lockNote);
+    }
+    mine.addEventListener('click', ev => {
+      if (auth.signedIn) return;
+      ev.preventDefault();
+      ev.stopPropagation();
+      requireSignIn();
+    }, true);
     const sync = () => {
       const e = store.get(code);
+      const locked = !auth.signedIn;
+      mine.classList.toggle('locked', locked);
+      lockNote.hidden = !locked;
+      if (noteField) noteField.readOnly = locked;
       if (madeBtn) madeBtn.setAttribute('aria-pressed', String(e.made));
       if (madeLabel) madeLabel.textContent = e.made ? 'Napravljeno' : 'Označi kao napravljeno';
       if (starsBox) starsBox.querySelectorAll('.star').forEach(s => s.classList.toggle('on', Number(s.dataset.value) <= e.rating));
@@ -222,63 +447,8 @@
     const sync = wireMine(article, code);
     wireQuickActs(article, code);
     store.onChange(() => { if (sync) sync(); });
-    store.connect();
-  }
-
-  /* ---------------- prikaz recepta u artifact verziji ---------------- */
-  function recipeViewHtml(r){
-    const cat = esc(r.category);
-    const ings = (r.ingredients || []).map((i, idx) => i.t === 'h'
-      ? `<li class="h">${esc(i.x)}</li>`
-      : `<li><input type="checkbox" id="ing-${idx}"><label for="ing-${idx}">${esc(i.x)}</label></li>`).join('');
-    const idx = recipes.indexOf(r);
-    const prev = recipes[idx - 1], next = recipes[idx + 1];
-    const related = recipes.filter(x => x.category === r.category && x.code !== r.code).slice(0, 4);
-    const e = store.get(r.code);
-    return `<nav class="crumbs"><a href="#">Svi recepti</a><span>›</span><span>${cat}</span></nav>
-    <div class="recipe-layout">
-      <div>
-        <article class="recipe" data-code="${esc(r.code)}">
-          <div class="r-top">
-            <div class="r-top-text">
-              <span class="eyebrow">${cat}</span>
-              <h1>${esc(r.title)}</h1>
-              <div class="mchips">${metaHtml(r)}</div>
-              <div class="r-foot"><div class="mine-marks">${marksHtml(e)}</div>${actsHtml(e)}</div>
-            </div>
-            ${r.img ? `<figure class="r-hero"><img src="${r.img}" alt="${esc(r.title)}"></figure>` : ''}
-          </div>
-          <div class="recipe-body">
-            ${mineHtml()}
-            ${r.intro ? `<p class="intro">${esc(r.intro)}</p>` : ''}
-            ${ings ? `<section><h2>Sastojci</h2><div class="ing-cols"><ul class="ing-list">${ings}</ul></div></section>` : ''}
-            ${r.steps ? `<section><h2>Priprema</h2><p class="steps">${esc(r.steps)}</p></section>` : ''}
-            <details><summary>Originalni opis sa Instagrama</summary><pre>${esc(r.raw)}</pre></details>
-            <a class="ig-link" href="${esc(r.url)}" target="_blank" rel="noopener">Otvori post na Instagramu ↗</a>
-            <nav class="r-pager">
-              ${prev ? `<a class="pager-link prev" href="${recipeHref(prev)}"><span>Noviji recept</span><b>${esc(prev.title)}</b></a>` : '<span></span>'}
-              ${next ? `<a class="pager-link next" href="${recipeHref(next)}"><span>Stariji recept</span><b>${esc(next.title)}</b></a>` : '<span></span>'}
-            </nav>
-          </div>
-        </article>
-        ${related.length ? `<section class="panel" style="margin-top:14px">
-          <h2 class="panel-title">Iz iste kategorije</h2>
-          <div class="related-grid">${related.map(x => `<a class="rel" href="${recipeHref(x)}">
-            <span class="rel-img">${x.img ? `<img src="${x.img}" alt="" loading="lazy">` : ''}</span><b>${esc(x.title)}</b></a>`).join('')}</div>
-        </section>` : ''}
-      </div>
-      <aside class="side">
-        <section class="panel">
-          <h2 class="panel-title">O profilu</h2>
-          <div class="side-body">
-            <p>Recepti i fotografije su Jelenin rad, objavljeni na njenom Instagram profilu. Ovde su samo sređeni za pretragu i kuvanje.</p>
-            <a class="ghost-link" href="https://www.instagram.com/jelenadoskovic/" target="_blank" rel="noopener">Prati na Instagramu</a>
-            <p>Ako vam je zbirka koristila, možete se zahvaliti u iznosu koji sami izaberete.</p>
-            <a class="pill-link" href="https://paypal.me/jelenadoskovic" target="_blank" rel="noopener">${heartSvg}Podrži preko PayPala</a>
-          </div>
-        </section>
-      </aside>
-    </div>`;
+    auth.onChange(() => { if (sync) sync(); });
+    initAuth();
   }
 
   /* ---------------- spisak recepata ---------------- */
@@ -306,8 +476,6 @@
     const pickList = document.getElementById('pickList');
     const pickTitle = document.getElementById('pickTitle');
     const qInput = document.getElementById('q');
-    const listView = document.getElementById('listView');
-    const detailView = document.getElementById('detailView');
     const cardEls = new Map();
 
     const catCounts = {};
@@ -433,7 +601,6 @@
     }
 
     function syncUrl(){
-      if (MODE === 'artifact') return;
       const p = new URLSearchParams();
       if (state.q.trim()) p.set('q', state.q.trim());
       if (state.cat !== 'Sve') p.set('kat', state.cat);
@@ -482,12 +649,34 @@
     document.getElementById('chipFav').addEventListener('click', () => { state.favOnly = !state.favOnly; state.shown = PAGE_SIZE; update(); });
     document.getElementById('chipMade').addEventListener('click', () => { state.madeOnly = !state.madeOnly; state.shown = PAGE_SIZE; update(); });
 
+    const syncNoteEl = document.getElementById('syncNote');
+    const deleteBtn = document.getElementById('deleteDataBtn');
+    function syncAccountPanel(){
+      if (syncNoteEl) {
+        syncNoteEl.textContent = auth.signedIn
+          ? `Prijavljeni ste kao ${auth.user.displayName || 'korisnik'}. Oznake, ocene i beleške čuvaju se na vašem nalogu i vidite ih na svim uređajima.`
+          : 'Prijavite se Google nalogom da biste čuvali oznake, ocene i beleške.';
+      }
+      if (deleteBtn) deleteBtn.hidden = !auth.signedIn;
+    }
+    if (deleteBtn) deleteBtn.addEventListener('click', async () => {
+      if (!auth.signedIn) { requireSignIn(); return; }
+      const n = Object.keys(store.entries).length;
+      if (!n) { showMsg('Nemate sačuvanih podataka.'); return; }
+      if (!confirm(`Trajno obrisati svih ${n} vaših zapisa sa naloga? Ovo se ne može poništiti.`)) return;
+      deleteBtn.disabled = true;
+      const removed = await store.deleteAll();
+      deleteBtn.disabled = false;
+      showMsg(`Obrisano ${removed} zapisa.`);
+    });
+
     const backupMsg = document.getElementById('backupMsg');
     function showMsg(text){
       backupMsg.textContent = text;
       setTimeout(() => { if (backupMsg.textContent === text) backupMsg.textContent = ''; }, 4000);
     }
     document.getElementById('exportBtn').addEventListener('click', async () => {
+      if (!auth.signedIn) { requireSignIn(); return; }
       const payload = {};
       Object.keys(store.entries).forEach(code => { if (isSet(store.entries[code])) payload[code] = store.entries[code]; });
       const codes = Object.keys(payload);
@@ -495,13 +684,7 @@
       const bodyText = JSON.stringify({version:1, izvezeno:new Date().toISOString(), entries:payload}, null, 1);
       const filename = 'moje-beleske-recepti.json';
       let saved = false;
-      if (window.claude && typeof window.claude.use === 'function') {
-        try {
-          const downloads = await window.claude.use('downloads');
-          if (downloads) { await downloads.save({filename, data:bodyText}); saved = true; }
-        } catch(e){ saved = false; }
-      }
-      if (!saved) {
+      {
         try {
           const url = URL.createObjectURL(new Blob([bodyText], {type:'application/json'}));
           const a = document.createElement('a');
@@ -516,6 +699,7 @@
     document.getElementById('importInput').addEventListener('change', ev => {
       const file = ev.target.files && ev.target.files[0];
       if (!file) return;
+      if (!auth.signedIn) { ev.target.value = ''; requireSignIn(); return; }
       const reader = new FileReader();
       reader.onload = () => {
         let incoming = null;
@@ -534,7 +718,7 @@
           store.push(code, merged);
           n++;
         });
-        store.writeLocal();
+        store.writeCache();
         update();
         showMsg(n ? `Uvezeno ${n} zapisa.` : 'Nema novijih zapisa za uvoz.');
       };
@@ -543,43 +727,11 @@
       ev.target.value = '';
     });
 
-    let detailSync = null;
-    function showList(){
-      detailSync = null;
-      if (detailView) { detailView.hidden = true; detailView.innerHTML = ''; }
-      listView.hidden = false;
-      document.title = SITE_NAME;
-      window.scrollTo(0, 0);
-    }
-    function showDetail(r){
-      listView.hidden = true;
-      detailView.hidden = false;
-      detailView.innerHTML = recipeViewHtml(r);
-      detailSync = wireMine(detailView, r.code);
-      wireQuickActs(detailView, r.code);
-      document.title = `${r.title} · ${SITE_NAME}`;
-      window.scrollTo(0, 0);
-    }
-    function route(){
-      if (MODE !== 'artifact') return;
-      const m = location.hash.match(/^#\/(.+)$/);
-      if (m) {
-        const r = bySlug[decodeURIComponent(m[1])];
-        if (r) return showDetail(r);
-      }
-      showList();
-    }
-
-    store.onChange(code => {
-      if (detailSync) { detailSync(); return; }
-      update(code);
-    });
+    store.onChange(code => update(code));
     update();
-    if (MODE === 'artifact') {
-      window.addEventListener('hashchange', route);
-      route();
-    }
-    store.connect();
+    auth.onChange(() => { syncAccountPanel(); update(); });
+    initAuth();
+    syncAccountPanel();
   }
 
   if (PAGE === 'recipe') initRecipePage();
