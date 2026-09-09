@@ -27,7 +27,7 @@
   function status(text, kind){
     const el = $('status');
     el.textContent = text || '';
-    el.className = 'admin-status' + (kind ? ' ' + kind : '');
+    el.className = 'a-status' + (kind ? ' ' + kind : '');
     if (text) { clearTimeout(status._t); status._t = setTimeout(() => { if (el.textContent === text) el.textContent = ''; }, 5000); }
   }
 
@@ -112,11 +112,11 @@
     });
     $('listCount').textContent = `${rows.length} od ${catalog.length}`;
     $('adminList').innerHTML = rows.slice(0, 200).map(r => `
-      <button class="arow${current && current.slug === r.slug ? ' on' : ''}" type="button" data-slug="${esc(r.slug)}">
-        <span class="arow-title">${esc(r.title)}</span>
-        <span class="arow-meta">${fmtDate(r.date)} · ${(r.tags || []).map(t => esc(tagName(t))).join(', ') || 'bez taga'}</span>
-      </button>`).join('') || '<p class="admin-empty">Nema recepata za taj upit.</p>';
-    $('adminList').querySelectorAll('.arow').forEach(b => {
+      <button class="a-row${current && current.slug === r.slug ? ' on' : ''}" type="button" data-slug="${esc(r.slug)}">
+        <span class="a-row-title">${esc(r.title)}</span>
+        <span class="a-row-meta">${fmtDate(r.date)} · ${(r.tags || []).map(t => esc(tagName(t))).join(', ') || 'bez taga'}</span>
+      </button>`).join('') || '<p class="a-empty">Nema recepata za taj upit.</p>';
+    $('adminList').querySelectorAll('.a-row').forEach(b => {
       b.addEventListener('click', () => openRecipe(b.dataset.slug));
     });
   }
@@ -157,12 +157,17 @@
     $('editorSlug').textContent = r.slug;
     $('editorLink').href = `../recept/${r.slug}/`;
     $('editorPost').href = r.url || '#';
-    $('fTags').innerHTML = tags.map(t => `
-      <label class="tag-pick"><input type="checkbox" value="${esc(t.slug)}"${(r.tags || []).includes(t.slug) ? ' checked' : ''}> ${esc(t.name)}</label>`).join('');
-    updatePreview();
-    $('editor').querySelectorAll('input, textarea').forEach(el => {
-      el.addEventListener('input', () => { dirty = true; if (el.id === 'fImg') updatePreview(); });
+    $('fTags').innerHTML = tags.map(t => {
+      const on = (r.tags || []).includes(t.slug);
+      return `<label class="a-pick${on ? ' on' : ''}"><input type="checkbox" value="${esc(t.slug)}"${on ? ' checked' : ''}> ${esc(t.name)}</label>`;
+    }).join('');
+    $('fTags').querySelectorAll('input').forEach(inp => {
+      inp.addEventListener('change', () => {
+        inp.closest('.a-pick').classList.toggle('on', inp.checked);
+        dirty = true;
+      });
     });
+    updatePreview();
   }
 
   function updatePreview(){
@@ -170,8 +175,8 @@
     const fallback = current && current.hasImg ? `../img/${current.code}.jpg` : '';
     const src = url || fallback;
     const box = $('imgPreview');
-    box.innerHTML = src ? `<img src="${esc(src)}" alt="">` : '<span class="admin-note">Nema slike</span>';
-    $('imgSource').textContent = url ? 'sopstvena adresa' : (fallback ? 'slika sa Instagrama' : '');
+    box.innerHTML = src ? `<img src="${esc(src)}" alt="">` : '<span>Nema slike</span>';
+    $('imgSource').textContent = url ? 'Pregled, sopstvena adresa' : (fallback ? 'Pregled, slika sa Instagrama' : 'Pregled');
   }
 
   async function saveRecipe(){
@@ -263,11 +268,11 @@
   /* ---------------- tagovi ---------------- */
   function renderTagsView(){
     $('tagList').innerHTML = tags.map(t => `
-      <div class="tag-row">
-        <span class="tag-row-name">${esc(t.name)}</span>
-        <code>${esc(t.slug)}</code>
-        <span class="tag-row-count">${t.count || 0}</span>
-        <button class="link-btn" type="button" data-del="${esc(t.slug)}"${(t.count || 0) > 0 ? ' disabled title="Tag se koristi, prvo ga sklonite sa recepata"' : ''}>Obriši</button>
+      <div class="a-trow">
+        <span class="a-tname">${esc(t.name)}</span>
+        <span class="a-tslug">${esc(t.slug)}</span>
+        <span class="a-tcount">${t.count || 0}</span>
+        <button class="a-btn ghost" type="button" data-del="${esc(t.slug)}"${(t.count || 0) > 0 ? ' disabled title="Tag se koristi, prvo ga sklonite sa recepata"' : ''}>Obriši</button>
       </div>`).join('');
     $('tagList').querySelectorAll('[data-del]').forEach(b => {
       b.addEventListener('click', () => deleteTag(b.dataset.del));
@@ -329,11 +334,13 @@
     status('');
     $('adminApp').hidden = false;
     $('gate').hidden = true;
+    $('tabs').hidden = false;
   }
 
   function showGate(message){
     $('adminApp').hidden = true;
     $('gate').hidden = false;
+    $('tabs').hidden = true;
     $('gateMsg').textContent = message || '';
   }
 
@@ -356,16 +363,22 @@
     $('signOutBtn').addEventListener('click', async () => {
       if (fb) await fb.authMod.signOut(fb.auth);
     });
+    ['fTitle', 'fIntro', 'fIngredients', 'fSteps', 'fImg'].forEach(id => {
+      $(id).addEventListener('input', () => {
+        dirty = true;
+        if (id === 'fImg') updatePreview();
+      });
+    });
     $('adminSearch').addEventListener('input', renderList);
     $('adminTagFilter').addEventListener('change', renderList);
     $('saveBtn').addEventListener('click', saveRecipe);
     $('deleteBtn').addEventListener('click', deleteRecipe);
     $('addTagBtn').addEventListener('click', addTag);
     $('newTagName').addEventListener('keydown', ev => { if (ev.key === 'Enter') addTag(); });
-    document.querySelectorAll('.admin-tab').forEach(b => {
+    document.querySelectorAll('.a-tab').forEach(b => {
       b.addEventListener('click', () => {
-        document.querySelectorAll('.admin-tab').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
-        document.querySelectorAll('.admin-view').forEach(v => { v.hidden = v.dataset.view !== b.dataset.tab; });
+        document.querySelectorAll('.a-tab').forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+        document.querySelectorAll('.a-view').forEach(v => { v.hidden = v.dataset.view !== b.dataset.tab; });
       });
     });
     window.addEventListener('beforeunload', ev => {
