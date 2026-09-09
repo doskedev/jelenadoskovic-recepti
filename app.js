@@ -806,100 +806,14 @@
     }
     if (deleteBtn) deleteBtn.addEventListener('click', async () => {
       if (!auth.signedIn) { requireSignIn(); return; }
-      const n = Object.keys(store.entries).length;
-      if (!n) { showMsg('Nemate sačuvanih podataka.'); return; }
+      const n = Object.keys(store.entries).filter(c => isSet(store.entries[c])).length;
+      if (!n) { notify('Nemate sačuvanih oznaka ni beleški.'); return; }
       if (!confirm(`Trajno obrisati svih ${n} vaših zapisa sa naloga? Ovo se ne može poništiti.`)) return;
       deleteBtn.disabled = true;
       const removed = await store.deleteAll();
       deleteBtn.disabled = false;
-      showMsg(`Obrisano ${removed} zapisa.`);
+      notify(`Obrisano ${removed} zapisa.`);
     });
-
-    const backupMsg = document.getElementById('backupMsg');
-    function showMsg(text){
-      backupMsg.textContent = text;
-      setTimeout(() => { if (backupMsg.textContent === text) backupMsg.textContent = ''; }, 4000);
-    }
-    document.getElementById('exportBtn').addEventListener('click', async () => {
-      if (!auth.signedIn) { requireSignIn(); return; }
-      const payload = {};
-      Object.keys(store.entries).forEach(code => { if (isSet(store.entries[code])) payload[code] = store.entries[code]; });
-      const codes = Object.keys(payload);
-      if (!codes.length) { showMsg('Još nema označenih recepata.'); return; }
-      const bodyText = JSON.stringify({version:1, izvezeno:new Date().toISOString(), entries:payload}, null, 1);
-      const filename = 'moje-beleske-recepti.json';
-      let saved = false;
-      {
-        try {
-          const url = URL.createObjectURL(new Blob([bodyText], {type:'application/json'}));
-          const a = document.createElement('a');
-          a.href = url; a.download = filename;
-          document.body.appendChild(a); a.click(); a.remove();
-          setTimeout(() => URL.revokeObjectURL(url), 2000);
-          saved = true;
-        } catch(e){}
-      }
-      showMsg(saved ? `Sačuvano ${codes.length} zapisa.` : 'Preuzimanje nije moguće u ovom prikazu.');
-    });
-    document.getElementById('importInput').addEventListener('change', ev => {
-      const file = ev.target.files && ev.target.files[0];
-      if (!file) return;
-      if (!auth.signedIn) { ev.target.value = ''; requireSignIn(); return; }
-      const reader = new FileReader();
-      reader.onload = () => {
-        let incoming = null;
-        try { incoming = JSON.parse(String(reader.result)); } catch(e){ showMsg('Fajl nije ispravan JSON.'); return; }
-        const entries = incoming && (incoming.entries || incoming);
-        if (!entries || typeof entries !== 'object') { showMsg('U fajlu nema beleški.'); return; }
-        let n = 0;
-        Object.keys(entries).forEach(code => {
-          if (!byCode[code]) return;
-          const e = entries[code];
-          if (!e || typeof e !== 'object') return;
-          const merged = {fav:!!e.fav, made:!!e.made, rating:Number(e.rating) || 0, note:typeof e.note === 'string' ? e.note : '', updatedAt:Number(e.updatedAt) || Date.now()};
-          const mine = store.entries[code];
-          if (mine && Number(mine.updatedAt || 0) >= merged.updatedAt) return;
-          store.entries[code] = merged;
-          store.push(code, merged);
-          n++;
-        });
-        store.writeCache();
-        update();
-        showMsg(n ? `Uvezeno ${n} zapisa.` : 'Nema novijih zapisa za uvoz.');
-      };
-      reader.onerror = () => showMsg('Fajl nije moguće pročitati.');
-      reader.readAsText(file);
-      ev.target.value = '';
-    });
-
-    function applyCatalog(items){
-      recipes.length = 0;
-      items.forEach(r => recipes.push(r));
-      countTags();
-      buildNav();
-      buildTiles();
-      featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
-      document.getElementById('sAll').textContent = recipes.length;
-      const hc = document.getElementById('headCount');
-      if (hc) hc.textContent = recipes.length;
-      state.shown = PAGE_SIZE;
-      update();
-    }
-    async function refreshCatalog(){
-      try {
-        const cached = cachedCatalog();
-        const version = await catalogVersion();
-        if (!version || version === BUILT_VERSION) return;
-        if (cached && cached.version === version) {
-          applyTags(cached.tags);
-          applyCatalog(cached.items);
-          return;
-        }
-        const fresh = await fetchCatalog();
-        applyTags(fresh.tags);
-        applyCatalog(fresh.items);
-      } catch(e){}
-    }
 
     store.onChange(code => update(code));
     update();
