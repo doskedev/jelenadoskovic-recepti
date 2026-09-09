@@ -306,7 +306,7 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
 .link-btn{border:0;background:transparent;color:var(--ink-3);font-size:11px;letter-spacing:.1em;text-transform:uppercase;cursor:pointer;padding:4px 2px;text-decoration:underline}
 .link-btn:hover{color:var(--accent)}
 
-.auth-dlg{border:1px solid var(--line-brass);padding:26px 26px 22px;background:var(--surface);color:var(--ink);border-radius:10px;max-width:min(420px,calc(100vw - 28px));width:100%;box-shadow:var(--shadow);position:relative}
+.auth-dlg{position:fixed;inset:0;margin:auto;width:100%;max-width:min(420px,calc(100vw - 28px));max-height:calc(100dvh - 32px);overflow:auto;overscroll-behavior:contain;border:1px solid var(--line-brass);padding:26px 26px 22px;background:var(--surface);color:var(--ink);border-radius:10px;box-shadow:var(--shadow)}
 .auth-dlg::backdrop{background:rgba(62,35,40,.5)}
 .auth-dlg h2{font-size:24px;margin:0 0 10px}
 .auth-dlg p{margin:0 0 16px;color:var(--ink-2);font-size:14px}
