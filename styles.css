@@ -281,6 +281,7 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
 .auth-slot{display:flex;justify-content:flex-end}
 .signin-btn{border:1px solid var(--line-brass);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:7px 15px;font-size:11px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;cursor:pointer;min-height:34px}
 .signin-btn:hover{border-color:var(--brass);color:var(--accent)}
+.user-chip.pending{opacity:.6}
 .user-chip{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line-brass);background:var(--surface);border-radius:999px;padding:4px 12px 4px 4px;max-width:100%}
 .avatar{width:28px;height:28px;border-radius:50%;object-fit:cover;display:block;flex:none;border:1px solid var(--line)}
 .avatar-ph{display:grid;place-items:center;background:var(--accent);color:#fff;font-size:13px;font-weight:600;font-family:var(--body)}

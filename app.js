@@ -143,6 +143,7 @@
   const LEGACY_KEY = 'recepti-stanje-v1';
   const SIGNED_FLAG = 'recepti-prijavljen';
   const LAST_UID = 'recepti-zadnji-uid';
+  const USER_CACHE = 'recepti-korisnik';
   const cacheKey = uid => `recepti-kes-${uid}`;
   const migratedKey = uid => `recepti-preneto-${uid}`;
   const isSet = e => !!(e && (e.fav || e.made || e.rating || (e.note && e.note.trim())));
@@ -180,10 +181,23 @@
   }
 
   const auth = {
-    user: null, sdk: null, loading: null, resolved: false, listeners: [],
+    user: null, sdk: null, loading: null, resolved: false, listeners: [], queue: [],
     onChange(fn){ this.listeners.push(fn); },
     emit(){ this.listeners.forEach(fn => fn(this.user)); },
     get signedIn(){ return !!this.user; },
+    get pending(){ return !this.resolved && !!lsGet(SIGNED_FLAG); },
+    later(fn){
+      this.queue.push(fn);
+      this.load().catch(() => {});
+    },
+    flush(){
+      const jobs = this.queue.slice();
+      this.queue.length = 0;
+      if (this.signedIn) jobs.forEach(fn => { try { fn(); } catch(e){} });
+    },
+    cachedProfile(){
+      try { return JSON.parse(lsGet(USER_CACHE) || 'null'); } catch(e){ return null; }
+    },
     async load(){
       if (this.loading) return this.loading;
       this.loading = (async () => {
@@ -201,10 +215,17 @@
         authMod.onAuthStateChanged(fbAuth, u => {
           this.user = u || null;
           this.resolved = true;
-          if (u) { lsSet(SIGNED_FLAG, '1'); lsSet(LAST_UID, u.uid); }
-          else lsDel(SIGNED_FLAG);
+          if (u) {
+            lsSet(SIGNED_FLAG, '1');
+            lsSet(LAST_UID, u.uid);
+            lsSet(USER_CACHE, JSON.stringify({name: u.displayName || '', photo: u.photoURL || ''}));
+          } else {
+            lsDel(SIGNED_FLAG);
+            lsDel(USER_CACHE);
+          }
           this.emit();
           store.onAuth(u);
+          this.flush();
         });
         try { await authMod.getRedirectResult(fbAuth); } catch(e){}
         return this.sdk;
@@ -257,7 +278,11 @@
       } catch(e){ return {}; }
     },
     set(code, patch){
-      if (!auth.signedIn) { requireSignIn(); return false; }
+      if (!auth.signedIn) {
+        if (auth.pending) { auth.later(() => this.set(code, patch)); return false; }
+        requireSignIn();
+        return false;
+      }
       const next = Object.assign(this.get(code), patch, {updatedAt: Date.now()});
       this.entries[code] = next;
       this.writeCache();
@@ -397,6 +422,16 @@
   function renderAuthSlot(){
     const slot = document.getElementById('authSlot');
     if (!slot) return;
+    if (!auth.signedIn && auth.pending) {
+      const c = auth.cachedProfile() || {};
+      const nm = (c.name || 'Nalog').split(' ')[0];
+      const ini = (c.name || 'N').trim().charAt(0).toUpperCase();
+      slot.innerHTML = `<span class="user-chip pending">
+          ${c.photo ? `<img class="avatar" src="${c.photo}" alt="" referrerpolicy="no-referrer">` : `<span class="avatar avatar-ph">${ini}</span>`}
+          <span class="uname">${nm}</span>
+        </span>`;
+      return;
+    }
     if (auth.signedIn) {
       const u = auth.user;
       const name = (u.displayName || 'Nalog').split(' ')[0];
@@ -421,6 +456,14 @@
     renderAuthSlot();
     auth.onChange(() => { renderAuthSlot(); });
     if (lsGet(SIGNED_FLAG)) auth.load().catch(() => {});
+  }
+
+  if (lsGet(SIGNED_FLAG)) {
+    const lastUid = lsGet(LAST_UID);
+    if (lastUid) {
+      store.uid = lastUid;
+      store.entries = store.loadCache(lastUid);
+    }
   }
 
   function mineHtml(){
@@ -496,14 +539,14 @@
       mine.appendChild(lockNote);
     }
     mine.addEventListener('click', ev => {
-      if (auth.signedIn) return;
+      if (auth.signedIn || auth.pending) return;
       ev.preventDefault();
       ev.stopPropagation();
       requireSignIn();
     }, true);
     const sync = () => {
       const e = store.get(code);
-      const locked = !auth.signedIn;
+      const locked = !auth.signedIn && !auth.pending;
       mine.classList.toggle('locked', locked);
       lockNote.hidden = !locked;
       if (noteField) noteField.readOnly = locked;
