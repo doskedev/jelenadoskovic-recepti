@@ -867,6 +867,35 @@
     refreshCatalog();
   }
 
+
+  /* ---------------- merenje klika na dugme za podrsku ---------------- */
+  function initDonateTracking(){
+    const links = document.querySelectorAll('a[href*="paypal.me"]');
+    if (!links.length) return;
+    const article = document.querySelector('.recipe');
+    const slug = article ? (article.dataset.slug || '') : '';
+    links.forEach(a => {
+      a.addEventListener('click', () => {
+        try {
+          if (typeof window.gtag === 'function') {
+            window.gtag('event', 'donate_click', {
+              method: 'paypal',
+              page_type: PAGE === 'recipe' ? 'recept' : 'naslovna',
+              recipe_slug: slug
+            });
+          }
+        } catch(e){}
+        try {
+          if (typeof window.clarity === 'function') {
+            window.clarity('event', 'paypal_click');
+            if (slug) window.clarity('set', 'paypal_recept', slug);
+          }
+        } catch(e){}
+      });
+    });
+  }
+
   if (PAGE === 'recipe') initRecipePage();
   else initIndex();
+  initDonateTracking();
 })();
