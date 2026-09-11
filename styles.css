@@ -276,11 +276,12 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
 @media (max-width:640px){.noscript-list ul{columns:1}}
 
 /* ---------- nalog i prijava ---------- */
-.head-right{display:flex;flex-direction:column;align-items:flex-end;gap:7px}
+.head-right{display:flex;flex-direction:column;align-items:flex-end;gap:9px}
 .head-note{font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);text-align:right;line-height:1.5}
 .auth-slot{display:flex;justify-content:flex-end}
-.signin-btn{border:1px solid var(--line-brass);background:var(--surface);color:var(--ink-2);border-radius:999px;padding:7px 15px;font-size:11px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;cursor:pointer;min-height:34px}
-.signin-btn:hover{border-color:var(--brass);color:var(--accent)}
+.signin-btn{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--accent);background:var(--accent);color:#fff;border-radius:999px;padding:8px 17px;font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;cursor:pointer;min-height:38px}
+.signin-btn:hover{background:var(--accent-ink);border-color:var(--accent-ink)}
+.signin-btn svg{width:15px;height:15px;fill:none;stroke:currentColor;stroke-width:1.9;flex:none}
 .user-chip.pending{opacity:.6}
 .user-chip{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line-brass);background:var(--surface);border-radius:999px;padding:4px 12px 4px 4px;max-width:100%}
 .avatar{width:28px;height:28px;border-radius:50%;object-fit:cover;display:block;flex:none;border:1px solid var(--line)}

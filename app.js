@@ -22,6 +22,7 @@
   const listSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 7h12M8 12h12M8 17h12M4 7h.01M4 12h.01M4 17h.01"/></svg>';
   const filmSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m10 9 5 3-5 3z"/></svg>';
   const photoSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="1.6"/><path d="m5 18 5-4 4 3 3-2 2 2"/></svg>';
+  const userSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.6"/><path d="M4.8 20a7.2 7.2 0 0 1 14.4 0"/></svg>';
   const starPath = 'M12 2.6l2.9 5.9 6.5.9-4.7 4.6 1.1 6.4-5.8-3-5.8 3 1.1-6.4L2.6 9.4l6.5-.9z';
   const starsText = n => '★'.repeat(n) + `<i>${'★'.repeat(5 - n)}</i>`;
   const kindIcon = k => k === 'reel' ? filmSvg : photoSvg;
@@ -447,7 +448,7 @@
       });
       slot.querySelector('[data-signout]').addEventListener('click', () => auth.signOut());
     } else {
-      slot.innerHTML = '<button class="signin-btn" type="button">Prijava</button>';
+      slot.innerHTML = `<button class="signin-btn" type="button">${userSvg}Prijava</button>`;
       slot.querySelector('button').addEventListener('click', requireSignIn);
     }
   }
@@ -858,12 +859,12 @@
       notify(`Obrisano ${removed} zapisa.`);
     });
 
+    initAuth();
+    auth.onChange(() => { syncAccountPanel(); update(); });
+    syncAccountPanel();
     store.onChange(code => update(code));
     update();
     refreshCatalog();
-    auth.onChange(() => { syncAccountPanel(); update(); });
-    initAuth();
-    syncAccountPanel();
   }
 
   if (PAGE === 'recipe') initRecipePage();
