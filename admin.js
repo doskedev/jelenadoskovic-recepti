@@ -2,7 +2,7 @@
   const FB_VERSION = "12.4.0";
   const FIREBASE_CONFIG = {
     apiKey: "AIzaSyBBtAbgKkqX4NK-mD9nK-1IEiKSkNK10TI",
-    authDomain: "jelenadoskovic.com",
+    authDomain: "jelenadoskovic.firebaseapp.com",
     projectId: "jelenadoskovic",
     storageBucket: "jelenadoskovic.firebasestorage.app",
     messagingSenderId: "1094516599117",
