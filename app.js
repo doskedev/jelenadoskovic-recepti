@@ -113,7 +113,7 @@
     if (!BUILT_VERSION) return '';
     try {
       const c = JSON.parse(sessionStorage.getItem(META_CACHE) || 'null');
-      if (c && Date.now() - c.at < 600000) return c.version;
+      if (c && Date.now() - c.at < 60000) return c.version;
     } catch(e){}
     const meta = await fsGet('catalog/meta');
     try { sessionStorage.setItem(META_CACHE, JSON.stringify({version: meta.version, chunks: meta.chunks, at: Date.now()})); } catch(e){}
@@ -862,6 +862,39 @@
     initAuth();
     auth.onChange(() => { syncAccountPanel(); update(); });
     syncAccountPanel();
+    function applyCatalog(items){
+      recipes.length = 0;
+      items.forEach(r => recipes.push(r));
+      countTags();
+      buildNav();
+      buildTiles();
+      featuredRecipe = recipes.find(r => r.featured) || recipes.find(r => r.img) || recipes[0];
+      const sAll = document.getElementById('sAll');
+      if (sAll) sAll.textContent = recipes.length;
+      const hc = document.getElementById('headCount');
+      if (hc) hc.textContent = recipes.length;
+      state.shown = PAGE_SIZE;
+      update();
+    }
+
+    async function refreshCatalog(){
+      try {
+        const version = await catalogVersion();
+        if (!version || version === BUILT_VERSION) return;
+        const cached = cachedCatalog();
+        if (cached && cached.version === version) {
+          applyTags(cached.tags);
+          applyCatalog(cached.items);
+          return;
+        }
+        const fresh = await fetchCatalog();
+        applyTags(fresh.tags);
+        applyCatalog(fresh.items);
+      } catch(e){
+        console.warn('osvezavanje kataloga nije uspelo:', e);
+      }
+    }
+
     store.onChange(code => update(code));
     update();
     refreshCatalog();
