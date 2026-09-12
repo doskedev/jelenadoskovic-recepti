@@ -37,7 +37,7 @@ h1,h2,h3{margin:0;font-weight:600}
 /* zaglavlje */
 .a-head{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);height:var(--head-h);display:flex;align-items:center;gap:18px}
 .a-head-inner{max-width:1320px;margin:0 auto;padding:0 20px;width:100%;display:flex;align-items:center;gap:18px}
-.a-brand{display:flex;align-items:baseline;gap:10px;text-decoration:none;color:inherit;flex:none}
+.a-brand{display:flex;align-items:baseline;gap:10px;text-decoration:none;color:inherit;flex:none;padding:4px 0;min-height:34px}
 .a-brand .script{font-family:var(--script);font-size:26px;line-height:1;color:var(--ink)}
 .a-brand .tag{font-size:10px;letter-spacing:.18em;text-transform:uppercase;color:var(--brass)}
 .a-tabs{display:flex;gap:4px;background:var(--surface-2);border:1px solid var(--line);border-radius:999px;padding:3px}
