@@ -589,20 +589,37 @@
         : `<li><input type="checkbox" id="ing-${idx}"><label for="ing-${idx}">${esc(i.x)}</label></li>`).join('');
     }
   }
+  function showRemoved(article){
+    const body = article.querySelector('.recipe-body');
+    if (!body) return;
+    const hero = article.querySelector('.r-hero');
+    if (hero) hero.remove();
+    body.innerHTML = `<p class="intro">Ovaj recept je uklonjen sa sajta.</p>
+      <a class="ig-link" href="${BASE}">Nazad na sve recepte</a>`;
+  }
+
   async function refreshRecipe(article){
     const slug = article.dataset.slug;
     if (!slug) return;
+    let version;
+    try { version = await catalogVersion(); }
+    catch(e){ console.warn('provera verzije nije uspela:', e); return; }
+    if (!version || version === BUILT_VERSION) return;
+
+    let r = null;
     try {
-      const version = await catalogVersion();
-      if (!version || version === BUILT_VERSION) return;
-      const [r, freshTags] = await Promise.all([
-        fsGet(`recipes/${encodeURIComponent(slug)}`),
-        fetchTags().catch(() => null)
-      ]);
+      r = await fsGet(`recipes/${encodeURIComponent(slug)}`);
+    } catch(e){
+      if (String(e).indexOf('404') !== -1) { showRemoved(article); return; }
+      console.warn('citanje recepta nije uspelo:', e);
+      return;
+    }
+    try {
+      const freshTags = await fetchTags().catch(() => null);
       if (freshTags) applyTags(freshTags);
       if (r && r.title) applyRecipe(article, r);
       if (r && Array.isArray(r.tags)) applyRecipeTags(article, r.tags);
-    } catch(e){}
+    } catch(e){ console.warn('osvezavanje recepta nije uspelo:', e); }
   }
   function applyRecipeTags(article, list){
     const box = article.querySelector('.tag-chips');

@@ -39,7 +39,7 @@ h1,h2,h3,h4{font-family:var(--display);font-weight:400;margin:0}
 .wordmark .sub{display:block;font-size:10px;letter-spacing:.3em;text-transform:uppercase;color:var(--brass-2);margin-top:6px}
 .head-right{justify-self:end;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-3);text-align:right}
 
-.navbar{margin:22px 0 0;background:var(--surface);border:1px solid var(--line-brass);border-radius:6px;display:flex;justify-content:center;gap:2px;padding:6px;overflow-x:auto;scrollbar-width:none}
+.navbar{margin:22px 0 0;background:var(--surface);border:1px solid var(--line-brass);border-radius:6px;display:flex;flex-wrap:wrap;justify-content:center;gap:2px;padding:6px;scrollbar-width:none}
 .navbar::-webkit-scrollbar{display:none}
 .nav-btn{border:0;background:transparent;cursor:pointer;text-decoration:none;padding:9px 15px;border-radius:4px;font-size:11px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-2);white-space:nowrap;display:inline-flex;align-items:baseline;gap:6px}
 .nav-btn i{font-style:normal;font-size:10px;color:var(--ink-3);font-variant-numeric:tabular-nums}
@@ -195,7 +195,7 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
 @media (max-width:640px){
   .wrap{padding:0 14px}
   .site-head{padding-top:16px}
-  .navbar{margin-top:16px;justify-content:flex-start;border-radius:6px}
+  .navbar{margin-top:16px;flex-wrap:nowrap;overflow-x:auto;justify-content:flex-start;border-radius:6px}
   .nav-btn{padding:9px 12px;font-size:10.5px}
   .toolbar{gap:8px;margin-top:12px}
   .search{flex-basis:100%}
