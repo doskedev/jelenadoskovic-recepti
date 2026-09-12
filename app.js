@@ -194,7 +194,9 @@
     flush(){
       const jobs = this.queue.slice();
       this.queue.length = 0;
+      if (!jobs.length) return;
       if (this.signedIn) jobs.forEach(fn => { try { fn(); } catch(e){} });
+      else requireSignIn();
     },
     cachedProfile(){
       try { return JSON.parse(lsGet(USER_CACHE) || 'null'); } catch(e){ return null; }
