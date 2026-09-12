@@ -478,7 +478,7 @@
           <button class="rate-clear" data-rate-clear type="button" hidden>obriši</button>
         </div>
       </div>
-      <textarea class="note-field" data-note placeholder="Kako je ispalo, šta bih drugi put promenio, koliko je peklo i na kojoj temperaturi…" aria-label="Moja beleška o receptu"></textarea>
+      <textarea class="note-field" data-note placeholder="Kako je ispalo i šta bih drugi put promenio…" aria-label="Moja beleška o receptu"></textarea>
     </section>`;
   }
 
