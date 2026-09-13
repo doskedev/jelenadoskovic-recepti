@@ -194,10 +194,54 @@
     $('fSteps').value = r.steps || '';
     $('fImg').value = r.imgUrl || '';
     $('editorSlug').textContent = r.slug;
+    proveriAdresu();
     $('editorLink').href = `${BASE}recept/${r.slug}/`;
     $('editorPost').href = r.url || '#';
     renderTagPicks();
     updatePreview();
+  }
+
+  function proveriAdresu(){
+    const warn = $('slugWarn');
+    if (!warn || !current) return;
+    const zeljeni = slugify($('fTitle').value.trim());
+    warn.hidden = !zeljeni || zeljeni === current.slug;
+  }
+
+  async function uskladiAdresu(){
+    if (!current) return;
+    const naslov = $('fTitle').value.trim();
+    const zeljeni = slugify(naslov);
+    if (!zeljeni || zeljeni === current.slug) return;
+    if (dirty) { status('Prvo sacuvajte izmene.', 'err'); return; }
+    if (!confirm(`Promeniti adresu recepta u "${zeljeni}"? Stara adresa prestaje da radi.`)) return;
+    const stari = current.slug;
+    const ab = $('alignSlugBtn'); if (ab) ab.disabled = true;
+    status('Menjam adresu…');
+    try {
+      const {dbMod, fs} = fb;
+      const doc = Object.assign({}, current, {slug: zeljeni, title: naslov});
+      delete doc.chunk;
+      await dbMod.setDoc(dbMod.doc(fs, 'recipes', zeljeni), Object.assign(doc, {chunk: current.chunk}));
+      await dbMod.deleteDoc(dbMod.doc(fs, 'recipes', stari));
+      const ch = typeof current.chunk === 'number' ? current.chunk : null;
+      if (ch !== null && chunkCache[ch]) {
+        const i = chunkCache[ch].findIndex(x => x.slug === stari);
+        if (i >= 0) { chunkCache[ch][i].slug = zeljeni; await writeChunk(ch); }
+      }
+      await bumpVersion();
+      current.slug = zeljeni;
+      const u = catalog.find(x => x.slug === stari);
+      if (u) u.slug = zeljeni;
+      $('editorSlug').textContent = zeljeni;
+      $('editorLink').href = `${BASE}recept/${zeljeni}/`;
+      proveriAdresu();
+      renderList();
+      status('Adresa promenjena.', 'ok');
+    } catch(err){
+      status('Promena adrese nije uspela: ' + (err && err.code ? err.code : 'greska'), 'err');
+    }
+    if (ab) ab.disabled = false;
   }
 
   function updatePreview(){
@@ -259,6 +303,7 @@
       dirty = false;
       fillTagFilter();
       renderList();
+      proveriAdresu();
       status('Sačuvano.', 'ok');
     } catch(err){
       status('Čuvanje nije uspelo: ' + (err && err.code ? err.code : 'greška'), 'err');
@@ -309,6 +354,7 @@
       $(id).addEventListener('input', () => {
         dirty = true;
         if (id === 'fImg') updatePreview();
+        if (id === 'fTitle') proveriAdresu();
       });
     });
     let t;
@@ -321,6 +367,8 @@
     });
     $('adminTagFilter').addEventListener('change', renderList);
     $('saveBtn').addEventListener('click', saveRecipe);
+    const alignBtn = $('alignSlugBtn');
+    if (alignBtn) alignBtn.addEventListener('click', uskladiAdresu);
     $('deleteBtn').addEventListener('click', deleteRecipe);
   }
 
