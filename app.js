@@ -704,7 +704,7 @@
         const b = document.createElement('button');
         b.className = 'tile';
         b.type = 'button';
-        b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async">` : ''}<span>${esc(t.name)}</span>`;
+        b.innerHTML = `${pick && pick.img ? `<img src="${pick.img}" alt="" loading="lazy" decoding="async" fetchpriority="low">` : ''}<span>${esc(t.name)}</span>`;
         b.addEventListener('click', () => { state.tag = state.tag === t.slug ? '' : t.slug; state.shown = PAGE_SIZE; update(); });
         tilesGrid.appendChild(b);
         tileEls.push({el:b, tag:t.slug});
@@ -736,7 +736,7 @@
           <h3><a class="card-link" href="${recipeHref(r)}">${esc(r.title)}</a></h3>
           <div class="r-foot"><div class="mine-marks">${marksHtml(e)}</div>${actsHtml(e)}</div>
         </div>
-        ${r.img ? `<span class="r-img"><img src="${r.img}" alt="" loading="lazy" decoding="async"></span>` : ''}`;
+        ${r.img ? `<span class="r-img"><img src="${r.img}" alt="" loading="lazy" decoding="async" fetchpriority="low"></span>` : ''}`;
     }
 
     function card(r){
@@ -760,7 +760,7 @@
           ${r.excerpt ? `<p class="excerpt">${esc(r.excerpt)}</p>` : ''}
           <div class="r-foot"><div class="mine-marks">${marksHtml(e)}</div>${actsHtml(e)}</div>
         </div>
-        ${r.img ? `<span class="f-img"><img src="${r.img}" alt=""><span class="f-tag">Najnovije</span></span>` : ''}`;
+        ${r.img ? `<span class="f-img"><img src="${r.img}" alt="" fetchpriority="high" decoding="async"><span class="f-tag">Najnovije</span></span>` : ''}`;
       wireQuickActs(featuredEl, r.code);
     }
 
@@ -790,7 +790,7 @@
       pickList.innerHTML = items.map(r => {
         const e = store.get(r.code);
         return `<a class="side-item" href="${recipeHref(r)}">
-          ${r.img ? `<img src="${r.img}" alt="" loading="lazy" decoding="async">` : '<span class="ph"></span>'}
+          ${r.img ? `<img src="${r.img}" alt="" loading="lazy" decoding="async" fetchpriority="low">` : '<span class="ph"></span>'}
           <span class="side-item-text"><span class="eyebrow">${esc(r.category)}</span><b>${esc(r.title)}</b>${e.rating ? `<span class="stars-static">${starsText(e.rating)}</span>` : ''}</span>
         </a>`;
       }).join('');
