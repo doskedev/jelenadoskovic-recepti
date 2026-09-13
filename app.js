@@ -943,6 +943,15 @@
             if (slug) window.clarity('set', 'paypal_recept', slug);
           }
         } catch(e){}
+        try {
+          if (typeof window.fbq === 'function') {
+            window.fbq('trackCustom', 'DonateClick', {
+              method: 'paypal',
+              page_type: PAGE === 'recipe' ? 'recept' : 'naslovna',
+              recipe_slug: slug
+            });
+          }
+        } catch(e){}
       });
     });
   }
