@@ -312,6 +312,21 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
 
 .auth-dlg{position:fixed;inset:0;margin:auto;width:100%;max-width:min(420px,calc(100vw - 28px));max-height:calc(100dvh - 32px);overflow:auto;overscroll-behavior:contain;border:1px solid var(--line-brass);padding:26px 26px 22px;background:var(--surface);color:var(--ink);border-radius:10px;box-shadow:var(--shadow)}
 .auth-dlg::backdrop{background:rgba(62,35,40,.5)}
+.donate-dlg{max-width:min(440px,calc(100vw - 28px));text-align:center;padding:30px 26px 22px}
+.donate-dlg .d-heart{width:46px;height:46px;margin:0 auto 14px;border-radius:50%;background:var(--accent-soft);display:flex;align-items:center;justify-content:center}
+.donate-dlg .d-heart svg{width:23px;height:23px;fill:var(--accent);stroke:none}
+.donate-dlg h2{font-family:var(--display);font-size:24px;margin:0 0 10px}
+.donate-dlg p{margin:0 0 20px;color:var(--ink-2);font-size:14.5px;line-height:1.55}
+.donate-opts{display:flex;flex-direction:column;gap:10px;margin-bottom:16px}
+.donate-btn{display:flex;align-items:center;justify-content:center;gap:10px;min-height:48px;border-radius:999px;border:1px solid var(--line-brass);background:var(--surface-2);color:var(--ink);text-decoration:none;font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;transition:background .15s,border-color .15s}
+.donate-btn svg{width:19px;height:19px;flex:none}
+.donate-btn.primary{background:var(--accent);border-color:var(--accent);color:#FBF3F0}
+.donate-btn.primary svg{fill:#FBF3F0;stroke:none}
+.donate-btn:not(.primary) svg{fill:none;stroke:var(--brass-2);stroke-width:1.7}
+.donate-btn:hover{border-color:var(--brass)}
+.donate-btn.primary:hover{background:var(--accent-ink)}
+.donate-later{border:0;background:transparent;color:var(--ink-3);font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;cursor:pointer;padding:8px 6px;min-height:34px;text-decoration:underline}
+.donate-later:hover{color:var(--accent)}
 .auth-dlg h2{font-size:23px;margin:0 0 8px}
 .auth-dlg p{margin:0 0 15px;color:var(--ink-2);font-size:14px;line-height:1.5}
 .auth-close{position:absolute;top:10px;right:12px;border:0;background:transparent;font-size:22px;line-height:1;color:var(--ink-3);cursor:pointer;padding:4px 8px}
@@ -336,6 +351,8 @@ details pre{white-space:pre-wrap;font:inherit;color:var(--ink-2);background:var(
   .head-note{display:none}
   .uname{max-width:80px}
   .auth-dlg{padding:20px 17px 17px;max-width:calc(100vw - 24px)}
+  .donate-dlg{padding:24px 18px 18px}
+  .donate-dlg h2{font-size:21px}
   .auth-dlg h2{font-size:21px}
   .auth-dlg p{font-size:13.5px}
 }

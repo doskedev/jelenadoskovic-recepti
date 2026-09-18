@@ -956,7 +956,73 @@
     });
   }
 
+  /* ---------------- poziv na podrsku posle vise pregledanih recepata ---------------- */
+  const PRAG_PODRSKE = 30;
+  const VIDJENI_KLJUC = 'recepti-vidjeni';
+  const PODRSKA_KLJUC = 'recepti-podrska-prikazana';
+  const PAYPAL_URL = 'https://paypal.me/jelenadoskovic';
+  const BMC_URL = 'https://buymeacoffee.com/jelenadoskovic';
+  const kafaSvg = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h13v7a5 5 0 0 1-5 5H9a5 5 0 0 1-5-5z"/><path d="M17 10h1.8a2.7 2.7 0 0 1 0 5.4H17"/><path d="M8 3v2M12 2.5V5"/></svg>';
+
+  function zabeleziPregled(slug){
+    if (!slug) return 0;
+    let spisak = [];
+    try { spisak = JSON.parse(lsGet(VIDJENI_KLJUC) || '[]'); } catch(e){}
+    if (!Array.isArray(spisak)) spisak = [];
+    if (spisak.indexOf(slug) === -1) {
+      spisak.push(slug);
+      if (spisak.length > 400) spisak = spisak.slice(-400);
+      lsSet(VIDJENI_KLJUC, JSON.stringify(spisak));
+    }
+    return spisak.length;
+  }
+
+  function beleziPodrsku(izvor){
+    const podaci = {method: izvor, page_type: 'modal'};
+    try { if (typeof window.gtag === 'function') window.gtag('event', 'donate_click', podaci); } catch(e){}
+    try { if (typeof window.clarity === 'function') window.clarity('event', 'podrska_' + izvor); } catch(e){}
+    try { if (typeof window.fbq === 'function') window.fbq('trackCustom', 'DonateClick', podaci); } catch(e){}
+  }
+
+  function prikaziPodrsku(broj){
+    const dlg = document.createElement('dialog');
+    dlg.className = 'auth-dlg donate-dlg';
+    dlg.tabIndex = -1;
+    dlg.innerHTML = `<button class="auth-close" type="button" aria-label="Zatvori">×</button>
+      <div class="d-heart">${heartSvg}</div>
+      <h2>Hvala što kuvate sa nama</h2>
+      <p>Pregledali ste ${broj} recepata. Ako vam je zbirka korisna, možete je podržati — potpuno je besplatna i ostaje takva.</p>
+      <div class="donate-opts">
+        <a class="donate-btn primary" href="${PAYPAL_URL}" target="_blank" rel="noopener">${heartSvg}Podrži preko PayPala</a>
+        <a class="donate-btn" href="${BMC_URL}" target="_blank" rel="noopener">${kafaSvg}Časti kafom</a>
+      </div>
+      <button class="donate-later" type="button">Možda kasnije</button>`;
+    document.body.appendChild(dlg);
+    const zatvori = () => { lsSet(PODRSKA_KLJUC, String(Date.now())); dlg.close(); };
+    dlg.querySelector('.auth-close').addEventListener('click', zatvori);
+    dlg.querySelector('.donate-later').addEventListener('click', zatvori);
+    dlg.addEventListener('click', ev => { if (ev.target === dlg) zatvori(); });
+    dlg.addEventListener('close', () => lsSet(PODRSKA_KLJUC, String(Date.now())));
+    dlg.querySelectorAll('.donate-btn').forEach(a => {
+      a.addEventListener('click', () => {
+        beleziPodrsku(a.classList.contains('primary') ? 'paypal' : 'buymeacoffee');
+        lsSet(PODRSKA_KLJUC, String(Date.now()));
+      });
+    });
+    dlg.showModal();
+    dlg.focus();
+  }
+
+  function initPodrska(){
+    if (PAGE !== 'recipe') return;
+    const article = document.querySelector('.recipe');
+    const broj = zabeleziPregled(article ? article.dataset.slug : '');
+    if (broj < PRAG_PODRSKE || lsGet(PODRSKA_KLJUC)) return;
+    setTimeout(() => prikaziPodrsku(broj), 2500);
+  }
+
   if (PAGE === 'recipe') initRecipePage();
   else initIndex();
   initDonateTracking();
+  initPodrska();
 })();
