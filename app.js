@@ -1007,6 +1007,7 @@
       a.addEventListener('click', () => {
         beleziPodrsku(a.classList.contains('primary') ? 'paypal' : 'buymeacoffee');
         lsSet(PODRSKA_KLJUC, String(Date.now()));
+        setTimeout(() => { if (dlg.open) dlg.close(); }, 250);
       });
     });
     dlg.showModal();
