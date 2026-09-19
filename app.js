@@ -10,6 +10,15 @@
   const PAGE_SIZE = 24;
 
   const fold = s => (s||'').toLowerCase().replace(/č|ć/g,'c').replace(/š/g,'s').replace(/ž/g,'z').replace(/đ/g,'dj').normalize('NFD').replace(/[̀-ͯ]/g,'');
+  const SUFIKSI = ['ovima','evima','ama','ima','ome','oga','ega','ih','im','om','em','am','um','ov','ev','a','e','i','o','u'];
+  const koren = rec => {
+    if (rec.length < 4) return rec;
+    for (const suf of SUFIKSI) {
+      if (rec.endsWith(suf) && rec.length - suf.length >= 3) return rec.slice(0, -suf.length);
+    }
+    return rec;
+  };
+  const korenovano = t => (fold(t).match(/[a-z0-9]+/g) || []).map(koren);
   const esc = s => (s||'').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
   const fmtDate = d => { const p = (d||'').split('-'); return p.length === 3 ? `${+p[2]}. ${+p[1]}. ${p[0]}.` : ''; };
   const byCode = {};
@@ -714,7 +723,7 @@
     buildTiles();
 
     function filtered(){
-      const terms = fold(state.q.trim()) ? fold(state.q.trim()).split(/\s+/) : [];
+      const terms = korenovano(state.q.trim());
       const list = recipes.filter(r => {
         const e = store.entries[r.code];
         if (state.tag && !(r.tags || []).includes(state.tag)) return false;
