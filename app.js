@@ -316,8 +316,25 @@
       try {
         dbMod.setDoc(dbMod.doc(fs, 'users', this.uid, 'marks', code), {
           code, fav: entry.fav, made: entry.made, rating: entry.rating,
-          note: entry.note, updatedAt: entry.updatedAt
+          updatedAt: entry.updatedAt
         }).catch(() => {});
+      } catch(e){}
+      const beleska = (entry.note || '').trim();
+      try {
+        const putanja = dbMod.doc(fs, 'users', this.uid, 'notes', code);
+        if (beleska) dbMod.setDoc(putanja, {code, note: entry.note, updatedAt: entry.updatedAt}).catch(() => {});
+        else dbMod.deleteDoc(putanja).catch(() => {});
+      } catch(e){}
+    },
+    upisiProfil(user){
+      if (!auth.sdk || !user) return;
+      const {dbMod, fs} = auth.sdk;
+      const sada = Date.now();
+      const napravljen = Number(user.metadata && user.metadata.createdAt) || sada;
+      try {
+        dbMod.setDoc(dbMod.doc(fs, 'users', user.uid),
+          {uid: user.uid, name: user.displayName || '', createdAt: napravljen, lastSeenAt: sada},
+          {merge: true}).catch(() => {});
       } catch(e){}
     },
     async onAuth(user){
@@ -333,9 +350,16 @@
       this.emit();
       const {dbMod, fs} = auth.sdk;
       const marks = dbMod.collection(fs, 'users', user.uid, 'marks');
+      const beleske = dbMod.collection(fs, 'users', user.uid, 'notes');
+      this.upisiProfil(user);
       try {
-        const snap = await dbMod.getDocs(marks);
-        snap.forEach(d => this.merge(d.id, d.data() || {}));
+        const [snap, snapB] = await Promise.all([dbMod.getDocs(marks), dbMod.getDocs(beleske).catch(() => null)]);
+        const noteMap = {};
+        if (snapB) snapB.forEach(d => { noteMap[d.id] = (d.data() || {}).note || ''; });
+        snap.forEach(d => this.merge(d.id, Object.assign({}, d.data() || {}, {note: noteMap[d.id] || ''})));
+        Object.keys(noteMap).forEach(code => {
+          if (!this.entries[code] && noteMap[code]) this.merge(code, {code, note: noteMap[code], updatedAt: Date.now()});
+        });
         await this.migrateLegacy(user.uid, new Set(snap.docs.map(d => d.id)));
         this.writeCache();
         this.emit();
@@ -343,7 +367,10 @@
       try {
         this.unsub = dbMod.onSnapshot(marks, snap => {
           let dirty = false;
-          snap.forEach(d => { if (this.merge(d.id, d.data() || {})) dirty = true; });
+          snap.forEach(d => {
+            const postojeca = (this.entries[d.id] || {}).note || '';
+            if (this.merge(d.id, Object.assign({}, d.data() || {}, {note: postojeca}))) dirty = true;
+          });
           if (dirty) { this.writeCache(); this.emit(); }
         }, () => {});
       } catch(e){}
@@ -371,6 +398,7 @@
       const codes = Object.keys(this.entries);
       for (const code of codes) {
         try { await dbMod.deleteDoc(dbMod.doc(fs, 'users', this.uid, 'marks', code)); } catch(e){}
+        try { await dbMod.deleteDoc(dbMod.doc(fs, 'users', this.uid, 'notes', code)); } catch(e){}
       }
       this.entries = {};
       this.writeCache();

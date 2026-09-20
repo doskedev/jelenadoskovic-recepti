@@ -42,14 +42,25 @@ service cloud.firestore {
       allow write: if isAdmin();
     }
 
-    match /users/{uid}/marks/{code} {
-      allow read: if request.auth != null && request.auth.uid == uid;
-
-      allow delete: if request.auth != null && request.auth.uid == uid;
-
+    match /users/{uid} {
+      allow read: if isAdmin() || (request.auth != null && request.auth.uid == uid);
       allow create, update: if request.auth != null
         && request.auth.uid == uid
-        && request.resource.data.keys().hasOnly(['code', 'fav', 'made', 'rating', 'note', 'updatedAt'])
+        && request.resource.data.keys().hasOnly(['uid', 'name', 'createdAt', 'lastSeenAt'])
+        && request.resource.data.uid == uid
+        && request.resource.data.name is string
+        && request.resource.data.name.size() <= 120
+        && request.resource.data.createdAt is number
+        && request.resource.data.lastSeenAt is number;
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
+
+    match /users/{uid}/marks/{code} {
+      allow read: if isAdmin() || (request.auth != null && request.auth.uid == uid);
+      allow delete: if request.auth != null && request.auth.uid == uid;
+      allow create, update: if request.auth != null
+        && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['code', 'fav', 'made', 'rating', 'updatedAt'])
         && request.resource.data.code == code
         && code.size() <= 40
         && request.resource.data.fav is bool
@@ -57,6 +68,20 @@ service cloud.firestore {
         && request.resource.data.rating is number
         && request.resource.data.rating >= 0
         && request.resource.data.rating <= 5
+        && request.resource.data.updatedAt is number;
+    }
+
+    match /{putanja=**}/marks/{code} {
+      allow read: if isAdmin();
+    }
+
+    match /users/{uid}/notes/{code} {
+      allow read, delete: if request.auth != null && request.auth.uid == uid;
+      allow create, update: if request.auth != null
+        && request.auth.uid == uid
+        && request.resource.data.keys().hasOnly(['code', 'note', 'updatedAt'])
+        && request.resource.data.code == code
+        && code.size() <= 40
         && request.resource.data.note is string
         && request.resource.data.note.size() <= 4000
         && request.resource.data.updatedAt is number;

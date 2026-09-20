@@ -466,7 +466,10 @@
   /* ================= prijava ================= */
   async function start(){
     status('Učitavam…');
-    if (PAGE === 'tags') {
+    if (PAGE === 'stats') {
+      await Promise.all([loadTags(), loadCatalog()]);
+      await ucitajStatistiku();
+    } else if (PAGE === 'tags') {
       await loadTags();
       renderTagsView();
     } else {
@@ -475,7 +478,7 @@
       renderList();
       renderEditor();
     }
-    status('');
+    if (PAGE !== 'stats') status('');
     $('gate').hidden = true;
     $('adminApp').hidden = false;
     $('tabs').hidden = false;
@@ -488,6 +491,122 @@
     $('gate').hidden = false;
     $('tabs').hidden = true;
     $('gateMsg').textContent = message || '';
+  }
+
+  /* ---------------- statistika ---------------- */
+  function brojUzImenicu(n, jedan, dva, mnogo){
+    const d = n % 10, dd = n % 100;
+    if (d === 1 && dd !== 11) return n + ' ' + jedan;
+    if (d >= 2 && d <= 4 && (dd < 12 || dd > 14)) return n + ' ' + dva;
+    return n + ' ' + mnogo;
+  }
+  function kpi(vrednost, opis){
+    return `<div class="s-card"><strong>${vrednost}</strong><span>${opis}</span></div>`;
+  }
+  function redSpiska(naziv, vrednost, udeo){
+    return `<div class="s-row"><span class="s-name">${naziv}</span>
+      <span class="s-bar"><i style="width:${Math.max(2, Math.round(udeo * 100))}%"></i></span>
+      <span class="s-val">${vrednost}</span></div>`;
+  }
+  function datumVreme(ms){
+    const d = new Date(Number(ms) || 0);
+    return isNaN(d.getTime()) || !ms ? '—'
+      : `${d.getDate()}. ${d.getMonth() + 1}. ${d.getFullYear()}.`;
+  }
+
+  async function ucitajStatistiku(){
+    const {dbMod, fs} = fb;
+    status('Učitavam…');
+    const naslovi = {};
+    catalog.forEach(r => { naslovi[r.code] = r.title; });
+
+    let oznake = [], korisnici = [];
+    try {
+      const snap = await dbMod.getDocs(dbMod.collectionGroup(fs, 'marks'));
+      snap.forEach(d => oznake.push(d.data() || {}));
+    } catch(err){ status('Oznake nisu dostupne: ' + (err && err.code ? err.code : 'greška'), 'err'); }
+    try {
+      const snap = await dbMod.getDocs(dbMod.collection(fs, 'users'));
+      snap.forEach(d => korisnici.push(d.data() || {}));
+    } catch(err){ status('Korisnici nisu dostupni: ' + (err && err.code ? err.code : 'greška'), 'err'); }
+
+    const sada = Date.now();
+    const dan = 86400000;
+    const noviSedam = korisnici.filter(k => sada - Number(k.createdAt || 0) < 7 * dan).length;
+    const aktivniSedam = korisnici.filter(k => sada - Number(k.lastSeenAt || 0) < 7 * dan).length;
+    const sacuvani = oznake.filter(o => o.fav).length;
+    const napravljeni = oznake.filter(o => o.made).length;
+    const ocene = oznake.filter(o => Number(o.rating) > 0);
+    const prosek = ocene.length ? (ocene.reduce((z, o) => z + Number(o.rating), 0) / ocene.length) : 0;
+
+    $('kpi').innerHTML = [
+      kpi(korisnici.length, 'registrovanih korisnika'),
+      kpi(noviSedam, 'novih u 7 dana'),
+      kpi(aktivniSedam, 'aktivnih u 7 dana'),
+      kpi(catalog.length, 'recepata na sajtu'),
+      kpi(sacuvani, 'sačuvanih recepata'),
+      kpi(napravljeni, 'označenih kao napravljeno'),
+      kpi(ocene.length ? prosek.toFixed(1) : '—', 'prosečna ocena'),
+    ].join('');
+
+    const skupi = (uslov, kljuc) => {
+      const broj = {};
+      oznake.filter(uslov).forEach(o => { broj[o.code] = (broj[o.code] || 0) + (kljuc ? Number(o.rating) : 1); });
+      return Object.entries(broj).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    };
+    const nacrtaj = (el, stavke, prazno, formatiraj) => {
+      if (!stavke.length) { $(el).innerHTML = `<p class="s-empty">${prazno}</p>`; return; }
+      const max = stavke[0][1] || 1;
+      $(el).innerHTML = stavke.map(([k, v]) =>
+        redSpiska(naslovi[k] || k, formatiraj ? formatiraj(v) : v, v / max)).join('');
+    };
+    nacrtaj('topFav', skupi(o => o.fav), 'Još niko nije sačuvao nijedan recept.');
+    nacrtaj('topMade', skupi(o => o.made), 'Još niko nije označio da je nešto napravio.');
+
+    const poReceptu = {};
+    ocene.forEach(o => {
+      poReceptu[o.code] = poReceptu[o.code] || {zbir: 0, broj: 0};
+      poReceptu[o.code].zbir += Number(o.rating);
+      poReceptu[o.code].broj += 1;
+    });
+    const rangirani = Object.entries(poReceptu)
+      .map(([k, v]) => [k, v.zbir / v.broj, v.broj])
+      .sort((a, b) => b[1] - a[1] || b[2] - a[2]).slice(0, 8);
+    if (!rangirani.length) $('topRated').innerHTML = '<p class="s-empty">Još nema nijedne ocene.</p>';
+    else $('topRated').innerHTML = rangirani.map(([k, p, n]) =>
+      redSpiska(naslovi[k] || k, p.toFixed(1) + ' (' + n + ')', p / 5)).join('');
+
+    const poTagu = {};
+    catalog.forEach(r => (r.tags || []).forEach(t => { poTagu[t] = (poTagu[t] || 0) + 1; }));
+    const imeTaga = {};
+    tags.forEach(t => { imeTaga[t.slug] = t.name; });
+    nacrtaj('poTagu', Object.entries(poTagu).sort((a, b) => b[1] - a[1])
+      .map(([k, v]) => [k, v]), 'Nema tagova.');
+    $('poTagu').innerHTML = Object.entries(poTagu).sort((a, b) => b[1] - a[1])
+      .map(([k, v]) => redSpiska(imeTaga[k] || k, v, v / catalog.length)).join('');
+
+    const poGodini = {};
+    catalog.forEach(r => { const g = (r.date || '').slice(0, 4); if (g) poGodini[g] = (poGodini[g] || 0) + 1; });
+    const godine = Object.entries(poGodini).sort((a, b) => b[0].localeCompare(a[0]));
+    const maxG = Math.max(...godine.map(g => g[1]), 1);
+    $('poGodini').innerHTML = godine.map(([g, n]) => redSpiska(g, n, n / maxG)).join('');
+
+    const bezSlike = catalog.filter(r => !r.img).length;
+    const bezSastojaka = catalog.filter(r => !r.n).length;
+    const jedanTag = catalog.filter(r => (r.tags || []).length <= 1).length;
+    $('problemi').innerHTML = [
+      redSpiska('Bez slike', bezSlike, bezSlike / catalog.length),
+      redSpiska('Bez sastojaka', bezSastojaka, bezSastojaka / catalog.length),
+      redSpiska('Samo jedan tag', jedanTag, jedanTag / catalog.length),
+    ].join('');
+
+    const poslednji = korisnici.slice().sort((a, b) => Number(b.lastSeenAt || 0) - Number(a.lastSeenAt || 0)).slice(0, 12);
+    $('korisnici').innerHTML = poslednji.length
+      ? poslednji.map(k => `<div class="s-row"><span class="s-name">${k.name || 'Bez imena'}</span>
+          <span class="s-val">${datumVreme(k.lastSeenAt)}</span></div>`).join('')
+      : '<p class="s-empty">Još nema zabeleženih prijava.</p>';
+
+    status(brojUzImenicu(oznake.length, 'oznaka', 'oznake', 'oznaka') + ' ukupno.', 'ok');
   }
 
   async function init(){
@@ -507,7 +626,8 @@
       $('signInBtn').disabled = false;
     });
     $('signOutBtn').addEventListener('click', async () => { if (fb) await fb.authMod.signOut(fb.auth); });
-    if (PAGE === 'tags') initTagsPage(); else initRecipesPage();
+    if (PAGE === 'tags') initTagsPage();
+    else if (PAGE !== 'stats') initRecipesPage();
     window.addEventListener('beforeunload', ev => { if (dirty) { ev.preventDefault(); ev.returnValue = ''; } });
 
     const {authMod, auth} = await loadSdk();
