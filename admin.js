@@ -539,6 +539,7 @@
     const sacuvani = oznake.filter(o => o.fav).length;
     const napravljeni = oznake.filter(o => o.made).length;
     const ocene = oznake.filter(o => Number(o.rating) > 0);
+    const saBeleskom = oznake.filter(o => o.hasNote).length;
     const prosek = ocene.length ? (ocene.reduce((z, o) => z + Number(o.rating), 0) / ocene.length) : 0;
 
     $('kpi').innerHTML = [
@@ -549,6 +550,7 @@
       kpi(sacuvani, 'sačuvanih recepata'),
       kpi(napravljeni, 'označenih kao napravljeno'),
       kpi(ocene.length ? prosek.toFixed(1) : '—', 'prosečna ocena'),
+      kpi(saBeleskom, 'recepata sa beleškom'),
     ].join('');
 
     const skupi = (uslov, kljuc) => {

@@ -332,7 +332,7 @@
       try {
         dbMod.setDoc(dbMod.doc(fs, 'users', this.uid, 'marks', code), {
           code, fav: entry.fav, made: entry.made, rating: entry.rating,
-          updatedAt: entry.updatedAt
+          hasNote: !!(entry.note || '').trim(), updatedAt: entry.updatedAt
         }).catch(() => {});
       } catch(e){}
       const beleska = (entry.note || '').trim();
