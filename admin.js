@@ -48,6 +48,8 @@
     const auth = authMod.getAuth(app);
     try { await authMod.setPersistence(auth, authMod.browserLocalPersistence); } catch(e){}
     fb = {authMod, dbMod, auth, fs: dbMod.getFirestore(app)};
+    try { await authMod.getRedirectResult(auth); }
+    catch(err){ $('gateMsg').textContent = 'Prijava nije uspela: ' + ((err && err.code) || 'greška'); }
     return fb;
   }
 
@@ -612,11 +614,20 @@
   async function init(){
     $('signInBtn').addEventListener('click', async () => {
       $('signInBtn').disabled = true;
+      $('gateMsg').textContent = '';
       try {
         const {authMod, auth} = await loadSdk();
         const provider = new authMod.GoogleAuthProvider();
         provider.setCustomParameters({prompt: 'select_account'});
-        await authMod.signInWithPopup(auth, provider);
+        try {
+          await authMod.signInWithPopup(auth, provider);
+        } catch(err){
+          const code = err && err.code;
+          if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') throw err;
+          $('gateMsg').textContent = 'Iskačući prozor nije uspeo, pokušavam preusmerenjem…';
+          await authMod.signInWithRedirect(auth, provider);
+          return;
+        }
       } catch(err){
         const code = err && err.code;
         if (code !== 'auth/popup-closed-by-user' && code !== 'auth/cancelled-popup-request') {
@@ -636,7 +647,7 @@
       if (!user) {
         $('whoami').textContent = '';
         $('signOutBtn').hidden = true;
-        showGate('');
+        showGate($('gateMsg') ? $('gateMsg').textContent : '');
         return;
       }
       $('whoami').textContent = user.email || '';
