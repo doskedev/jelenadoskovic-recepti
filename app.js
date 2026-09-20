@@ -239,7 +239,10 @@
           store.onAuth(u);
           this.flush();
         });
-        try { await authMod.getRedirectResult(fbAuth); } catch(e){}
+        try {
+          const povratak = await authMod.getRedirectResult(fbAuth);
+          if (povratak && povratak.user) zabeleziPrijavu('login_success', {nacin: 'redirect'});
+        } catch(e){ zabeleziPrijavu('login_failed', {razlog: (e && e.code) || 'redirect-povratak'}); }
         return this.sdk;
       })();
       return this.loading;
@@ -251,19 +254,29 @@
       const {authMod, auth: a} = sdk;
       const provider = new authMod.GoogleAuthProvider();
       provider.setCustomParameters({prompt: 'select_account'});
+      zabeleziPrijavu('login_attempt');
       try {
         await authMod.signInWithPopup(a, provider);
+        zabeleziPrijavu('login_success', {nacin: 'popup'});
         return {ok:true};
       } catch(err){
         const code = err && err.code;
         if (code === 'auth/popup-blocked' || code === 'auth/operation-not-supported-in-this-environment') {
           if (FIREBASE_CONFIG.authDomain !== location.hostname) {
+            zabeleziPrijavu('login_failed', {razlog: 'pregledac-u-aplikaciji'});
             return {ok:false, error:'Prijava ne radi unutar Instagrama, Facebooka ili WhatsAppa. Otvorite jelenadoskovic.com u Safariju ili Chromeu pa se prijavite.'};
           }
           try { await authMod.signInWithRedirect(a, provider); return {ok:true}; }
-          catch(e2){ return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'}; }
+          catch(e2){
+            zabeleziPrijavu('login_failed', {razlog: (e2 && e2.code) || 'redirect'});
+            return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'};
+          }
         }
-        if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') return {ok:false};
+        if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') {
+          zabeleziPrijavu('login_failed', {razlog: 'odustao'});
+          return {ok:false};
+        }
+        zabeleziPrijavu('login_failed', {razlog: code || 'nepoznato'});
         if (code === 'auth/unauthorized-domain') return {ok:false, error:'Ovaj domen nije dozvoljen u Firebase podešavanjima.'};
         return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'};
       }
@@ -883,6 +896,7 @@
       if (state.favOnly) parts.push('sačuvani');
       if (state.madeOnly) parts.push('napravljeni');
       resultText.textContent = parts.length ? `${current.length} od ${recipes.length} · ${parts.join(' · ')}` : `${recipes.length} recepata`;
+      if (state.q.trim()) zabeleziPretragu(state.q, current.length);
       hint.textContent = current.length > state.shown ? `prikazano ${slice.length}` : '';
       document.getElementById('clearQ').hidden = !state.q;
       renderPicks();
@@ -959,6 +973,34 @@
     refreshCatalog();
   }
 
+
+  /* ---------------- merenje pretrage i prijave ---------------- */
+  const U_APLIKACIJI = /Instagram|FBAN|FBAV|FB_IAB|WhatsApp|Line\/|TikTok|Viber/i.test(navigator.userAgent);
+  function posalji(ime, podaci){
+    try { if (typeof window.gtag === 'function') window.gtag('event', ime, podaci || {}); } catch(e){}
+  }
+
+  let poslednjaPretraga = '';
+  let tajmerPretrage = null;
+  function zabeleziPretragu(pojam, brojRezultata){
+    const tekst = (pojam || '').trim();
+    clearTimeout(tajmerPretrage);
+    if (tekst.length < 2 || tekst === poslednjaPretraga) return;
+    tajmerPretrage = setTimeout(() => {
+      poslednjaPretraga = tekst;
+      posalji('view_search_results', {search_term: tekst, broj_rezultata: brojRezultata});
+      if (brojRezultata === 0) posalji('pretraga_bez_rezultata', {search_term: tekst});
+      try { if (typeof window.clarity === 'function') window.clarity('set', 'pretraga', tekst); } catch(e){}
+    }, 900);
+  }
+
+  function zabeleziPrijavu(dogadjaj, dodatno){
+    posalji(dogadjaj, Object.assign({
+      mesto: PAGE === 'recipe' ? 'recept' : 'naslovna',
+      u_aplikaciji: U_APLIKACIJI ? 'da' : 'ne'
+    }, dodatno || {}));
+    try { if (typeof window.clarity === 'function') window.clarity('event', dogadjaj); } catch(e){}
+  }
 
   /* ---------------- merenje klika na dugme za podrsku ---------------- */
   function initDonateTracking(){
