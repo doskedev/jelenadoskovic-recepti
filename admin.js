@@ -624,6 +624,10 @@
         } catch(err){
           const code = err && err.code;
           if (code === 'auth/popup-closed-by-user' || code === 'auth/cancelled-popup-request') throw err;
+          if (FIREBASE_CONFIG.authDomain !== location.hostname) {
+            $('gateMsg').textContent = 'Prijava ne radi unutar Instagrama, Facebooka ili WhatsAppa. Otvorite jelenadoskovic.com u Safariju ili Chromeu pa se prijavite.';
+            return;
+          }
           $('gateMsg').textContent = 'Iskačući prozor nije uspeo, pokušavam preusmerenjem…';
           await authMod.signInWithRedirect(auth, provider);
           return;

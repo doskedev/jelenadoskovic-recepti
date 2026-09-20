@@ -257,6 +257,9 @@
       } catch(err){
         const code = err && err.code;
         if (code === 'auth/popup-blocked' || code === 'auth/operation-not-supported-in-this-environment') {
+          if (FIREBASE_CONFIG.authDomain !== location.hostname) {
+            return {ok:false, error:'Prijava ne radi unutar Instagrama, Facebooka ili WhatsAppa. Otvorite jelenadoskovic.com u Safariju ili Chromeu pa se prijavite.'};
+          }
           try { await authMod.signInWithRedirect(a, provider); return {ok:true}; }
           catch(e2){ return {ok:false, error:'Prijava nije uspela. Pokušajte ponovo.'}; }
         }
