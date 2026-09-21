@@ -1004,16 +1004,17 @@
 
   /* ---------------- merenje klika na dugme za podrsku ---------------- */
   function initDonateTracking(){
-    const links = document.querySelectorAll('a[href*="paypal.me"]');
+    const links = document.querySelectorAll('a[href*="paypal.me"], a[href*="buymeacoffee.com"]');
     if (!links.length) return;
     const article = document.querySelector('.recipe');
     const slug = article ? (article.dataset.slug || '') : '';
     links.forEach(a => {
       a.addEventListener('click', () => {
+        const nacin = /buymeacoffee/.test(a.href) ? 'buymeacoffee' : 'paypal';
         try {
           if (typeof window.gtag === 'function') {
             window.gtag('event', 'donate_click', {
-              method: 'paypal',
+              method: nacin,
               page_type: PAGE === 'recipe' ? 'recept' : 'naslovna',
               recipe_slug: slug
             });
@@ -1021,14 +1022,14 @@
         } catch(e){}
         try {
           if (typeof window.clarity === 'function') {
-            window.clarity('event', 'paypal_click');
-            if (slug) window.clarity('set', 'paypal_recept', slug);
+            window.clarity('event', 'podrska_' + nacin);
+            if (slug) window.clarity('set', 'podrska_recept', slug);
           }
         } catch(e){}
         try {
           if (typeof window.fbq === 'function') {
             window.fbq('trackCustom', 'DonateClick', {
-              method: 'paypal',
+              method: nacin,
               page_type: PAGE === 'recipe' ? 'recept' : 'naslovna',
               recipe_slug: slug
             });
