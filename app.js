@@ -1039,7 +1039,7 @@
   }
 
   /* ---------------- poziv na podrsku posle vise pregledanih recepata ---------------- */
-  const PRAG_PODRSKE = 30;
+  const PRAG_PODRSKE = 10;
   const VIDJENI_KLJUC = 'recepti-vidjeni';
   const PODRSKA_KLJUC = 'recepti-podrska-prikazana';
   const PAYPAL_URL = 'https://paypal.me/jelenadoskovic';
