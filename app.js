@@ -1077,7 +1077,7 @@
       <p>Pregledali ste ${broj} recepata. Ako vam je zbirka korisna, možete je podržati — potpuno je besplatna i ostaje takva.</p>
       <div class="donate-opts">
         <a class="donate-btn primary" href="${PAYPAL_URL}" target="_blank" rel="noopener">${heartSvg}Podrži preko PayPala</a>
-        <a class="donate-btn" href="${BMC_URL}" target="_blank" rel="noopener">${kafaSvg}Časti kafom</a>
+        <a class="donate-btn" href="${BMC_URL}" target="_blank" rel="noopener">${kafaSvg}Buy me a coffee</a>
       </div>
       <button class="donate-later" type="button">Možda kasnije</button>`;
     document.body.appendChild(dlg);
